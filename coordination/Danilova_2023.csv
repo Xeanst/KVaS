@@ -1,0 +1,287 @@
+experiment,sentence,response,response_round,subtype,type,lexicalization,sentence_id,conjuncts,agreement,conjunction,case
+Danilova_2023,Врач будет использовать стерильный и нестерильный бинт.,3.764705882352941,4.0,coordination,stimul,2,9,adjective_adjective,sg,and,accusative
+Danilova_2023,Физик будет изучать цифровой или аналоговый сигналы.,4.230769230769231,4.0,coordination,stimul,1,8,adjective_adjective,pl,or,accusative
+Danilova_2023,Отец одолжит шёлковый и бамбуковый халат.,3.3846153846153846,3.0,coordination,stimul,19,26,adjective_adjective,sg,and,accusative
+Danilova_2023,Профессор и аспирантка будут исследовать тектонические плиты.,6.285714285714286,6.0,good,filler,37,44,,,,
+Danilova_2023,Режиссёр снимет документальный или художественный фильм.,6.25,6.0,coordination,stimul,15,22,adjective_adjective,sg,or,accusative
+Danilova_2023,Парикмахер будет использовать дорогой или дешевый шампунь.,5.0,5.0,coordination,stimul,26,33,adjective_adjective,sg,or,accusative
+Danilova_2023,Электрик починит квартирный и этажный щиток.,5.6923076923076925,6.0,coordination,stimul,31,38,adjective_adjective,sg,and,accusative
+Danilova_2023,Инженер будет руководить вагоноремонтным и вагоностроительным заводом.,4.733333333333333,5.0,coordination,stimul,14,21,adjective_adjective,sg,and,instrumental
+Danilova_2023,Политолог будет заниматься европейским или азиатским регионом.,5.307692307692308,5.0,coordination,stimul,4,11,adjective_adjective,sg,or,instrumental
+Danilova_2023,Директор будет пользоваться личным и служебным автомобилями.,5.642857142857143,6.0,coordination,stimul,25,32,adjective_adjective,pl,and,instrumental
+Danilova_2023,Покупатель обзаведется деловым или спортивным костюмом.,5.833333333333333,6.0,coordination,stimul,8,15,adjective_adjective,sg,or,instrumental
+Danilova_2023,Мама и папа купил зимнюю куртку.,1.7642276422764227,2.0,bad,filler,33,40,,,,
+Danilova_2023,Отец одолжит шёлковый или бамбуковый халаты.,2.8666666666666667,3.0,coordination,stimul,19,26,adjective_adjective,pl,or,accusative
+Danilova_2023,Физик будет изучать цифровой и аналоговый сигналы.,6.076923076923077,6.0,coordination,stimul,1,8,adjective_adjective,pl,and,accusative
+Danilova_2023,Бизнесмен приобретёт городской и загородный дома.,4.583333333333333,5.0,coordination,stimul,9,16,adjective_adjective,pl,and,accusative
+Danilova_2023,Профессор обзаведётся черным или серым пиджаком.,5.857142857142857,6.0,coordination,stimul,3,10,adjective_adjective,sg,or,instrumental
+Danilova_2023,Руководитель распределит месячный и квартальный бюджет.,5.388888888888889,5.0,coordination,stimul,32,39,adjective_adjective,sg,and,accusative
+Danilova_2023,Сосед одолжит столярный и слесарный молоток.,4.666666666666667,5.0,coordination,stimul,17,24,adjective_adjective,sg,and,accusative
+Danilova_2023,Друг получит добрую и понимающую свекровей.,1.4796747967479675,1.0,bad,filler,60,67,,,,
+Danilova_2023,Хирург выпишут направления на анализы и операцию.,1.8387096774193548,2.0,bad,filler,38,45,,,,
+Danilova_2023,Плотник займётся обеденным или компьютерным столами.,4.230769230769231,4.0,coordination,stimul,13,20,adjective_adjective,pl,or,instrumental
+Danilova_2023,Знакомый купит одноэтажный и двухэтажный дома.,5.4,5.0,coordination,stimul,24,31,adjective_adjective,pl,and,accusative
+Danilova_2023,Политолог будет изучать европейский или азиатский регионы.,3.8,4.0,coordination,stimul,4,11,adjective_adjective,pl,or,accusative
+Danilova_2023,Инженер возглавит вагоноремонтный или вагоностроительный заводы.,4.277777777777778,4.0,coordination,stimul,14,21,adjective_adjective,pl,or,accusative
+Danilova_2023,Коллега возглавит бухгалтерский и финансовый отдел.,3.692307692307693,4.0,coordination,stimul,11,18,adjective_adjective,sg,and,accusative
+Danilova_2023,Чиновник будет пользоваться служебным или личным автомобилем.,5.722222222222222,6.0,coordination,stimul,5,12,adjective_adjective,sg,or,instrumental
+Danilova_2023,Чиновник будет пользоваться служебным и личным автомобилями.,5.470588235294118,5.0,coordination,stimul,5,12,adjective_adjective,pl,and,instrumental
+Danilova_2023,Профессор обзаведётся черным и серым пиджаками.,6.0588235294117645,6.0,coordination,stimul,3,10,adjective_adjective,pl,and,instrumental
+Danilova_2023,Коллега будет руководить бухгалтерским или финансовым отделами.,4.941176470588236,5.0,coordination,stimul,11,18,adjective_adjective,pl,or,instrumental
+Danilova_2023,Друг поделится ванильным и шоколадным тортом.,4.235294117647059,4.0,coordination,stimul,29,36,adjective_adjective,sg,and,instrumental
+Danilova_2023,Практикант будет заниматься вчерашним или сегодняшним договорами.,4.0,4.0,coordination,stimul,22,29,adjective_adjective,pl,or,instrumental
+Danilova_2023,Искусствовед будет заниматься католическим или протестантским храмом.,5.166666666666667,5.0,coordination,stimul,16,23,adjective_adjective,sg,or,instrumental
+Danilova_2023,Чиновник будет использовать служебный и личный автомобили.,5.923076923076923,6.0,coordination,stimul,5,12,adjective_adjective,pl,and,accusative
+Danilova_2023,Историк будет заниматься языческим или христианским обрядом.,4.823529411764706,5.0,coordination,stimul,7,14,adjective_adjective,sg,or,instrumental
+Danilova_2023,Завхоз обзаведётся цветным и чёрно-белым принтерами.,5.307692307692308,5.0,coordination,stimul,12,19,adjective_adjective,pl,and,instrumental
+Danilova_2023,Практикант будет заниматься вчерашним или сегодняшним договором.,4.933333333333334,5.0,coordination,stimul,22,29,adjective_adjective,sg,or,instrumental
+Danilova_2023,Знакомый обзаведётся гибридным и электрическим автомобилем.,3.466666666666667,3.0,coordination,stimul,18,25,adjective_adjective,sg,and,instrumental
+Danilova_2023,Инженер будет руководить вагоноремонтным или вагоностроительным заводом.,5.142857142857143,5.0,coordination,stimul,14,21,adjective_adjective,sg,or,instrumental
+Danilova_2023,Сосед женится на хозяйственной и обаятельной жёнах.,1.4919354838709675,1.0,bad,filler,47,54,,,,
+Danilova_2023,Парикмахер применит фиолетовый и синий пигмент.,4.529411764705882,5.0,coordination,stimul,28,35,adjective_adjective,sg,and,accusative
+Danilova_2023,Повар будет пользоваться ручным и планетарным миксером.,4.266666666666667,4.0,coordination,stimul,27,34,adjective_adjective,sg,and,instrumental
+Danilova_2023,Директор будет использовать личный или служебный автомобили.,3.1666666666666665,3.0,coordination,stimul,25,32,adjective_adjective,pl,or,accusative
+Danilova_2023,Геолог будет изучать подводный и наземный вулкан.,4.333333333333333,4.0,coordination,stimul,23,30,adjective_adjective,sg,and,accusative
+Danilova_2023,Геолог будет изучать подводный или наземный вулкан.,5.076923076923077,5.0,coordination,stimul,23,30,adjective_adjective,sg,or,accusative
+Danilova_2023,Плотник починит обеденный или компьютерный столы.,3.8333333333333335,4.0,coordination,stimul,13,20,adjective_adjective,pl,or,accusative
+Danilova_2023,Инженер возглавит вагоноремонтный и вагоностроительный заводы.,6.0,6.0,coordination,stimul,14,21,adjective_adjective,pl,and,accusative
+Danilova_2023,Отец поделится шёлковым и бамбуковым халатами.,5.388888888888889,5.0,coordination,stimul,19,26,adjective_adjective,pl,and,instrumental
+Danilova_2023,Режиссёр прославится документальным и художественным фильмами.,5.529411764705882,6.0,coordination,stimul,15,22,adjective_adjective,pl,and,instrumental
+Danilova_2023,Сосед обзаведётся хрустальным или фарфоровым сервизом.,5.666666666666667,6.0,coordination,stimul,10,17,adjective_adjective,sg,or,instrumental
+Danilova_2023,Историк будет заниматься языческим или христианским обрядами.,5.117647058823529,5.0,coordination,stimul,7,14,adjective_adjective,pl,or,instrumental
+Danilova_2023,Практикант будет изучать вчерашний или сегодняшний договор.,4.75,5.0,coordination,stimul,22,29,adjective_adjective,sg,or,accusative
+Danilova_2023,Руководитель распределит месячный и квартальный бюджеты.,6.2,6.0,coordination,stimul,32,39,adjective_adjective,pl,and,accusative
+Danilova_2023,Повар будет использовать ручной и планетарный миксеры.,5.266666666666667,5.0,coordination,stimul,27,34,adjective_adjective,pl,and,accusative
+Danilova_2023,Продавщица или охранник поймали наглого вора.,4.254098360655738,4.0,good,filler,50,57,,,,
+Danilova_2023,Бизнесмен приобретёт городской или загородный дом.,6.0,6.0,coordination,stimul,9,16,adjective_adjective,sg,or,accusative
+Danilova_2023,Лаборант воспользуется импортным и отечественным реагентом.,4.294117647058823,4.0,coordination,stimul,21,28,adjective_adjective,sg,and,instrumental
+Danilova_2023,Политолог будет заниматься европейским и азиатским регионами.,6.0,6.0,coordination,stimul,4,11,adjective_adjective,pl,and,instrumental
+Danilova_2023,Знакомый обзаведется одноэтажным и двухэтажным домом.,5.153846153846154,5.0,coordination,stimul,24,31,adjective_adjective,sg,and,instrumental
+Danilova_2023,Начальник возглавит новосибирский и екатеринбургский филиал.,3.6,4.0,coordination,stimul,20,27,adjective_adjective,sg,and,accusative
+Danilova_2023,Геолог будет изучать подводный или наземный вулканы.,4.5,4.0,coordination,stimul,23,30,adjective_adjective,pl,or,accusative
+Danilova_2023,Искусствовед будет заниматься католическим и протестантским храмом.,4.923076923076923,5.0,coordination,stimul,16,23,adjective_adjective,sg,and,instrumental
+Danilova_2023,Отец одолжит шёлковый и бамбуковый халаты.,5.133333333333334,5.0,coordination,stimul,19,26,adjective_adjective,pl,and,accusative
+Danilova_2023,Знакомый обзаведётся гибридным или электрическим автомобилями.,2.8461538461538463,3.0,coordination,stimul,18,25,adjective_adjective,pl,or,instrumental
+Danilova_2023,Сосед обзаведётся хрустальным и фарфоровым сервизами.,6.769230769230769,7.0,coordination,stimul,10,17,adjective_adjective,pl,and,instrumental
+Danilova_2023,Геолог будет заниматься подводным и наземным вулканом.,3.533333333333333,4.0,coordination,stimul,23,30,adjective_adjective,sg,and,instrumental
+Danilova_2023,Историк будет заниматься языческим и христианским обрядами.,4.6875,5.0,coordination,stimul,7,14,adjective_adjective,pl,and,instrumental
+Danilova_2023,Сосед одолжит столярный и слесарный молотки.,5.769230769230769,6.0,coordination,stimul,17,24,adjective_adjective,pl,and,accusative
+Danilova_2023,Врач будет пользоваться стерильным или нестерильным бинтами.,3.769230769230769,4.0,coordination,stimul,2,9,adjective_adjective,pl,or,instrumental
+Danilova_2023,Врач будет использовать стерильный и нестерильный бинты.,4.529411764705882,5.0,coordination,stimul,2,9,adjective_adjective,pl,and,accusative
+Danilova_2023,Знакомый приобретёт гибридный и электрический автомобили.,4.888888888888889,5.0,coordination,stimul,18,25,adjective_adjective,pl,and,accusative
+Danilova_2023,Парикмахер применит фиолетовый и синий пигменты.,6.352941176470588,6.0,coordination,stimul,28,35,adjective_adjective,pl,and,accusative
+Danilova_2023,Друг отдаст ванильный и шоколадный торт.,3.733333333333333,4.0,coordination,stimul,29,36,adjective_adjective,sg,and,accusative
+Danilova_2023,Врач будет пользоваться стерильным или нестерильным бинтом.,5.3125,5.0,coordination,stimul,2,9,adjective_adjective,sg,or,instrumental
+Danilova_2023,Парикмахер будет использовать дорогой или дешевый шампуни.,3.823529411764706,4.0,coordination,stimul,26,33,adjective_adjective,pl,or,accusative
+Danilova_2023,Социолог занимался женской или мужской дружбой.,4.495934959349594,4.0,good,filler,57,64,,,,
+Danilova_2023,Знакомый одолжит книги про садоводство и огородничество.,5.825,6.0,good,filler,46,53,,,,
+Danilova_2023,Коллега возглавит бухгалтерский или финансовый отдел.,6.230769230769231,6.0,coordination,stimul,11,18,adjective_adjective,sg,or,accusative
+Danilova_2023,Коллега возглавит бухгалтерский и финансовый отделы.,5.6,6.0,coordination,stimul,11,18,adjective_adjective,pl,and,accusative
+Danilova_2023,Сосед поделится столярным и слесарным молотком.,4.235294117647059,4.0,coordination,stimul,17,24,adjective_adjective,sg,and,instrumental
+Danilova_2023,Лаборант воспользуется импортным или отечественным реагентами.,4.733333333333333,5.0,coordination,stimul,21,28,adjective_adjective,pl,or,instrumental
+Danilova_2023,Практикант будет заниматься вчерашним и сегодняшним договором.,3.25,3.0,coordination,stimul,22,29,adjective_adjective,sg,and,instrumental
+Danilova_2023,Парикмахер будет пользоваться дорогим или дешевым шампунями.,3.0,3.0,coordination,stimul,26,33,adjective_adjective,pl,or,instrumental
+Danilova_2023,Геолог будет заниматься подводным и наземным вулканами.,5.0588235294117645,5.0,coordination,stimul,23,30,adjective_adjective,pl,and,instrumental
+Danilova_2023,Лаборант применит импортный и отечественный реагенты.,5.307692307692308,5.0,coordination,stimul,21,28,adjective_adjective,pl,and,accusative
+Danilova_2023,Профессор обзаведётся черным или серым пиджаками.,3.588235294117647,4.0,coordination,stimul,3,10,adjective_adjective,pl,or,instrumental
+Danilova_2023,Искусствовед будет исследовать католический и протестантский храмы.,5.933333333333334,6.0,coordination,stimul,16,23,adjective_adjective,pl,and,accusative
+Danilova_2023,Мастер заменит проводку в квартире или подъезде.,6.041666666666667,6.0,good,filler,55,62,,,,
+Danilova_2023,Клиент будет пользоваться депозитным или текущим счётом.,5.666666666666667,6.0,coordination,stimul,6,13,adjective_adjective,sg,or,instrumental
+Danilova_2023,Подруга встречалась с чутким и понимающим мужчиной.,6.5,6.0,good,filler,40,47,,,,
+Danilova_2023,Знакомый купит одноэтажный и двухэтажный дом.,3.7777777777777777,4.0,coordination,stimul,24,31,adjective_adjective,sg,and,accusative
+Danilova_2023,Коллега возглавит бухгалтерский или финансовый отделы.,3.75,4.0,coordination,stimul,11,18,adjective_adjective,pl,or,accusative
+Danilova_2023,Режиссёр прославится документальным или художественным фильмом.,4.25,4.0,coordination,stimul,15,22,adjective_adjective,sg,or,instrumental
+Danilova_2023,Друг отдаст ванильный и шоколадный торты.,6.0,6.0,coordination,stimul,29,36,adjective_adjective,pl,and,accusative
+Danilova_2023,Плотник починит обеденный и компьютерный столы.,5.384615384615385,5.0,coordination,stimul,13,20,adjective_adjective,pl,and,accusative
+Danilova_2023,Историк будет исследовать языческий или христианский обряды.,3.7142857142857135,4.0,coordination,stimul,7,14,adjective_adjective,pl,or,accusative
+Danilova_2023,Знакомый купит одноэтажный или двухэтажный дом.,6.117647058823529,6.0,coordination,stimul,24,31,adjective_adjective,sg,or,accusative
+Danilova_2023,Коллега будет руководить бухгалтерским и финансовым отделом.,4.764705882352941,5.0,coordination,stimul,11,18,adjective_adjective,sg,and,instrumental
+Danilova_2023,Чиновник будет использовать служебный или личный автомобиль.,5.733333333333333,6.0,coordination,stimul,5,12,adjective_adjective,sg,or,accusative
+Danilova_2023,Практикант будет изучать вчерашний и сегодняшний договоры.,5.235294117647059,5.0,coordination,stimul,22,29,adjective_adjective,pl,and,accusative
+Danilova_2023,Отец поделится шёлковым и бамбуковым халатом.,3.176470588235294,3.0,coordination,stimul,19,26,adjective_adjective,sg,and,instrumental
+Danilova_2023,Директор будет использовать личный или служебный автомобиль.,6.25,6.0,coordination,stimul,25,32,adjective_adjective,sg,or,accusative
+Danilova_2023,Физик будет изучать цифровой и аналоговый сигнал.,4.6923076923076925,5.0,coordination,stimul,1,8,adjective_adjective,sg,and,accusative
+Danilova_2023,Инженер возглавит вагоноремонтный или вагоностроительный завод.,5.470588235294118,5.0,coordination,stimul,14,21,adjective_adjective,sg,or,accusative
+Danilova_2023,Читатель и критик будем восхищаться интересным романом.,1.5691056910569106,2.0,bad,filler,43,50,,,,
+Danilova_2023,Менеджер возглавит большой и маленький магазины.,5.705882352941177,6.0,coordination,stimul,30,37,adjective_adjective,pl,and,accusative
+Danilova_2023,Сосед поделится столярным и слесарным молотками.,6.0,6.0,coordination,stimul,17,24,adjective_adjective,pl,and,instrumental
+Danilova_2023,Электрик займётся квартирным или этажным щитком.,5.6,6.0,coordination,stimul,31,38,adjective_adjective,sg,or,instrumental
+Danilova_2023,Парикмахер применит фиолетовый или синий пигменты.,4.933333333333334,5.0,coordination,stimul,28,35,adjective_adjective,pl,or,accusative
+Danilova_2023,Медсестра и санитар пользовалась прочными перчатками.,3.9836065573770494,4.0,bad,filler,45,52,,,,
+Danilova_2023,Профессор обзаведётся черным и серым пиджаком.,4.411764705882353,4.0,coordination,stimul,3,10,adjective_adjective,sg,and,instrumental
+Danilova_2023,Лаборант применит импортный и отечественный реагент.,4.866666666666666,5.0,coordination,stimul,21,28,adjective_adjective,sg,and,accusative
+Danilova_2023,Руководитель распорядится месячным или квартальным бюджетом.,5.384615384615385,5.0,coordination,stimul,32,39,adjective_adjective,sg,or,instrumental
+Danilova_2023,Знакомый приобретёт гибридный и электрический автомобиль.,3.3529411764705883,3.0,coordination,stimul,18,25,adjective_adjective,sg,and,accusative
+Danilova_2023,Парикмахер будет использовать дорогой и дешевый шампуни.,5.0,5.0,coordination,stimul,26,33,adjective_adjective,pl,and,accusative
+Danilova_2023,Бизнесмен обзаведётся городским или загородным домами.,3.142857142857143,3.0,coordination,stimul,9,16,adjective_adjective,pl,or,instrumental
+Danilova_2023,Клиент откроет депозитный или текущий счета.,3.5625,4.0,coordination,stimul,6,13,adjective_adjective,pl,or,accusative
+Danilova_2023,Инженер возглавит вагоноремонтный и вагоностроительный завод.,4.066666666666666,4.0,coordination,stimul,14,21,adjective_adjective,sg,and,accusative
+Danilova_2023,Лаборант воспользуется импортным и отечественным реагентами.,5.1875,5.0,coordination,stimul,21,28,adjective_adjective,pl,and,instrumental
+Danilova_2023,Повар будет использовать ручной или планетарный миксеры.,4.333333333333333,4.0,coordination,stimul,27,34,adjective_adjective,pl,or,accusative
+Danilova_2023,Парикмахер будет пользоваться дорогим и дешевым шампунями.,5.846153846153846,6.0,coordination,stimul,26,33,adjective_adjective,pl,and,instrumental
+Danilova_2023,Плотник починит обеденный и компьютерный стол.,4.625,5.0,coordination,stimul,13,20,adjective_adjective,sg,and,accusative
+Danilova_2023,Историк будет исследовать языческий или христианский обряд.,4.909090909090909,5.0,coordination,stimul,7,14,adjective_adjective,sg,or,accusative
+Danilova_2023,Начальник будет руководить новосибирским или екатеринбургским филиалами.,5.25,5.0,coordination,stimul,20,27,adjective_adjective,pl,or,instrumental
+Danilova_2023,Парикмахер будет пользоваться дорогим или дешевым шампунем.,4.5625,5.0,coordination,stimul,26,33,adjective_adjective,sg,or,instrumental
+Danilova_2023,Покупатель приобретёт деловой или спортивный костюмы.,3.0,3.0,coordination,stimul,8,15,adjective_adjective,pl,or,accusative
+Danilova_2023,Свидетель или подсудимый воспользовались непростой ситуацией.,4.4958677685950414,4.0,good,filler,59,66,,,,
+Danilova_2023,Лаборант воспользуется импортным или отечественным реагентом.,5.5,6.0,coordination,stimul,21,28,adjective_adjective,sg,or,instrumental
+Danilova_2023,Электрик займётся квартирным и этажным щитками.,5.0625,5.0,coordination,stimul,31,38,adjective_adjective,pl,and,instrumental
+Danilova_2023,Менеджер будет руководить большим и маленьким магазинами.,6.230769230769231,6.0,coordination,stimul,30,37,adjective_adjective,pl,and,instrumental
+Danilova_2023,Инженер будет руководить вагоноремонтным или вагоностроительным заводами.,4.769230769230769,5.0,coordination,stimul,14,21,adjective_adjective,pl,or,instrumental
+Danilova_2023,Директор будет использовать личный и служебный автомобиль.,4.933333333333334,5.0,coordination,stimul,25,32,adjective_adjective,sg,and,accusative
+Danilova_2023,Секретарша или менеджер закажут новый кулер.,4.9105691056910565,5.0,good,filler,53,60,,,,
+Danilova_2023,Профессор купит черный или серый пиджаки.,4.6,5.0,coordination,stimul,3,10,adjective_adjective,pl,or,accusative
+Danilova_2023,Коллега будет руководить бухгалтерским и финансовым отделами.,6.5,6.0,coordination,stimul,11,18,adjective_adjective,pl,and,instrumental
+Danilova_2023,Повар будет пользоваться ручным или планетарным миксером.,6.6,7.0,coordination,stimul,27,34,adjective_adjective,sg,or,instrumental
+Danilova_2023,Начальник возглавит новосибирский и екатеринбургский филиалы.,5.933333333333334,6.0,coordination,stimul,20,27,adjective_adjective,pl,and,accusative
+Danilova_2023,Режиссёр прославится документальным или художественным фильмами.,4.1875,4.0,coordination,stimul,15,22,adjective_adjective,pl,or,instrumental
+Danilova_2023,Плотник займётся обеденным и компьютерным столами.,5.75,6.0,coordination,stimul,13,20,adjective_adjective,pl,and,instrumental
+Danilova_2023,Политолог будет заниматься европейским и азиатским регионом.,2.6153846153846154,3.0,coordination,stimul,4,11,adjective_adjective,sg,and,instrumental
+Danilova_2023,Знакомый обзаведётся гибридным или электрическим автомобилем.,5.533333333333333,6.0,coordination,stimul,18,25,adjective_adjective,sg,or,instrumental
+Danilova_2023,Повар будет использовать ручной и планетарный миксер.,3.8181818181818175,4.0,coordination,stimul,27,34,adjective_adjective,sg,and,accusative
+Danilova_2023,Искусствовед будет исследовать католический и протестантский храм.,4.166666666666667,4.0,coordination,stimul,16,23,adjective_adjective,sg,and,accusative
+Danilova_2023,Электрик починит квартирный или этажный щитки.,3.857142857142857,4.0,coordination,stimul,31,38,adjective_adjective,pl,or,accusative
+Danilova_2023,Врач будет использовать стерильный или нестерильный бинты.,3.588235294117647,4.0,coordination,stimul,2,9,adjective_adjective,pl,or,accusative
+Danilova_2023,Директор будет пользоваться личным или служебным автомобилями.,4.5,4.0,coordination,stimul,25,32,adjective_adjective,pl,or,instrumental
+Danilova_2023,Директор будет использовать личный и служебный автомобили.,5.538461538461538,6.0,coordination,stimul,25,32,adjective_adjective,pl,and,accusative
+Danilova_2023,Начальник возглавит новосибирский или екатеринбургский филиалы.,5.0,5.0,coordination,stimul,20,27,adjective_adjective,pl,or,accusative
+Danilova_2023,Режиссёр снимет документальный и художественный фильм.,5.333333333333333,5.0,coordination,stimul,15,22,adjective_adjective,sg,and,accusative
+Danilova_2023,Физик будет заниматься цифровым или аналоговым сигналом.,5.176470588235294,5.0,coordination,stimul,1,8,adjective_adjective,sg,or,instrumental
+Danilova_2023,Завхоз приобретёт цветной и чёрно-белый принтеры.,6.176470588235294,6.0,coordination,stimul,12,19,adjective_adjective,pl,and,accusative
+Danilova_2023,Историк будет исследовать языческий и христианский обряды.,5.1875,5.0,coordination,stimul,7,14,adjective_adjective,pl,and,accusative
+Danilova_2023,Покупатель обзаведётся деловым и спортивным костюмами.,5.3125,5.0,coordination,stimul,8,15,adjective_adjective,pl,and,instrumental
+Danilova_2023,Физик будет изучать цифровой или аналоговый сигнал.,5.5,6.0,coordination,stimul,1,8,adjective_adjective,sg,or,accusative
+Danilova_2023,Друг поделится ванильным и шоколадным тортами.,5.117647058823529,5.0,coordination,stimul,29,36,adjective_adjective,pl,and,instrumental
+Danilova_2023,Сосед купит хрустальный и фарфоровый сервизы.,6.117647058823529,6.0,coordination,stimul,10,17,adjective_adjective,pl,and,accusative
+Danilova_2023,Политолог будет заниматься европейским или азиатским регионами.,5.428571428571429,5.0,coordination,stimul,4,11,adjective_adjective,pl,or,instrumental
+Danilova_2023,Начальник будет руководить новосибирским и екатеринбургским филиалом.,4.0,4.0,coordination,stimul,20,27,adjective_adjective,sg,and,instrumental
+Danilova_2023,Декан подпишет приказы об отчислении или переводе.,5.975609756097561,6.0,good,filler,63,70,,,,
+Danilova_2023,Электрик займётся квартирным и этажным щитком.,3.857142857142857,4.0,coordination,stimul,31,38,adjective_adjective,sg,and,instrumental
+Danilova_2023,Начальник возглавит новосибирский или екатеринбургский филиал.,5.611111111111111,6.0,coordination,stimul,20,27,adjective_adjective,sg,or,accusative
+Danilova_2023,Повар будет использовать ручной или планетарный миксер.,5.538461538461538,6.0,coordination,stimul,27,34,adjective_adjective,sg,or,accusative
+Danilova_2023,Бизнесмен обзаведётся городским и загородным домами.,6.133333333333334,6.0,coordination,stimul,9,16,adjective_adjective,pl,and,instrumental
+Danilova_2023,Сосед поделится столярным или слесарным молотками.,3.117647058823529,3.0,coordination,stimul,17,24,adjective_adjective,pl,or,instrumental
+Danilova_2023,Клиент будет пользоваться депозитным или текущим счетами.,4.583333333333333,5.0,coordination,stimul,6,13,adjective_adjective,pl,or,instrumental
+Danilova_2023,Руководитель распорядится месячным или квартальным бюджетами.,4.785714285714286,5.0,coordination,stimul,32,39,adjective_adjective,pl,or,instrumental
+Danilova_2023,Режиссёр снимет документальный и художественный фильмы.,6.0,6.0,coordination,stimul,15,22,adjective_adjective,pl,and,accusative
+Danilova_2023,Клиент будет пользоваться депозитным и текущим счетами.,5.666666666666667,6.0,coordination,stimul,6,13,adjective_adjective,pl,and,instrumental
+Danilova_2023,Директор проверят отделы по продажам или маркетингу.,2.284482758620689,2.0,bad,filler,49,56,,,,
+Danilova_2023,Знакомый обзаведется одноэтажным или двухэтажным домами.,3.4285714285714284,3.0,coordination,stimul,24,31,adjective_adjective,pl,or,instrumental
+Danilova_2023,Отец поделится шёлковым или бамбуковым халатом.,5.266666666666667,5.0,coordination,stimul,19,26,adjective_adjective,sg,or,instrumental
+Danilova_2023,Продавец торговал свежими и сочными апельсинами.,6.723577235772358,7.0,good,filler,48,55,,,,
+Danilova_2023,Повар будет пользоваться ручным и планетарным миксерами.,5.833333333333333,6.0,coordination,stimul,27,34,adjective_adjective,pl,and,instrumental
+Danilova_2023,Профессор купит черный или серый пиджак.,6.461538461538462,6.0,coordination,stimul,3,10,adjective_adjective,sg,or,accusative
+Danilova_2023,Врач будет использовать стерильный или нестерильный бинт.,5.357142857142857,5.0,coordination,stimul,2,9,adjective_adjective,sg,or,accusative
+Danilova_2023,Электрик починит квартирный и этажный щитки.,5.666666666666667,6.0,coordination,stimul,31,38,adjective_adjective,pl,and,accusative
+Danilova_2023,Сосед одолжит столярный или слесарный молоток.,5.0625,5.0,coordination,stimul,17,24,adjective_adjective,sg,or,accusative
+Danilova_2023,Дефектолог будет изучать произвольное или непроизвольное внимания.,2.1666666666666665,2.0,bad,filler,52,59,,,,
+Danilova_2023,Политолог будет изучать европейский и азиатский регион.,4.117647058823529,4.0,coordination,stimul,4,11,adjective_adjective,sg,and,accusative
+Danilova_2023,Бизнесмен приобретёт городской и загородный дом.,4.357142857142857,4.0,coordination,stimul,9,16,adjective_adjective,sg,and,accusative
+Danilova_2023,Лаборант применит импортный или отечественный реагенты.,4.307692307692308,4.0,coordination,stimul,21,28,adjective_adjective,pl,or,accusative
+Danilova_2023,Директор будет пользоваться личным и служебным автомобилем.,4.888888888888889,5.0,coordination,stimul,25,32,adjective_adjective,sg,and,instrumental
+Danilova_2023,Повар будет пользоваться ручным или планетарным миксерами.,4.4375,4.0,coordination,stimul,27,34,adjective_adjective,pl,or,instrumental
+Danilova_2023,Парикмахер воспользуется фиолетовым или синим пигментами.,5.333333333333333,5.0,coordination,stimul,28,35,adjective_adjective,pl,or,instrumental
+Danilova_2023,Практикант будет изучать вчерашний или сегодняшний договоры.,3.388888888888889,3.0,coordination,stimul,22,29,adjective_adjective,pl,or,accusative
+Danilova_2023,Руководитель распорядится месячным и квартальным бюджетами.,5.4,5.0,coordination,stimul,32,39,adjective_adjective,pl,and,instrumental
+Danilova_2023,Начальник будет руководить новосибирским или екатеринбургским филиалом.,5.916666666666667,6.0,coordination,stimul,20,27,adjective_adjective,sg,or,instrumental
+Danilova_2023,Знакомый обзаведется одноэтажным или двухэтажным домом.,5.461538461538462,5.0,coordination,stimul,24,31,adjective_adjective,sg,or,instrumental
+Danilova_2023,Начальник будет руководить новосибирским и екатеринбургским филиалами.,6.214285714285714,6.0,coordination,stimul,20,27,adjective_adjective,pl,and,instrumental
+Danilova_2023,Менеджер будет руководить большим и маленьким магазином.,3.125,3.0,coordination,stimul,30,37,adjective_adjective,sg,and,instrumental
+Danilova_2023,Чиновник будет пользоваться служебным или личным автомобилями.,3.2142857142857144,3.0,coordination,stimul,5,12,adjective_adjective,pl,or,instrumental
+Danilova_2023,Чиновник будет использовать служебный или личный автомобили.,4.166666666666667,4.0,coordination,stimul,5,12,adjective_adjective,pl,or,accusative
+Danilova_2023,Знакомый приобретёт гибридный или электрический автомобили.,3.6875,4.0,coordination,stimul,18,25,adjective_adjective,pl,or,accusative
+Danilova_2023,Сосед обзаведётся хрустальным и фарфоровым сервизом.,5.133333333333334,5.0,coordination,stimul,10,17,adjective_adjective,sg,and,instrumental
+Danilova_2023,Знакомый обзаведётся гибридным и электрическим автомобилями.,5.833333333333333,6.0,coordination,stimul,18,25,adjective_adjective,pl,and,instrumental
+Danilova_2023,Друг поделится ванильным или шоколадным тортом.,5.222222222222222,5.0,coordination,stimul,29,36,adjective_adjective,sg,or,instrumental
+Danilova_2023,Преподаватель составят тесты по алгебре и геометрии.,2.227642276422764,2.0,bad,filler,41,48,,,,
+Danilova_2023,Парикмахер будет пользоваться дорогим и дешевым шампунем.,4.0,4.0,coordination,stimul,26,33,adjective_adjective,sg,and,instrumental
+Danilova_2023,Друг отдаст ванильный или шоколадный торты.,4.083333333333333,4.0,coordination,stimul,29,36,adjective_adjective,pl,or,accusative
+Danilova_2023,Мальчик будет развивать слуховую и зрительную памяти.,3.008130081300813,3.0,bad,filler,36,43,,,,
+Danilova_2023,Руководитель распределит месячный или квартальный бюджеты.,4.133333333333334,4.0,coordination,stimul,32,39,adjective_adjective,pl,or,accusative
+Danilova_2023,Парикмахер будет использовать дорогой и дешевый шампунь.,4.411764705882353,4.0,coordination,stimul,26,33,adjective_adjective,sg,and,accusative
+Danilova_2023,Геолог будет изучать подводный и наземный вулканы.,5.533333333333333,6.0,coordination,stimul,23,30,adjective_adjective,pl,and,accusative
+Danilova_2023,Сосед купит хрустальный или фарфоровый сервизы.,3.6,4.0,coordination,stimul,10,17,adjective_adjective,pl,or,accusative
+Danilova_2023,Сантехник и уборщица искали золотое кольцо.,6.459677419354839,6.0,good,filler,42,49,,,,
+Danilova_2023,Искусствовед будет заниматься католическим и протестантским храмами.,5.733333333333333,6.0,coordination,stimul,16,23,adjective_adjective,pl,and,instrumental
+Danilova_2023,Друг отдаст ванильный или шоколадный торт.,5.666666666666667,6.0,coordination,stimul,29,36,adjective_adjective,sg,or,accusative
+Danilova_2023,Профессор купит черный и серый пиджак.,4.083333333333333,4.0,coordination,stimul,3,10,adjective_adjective,sg,and,accusative
+Danilova_2023,Руководитель распорядится месячным и квартальным бюджетом.,5.0,5.0,coordination,stimul,32,39,adjective_adjective,sg,and,instrumental
+Danilova_2023,Политолог будет изучать европейский или азиатский регион.,4.611111111111111,5.0,coordination,stimul,4,11,adjective_adjective,sg,or,accusative
+Danilova_2023,Врач будет пользоваться стерильным и нестерильным бинтом.,4.533333333333333,5.0,coordination,stimul,2,9,adjective_adjective,sg,and,instrumental
+Danilova_2023,Завхоз обзаведётся цветным и чёрно-белым принтером. ,4.0,4.0,coordination,stimul,12,19,adjective_adjective,sg,and,instrumental
+Danilova_2023,Историк будет исследовать языческий и христианский обряд.,4.333333333333333,4.0,coordination,stimul,7,14,adjective_adjective,sg,and,accusative
+Danilova_2023,Сосед купят путёвки в Турцию или Египет.,2.032258064516129,2.0,bad,filler,64,71,,,,
+Danilova_2023,Физик будет заниматься цифровым и аналоговым сигналом.,4.176470588235294,4.0,coordination,stimul,1,8,adjective_adjective,sg,and,instrumental
+Danilova_2023,Практикант будет заниматься вчерашним и сегодняшним договорами.,5.076923076923077,5.0,coordination,stimul,22,29,adjective_adjective,pl,and,instrumental
+Danilova_2023,Парикмахер воспользуется фиолетовым и синим пигментом.,5.0,5.0,coordination,stimul,28,35,adjective_adjective,sg,and,instrumental
+Danilova_2023,Друг поделится ванильным или шоколадным тортами.,4.214285714285714,4.0,coordination,stimul,29,36,adjective_adjective,pl,or,instrumental
+Danilova_2023,Отец одолжит шёлковый или бамбуковый халат.,5.6923076923076925,6.0,coordination,stimul,19,26,adjective_adjective,sg,or,accusative
+Danilova_2023,Покупатель приобретёт деловой и спортивный костюмы.,6.133333333333334,6.0,coordination,stimul,8,15,adjective_adjective,pl,and,accusative
+Danilova_2023,Режиссёр прославится документальным и художественным фильмом.,3.357142857142857,3.0,coordination,stimul,15,22,adjective_adjective,sg,and,instrumental
+Danilova_2023,Бизнесмен обзаведётся городским или загородным домом.,5.470588235294118,5.0,coordination,stimul,9,16,adjective_adjective,sg,or,instrumental
+Danilova_2023,Клиент откроет депозитный или текущий счёт.,5.375,5.0,coordination,stimul,6,13,adjective_adjective,sg,or,accusative
+Danilova_2023,Завхоз приобретёт цветной или чёрно-белый принтеры.,3.6,4.0,coordination,stimul,12,19,adjective_adjective,pl,or,accusative
+Danilova_2023,Менеджер возглавит большой или маленький магазин.,4.588235294117647,5.0,coordination,stimul,30,37,adjective_adjective,sg,or,accusative
+Danilova_2023,Бизнесмен обзаведётся городским и загородным домом.,4.5,4.0,coordination,stimul,9,16,adjective_adjective,sg,and,instrumental
+Danilova_2023,Сосед обзаведётся хрустальным или фарфоровым сервизами.,3.615384615384616,4.0,coordination,stimul,10,17,adjective_adjective,pl,or,instrumental
+Danilova_2023,Клиент откроет депозитный и текущий счёт.,3.1333333333333333,3.0,coordination,stimul,6,13,adjective_adjective,sg,and,accusative
+Danilova_2023,Завхоз обзаведётся цветным или чёрно-белым принтером. ,5.833333333333333,6.0,coordination,stimul,12,19,adjective_adjective,sg,or,instrumental
+Danilova_2023,Парикмахер воспользуется фиолетовым или синим пигментом.,6.307692307692308,6.0,coordination,stimul,28,35,adjective_adjective,sg,or,instrumental
+Danilova_2023,Инженер или геолог будут руководить полевой работой.,4.560975609756097,5.0,good,filler,61,68,,,,
+Danilova_2023,Практикант будет изучать вчерашний и сегодняшний договор.,4.466666666666667,4.0,coordination,stimul,22,29,adjective_adjective,sg,and,accusative
+Danilova_2023,Директор будет пользоваться личным или служебным автомобилем.,6.470588235294118,6.0,coordination,stimul,25,32,adjective_adjective,sg,or,instrumental
+Danilova_2023,Физик будет заниматься цифровым и аналоговым сигналами.,5.6,6.0,coordination,stimul,1,8,adjective_adjective,pl,and,instrumental
+Danilova_2023,Бизнесмен приобретёт городской или загородный дома.,2.0,2.0,coordination,stimul,9,16,adjective_adjective,pl,or,accusative
+Danilova_2023,Плотник займётся обеденным или компьютерным столом.,4.875,5.0,coordination,stimul,13,20,adjective_adjective,sg,or,instrumental
+Danilova_2023,Политолог будет изучать европейский и азиатский регионы.,6.235294117647059,6.0,coordination,stimul,4,11,adjective_adjective,pl,and,accusative
+Danilova_2023,Физик будет заниматься цифровым или аналоговым сигналами.,4.0,4.0,coordination,stimul,1,8,adjective_adjective,pl,or,instrumental
+Danilova_2023,Коллега будет руководить бухгалтерским или финансовым отделом.,6.0,6.0,coordination,stimul,11,18,adjective_adjective,sg,or,instrumental
+Danilova_2023,Историк будет заниматься языческим и христианским обрядом.,3.1333333333333333,3.0,coordination,stimul,7,14,adjective_adjective,sg,and,instrumental
+Danilova_2023,Искусствовед будет заниматься католическим или протестантским храмами.,4.666666666666667,5.0,coordination,stimul,16,23,adjective_adjective,pl,or,instrumental
+Danilova_2023,Менеджер будет руководить большим или маленьким магазинами.,3.3846153846153846,3.0,coordination,stimul,30,37,adjective_adjective,pl,or,instrumental
+Danilova_2023,Завхоз приобретёт цветной или чёрно-белый принтер. ,5.833333333333333,6.0,coordination,stimul,12,19,adjective_adjective,sg,or,accusative
+Danilova_2023,Искусствовед или историк будем заниматься духовыми инструментами.,2.180327868852459,2.0,bad,filler,58,65,,,,
+Danilova_2023,Бухгалтер или директор распределим годовые премии.,1.7235772357723578,2.0,bad,filler,54,61,,,,
+Danilova_2023,Сосед купит хрустальный и фарфоровый сервиз.,3.941176470588236,4.0,coordination,stimul,10,17,adjective_adjective,sg,and,accusative
+Danilova_2023,Врач будет пользоваться стерильным и нестерильным бинтами.,5.923076923076923,6.0,coordination,stimul,2,9,adjective_adjective,pl,and,instrumental
+Danilova_2023,Знакомый обзаведется одноэтажным и двухэтажным домами.,6.071428571428571,6.0,coordination,stimul,24,31,adjective_adjective,pl,and,instrumental
+Danilova_2023,Искусствовед будет исследовать католический или протестантский храмы.,4.2,4.0,coordination,stimul,16,23,adjective_adjective,pl,or,accusative
+Danilova_2023,Менеджер возглавит большой и маленький магазин.,3.071428571428572,3.0,coordination,stimul,30,37,adjective_adjective,sg,and,accusative
+Danilova_2023,Врач назначит лекарства от анемии и гастрита.,6.428571428571429,6.0,good,filler,34,41,,,,
+Danilova_2023,Парикмахер применит фиолетовый или синий пигмент.,5.722222222222222,6.0,coordination,stimul,28,35,adjective_adjective,sg,or,accusative
+Danilova_2023,Инженер будет руководить вагоноремонтным и вагоностроительным заводами.,6.166666666666667,6.0,coordination,stimul,14,21,adjective_adjective,pl,and,instrumental
+Danilova_2023,Электрик займётся квартирным или этажным щитками.,3.882352941176471,4.0,coordination,stimul,31,38,adjective_adjective,pl,or,instrumental
+Danilova_2023,Менеджер возглавит большой или маленький магазины.,3.9444444444444446,4.0,coordination,stimul,30,37,adjective_adjective,pl,or,accusative
+Danilova_2023,Таксист и пенсионерка будут делиться интересными новостями.,5.959349593495935,6.0,good,filler,44,51,,,,
+Danilova_2023,Режиссёр снимет документальный или художественный фильмы.,4.666666666666667,5.0,coordination,stimul,15,22,adjective_adjective,pl,or,accusative
+Danilova_2023,Чиновник будет пользоваться служебным и личным автомобилем.,4.9375,5.0,coordination,stimul,5,12,adjective_adjective,sg,and,instrumental
+Danilova_2023,Сосед купит хрустальный или фарфоровый сервиз.,6.785714285714286,7.0,coordination,stimul,10,17,adjective_adjective,sg,or,accusative
+Danilova_2023,Заместитель или начальница руководил важным проектом.,2.19327731092437,2.0,bad,filler,62,69,,,,
+Danilova_2023,Завхоз приобретёт цветной и чёрно-белый принтер. ,4.529411764705882,5.0,coordination,stimul,12,19,adjective_adjective,sg,and,accusative
+Danilova_2023,Плотник починит обеденный или компьютерный стол.,4.666666666666667,5.0,coordination,stimul,13,20,adjective_adjective,sg,or,accusative
+Danilova_2023,Покупатель приобретёт деловой и спортивный костюм.,4.277777777777778,4.0,coordination,stimul,8,15,adjective_adjective,sg,and,accusative
+Danilova_2023,Покупатель обзаведётся деловым и спортивным костюмом.,5.538461538461538,6.0,coordination,stimul,8,15,adjective_adjective,sg,and,instrumental
+Danilova_2023,Плотник займётся обеденным и компьютерным столом.,3.5294117647058822,4.0,coordination,stimul,13,20,adjective_adjective,sg,and,instrumental
+Danilova_2023,Знакомый купит одноэтажный или двухэтажный дома.,2.5294117647058822,3.0,coordination,stimul,24,31,adjective_adjective,pl,or,accusative
+Danilova_2023,Завхоз обзаведётся цветным или чёрно-белым принтерами.,4.0,4.0,coordination,stimul,12,19,adjective_adjective,pl,or,instrumental
+Danilova_2023,Руководитель распределит месячный или квартальный бюджет.,5.3125,5.0,coordination,stimul,32,39,adjective_adjective,sg,or,accusative
+Danilova_2023,Сосед одолжит столярный или слесарный молотки.,3.1538461538461537,3.0,coordination,stimul,17,24,adjective_adjective,pl,or,accusative
+Danilova_2023,Геолог будет заниматься подводным или наземным вулканом.,4.941176470588236,5.0,coordination,stimul,23,30,adjective_adjective,sg,or,instrumental
+Danilova_2023,Парикмахер воспользуется фиолетовым и синим пигментами.,5.733333333333333,6.0,coordination,stimul,28,35,adjective_adjective,pl,and,instrumental
+Danilova_2023,Покупатель приобретёт деловой или спортивный костюм.,5.176470588235294,5.0,coordination,stimul,8,15,adjective_adjective,sg,or,accusative
+Danilova_2023,Сосед поделится столярным или слесарным молотком.,5.0588235294117645,5.0,coordination,stimul,17,24,adjective_adjective,sg,or,instrumental
+Danilova_2023,Отец поделится шёлковым или бамбуковым халатами.,3.875,4.0,coordination,stimul,19,26,adjective_adjective,pl,or,instrumental
+Danilova_2023,Менеджер будет руководить большим или маленьким магазином.,5.6,6.0,coordination,stimul,30,37,adjective_adjective,sg,or,instrumental
+Danilova_2023,Охранник или учительница отобрала новый телефон.,2.9565217391304346,3.0,bad,filler,56,63,,,,
+Danilova_2023,Клиент будет пользоваться депозитным и текущим счётом.,5.5,6.0,coordination,stimul,6,13,adjective_adjective,sg,and,instrumental
+Danilova_2023,Искусствовед будет исследовать католический или протестантский храм.,5.125,5.0,coordination,stimul,16,23,adjective_adjective,sg,or,accusative
+Danilova_2023,Профессор купит черный и серый пиджаки.,6.333333333333333,6.0,coordination,stimul,3,10,adjective_adjective,pl,and,accusative
+Danilova_2023,Лаборант применит импортный или отечественный реагент.,5.933333333333334,6.0,coordination,stimul,21,28,adjective_adjective,sg,or,accusative
+Danilova_2023,Электрик починит квартирный или этажный щиток.,4.769230769230769,5.0,coordination,stimul,31,38,adjective_adjective,sg,or,accusative
+Danilova_2023,Геолог будет заниматься подводным или наземным вулканами.,4.333333333333333,4.0,coordination,stimul,23,30,adjective_adjective,pl,or,instrumental
+Danilova_2023,Покупатель обзаведётся деловым или спортивным костюмами.,4.0,4.0,coordination,stimul,8,15,adjective_adjective,pl,or,instrumental
+Danilova_2023,Знакомый приобретёт гибридный или электрический автомобиль.,5.866666666666666,6.0,coordination,stimul,18,25,adjective_adjective,sg,or,accusative
+Danilova_2023,Клиент попросил вегетарианское или постное меню.,6.032520325203252,6.0,good,filler,51,58,,,,
+Danilova_2023,Чиновник будет использовать служебный и личный автомобиль.,4.75,5.0,coordination,stimul,5,12,adjective_adjective,sg,and,accusative
+Danilova_2023,Клиент откроет депозитный и текущий счета.,4.764705882352941,5.0,coordination,stimul,6,13,adjective_adjective,pl,and,accusative

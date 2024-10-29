@@ -1,0 +1,289 @@
+experiment,sentence,response,response_round,subtype,type,lexicalization,sentence_id,conjuncts,agreement,conjunction,case
+Borisova_2024,"В пятницу Коля перекрасил стены и спальной, и детской комнат.",5.0,5.0,coordination,stimul,12,76,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"На занятии Вася повредил динамики и стационарного, и портативного компьютера.",5.538461538461538,6.0,coordination,stimul,17,177,adjective_adjective,sg,and_and,genitive
+Borisova_2024,После отпуска Маша подлатала ручки замшевой и холщовой сумок.,6.25,6.0,coordination,stimul,13,77,adjective_adjective,pl,and,genitive
+Borisova_2024,"В пятницу Коля перекрасил и спальную, и детскую комнаты.",5.166666666666667,5.0,coordination,stimul,12,204,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"На концерте Степа спел куплеты и дореволюционной, и советской песни.",4.0,4.0,coordination,stimul,21,53,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"В декабре Юра включил лампочки и белой, и разноцветной гирлянд.",4.428571428571429,4.0,coordination,stimul,28,92,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"В пятницу Коля перекрасил стены и спальной, и детской комнаты.",4.363636363636363,4.0,coordination,stimul,12,12,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На каникулах Света перешила шелковую и ситцевую блузки.,6.0,6.0,coordination,stimul,29,221,adjective_adjective,pl,and,accusative
+Borisova_2024,"Во время похода Гриша сфотографировал берега и глубокой, и мелкой рек.",5.333333333333333,5.0,coordination,stimul,18,18,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"На празднике Катя прочитала строки и латинской, и древнегреческой оды.",5.166666666666667,5.0,coordination,stimul,4,4,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"Перед спектаклем Петя вымыл ступени и черной, и парадной лестницы.",5.307692307692308,5.0,coordination,stimul,15,111,adjective_adjective,sg,and_and,genitive
+Borisova_2024,В марте Лиза посадила саженцы русского и американского клена.,6.0,6.0,coordination,stimul,16,112,adjective_adjective,sg,and,genitive
+Borisova_2024,До обеденного перерыва Алиса подписала бумаги бухгалтера и секретаря.,5.989130434782608,6.0,good,filler,33,277,,,,
+Borisova_2024,"При переезде Даня помял и картонную, и жестяную коробку.",5.0,5.0,coordination,stimul,31,255,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"В среду Сеня выучил следствия и алгебраической, и геометрической теоремы.",5.0,5.0,coordination,stimul,5,37,adjective_adjective,sg,and_and,genitive
+Borisova_2024,Перед концертом Аня настроила струны классической и гавайской гитары.,5.888888888888889,6.0,coordination,stimul,7,71,adjective_adjective,sg,and,genitive
+Borisova_2024,"В декабре Юра включил и белую, и разноцветную гирлянду.",5.0,5.0,coordination,stimul,28,156,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Перед спектаклем Петя вымыл ступени черной и парадной лестницы.,5.333333333333333,5.0,coordination,stimul,15,79,adjective_adjective,sg,and,genitive
+Borisova_2024,"Перед уходом Ира закрыла дверцы и книжного, и платяного шкафов.",6.2,6.0,coordination,stimul,3,35,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Во время похода Гриша сфотографировал берега глубокой и мелкой рек.,5.2,5.0,coordination,stimul,18,242,adjective_adjective,pl,and,genitive
+Borisova_2024,"После представления Егор оставила шнурки и ботинок, и туфель.",1.553191489361702,2.0,bad,filler,33,272,,,,
+Borisova_2024,"Во время прогулки Дима нашел и сибирскую, и китайскую ели.",4.833333333333333,5.0,coordination,stimul,2,130,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Во вторник Тася постирала рукава фиолетовой и желтой водолазок.,6.090909090909091,6.0,coordination,stimul,20,52,adjective_adjective,pl,and,genitive
+Borisova_2024,Через неделю Вова унес кучи листьев и мусора.,4.967032967032967,5.0,good,filler,33,261,,,,
+Borisova_2024,Во время звонка Эля сломала старый и новый телефон.,3.8333333333333335,4.0,coordination,stimul,9,9,adjective_adjective,sg,and,accusative
+Borisova_2024,После аварии Миша поменял личный и рабочий автомобиль.,4.181818181818182,4.0,coordination,stimul,1,1,adjective_adjective,sg,and,accusative
+Borisova_2024,"За каникулы Варя вспомнила правила и английского, и французского языка.",5.833333333333333,6.0,coordination,stimul,19,243,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"За обедом Костя съел остатки и капустного, и яблочного пирога.",6.166666666666667,6.0,coordination,stimul,27,251,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"Во вторник Тася постирала рукава и фиолетовой, и желтой водолазок.",5.125,5.0,coordination,stimul,20,84,adjective_adjective,pl,and_and,genitive
+Borisova_2024,В четверг Леня посмотрел итальянский и немецкий фильм.,4.2727272727272725,4.0,coordination,stimul,8,232,adjective_adjective,sg,and,accusative
+Borisova_2024,"Во время ужина Поля разбила и чайный, и кофейный сервизы.",5.642857142857143,6.0,coordination,stimul,25,121,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"На мастер-классе Рома нарисовал и военный, и пиратский корабль.",5.166666666666667,5.0,coordination,stimul,24,24,adjective_adjective,sg,and_and,accusative
+Borisova_2024,За ужином Нина показала фотографии и рисунки.,6.610526315789474,7.0,good,filler,33,274,,,,
+Borisova_2024,"Перед уходом Ира закрыла дверцы и книжного, и платяного шкафа.",5.25,5.0,coordination,stimul,3,227,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На мастер-классе Рома нарисовал военный и пиратский корабль.,4.818181818181818,5.0,coordination,stimul,24,248,adjective_adjective,sg,and,accusative
+Borisova_2024,"На каникулах Света перешила пуговицы и шелковой, и ситцевой блузки.",5.2727272727272725,5.0,coordination,stimul,29,61,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"Перед уроком Настя испачкала страницы и толстой, и тонкой книги.",5.25,5.0,coordination,stimul,26,218,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"За обедом Костя съел и капустный, и яблочный пирог.",5.785714285714286,6.0,coordination,stimul,27,123,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"На прошлой неделе Ксюша прослушала части и фортепианного, и скрипичного концерта.",5.0,5.0,coordination,stimul,32,160,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"За выходные Вика заштопала и лыжную, и охотничью куртки.",6.2727272727272725,6.0,coordination,stimul,23,55,adjective_adjective,pl,and_and,accusative
+Borisova_2024,На зимних каникулах Марк купил лыжи и коньки.,6.673913043478261,7.0,good,filler,33,258,,,,
+Borisova_2024,"После отпуска Маша подлатала и замшевую, и холщовую сумку.",4.636363636363637,5.0,coordination,stimul,13,173,adjective_adjective,sg,and_and,accusative
+Borisova_2024,За час до выхода Игорь записала адрес и номер.,1.947368421052632,2.0,bad,filler,33,260,,,,
+Borisova_2024,"За два часа Леша починил ножки и деревянного, и пластмассового столов.",6.2727272727272725,6.0,coordination,stimul,11,43,adjective_adjective,pl,and_and,genitive
+Borisova_2024,В марте Лиза посадила русский и американский клены.,4.909090909090909,5.0,coordination,stimul,16,48,adjective_adjective,pl,and,accusative
+Borisova_2024,"В командировке Даша посетила музеи и столичного, и провинциального городов.",5.636363636363637,6.0,coordination,stimul,22,150,adjective_adjective,pl,and_and,genitive
+Borisova_2024,В командировке Даша посетила музеи столичного и провинциального городов.,5.0,5.0,coordination,stimul,22,118,adjective_adjective,pl,and,genitive
+Borisova_2024,"На занятии Вася повредил динамики и стационарного, и портативного компьютеров.",6.583333333333333,7.0,coordination,stimul,17,241,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"За обедом Костя съел и капустный, и яблочный пироги.",5.923076923076923,6.0,coordination,stimul,27,187,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"На каникулах Света перешила и шелковую, и ситцевую блузку.",5.769230769230769,6.0,coordination,stimul,29,189,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Перед уходом Ира закрыла дверцы книжного и платяного шкафов.,6.083333333333333,6.0,coordination,stimul,3,3,adjective_adjective,pl,and,genitive
+Borisova_2024,"После отпуска Маша подлатала и замшевую, и холщовую сумки.",6.25,6.0,coordination,stimul,13,237,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"Во время уборки Таня почистила подлокотники и кожаного, и плюшевого диванов.",6.1,6.0,coordination,stimul,6,134,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Перед завтраком Надя выпили стаканы воды и сока.,1.925531914893617,2.0,bad,filler,33,279,,,,
+Borisova_2024,На каникулах Света перешила шелковую и ситцевую блузку.,4.916666666666667,5.0,coordination,stimul,29,157,adjective_adjective,sg,and,accusative
+Borisova_2024,На концерте Степа спел куплеты дореволюционной и советской песни.,4.909090909090909,5.0,coordination,stimul,21,21,adjective_adjective,sg,and,genitive
+Borisova_2024,После экзамена Лева узнали оценки двоечников и троечников.,1.7204301075268815,2.0,bad,filler,33,263,,,,
+Borisova_2024,"В декабре Юра включил и белую, и разноцветную гирлянды.",5.0,5.0,coordination,stimul,28,220,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"Во время уборки Таня почистила и кожаный, и плюшевый диваны.",5.166666666666667,5.0,coordination,stimul,6,6,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В этом сентябре Инна встретил жен одноклассника и однокурсника.,2.136842105263158,2.0,bad,filler,33,280,,,,
+Borisova_2024,"В четверг Леня посмотрел отрывки и итальянского, и немецкого фильмов.",5.333333333333333,5.0,coordination,stimul,8,200,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Во время похода Гриша сфотографировал глубокую и мелкую реки.,5.785714285714286,6.0,coordination,stimul,18,114,adjective_adjective,pl,and,accusative
+Borisova_2024,В командировке Даша посетила столичный и провинциальный город.,4.0,4.0,coordination,stimul,22,182,adjective_adjective,sg,and,accusative
+Borisova_2024,"На празднике Катя прочитала строки и латинской, и древнегреческой од.",5.0,5.0,coordination,stimul,4,68,adjective_adjective,pl,and_and,genitive
+Borisova_2024,За обедом Костя съел капустный и яблочный пироги.,6.333333333333333,6.0,coordination,stimul,27,155,adjective_adjective,pl,and,accusative
+Borisova_2024,После отпуска Маша подлатала ручки замшевой и холщовой сумки.,4.636363636363637,5.0,coordination,stimul,13,13,adjective_adjective,sg,and,genitive
+Borisova_2024,"В командировке Даша посетила и столичный, и провинциальный город.",4.833333333333333,5.0,coordination,stimul,22,214,adjective_adjective,sg,and_and,accusative
+Borisova_2024,При переезде Даня помял картонную и жестяную коробки.,5.545454545454546,6.0,coordination,stimul,31,31,adjective_adjective,pl,and,accusative
+Borisova_2024,"Во время уборки Таня почистила и кожаный, и плюшевый диван.",5.166666666666667,5.0,coordination,stimul,6,198,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"В июне Гоша украл шины и рейсового, и экскурсионного автобуса.",4.75,5.0,coordination,stimul,14,78,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"В декабре Юра включил лампочки и белой, и разноцветной гирлянды.",5.181818181818182,5.0,coordination,stimul,28,28,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На этой неделе Максим сдала решения лабораторных и проверочных.,1.8369565217391304,2.0,bad,filler,33,264,,,,
+Borisova_2024,"Во время звонка Эля сломала и старый, и новый телефоны.",5.428571428571429,5.0,coordination,stimul,9,105,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"Во вторник Тася постирала и фиолетовую, и желтую водолазки.",5.909090909090909,6.0,coordination,stimul,20,212,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"В последнее время Макар любила и теннис, и волейбол.",1.6236559139784943,2.0,bad,filler,33,268,,,,
+Borisova_2024,"В июне Гоша украл шины и рейсового, и экскурсионного автобусов.",5.75,6.0,coordination,stimul,14,142,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"Перед концертом Аня настроила струны и классической, и гавайской гитар.",5.615384615384615,6.0,coordination,stimul,7,167,adjective_adjective,pl,and_and,genitive
+Borisova_2024,После теста Люба порвала листы черновой и чистовой тетради.,5.230769230769231,5.0,coordination,stimul,10,170,adjective_adjective,sg,and,genitive
+Borisova_2024,После поломки Витя отремонтировал большой и маленький чемоданы.,6.416666666666667,6.0,coordination,stimul,30,254,adjective_adjective,pl,and,accusative
+Borisova_2024,"Во время звонка Эля сломала и старый, и новый телефон.",4.727272727272728,5.0,coordination,stimul,9,41,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Во время похода Гриша сфотографировал и глубокую, и мелкую реку.",5.666666666666667,6.0,coordination,stimul,18,82,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"За выходные Вика заштопала и лыжную, и охотничью куртку.",5.416666666666667,5.0,coordination,stimul,23,247,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Перед концертом Аня настроила и классическую, и гавайскую гитару.",5.25,5.0,coordination,stimul,7,231,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Во вторник Тася постирала и фиолетовую, и желтую водолазку.",5.083333333333333,5.0,coordination,stimul,20,148,adjective_adjective,sg,and_and,accusative
+Borisova_2024,На прошлой неделе Ксюша прослушала части фортепианного и скрипичного концерта.,5.230769230769231,5.0,coordination,stimul,32,128,adjective_adjective,sg,and,genitive
+Borisova_2024,Во время прогулки Дима нашел сибирскую и китайскую ели.,5.857142857142857,6.0,coordination,stimul,2,98,adjective_adjective,pl,and,accusative
+Borisova_2024,В июне Гоша украл шины рейсового и экскурсионного автобусов.,5.714285714285714,6.0,coordination,stimul,14,110,adjective_adjective,pl,and,genitive
+Borisova_2024,Перед уроком Настя испачкала страницы толстой и тонкой книг.,5.416666666666667,5.0,coordination,stimul,26,250,adjective_adjective,pl,and,genitive
+Borisova_2024,"Во время прогулки Дима нашел иголки и сибирской, и китайской елей.",5.0,5.0,coordination,stimul,2,2,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Перед спектаклем Петя вымыл ступени черной и парадной лестниц.,5.416666666666667,5.0,coordination,stimul,15,143,adjective_adjective,pl,and,genitive
+Borisova_2024,"После аварии Миша поменял и личный, и рабочий автомобиль.",4.636363636363637,5.0,coordination,stimul,1,33,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Во вторник Тася постирала рукава фиолетовой и желтой водолазки.,4.909090909090909,5.0,coordination,stimul,20,244,adjective_adjective,sg,and,genitive
+Borisova_2024,При переезде Даня помял стенки картонной и жестяной коробок.,5.454545454545454,5.0,coordination,stimul,31,159,adjective_adjective,pl,and,genitive
+Borisova_2024,На мастер-классе Рома нарисовал мачты военного и пиратского кораблей.,6.090909090909091,6.0,coordination,stimul,24,184,adjective_adjective,pl,and,genitive
+Borisova_2024,"В среду Сеня выучил следствия и алгебраической, и геометрической теорем.",5.785714285714286,6.0,coordination,stimul,5,101,adjective_adjective,pl,and_and,genitive
+Borisova_2024,За выходные Вика заштопала лыжную и охотничью куртку.,5.166666666666667,5.0,coordination,stimul,23,215,adjective_adjective,sg,and,accusative
+Borisova_2024,"Перед уроком Настя испачкала и толстую, и тонкую книги.",5.5,6.0,coordination,stimul,26,154,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В прошлом году Боря выбросил кресло и стул.,6.484210526315789,6.0,good,filler,33,257,,,,
+Borisova_2024,На концерте Степа спел дореволюционную и советскую песню.,3.4166666666666665,3.0,coordination,stimul,21,149,adjective_adjective,sg,and,accusative
+Borisova_2024,"За выходные Вика заштопала карманы и лыжной, и охотничьей куртки.",4.571428571428571,5.0,coordination,stimul,23,119,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"В тот день Зоя напечатала рассказы и Чехова, и Зощенко.",6.393617021276596,6.0,good,filler,33,285,,,,
+Borisova_2024,Во вторник Тася постирала фиолетовую и желтую водолазки.,6.25,6.0,coordination,stimul,20,180,adjective_adjective,pl,and,accusative
+Borisova_2024,После теста Люба порвала черновую и чистовую тетрадь.,4.818181818181818,5.0,coordination,stimul,10,42,adjective_adjective,sg,and,accusative
+Borisova_2024,"После теста Люба порвала листы и черновой, и чистовой тетради.",5.2727272727272725,5.0,coordination,stimul,10,202,adjective_adjective,sg,and_and,genitive
+Borisova_2024,Перед уходом Ира закрыла дверцы книжного и платяного шкафа.,5.25,5.0,coordination,stimul,3,195,adjective_adjective,sg,and,genitive
+Borisova_2024,"В марте Лиза посадила саженцы и русского, и американского клена.",5.0,5.0,coordination,stimul,16,144,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"После поломки Витя отремонтировал колесики и большого, и маленького чемоданов.",5.636363636363637,6.0,coordination,stimul,30,158,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"Во время похода Гриша сфотографировал берега и глубокой, и мелкой реки.",5.090909090909091,5.0,coordination,stimul,18,210,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"На прошлой неделе Ксюша прослушала части и фортепианного, и скрипичного концертов.",5.25,5.0,coordination,stimul,32,224,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"На концерте Степа спел и дореволюционную, и советскую песню.",4.384615384615385,4.0,coordination,stimul,21,181,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Перед спектаклем Петя вымыл черную и парадную лестницу.,5.0,5.0,coordination,stimul,15,207,adjective_adjective,sg,and,accusative
+Borisova_2024,"После поломки Витя отремонтировал и большой, и маленький чемодан.",4.916666666666667,5.0,coordination,stimul,30,222,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Во время уборки Таня почистила подлокотники и кожаного, и плюшевого дивана.",4.888888888888889,5.0,coordination,stimul,6,70,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"После поломки Витя отремонтировал колесики и большого, и маленького чемодана.",5.0,5.0,coordination,stimul,30,94,adjective_adjective,sg,and_and,genitive
+Borisova_2024,За два часа Леша починил деревянный и пластмассовый стол.,4.5,4.0,coordination,stimul,11,75,adjective_adjective,sg,and,accusative
+Borisova_2024,На празднике Катя прочитала латинскую и древнегреческую оду.,5.642857142857143,6.0,coordination,stimul,4,100,adjective_adjective,sg,and,accusative
+Borisova_2024,За два часа Леша починил деревянный и пластмассовый столы.,6.166666666666667,6.0,coordination,stimul,11,139,adjective_adjective,pl,and,accusative
+Borisova_2024,"На концерте Степа спел и дореволюционную, и советскую песни.",5.916666666666667,6.0,coordination,stimul,21,245,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"Во время звонка Эля сломала кнопки и старого, и нового телефона.",5.384615384615385,5.0,coordination,stimul,9,169,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"После теста Люба порвала листы и черновой, и чистовой тетрадей.",5.25,5.0,coordination,stimul,10,10,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"В воскресенье Тоня промочила и кроссовки, и носки.",6.347368421052631,6.0,good,filler,33,282,,,,
+Borisova_2024,Во время ужина Поля разбила предметы чайного и кофейного сервиза.,4.666666666666667,5.0,coordination,stimul,25,153,adjective_adjective,sg,and,genitive
+Borisova_2024,Во время похода Гриша сфотографировал берега глубокой и мелкой реки.,5.363636363636363,5.0,coordination,stimul,18,178,adjective_adjective,sg,and,genitive
+Borisova_2024,Во вторник Тася постирала фиолетовую и желтую водолазку.,5.428571428571429,5.0,coordination,stimul,20,116,adjective_adjective,sg,and,accusative
+Borisova_2024,На занятии Вася повредил стационарный и портативный компьютеры.,5.75,6.0,coordination,stimul,17,81,adjective_adjective,pl,and,accusative
+Borisova_2024,За каникулы Варя вспомнила правила английского и французского языков.,6.5,6.0,coordination,stimul,19,19,adjective_adjective,pl,and,genitive
+Borisova_2024,На занятии Вася повредил динамики стационарного и портативного компьютера.,4.333333333333333,4.0,coordination,stimul,17,145,adjective_adjective,sg,and,genitive
+Borisova_2024,"За выходные Вика заштопала карманы и лыжной, и охотничьей курток.",5.6923076923076925,6.0,coordination,stimul,23,183,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"Перед спектаклем Петя вымыл ступени и черной, и парадной лестниц.",5.384615384615385,5.0,coordination,stimul,15,175,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Перед уходом Ира закрыла книжный и платяной шкафы.,6.363636363636363,6.0,coordination,stimul,3,131,adjective_adjective,pl,and,accusative
+Borisova_2024,"За два часа Леша починил и деревянный, и пластмассовый стол.",5.461538461538462,5.0,coordination,stimul,11,107,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Во время звонка Эля сломала старый и новый телефоны.,5.666666666666667,6.0,coordination,stimul,9,73,adjective_adjective,pl,and,accusative
+Borisova_2024,В марте Лиза посадила русский и американский клен.,4.833333333333333,5.0,coordination,stimul,16,240,adjective_adjective,sg,and,accusative
+Borisova_2024,После поломки Витя отремонтировал большой и маленький чемодан.,5.307692307692308,5.0,coordination,stimul,30,190,adjective_adjective,sg,and,accusative
+Borisova_2024,"Перед приходом директора Вера протерли и стекла, и зеркала.",2.0,2.0,bad,filler,33,283,,,,
+Borisova_2024,Во время ужина Поля разбила чайный и кофейный сервизы.,5.555555555555555,6.0,coordination,stimul,25,89,adjective_adjective,pl,and,accusative
+Borisova_2024,"За каникулы Варя вспомнила и английский, и французский языки.",6.0,6.0,coordination,stimul,19,179,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"За обедом Костя съел остатки и капустного, и яблочного пирогов.",5.909090909090909,6.0,coordination,stimul,27,59,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Перед уборкой Ира закрыла книжный и платяной шкаф.,4.666666666666667,5.0,coordination,stimul,3,67,adjective_adjective,sg,and,accusative
+Borisova_2024,На каникулах Света перешила пуговицы шелковой и ситцевой блузки.,4.416666666666667,4.0,coordination,stimul,29,29,adjective_adjective,sg,and,genitive
+Borisova_2024,На празднике Катя прочитала строки латинской и древнегреческой од.,6.444444444444445,6.0,coordination,stimul,4,36,adjective_adjective,pl,and,genitive
+Borisova_2024,В четверг Леня посмотрел отрывки итальянского и немецкого фильмов.,6.0,6.0,coordination,stimul,8,168,adjective_adjective,pl,and,genitive
+Borisova_2024,На концерте Степа спел куплеты дореволюционной и советской песен.,5.222222222222222,5.0,coordination,stimul,21,85,adjective_adjective,pl,and,genitive
+Borisova_2024,"Во время прогулки Дима нашел и сибирскую, и китайскую ель.",5.444444444444445,5.0,coordination,stimul,2,66,adjective_adjective,sg,and_and,accusative
+Borisova_2024,На празднике Катя прочитала латинскую и древнегреческую оды.,5.846153846153846,6.0,coordination,stimul,4,164,adjective_adjective,pl,and,accusative
+Borisova_2024,"В июне Гоша угнал и рейсовый, и экскурсионный автобусы.",5.636363636363637,6.0,coordination,stimul,14,14,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В октябре Артем выучил стихи Пушкина и Лермонтова.,6.494736842105263,6.0,good,filler,33,262,,,,
+Borisova_2024,"В марте Лиза посадила и русский, и американский клены.",5.222222222222222,5.0,coordination,stimul,16,80,adjective_adjective,pl,and_and,accusative
+Borisova_2024,За минуту Лера угадала имена и фамилии.,6.178947368421053,6.0,good,filler,33,273,,,,
+Borisova_2024,"Перед уроком Настя испачкала и толстую, и тонкую книгу.",5.333333333333333,5.0,coordination,stimul,26,90,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"За полминуты Зина прожевали остатки и хлеба, и мяса.",2.3043478260869565,2.0,bad,filler,33,287,,,,
+Borisova_2024,"В среду Сеня выучил и алгебраическую, и геометрическую теорему.",5.384615384615385,5.0,coordination,stimul,5,165,adjective_adjective,sg,and_and,accusative
+Borisova_2024,Во время уборки Таня почистила кожаный и плюшевый диваны.,6.333333333333333,6.0,coordination,stimul,6,230,adjective_adjective,pl,and,accusative
+Borisova_2024,"При переезде Даня помял стенки и картонной, и жестяной коробок.",5.181818181818182,5.0,coordination,stimul,31,191,adjective_adjective,pl,and_and,genitive
+Borisova_2024,На прошлой неделе Ксюша прослушала фортепианный и скрипичный концерт.,4.545454545454546,5.0,coordination,stimul,32,256,adjective_adjective,sg,and,accusative
+Borisova_2024,"В пятницу Коля перекрасил и спальную, и детскую комнату.",5.083333333333333,5.0,coordination,stimul,12,140,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"После аварии Миша поменял колеса и личного, и рабочего автомобиля.",5.076923076923077,5.0,coordination,stimul,1,161,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На празднике Катя прочитала строки латинской и древнегреческой оды.,5.25,5.0,coordination,stimul,4,228,adjective_adjective,sg,and,genitive
+Borisova_2024,"За каникулы Варя вспомнила и английский, и французский язык.",5.571428571428571,6.0,coordination,stimul,19,115,adjective_adjective,sg,and_and,accusative
+Borisova_2024,В командировке Даша посетила столичный и провинциальный города.,5.25,5.0,coordination,stimul,22,246,adjective_adjective,pl,and,accusative
+Borisova_2024,При переезде Даня помял картонную и жестяную коробку.,5.166666666666667,5.0,coordination,stimul,31,223,adjective_adjective,sg,and,accusative
+Borisova_2024,"За каникулы Варя вспомнила правила и английского, и французского языков.",6.090909090909091,6.0,coordination,stimul,19,51,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"На концерте Степа спел куплеты и дореволюционной, и советской песен.",4.714285714285714,5.0,coordination,stimul,21,117,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"В День Рождения дочки Рита подарил наборы и раскрасок, и кукол.",1.819148936170213,2.0,bad,filler,33,288,,,,
+Borisova_2024,"После отпуска Маша подлатала ручки и замшевой, и холщовой сумок.",5.307692307692308,5.0,coordination,stimul,13,109,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"Во время ужина Поля разбила и чайный, и кофейный сервиз.",5.2,5.0,coordination,stimul,25,57,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"После соревнований Яна осознала причины и скуки, и усталости.",5.421052631578948,5.0,good,filler,33,286,,,,
+Borisova_2024,"Перед уроком Настя испачкала страницы и толстой, и тонкой книг.",4.5,4.0,coordination,stimul,26,26,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Во время уборки Таня почистила подлокотники кожаного и плюшевого дивана.,4.181818181818182,4.0,coordination,stimul,6,38,adjective_adjective,sg,and,genitive
+Borisova_2024,"В понедельник Олег пропылесосил и ванную, и гостиную.",6.1063829787234045,6.0,good,filler,33,265,,,,
+Borisova_2024,В четверг Леня посмотрел итальянский и немецкий фильмы.,6.6,7.0,coordination,stimul,8,40,adjective_adjective,pl,and,accusative
+Borisova_2024,За обедом Костя съел остатки капустного и яблочного пирогов.,6.0,6.0,coordination,stimul,27,27,adjective_adjective,pl,and,genitive
+Borisova_2024,Перед концертом Аня настроила классическую и гавайскую гитары.,6.454545454545454,6.0,coordination,stimul,7,7,adjective_adjective,pl,and,accusative
+Borisova_2024,На мастер-классе Рома нарисовал военный и пиратский корабли.,6.181818181818182,6.0,coordination,stimul,24,56,adjective_adjective,pl,and,accusative
+Borisova_2024,"Перед спектаклем Петя вымыл и черную, и парадную лестницу.",4.916666666666667,5.0,coordination,stimul,15,239,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"В июне Гоша угнал и рейсовый, и экскурсионный автобус.",4.727272727272728,5.0,coordination,stimul,14,206,adjective_adjective,sg,and_and,accusative
+Borisova_2024,При переезде Даня помял стенки картонной и жестяной коробки.,5.222222222222222,5.0,coordination,stimul,31,95,adjective_adjective,sg,and,genitive
+Borisova_2024,После теста Люба порвала листы черновой и чистовой тетрадей.,6.2727272727272725,6.0,coordination,stimul,10,234,adjective_adjective,pl,and,genitive
+Borisova_2024,"В марте Лиза посадила и русский, и американский клен.",4.083333333333333,4.0,coordination,stimul,16,16,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Перед концертом Аня настроила и классическую, и гавайскую гитары.",5.909090909090909,6.0,coordination,stimul,7,39,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В декабре Юра включил белую и разноцветную гирлянды.,5.5,6.0,coordination,stimul,28,188,adjective_adjective,pl,and,accusative
+Borisova_2024,За выходные Вика заштопала карманы лыжной и охотничьей курток.,5.454545454545454,5.0,coordination,stimul,23,151,adjective_adjective,pl,and,genitive
+Borisova_2024,"В марте Лиза посадила саженцы и русского, и американского кленов.",4.583333333333333,5.0,coordination,stimul,16,208,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"На мастер-классе Рома нарисовал и военный, и пиратский корабли.",6.111111111111111,6.0,coordination,stimul,24,88,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"На занятии Вася повредил и стационарный, и портативный компьютеры.",5.571428571428571,6.0,coordination,stimul,17,113,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Перед контрольной Глеб запомнили даты и факты.,3.118279569892473,3.0,bad,filler,33,259,,,,
+Borisova_2024,Перед уроком Настя испачкала страницы толстой и тонкой книги.,5.230769230769231,5.0,coordination,stimul,26,186,adjective_adjective,sg,and,genitive
+Borisova_2024,За каникулы Варя вспомнила правила английского и французского языка.,5.0,5.0,coordination,stimul,19,211,adjective_adjective,sg,and,genitive
+Borisova_2024,"В четверг Леня посмотрел отрывки и итальянского, и немецкого фильма.",4.0,4.0,coordination,stimul,8,136,adjective_adjective,sg,and_and,genitive
+Borisova_2024,За каникулы Варя вспомнила английский и французский языки.,6.666666666666667,7.0,coordination,stimul,19,147,adjective_adjective,pl,and,accusative
+Borisova_2024,"За два часа Леша починил и деревянный, и пластмассовый столы.",6.166666666666667,6.0,coordination,stimul,11,171,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"При переезде Даня помял и картонную, и жестяную коробки.",6.0,6.0,coordination,stimul,31,63,adjective_adjective,pl,and_and,accusative
+Borisova_2024,После аварии Миша поменял колеса личного и рабочего автомобилей.,5.0,5.0,coordination,stimul,1,193,adjective_adjective,pl,and,genitive
+Borisova_2024,"Во время звонка Эля сломала кнопки и старого, и нового телефонов.",6.181818181818182,6.0,coordination,stimul,9,233,adjective_adjective,pl,and_and,genitive
+Borisova_2024,После отпуска Маша подлатала замшевую и холщовую сумки.,6.0,6.0,coordination,stimul,13,205,adjective_adjective,pl,and,accusative
+Borisova_2024,В четверг Леня посмотрел отрывки итальянского и немецкого фильма.,4.714285714285714,5.0,coordination,stimul,8,104,adjective_adjective,sg,and,genitive
+Borisova_2024,В пятницу Коля перекрасил спальную и детскую комнаты.,5.153846153846154,5.0,coordination,stimul,12,172,adjective_adjective,pl,and,accusative
+Borisova_2024,Перед концертом Аня настроила классическую и гавайскую гитару.,4.909090909090909,5.0,coordination,stimul,7,199,adjective_adjective,sg,and,accusative
+Borisova_2024,На вечеринке Люся предложил танцы и конкурсы.,2.10752688172043,2.0,bad,filler,33,276,,,,
+Borisova_2024,"В прошлом ноябре Лида продала и кровать, и ковер.",6.361702127659575,6.0,good,filler,33,281,,,,
+Borisova_2024,За выходные Вика заштопала лыжную и охотничью куртки.,5.833333333333333,6.0,coordination,stimul,23,23,adjective_adjective,pl,and,accusative
+Borisova_2024,"Перед уходом Ира закрыла и книжный, и платяной шкаф.",5.571428571428571,6.0,coordination,stimul,3,99,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"За полчаса Илья выяснили и район, и квартал.",2.032608695652174,2.0,bad,filler,33,267,,,,
+Borisova_2024,В командировке Даша посетила музеи столичного и провинциального города.,5.0,5.0,coordination,stimul,22,54,adjective_adjective,sg,and,genitive
+Borisova_2024,"После аварии Миша поменял колеса и личного, и рабочего автомобилей.",6.083333333333333,6.0,coordination,stimul,1,225,adjective_adjective,pl,and_and,genitive
+Borisova_2024,После аварии Миша поменял колеса личного и рабочего автомобиля.,4.636363636363637,5.0,coordination,stimul,1,129,adjective_adjective,sg,and,genitive
+Borisova_2024,"Во время похода Гриша сфотографировал и глубокую, и мелкую реки.",5.818181818181818,6.0,coordination,stimul,18,146,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"В прошлом мае Антон заметили отсутствие и денег, и документов.",2.6989247311827955,3.0,bad,filler,33,271,,,,
+Borisova_2024,Перед концертом Аня настроила струны классической и гавайской гитар.,5.909090909090909,6.0,coordination,stimul,7,135,adjective_adjective,pl,and,genitive
+Borisova_2024,Перед уроком Настя испачкала толстую и тонкую книги.,5.428571428571429,5.0,coordination,stimul,26,122,adjective_adjective,pl,and,accusative
+Borisova_2024,"На прошлой неделе Ксюша прослушала и фортепианный, и скрипичный концерты.",5.444444444444445,5.0,coordination,stimul,32,96,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В июне Гоша угнал рейсовый и экскурсионный автобусы.,6.166666666666667,6.0,coordination,stimul,14,238,adjective_adjective,pl,and,accusative
+Borisova_2024,В пятницу Коля перекрасил стены спальной и детской комнат.,6.2727272727272725,6.0,coordination,stimul,12,44,adjective_adjective,pl,and,genitive
+Borisova_2024,Во время уборки Таня почистила кожаный и плюшевый диван.,4.0,4.0,coordination,stimul,6,166,adjective_adjective,sg,and,accusative
+Borisova_2024,После аварии Миша поменял личный и рабочий автомобили.,5.125,5.0,coordination,stimul,1,65,adjective_adjective,pl,and,accusative
+Borisova_2024,После поломки Витя отремонтировал колесики большого и маленького чемодана.,4.6,5.0,coordination,stimul,30,62,adjective_adjective,sg,and,genitive
+Borisova_2024,На прошлой неделе Ксюша прослушала фортепианный и скрипичный концерты.,6.0,6.0,coordination,stimul,32,64,adjective_adjective,pl,and,accusative
+Borisova_2024,"На занятии Вася повредил и стационарный, и портативный компьютер.",4.636363636363637,5.0,coordination,stimul,17,49,adjective_adjective,sg,and_and,accusative
+Borisova_2024,В пятницу Коля перекрасил спальную и детскую комнату.,4.857142857142857,5.0,coordination,stimul,12,108,adjective_adjective,sg,and,accusative
+Borisova_2024,"Перед праздником Юля связал и игрушки, и шапки.",1.9894736842105265,2.0,bad,filler,33,284,,,,
+Borisova_2024,За обедом Костя съел капустный и яблочный пирог.,5.5,6.0,coordination,stimul,27,91,adjective_adjective,sg,and,accusative
+Borisova_2024,"На празднике Катя прочитала и латинскую, и древнегреческую оду.",4.583333333333333,5.0,coordination,stimul,4,132,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Перед спектаклем Петя вымыл и черную, и парадную лестницы.",6.181818181818182,6.0,coordination,stimul,15,47,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Перед спектаклем Петя вымыл черную и парадную лестницы.,6.25,6.0,coordination,stimul,15,15,adjective_adjective,pl,and,accusative
+Borisova_2024,В декабре Юра включил белую и разноцветную гирлянду.,5.571428571428571,6.0,coordination,stimul,28,124,adjective_adjective,sg,and,accusative
+Borisova_2024,Во время ужина Поля разбила предметы чайного и кофейного сервизов.,5.333333333333333,5.0,coordination,stimul,25,217,adjective_adjective,pl,and,genitive
+Borisova_2024,В среду Сеня выучил следствия алгебраической и геометрической теорем.,6.285714285714286,6.0,coordination,stimul,5,69,adjective_adjective,pl,and,genitive
+Borisova_2024,"За день Ваня решил задания и теста, и проверочной.",5.404255319148936,5.0,good,filler,33,270,,,,
+Borisova_2024,В Новогоднюю ночь Оля получили подарки и открытки.,3.273684210526316,3.0,bad,filler,33,275,,,,
+Borisova_2024,"После теста Люба порвала и черновую, и чистовую тетради.",5.666666666666667,6.0,coordination,stimul,10,138,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"Во время ужина Поля разбила предметы и чайного, и кофейного сервизов.",6.333333333333333,6.0,coordination,stimul,25,249,adjective_adjective,pl,and_and,genitive
+Borisova_2024,В среду Сеня выучил алгебраическую и геометрическую теорему.,3.9,4.0,coordination,stimul,5,133,adjective_adjective,sg,and,accusative
+Borisova_2024,На занятии Вася повредил стационарный и портативный компьютер.,3.727272727272727,4.0,coordination,stimul,17,17,adjective_adjective,sg,and,accusative
+Borisova_2024,Во время похода Гриша сфотографировал глубокую и мелкую реку.,4.909090909090909,5.0,coordination,stimul,18,50,adjective_adjective,sg,and,accusative
+Borisova_2024,На прошлой неделе Ксюша прослушала части фортепианного и скрипичного концертов.,6.363636363636363,6.0,coordination,stimul,32,192,adjective_adjective,pl,and,genitive
+Borisova_2024,В марте Лиза посадила саженцы русского и американского кленов.,5.538461538461538,6.0,coordination,stimul,16,176,adjective_adjective,pl,and,genitive
+Borisova_2024,"После поломки Витя отремонтировал и большой, и маленький чемоданы.",6.25,6.0,coordination,stimul,30,30,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В декабре Юра включил лампочки белой и разноцветной гирлянд.,5.9,6.0,coordination,stimul,28,60,adjective_adjective,pl,and,genitive
+Borisova_2024,На каникулах Света перешила пуговицы шелковой и ситцевой блузок.,6.25,6.0,coordination,stimul,29,93,adjective_adjective,pl,and,genitive
+Borisova_2024,"На прошлой неделе Ксюша прослушала и фортепианный, и скрипичный концерт.",5.083333333333333,5.0,coordination,stimul,32,32,adjective_adjective,sg,and_and,accusative
+Borisova_2024,После поломки Витя отремонтировал колесики большого и маленького чемоданов.,6.0,6.0,coordination,stimul,30,126,adjective_adjective,pl,and,genitive
+Borisova_2024,"Во вторник Тася постирала рукава и фиолетовой, и желтой водолазки.",5.083333333333333,5.0,coordination,stimul,20,20,adjective_adjective,sg,and_and,genitive
+Borisova_2024,Во время прогулки Дима нашел сибирскую и китайскую ель.,4.727272727272728,5.0,coordination,stimul,2,34,adjective_adjective,sg,and,accusative
+Borisova_2024,"Во время пробежки Денис считал ветки и березы, и дуба.",5.112359550561798,5.0,good,filler,33,269,,,,
+Borisova_2024,За два часа Леша починил ножки деревянного и пластмассового стола.,4.75,5.0,coordination,stimul,11,203,adjective_adjective,sg,and,genitive
+Borisova_2024,"В среду Сеня выучил и алгебраическую, и геометрическую теоремы.",5.916666666666667,6.0,coordination,stimul,5,229,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Во время прогулки Дима нашел иголки сибирской и китайской ели.,5.384615384615385,5.0,coordination,stimul,2,162,adjective_adjective,sg,and,genitive
+Borisova_2024,В декабре Юра включил лампочки белой и разноцветной гирлянды.,5.833333333333333,6.0,coordination,stimul,28,252,adjective_adjective,sg,and,genitive
+Borisova_2024,"Перед уходом Ира закрыла и книжный, и платяной шкафы.",5.666666666666667,6.0,coordination,stimul,3,163,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В июне Гоша угнал рейсовый и экскурсионный автобус.,4.75,5.0,coordination,stimul,14,174,adjective_adjective,sg,and,accusative
+Borisova_2024,"В четверг Леня посмотрел и итальянский, и немецкий фильмы.",5.666666666666667,6.0,coordination,stimul,8,72,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Во время прогулки Дима нашел иголки сибирской и китайской елей.,6.181818181818182,6.0,coordination,stimul,2,226,adjective_adjective,pl,and,genitive
+Borisova_2024,"За два часа Леша починил ножки и деревянного, и пластмассового стола.",5.25,5.0,coordination,stimul,11,235,adjective_adjective,sg,and_and,genitive
+Borisova_2024,В июне Гоша украл шины рейсового и экскурсионного автобуса.,4.4,4.0,coordination,stimul,14,46,adjective_adjective,sg,and,genitive
+Borisova_2024,"На каникулах Света перешила и шелковую, и ситцевую блузки.",6.636363636363637,7.0,coordination,stimul,29,253,adjective_adjective,pl,and_and,accusative
+Borisova_2024,Во время звонка Эля сломала кнопки старого и нового телефонов.,5.083333333333333,5.0,coordination,stimul,9,201,adjective_adjective,pl,and,genitive
+Borisova_2024,"При переезде Даня помял стенки и картонной, и жестяной коробки.",5.0,5.0,coordination,stimul,31,127,adjective_adjective,sg,and_and,genitive
+Borisova_2024,За каникулы Варя вспомнила английский и французский язык.,6.0,6.0,coordination,stimul,19,83,adjective_adjective,sg,and,accusative
+Borisova_2024,После теста Люба порвала черновую и чистовую тетради.,5.769230769230769,6.0,coordination,stimul,10,106,adjective_adjective,pl,and,accusative
+Borisova_2024,"После аварии Миша поменял и личный, и рабочий автомобили.",6.0,6.0,coordination,stimul,1,97,adjective_adjective,pl,and_and,accusative
+Borisova_2024,В среду Сеня выучил следствия алгебраической и геометрической теоремы.,4.909090909090909,5.0,coordination,stimul,5,5,adjective_adjective,sg,and,genitive
+Borisova_2024,В среду Сеня выучил алгебраическую и геометрическую теоремы.,5.363636363636363,5.0,coordination,stimul,5,197,adjective_adjective,pl,and,accusative
+Borisova_2024,На концерте Степа спел дореволюционную и советскую песни.,5.636363636363637,6.0,coordination,stimul,21,213,adjective_adjective,pl,and,accusative
+Borisova_2024,"На мастер-классе Рома нарисовал мачты и военного, и пиратского корабля.",4.909090909090909,5.0,coordination,stimul,24,152,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На мастер-классе Рома нарисовал мачты военного и пиратского корабля.,5.857142857142857,6.0,coordination,stimul,24,120,adjective_adjective,sg,and,genitive
+Borisova_2024,"На каникулах Света перешила пуговицы и шелковой, и ситцевой блузок.",5.428571428571429,5.0,coordination,stimul,29,125,adjective_adjective,pl,and_and,genitive
+Borisova_2024,"В четверг Леня посмотрел и итальянский, и немецкий фильм.",5.75,6.0,coordination,stimul,8,8,adjective_adjective,sg,and_and,accusative
+Borisova_2024,В пятницу Коля перекрасил стены спальной и детской комнаты.,5.416666666666667,5.0,coordination,stimul,12,236,adjective_adjective,sg,and,genitive
+Borisova_2024,Перед уроком Настя испачкала толстую и тонкую книгу.,3.727272727272727,4.0,coordination,stimul,26,58,adjective_adjective,sg,and,accusative
+Borisova_2024,После отпуска Маша подлатала замшевую и холщовую сумку.,3.8,4.0,coordination,stimul,13,141,adjective_adjective,sg,and,accusative
+Borisova_2024,"В командировке Даша посетила музеи и столичного, и провинциального города.",4.666666666666667,5.0,coordination,stimul,22,86,adjective_adjective,sg,and_and,genitive
+Borisova_2024,На занятии Вася повредил динамики стационарного и портативного компьютеров.,5.727272727272728,6.0,coordination,stimul,17,209,adjective_adjective,pl,and,genitive
+Borisova_2024,"На празднике Катя прочитала и латинскую, и древнегреческую оды.",5.083333333333333,5.0,coordination,stimul,4,196,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"После отпуска Маша подлатала ручки и замшевой, и холщовой сумки.",4.818181818181818,5.0,coordination,stimul,13,45,adjective_adjective,sg,and_and,genitive
+Borisova_2024,За обедом Костя съел остатки капустного и яблочного пирога.,4.916666666666667,5.0,coordination,stimul,27,219,adjective_adjective,sg,and,genitive
+Borisova_2024,За два часа Леша починил ножки деревянного и пластмассового столов.,6.090909090909091,6.0,coordination,stimul,11,11,adjective_adjective,pl,and,genitive
+Borisova_2024,За полгода до свадьбы Дина создала чаты гостей и родственников.,6.095744680851064,6.0,good,filler,33,278,,,,
+Borisova_2024,Во время уборки Таня почистила подлокотники кожаного и плюшевого диванов.,6.153846153846154,6.0,coordination,stimul,6,102,adjective_adjective,pl,and,genitive
+Borisova_2024,"Во время прогулки Дима нашел иголки и сибирской, и китайской ели.",4.916666666666667,5.0,coordination,stimul,2,194,adjective_adjective,sg,and_and,genitive
+Borisova_2024,"Перед концертом Аня настроила струны и классической, и гавайской гитары.",5.571428571428571,6.0,coordination,stimul,7,103,adjective_adjective,sg,and_and,genitive
+Borisova_2024,За выходные Вика заштопала карманы лыжной и охотничьей куртки.,5.125,5.0,coordination,stimul,23,87,adjective_adjective,sg,and,genitive
+Borisova_2024,"Через час Андрей рассказал и басню, и легенду.",5.829787234042553,6.0,good,filler,33,266,,,,
+Borisova_2024,"В командировке Даша посетила и столичный, и провинциальный города.",4.545454545454546,5.0,coordination,stimul,22,22,adjective_adjective,pl,and_and,accusative
+Borisova_2024,"На мастер-классе Рома нарисовал мачты и военного, и пиратского кораблей.",5.166666666666667,5.0,coordination,stimul,24,216,adjective_adjective,pl,and_and,genitive
+Borisova_2024,Во время звонка Эля сломала кнопки старого и нового телефона.,4.4,4.0,coordination,stimul,9,137,adjective_adjective,sg,and,genitive
+Borisova_2024,Во время ужина Поля разбила чайный и кофейный сервиз.,4.416666666666667,4.0,coordination,stimul,25,25,adjective_adjective,sg,and,accusative
+Borisova_2024,"После теста Люба порвала и черновую, и чистовую тетрадь.",4.555555555555555,5.0,coordination,stimul,10,74,adjective_adjective,sg,and_and,accusative
+Borisova_2024,"Во время ужина Поля разбила предметы и чайного, и кофейного сервиза.",4.363636363636363,4.0,coordination,stimul,25,185,adjective_adjective,sg,and_and,genitive

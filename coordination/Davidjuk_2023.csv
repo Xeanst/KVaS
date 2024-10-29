@@ -1,0 +1,1089 @@
+experiment,sentence,response,response_round,subtype,type,lexicalization,sentence_id,conjuncts,agreement,conjunction,order
+Davidjuk_2023,"И я, и Никита попросит дополнительный отгул.",3.0,3.0,coordination,stimul,10,79,I_noun,3sg,and_and,SV
+Davidjuk_2023,Влад и я покажу короткую дорогу.,2.4444444444444446,2.0,coordination,stimul,13,97,noun_I,1sg,and,SV
+Davidjuk_2023,"Или Митя, или я составит этот длинный список.",2.2,2.0,coordination,stimul,29,231,noun_I,3sg,or_or,SV
+Davidjuk_2023,Лёва оформит этот деловой договор.,6.440251572327044,6.0,good,filler,33,263,,,,
+Davidjuk_2023,Миша заплатит крупный штраф.,6.509433962264151,7.0,good,filler,33,272,,,,
+Davidjuk_2023,Гена или я раскроют это подлое преступление.,3.6,4.0,coordination,stimul,23,180,noun_I,3pl,or,SV
+Davidjuk_2023,Я и Слава получит двойную зарплату.,2.3,2.0,coordination,stimul,5,35,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Вадим, или я соберёт этот нужный материал.",2.4,2.0,coordination,stimul,9,71,noun_I,3sg,or_or,SV
+Davidjuk_2023,Я или Андрей увидит этот кукольный спектакль.,3.6,4.0,coordination,stimul,2,11,I_noun,3sg,or,SV
+Davidjuk_2023,"Или я, или Костя расскажут эту интересную историю.",3.4444444444444446,3.0,coordination,stimul,8,64,I_noun,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Лёва произнесёт эту торжественную речь.",3.6,4.0,coordination,stimul,30,239,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И Вадим, и я соберут нужный материал.",2.888888888888889,3.0,coordination,stimul,23,184,noun_I,3pl,and_and,SV
+Davidjuk_2023,Никита или я побелят этот высокий потолок.,3.555555555555556,4.0,coordination,stimul,20,156,noun_I,3pl,or,SV
+Davidjuk_2023,Я и Стёпа попробуют яблочный пирог.,2.1,2.0,coordination,stimul,9,68,I_noun,3pl,and,SV
+Davidjuk_2023,"Или я, или Лёва произнесу эту торжественную речь.",1.8,2.0,coordination,stimul,30,237,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Гриша, или я переведу эту английскую фразу.",4.1,4.0,coordination,stimul,25,197,noun_I,1sg,or_or,SV
+Davidjuk_2023,Гриша или я переведу эту английскую фразу.,2.6,3.0,coordination,stimul,25,193,noun_I,1sg,or,SV
+Davidjuk_2023,"Или я, или Паша посетят этот научный семинар.",3.5,4.0,coordination,stimul,16,128,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И Миша, и я сдам вступительный экзамен.",3.3,3.0,coordination,stimul,8,61,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Максим, или я приобретём этот старинный дом.",5.3,5.0,coordination,stimul,22,174,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я и Боря подготовят промежуточный отчёт.,2.8,3.0,coordination,stimul,21,164,I_noun,3pl,and,SV
+Davidjuk_2023,Я или Андрей увидят этот кукольный спектакль.,3.0,3.0,coordination,stimul,2,12,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Олег уточнят необходимую информацию.",4.5,4.0,coordination,stimul,14,112,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И я, и Лёва решат сложную задачу.",2.4,2.0,coordination,stimul,25,200,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И я, и Андрей увижу кукольный спектакль.",3.3,3.0,coordination,stimul,4,29,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Гриша сыграет шахматную партию.,2.1,2.0,coordination,stimul,29,227,I_noun,3sg,and,SV
+Davidjuk_2023,Гоша или я начну этот непростой разговор.,4.3,4.0,coordination,stimul,28,217,noun_I,1sg,or,SV
+Davidjuk_2023,Никита и я внесут небольшой аванс.,2.4,2.0,coordination,stimul,31,244,noun_I,3pl,and,SV
+Davidjuk_2023,Вова или я споёт эту весёлую песню.,3.1,3.0,coordination,stimul,3,19,noun_I,3sg,or,SV
+Davidjuk_2023,Максим или я приобретёт этот старинный дом.,4.111111111111111,4.0,coordination,stimul,22,171,noun_I,3sg,or,SV
+Davidjuk_2023,Никита и я попросит дополнительный отгул.,2.9,3.0,coordination,stimul,10,75,noun_I,3sg,and,SV
+Davidjuk_2023,Я или Лёва произнесут эту торжественную речь.,3.9,4.0,coordination,stimul,30,236,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Гриша сыграем шахматную партию.",4.5,4.0,coordination,stimul,29,230,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я и Миша сдадут вступительный экзамен.,3.3,3.0,coordination,stimul,8,60,I_noun,3pl,and,SV
+Davidjuk_2023,"Или Паша, или я посетят этот научный семинар.",3.9,4.0,coordination,stimul,16,128,noun_I,3pl,or_or,SV
+Davidjuk_2023,Вася придумает фантастические повесть.,2.670886075949367,3.0,bad,filler,33,285,,,,
+Davidjuk_2023,Я и Яша приготовит вкусный обед.,2.4,2.0,coordination,stimul,30,235,I_noun,3sg,and,SV
+Davidjuk_2023,Игорь или я совершат это далёкое путешествие.,4.2,4.0,coordination,stimul,13,100,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Миша исправит эту случайную ошибку.",3.3,3.0,coordination,stimul,31,247,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Андрей увидит этот кукольный спектакль.",3.5,4.0,coordination,stimul,2,15,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или Игорь, или я совершим это далёкое путешествие.",5.3,5.0,coordination,stimul,13,102,noun_I,1pl,or_or,SV
+Davidjuk_2023,Гриша сварит овсяную кашу.,6.560509554140127,7.0,good,filler,33,259,,,,
+Davidjuk_2023,"Или я, или Влад покрасит этот новый забор.",3.2,3.0,coordination,stimul,21,167,I_noun,3sg,or_or,SV
+Davidjuk_2023,Миша и я сдадут вступительный экзамен.,2.7,3.0,coordination,stimul,8,60,noun_I,3pl,and,SV
+Davidjuk_2023,Я или Гриша переведу эту английскую фразу.,3.2,3.0,coordination,stimul,25,193,I_noun,1sg,or,SV
+Davidjuk_2023,"Или я, или Стёпа исполнит эту оперную арию.",2.7,3.0,coordination,stimul,4,31,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И Никита, и я внесу небольшой аванс.",2.0,2.0,coordination,stimul,31,245,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Олег, или я подпишем это деловое соглашение.",4.181818181818182,4.0,coordination,stimul,17,134,noun_I,1pl,or_or,SV
+Davidjuk_2023,Кирилл взвесит посылку или бандероль.,6.2625,6.0,good,filler,33,267,,,,
+Davidjuk_2023,"Или я, или Вадим соберут этот нужный материал.",3.3,3.0,coordination,stimul,9,72,I_noun,3pl,or_or,SV
+Davidjuk_2023,Юра или я устроим этот детский праздник.,3.8,4.0,coordination,stimul,12,90,noun_I,1pl,or,SV
+Davidjuk_2023,"Или Вова, или я споём эту весёлую песню.",5.0,5.0,coordination,stimul,3,22,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Максим приобретём этот старинный дом.",4.6,5.0,coordination,stimul,22,174,I_noun,1pl,or_or,SV
+Davidjuk_2023,Олег и я уточню необходимую информацию.,2.9,3.0,coordination,stimul,14,105,noun_I,1sg,and,SV
+Davidjuk_2023,Я и Паша посещу исторический музей.,1.9,2.0,coordination,stimul,11,81,I_noun,1sg,and,SV
+Davidjuk_2023,"И я, и Илья выполнит срочное поручение.",2.2222222222222223,2.0,coordination,stimul,19,151,I_noun,3sg,and_and,SV
+Davidjuk_2023,Ваня и я возьму краткосрочный отпуск.,2.6,3.0,coordination,stimul,6,41,noun_I,1sg,and,SV
+Davidjuk_2023,"Или Стёпа, или я исполним эту оперную арию.",4.4,4.0,coordination,stimul,4,30,noun_I,1pl,or_or,SV
+Davidjuk_2023,Лёва или я решим эту сложную задачу.,4.8,5.0,coordination,stimul,11,82,noun_I,1pl,or,SV
+Davidjuk_2023,Олег и я уточнят необходимую информацию.,3.3,3.0,coordination,stimul,14,108,noun_I,3pl,and,SV
+Davidjuk_2023,"Или Митя, или я составлю этот длинный список.",3.6,4.0,coordination,stimul,29,229,noun_I,1sg,or_or,SV
+Davidjuk_2023,Я и Максим прогуляют последний урок.,2.333333333333333,2.0,coordination,stimul,32,252,I_noun,3pl,and,SV
+Davidjuk_2023,"И Максим, и я прогуляем последний урок.",5.3,5.0,coordination,stimul,32,254,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И я, и Вова спою весёлую песню.",2.0,2.0,coordination,stimul,7,53,I_noun,1sg,and_and,SV
+Davidjuk_2023,Кирилл или я прополем эту капустную грядку.,5.555555555555555,6.0,coordination,stimul,10,74,noun_I,1pl,or,SV
+Davidjuk_2023,"Или Лёва, или Кирилл изучим эту научную статью.",3.2884615384615383,3.0,bad,filler,33,276,,,,
+Davidjuk_2023,"Или Митя, или я составим этот длинный список.",5.3,5.0,coordination,stimul,29,230,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Илья выполним это срочное задание.,4.9,5.0,coordination,stimul,7,50,I_noun,1pl,or,SV
+Davidjuk_2023,Дима и я послушаем праздничный концерт.,5.8,6.0,coordination,stimul,17,130,noun_I,1pl,and,SV
+Davidjuk_2023,Я и Вадим соберут нужный материал.,2.7,3.0,coordination,stimul,23,180,I_noun,3pl,and,SV
+Davidjuk_2023,"И Денис, и я пропущу финальный матч.",3.6,4.0,coordination,stimul,12,93,noun_I,1sg,and_and,SV
+Davidjuk_2023,Юра и я устроят детский праздник.,3.5,4.0,coordination,stimul,26,204,noun_I,3pl,and,SV
+Davidjuk_2023,Яша или я закажем этот дорогой десерт.,4.4,4.0,coordination,stimul,24,186,noun_I,1pl,or,SV
+Davidjuk_2023,Я и Лёва решим сложную задачу.,5.5,6.0,coordination,stimul,25,194,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Влад покажу короткую дорогу.,1.9,2.0,coordination,stimul,13,97,I_noun,1sg,and,SV
+Davidjuk_2023,"И я, и Костя расскажет интересную историю.",1.6,2.0,coordination,stimul,22,174,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я и Вова споют весёлую песню.,3.3,3.0,coordination,stimul,7,52,I_noun,3pl,and,SV
+Davidjuk_2023,Максим и я прогуляет последний урок.,1.5,2.0,coordination,stimul,32,251,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Яша закажу этот дорогой десерт.",3.1,3.0,coordination,stimul,24,189,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И я, и Никита внесут небольшой аванс.",2.9,3.0,coordination,stimul,31,248,I_noun,3pl,and_and,SV
+Davidjuk_2023,Денис и я пропустим финальный матч.,5.5,6.0,coordination,stimul,12,90,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Кирилл прополет эту капустную грядку.,4.1,4.0,coordination,stimul,10,75,I_noun,3sg,or,SV
+Davidjuk_2023,"И Володя, и я приобрету ценный опыт.",3.1,3.0,coordination,stimul,16,125,noun_I,1sg,and_and,SV
+Davidjuk_2023,Я и Стёпа попробую яблочный пирог.,2.333333333333333,2.0,coordination,stimul,9,65,I_noun,1sg,and,SV
+Davidjuk_2023,"И я, и Ваня возьмут краткосрочный отпуск.",2.8,3.0,coordination,stimul,6,48,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я или Илья выполнят это срочное задание.,3.25,3.0,coordination,stimul,7,52,I_noun,3pl,or,SV
+Davidjuk_2023,Я или Андрей увижу этот кукольный спектакль.,2.3,2.0,coordination,stimul,2,9,I_noun,1sg,or,SV
+Davidjuk_2023,Я или Кирилл прополют эту капустную грядку.,4.0,4.0,coordination,stimul,10,76,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Володя приобретут ценный опыт.,3.1,3.0,coordination,stimul,16,124,I_noun,3pl,and,SV
+Davidjuk_2023,Влад или я покрасит этот новый забор.,2.8,3.0,coordination,stimul,21,163,noun_I,3sg,or,SV
+Davidjuk_2023,"И Вадим, и я соберёт нужный материал.",2.7,3.0,coordination,stimul,23,183,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И я, и Володя приобрету ценный опыт.",2.2,2.0,coordination,stimul,16,125,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Володя приобретёт ценный опыт.,3.7,4.0,coordination,stimul,16,123,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Вова, или я спою эту весёлую песню.",4.4,4.0,coordination,stimul,3,21,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Кирилл, или я прополю эту капустную грядку.",3.5454545454545454,4.0,coordination,stimul,10,77,noun_I,1sg,or_or,SV
+Davidjuk_2023,Илья или я выполнят это срочное задание.,3.7,4.0,coordination,stimul,7,52,noun_I,3pl,or,SV
+Davidjuk_2023,Вадим и я соберу нужный материал.,2.2222222222222223,2.0,coordination,stimul,23,177,noun_I,1sg,and,SV
+Davidjuk_2023,Я или Олег подпишем это деловое соглашение.,4.5,4.0,coordination,stimul,17,130,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Дима, или я послушаем это голосовое сообщение.",4.1,4.0,coordination,stimul,5,38,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Лёва произнесут эту торжественную речь.",4.666666666666667,5.0,coordination,stimul,30,240,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И Кирилл, и я прополют капустную грядку.",2.7,3.0,coordination,stimul,24,192,noun_I,3pl,and_and,SV
+Davidjuk_2023,Я и Илья выполнит срочное поручение.,2.0,2.0,coordination,stimul,19,147,I_noun,3sg,and,SV
+Davidjuk_2023,Никита покрасит эту дубовую дверь.,6.48125,6.0,good,filler,33,259,,,,
+Davidjuk_2023,Я или Гоша начнёт этот непростой разговор.,2.6666666666666665,3.0,coordination,stimul,28,219,I_noun,3sg,or,SV
+Davidjuk_2023,Я и Гена продолжат заочное обучение.,3.5,4.0,coordination,stimul,15,116,I_noun,3pl,and,SV
+Davidjuk_2023,Гена или я раскроем это подлое преступление.,5.6,6.0,coordination,stimul,23,178,noun_I,1pl,or,SV
+Davidjuk_2023,Денис и я пропустят финальный матч.,3.1,3.0,coordination,stimul,12,92,noun_I,3pl,and,SV
+Davidjuk_2023,Яша и я приготовит вкусный обед.,2.3,2.0,coordination,stimul,30,235,noun_I,3sg,and,SV
+Davidjuk_2023,"И Илья, и я выполнит срочное поручение.",2.8,3.0,coordination,stimul,19,151,noun_I,3sg,and_and,SV
+Davidjuk_2023,Стёпа или я исполним эту оперную арию.,4.2,4.0,coordination,stimul,4,26,noun_I,1pl,or,SV
+Davidjuk_2023,Я и Боря подготовлю промежуточный отчёт.,2.2222222222222223,2.0,coordination,stimul,21,161,I_noun,1sg,and,SV
+Davidjuk_2023,"И Олег, и я уточнят необходимую информацию.",3.3,3.0,coordination,stimul,14,112,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Боря, или я закончу эту шахматную партию.",3.4444444444444446,3.0,coordination,stimul,27,213,noun_I,1sg,or_or,SV
+Davidjuk_2023,"И я, и Паша посещу исторический музей.",2.2,2.0,coordination,stimul,11,85,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Кирилл прополю эту капустную грядку.",2.5,2.0,coordination,stimul,10,77,I_noun,1sg,or_or,SV
+Davidjuk_2023,Вася получит медаль или кубок.,6.48125,6.0,good,filler,33,272,,,,
+Davidjuk_2023,"И Максим, и я прогуляю последний урок.",2.9,3.0,coordination,stimul,32,253,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Ваня, или я отправит это заказное письмо.",3.7,4.0,coordination,stimul,18,143,noun_I,3sg,or_or,SV
+Davidjuk_2023,"Или Гриша, или я переведут эту английскую фразу.",3.9,4.0,coordination,stimul,25,200,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И Максим, и я прогуляет последний урок.",2.1,2.0,coordination,stimul,32,255,noun_I,3sg,and_and,SV
+Davidjuk_2023,Володя и я приобретёт ценный опыт.,2.1,2.0,coordination,stimul,16,123,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Паша посещу этот научный семинар.",2.8,3.0,coordination,stimul,16,125,I_noun,1sg,or_or,SV
+Davidjuk_2023,Андрей наденет эту тёплую куртку.,6.40625,6.0,good,filler,33,258,,,,
+Davidjuk_2023,"Или я, или Вова спою эту весёлую песню.",2.9,3.0,coordination,stimul,3,21,I_noun,1sg,or_or,SV
+Davidjuk_2023,Слава и я получим двойную зарплату.,4.1,4.0,coordination,stimul,5,34,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Вася проведу это экстренное совещание.,4.0,4.0,coordination,stimul,1,1,I_noun,1sg,or,SV
+Davidjuk_2023,"И я, и Денис пропустит финальный матч.",3.0,3.0,coordination,stimul,12,95,I_noun,3sg,and_and,SV
+Davidjuk_2023,Саша или я отнесёт это тяжёлое ведро.,3.6,4.0,coordination,stimul,32,251,noun_I,3sg,or,SV
+Davidjuk_2023,Рома скачает детективный сериал.,6.40251572327044,6.0,good,filler,33,268,,,,
+Davidjuk_2023,Я и Никита внесут небольшой аванс.,2.9,3.0,coordination,stimul,31,244,I_noun,3pl,and,SV
+Davidjuk_2023,Я и Илья выполнят срочное поручение.,2.2,2.0,coordination,stimul,19,148,I_noun,3pl,and,SV
+Davidjuk_2023,"Или Гена, или я раскрою это подлое преступление.",3.333333333333333,3.0,coordination,stimul,23,181,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Кирилл прополют эту капустную грядку.",4.1,4.0,coordination,stimul,10,80,I_noun,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Вадим соберу этот нужный материал.",2.9,3.0,coordination,stimul,9,69,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Петя, или я поднимем этот важный вопрос.",4.8,5.0,coordination,stimul,15,118,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Илья выполню это срочное задание.",3.3,3.0,coordination,stimul,7,53,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И я, и Слава получим двойную зарплату.",3.6,4.0,coordination,stimul,5,38,I_noun,1pl,and_and,SV
+Davidjuk_2023,Лёва или я произнесёт эту торжественную речь.,4.4,4.0,coordination,stimul,30,235,noun_I,3sg,or,SV
+Davidjuk_2023,Я или Егор прочитаем эту вводную лекцию.,5.2,5.0,coordination,stimul,6,42,I_noun,1pl,or,SV
+Davidjuk_2023,Я и Андрей увидит кукольный спектакль.,1.8,2.0,coordination,stimul,4,27,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Гена, или я раскроют это подлое преступление.",3.090909090909091,3.0,coordination,stimul,23,184,noun_I,3pl,or_or,SV
+Davidjuk_2023,Максим и я сделаем домашнее задание.,4.7,5.0,coordination,stimul,3,18,noun_I,1pl,and,SV
+Davidjuk_2023,"И я, и Вадим соберу нужный материал.",1.8,2.0,coordination,stimul,23,181,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И Яша, и я приготовлю вкусный обед.",1.7,2.0,coordination,stimul,30,237,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Никита, или я побелит этот высокий потолок.",3.2,3.0,coordination,stimul,20,159,noun_I,3sg,or_or,SV
+Davidjuk_2023,"Или Игорь, или я совершат это далёкое путешествие.",3.0,3.0,coordination,stimul,13,104,noun_I,3pl,or_or,SV
+Davidjuk_2023,Володя спрячет подарок и цветы.,5.839743589743589,6.0,good,filler,33,261,,,,
+Davidjuk_2023,"Или Боря, или я закончит эту шахматную партию.",2.3,2.0,coordination,stimul,27,215,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И я, и Кирилл прополет капустную грядку.",2.4,2.0,coordination,stimul,24,191,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И я, и Игорь совершат далёкое путешествие.",2.4,2.0,coordination,stimul,28,224,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Данила, и я найдёт верный ответ.",1.4,1.0,coordination,stimul,20,159,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И Петя, и я нарисует подробную схему.",2.1,2.0,coordination,stimul,1,7,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Ваня напишет и реферат, и курсовую.",5.373417721518988,5.0,good,filler,33,257,,,,
+Davidjuk_2023,Вадим или я соберёт этот нужный материал.,3.2,3.0,coordination,stimul,9,67,noun_I,3sg,or,SV
+Davidjuk_2023,Слава и я получат двойную зарплату.,3.8,4.0,coordination,stimul,5,36,noun_I,3pl,and,SV
+Davidjuk_2023,"И Боря, и я подготовлю промежуточный отчёт.",2.8,3.0,coordination,stimul,21,165,noun_I,1sg,and_and,SV
+Davidjuk_2023,Влад и я покажем короткую дорогу.,4.0,4.0,coordination,stimul,13,98,noun_I,1pl,and,SV
+Davidjuk_2023,Саша или я отнесём это тяжёлое ведро.,4.8,5.0,coordination,stimul,32,250,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Ваня возьмёт краткосрочный отпуск.",2.1,2.0,coordination,stimul,6,47,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или Федя, или я выиграем этот теннисный турнир.",4.3,4.0,coordination,stimul,26,206,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Вася проведём это экстренное совещание.",4.7,5.0,coordination,stimul,1,6,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я или Егор прочитает эту вводную лекцию.,3.7777777777777777,4.0,coordination,stimul,6,43,I_noun,3sg,or,SV
+Davidjuk_2023,"И Слава, и я получу двойную зарплату.",3.2222222222222223,3.0,coordination,stimul,5,37,noun_I,1sg,and_and,SV
+Davidjuk_2023,Андрей и я увидят кукольный спектакль.,2.555555555555556,3.0,coordination,stimul,4,28,noun_I,3pl,and,SV
+Davidjuk_2023,Я и Лёва решит сложную задачу.,2.0,2.0,coordination,stimul,25,195,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Никита, или я внесу этот небольшой аванс.",3.4444444444444446,3.0,coordination,stimul,14,109,noun_I,1sg,or_or,SV
+Davidjuk_2023,Я или Слава купим эту известную картину.,5.9,6.0,coordination,stimul,19,146,I_noun,1pl,or,SV
+Davidjuk_2023,Кеша заправит грузовые автомобиль.,2.948051948051948,3.0,bad,filler,33,282,,,,
+Davidjuk_2023,Никита улучшит основные показатель.,2.729559748427673,3.0,bad,filler,33,283,,,,
+Davidjuk_2023,"И я, и Игорь совершим далёкое путешествие.",5.777777777777778,6.0,coordination,stimul,28,222,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Лёва решим эту сложную задачу.,5.1,5.0,coordination,stimul,11,82,I_noun,1pl,or,SV
+Davidjuk_2023,Влад или я покрасим этот новый забор.,4.181818181818182,4.0,coordination,stimul,21,162,noun_I,1pl,or,SV
+Davidjuk_2023,Вова и я спою весёлую песню.,1.7,2.0,coordination,stimul,7,49,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Гриша сыграет шахматную партию.",2.1,2.0,coordination,stimul,29,231,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И я, и Никита внесём небольшой аванс.",5.5,6.0,coordination,stimul,31,246,I_noun,1pl,and_and,SV
+Davidjuk_2023,Гриша проверит этот математический расчёт.,6.062893081761007,6.0,good,filler,33,261,,,,
+Davidjuk_2023,"И Гриша, и я сыграет шахматную партию.",2.0,2.0,coordination,stimul,29,231,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Или Юра, или я устроит этот детский праздник.",3.3,3.0,coordination,stimul,12,95,noun_I,3sg,or_or,SV
+Davidjuk_2023,Я или Кирилл прополю эту капустную грядку.,2.333333333333333,2.0,coordination,stimul,10,73,I_noun,1sg,or,SV
+Davidjuk_2023,"И я, и Гена продолжат заочное обучение.",2.9,3.0,coordination,stimul,15,120,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или Саша, или я отнесут это тяжёлое ведро.",3.6,4.0,coordination,stimul,32,256,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Игорь совершу далёкое путешествие.",2.6,3.0,coordination,stimul,28,221,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И Костя, и я расскажем интересную историю.",4.6,5.0,coordination,stimul,22,175,noun_I,3sg,and_and,SV
+Davidjuk_2023,Я или Игорь совершит это далёкое путешествие.,3.7777777777777777,4.0,coordination,stimul,13,99,I_noun,3sg,or,SV
+Davidjuk_2023,"Или Гена, или я раскроет это подлое преступление.",3.0,3.0,coordination,stimul,23,183,noun_I,3sg,or_or,SV
+Davidjuk_2023,Игорь и я совершат далёкое путешествие.,2.4,2.0,coordination,stimul,28,220,noun_I,3pl,and,SV
+Davidjuk_2023,Я или Слава купит эту известную картину.,3.1,3.0,coordination,stimul,19,147,I_noun,3sg,or,SV
+Davidjuk_2023,"И я, и Яша приготовят вкусный обед.",2.9,3.0,coordination,stimul,30,240,I_noun,3pl,and_and,SV
+Davidjuk_2023,Вова и я споёт весёлую песню.,3.0,3.0,coordination,stimul,7,51,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Денис пропустим финальный матч.",5.222222222222222,5.0,coordination,stimul,12,94,I_noun,1pl,and_and,SV
+Davidjuk_2023,Вова или я спою эту весёлую песню.,3.3,3.0,coordination,stimul,3,17,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Вадим соберёт нужный материал.",2.888888888888889,3.0,coordination,stimul,23,183,I_noun,3sg,and_and,SV
+Davidjuk_2023,Артём построит садовую беседку.,6.531645569620253,7.0,good,filler,33,271,,,,
+Davidjuk_2023,"И я, и Максим сделаем домашнее задание.",4.9,5.0,coordination,stimul,3,22,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Андрей увидим этот кукольный спектакль.",3.8,4.0,coordination,stimul,2,14,I_noun,1pl,or_or,SV
+Davidjuk_2023,"Или Егор, или я прочитаю эту вводную лекцию.",4.2,4.0,coordination,stimul,6,45,noun_I,1sg,or_or,SV
+Davidjuk_2023,Стёпа и я попробуют яблочный пирог.,4.1,4.0,coordination,stimul,9,68,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Никита побелим этот высокий потолок.",4.8,5.0,coordination,stimul,20,158,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я или Гена раскроет это подлое преступление.,4.2,4.0,coordination,stimul,23,179,I_noun,3sg,or,SV
+Davidjuk_2023,"И Егор, и я прочитает вводную лекцию.",2.9,3.0,coordination,stimul,18,143,noun_I,3sg,and_and,SV
+Davidjuk_2023,Я и Никита попросят дополнительный отгул.,3.4,3.0,coordination,stimul,10,76,I_noun,3pl,and,SV
+Davidjuk_2023,"И я, и Максим сделаю домашнее задание.",2.0,2.0,coordination,stimul,3,21,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Гриша сыграю шахматную партию.,2.333333333333333,2.0,coordination,stimul,29,225,I_noun,1sg,and,SV
+Davidjuk_2023,"Или я, или Яша закажут этот дорогой десерт.",3.4,3.0,coordination,stimul,24,192,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И я, и Денис пропущу финальный матч.",2.6,3.0,coordination,stimul,12,93,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я или Паша посетим этот научный семинар.,6.111111111111111,6.0,coordination,stimul,16,122,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Илья, или я выполню это срочное задание.",4.2,4.0,coordination,stimul,7,53,noun_I,1sg,or_or,SV
+Davidjuk_2023,Никита или я внесёт этот небольшой аванс.,5.0,5.0,coordination,stimul,14,107,noun_I,3sg,or,SV
+Davidjuk_2023,Я или Никита побелим этот высокий потолок.,6.2,6.0,coordination,stimul,20,154,I_noun,1pl,or,SV
+Davidjuk_2023,"И Слава, и я получит двойную зарплату.",2.2,2.0,coordination,stimul,5,39,noun_I,3sg,and_and,SV
+Davidjuk_2023,Максим продаст шкаф или кровать.,6.298136645962733,6.0,good,filler,33,265,,,,
+Davidjuk_2023,"Яша составит или письмо, или телеграмму.",5.24223602484472,5.0,good,filler,33,269,,,,
+Davidjuk_2023,Андрей и я увидит кукольный спектакль.,1.7777777777777777,2.0,coordination,stimul,4,27,noun_I,3sg,and,SV
+Davidjuk_2023,Юра или я устроят этот детский праздник.,3.7777777777777777,4.0,coordination,stimul,12,92,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Дима послушаем это голосовое сообщение.",4.5,4.0,coordination,stimul,5,38,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я и Костя расскажем интересную историю.,4.2,4.0,coordination,stimul,22,170,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Игорь совершу далёкое путешествие.,1.9,2.0,coordination,stimul,28,217,I_noun,1sg,and,SV
+Davidjuk_2023,Никита и я внесём небольшой аванс.,5.6,6.0,coordination,stimul,31,242,noun_I,1pl,and,SV
+Davidjuk_2023,Я и Ваня возьмут краткосрочный отпуск.,2.2222222222222223,2.0,coordination,stimul,6,44,I_noun,3pl,and,SV
+Davidjuk_2023,"Или я, или Влад покрасят этот новый забор.",4.1,4.0,coordination,stimul,21,168,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я и Гена продолжит заочное обучение.,3.0,3.0,coordination,stimul,15,115,I_noun,3sg,and,SV
+Davidjuk_2023,"И Максим, и я сделают домашнее задание.",2.6,3.0,coordination,stimul,3,24,noun_I,3pl,and_and,SV
+Davidjuk_2023,"И Юра, и я устроят детский праздник.",3.3,3.0,coordination,stimul,26,208,noun_I,3pl,and_and,SV
+Davidjuk_2023,Митя или я составлю этот длинный список.,3.333333333333333,3.0,coordination,stimul,29,225,noun_I,1sg,or,SV
+Davidjuk_2023,"Или Андрей, или я увидим этот кукольный спектакль.",4.4,4.0,coordination,stimul,2,14,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Вася проведём это экстренное совещание.,3.125,3.0,coordination,stimul,1,2,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Вова, или я споют эту весёлую песню.",3.6666666666666665,4.0,coordination,stimul,3,24,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И Стёпа, и я попробую яблочный пирог.",3.4,3.0,coordination,stimul,9,69,noun_I,1sg,and_and,SV
+Davidjuk_2023,Лёва и я решат сложную задачу.,3.9,4.0,coordination,stimul,25,196,noun_I,3pl,and,SV
+Davidjuk_2023,Я или Костя расскажет эту интересную историю.,1.9,2.0,coordination,stimul,8,59,I_noun,3sg,or,SV
+Davidjuk_2023,"И я, и Кирилл прополю капустную грядку.",1.8,2.0,coordination,stimul,24,189,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И я, и Олег уточнит необходимую информацию.",2.2,2.0,coordination,stimul,14,111,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или я, или Лёва решим эту сложную задачу.",3.1,3.0,coordination,stimul,11,86,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И я, и Никита попросим дополнительный отгул.",5.5,6.0,coordination,stimul,10,78,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я и Денис пропустит финальный матч.,2.0,2.0,coordination,stimul,12,91,I_noun,3sg,and,SV
+Davidjuk_2023,Никита или я внесу этот небольшой аванс.,2.727272727272727,3.0,coordination,stimul,14,105,noun_I,1sg,or,SV
+Davidjuk_2023,Яша запишет этот почтовую адрес.,2.906832298136646,3.0,bad,filler,33,283,,,,
+Davidjuk_2023,Кирилл помоет тарелку и чашку.,6.448717948717949,6.0,good,filler,33,263,,,,
+Davidjuk_2023,"И я, и Денис пропустят финальный матч.",2.4,2.0,coordination,stimul,12,96,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И я, и Гена продолжит заочное обучение.",2.6,3.0,coordination,stimul,15,119,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я или Миша исправлю эту случайную ошибку.,2.6666666666666665,3.0,coordination,stimul,31,241,I_noun,1sg,or,SV
+Davidjuk_2023,Я или Гоша начнут этот непростой разговор.,3.6,4.0,coordination,stimul,28,220,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Паша посетим исторический музей.",4.8,5.0,coordination,stimul,11,86,I_noun,1pl,and_and,SV
+Davidjuk_2023,Денис и Илья окажем неоценимую помощь.,2.873417721518988,3.0,bad,filler,33,277,,,,
+Davidjuk_2023,"Или я, или Миша исправят эту случайную ошибку.",2.7,3.0,coordination,stimul,31,248,I_noun,3pl,or_or,SV
+Davidjuk_2023,Влад и я покажет короткую дорогу.,2.1,2.0,coordination,stimul,13,99,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Петя нарисует подробную схему.",2.5,2.0,coordination,stimul,1,7,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И Максим, и я сделает домашнее задание.",2.4,2.0,coordination,stimul,3,23,noun_I,3sg,and_and,SV
+Davidjuk_2023,Дима или я послушаю это голосовое сообщение.,3.4,3.0,coordination,stimul,5,33,noun_I,1sg,or,SV
+Davidjuk_2023,"Или Гена, или я раскроем это подлое преступление.",5.2,5.0,coordination,stimul,23,182,noun_I,1pl,or_or,SV
+Davidjuk_2023,"И я, и Вася посмотрю документальный фильм.",2.2,2.0,coordination,stimul,2,13,I_noun,1sg,and_and,SV
+Davidjuk_2023,Вадим и я соберём нужный материал.,5.7,6.0,coordination,stimul,23,178,noun_I,1pl,and,SV
+Davidjuk_2023,"Вова подготовит или статью, или доклад.",5.826086956521739,6.0,good,filler,33,266,,,,
+Davidjuk_2023,"Или Никита, или я внесут этот небольшой аванс.",2.888888888888889,3.0,coordination,stimul,14,112,noun_I,3pl,or_or,SV
+Davidjuk_2023,Вася и я посмотрят документальный фильм.,2.7,3.0,coordination,stimul,2,12,noun_I,3pl,and,SV
+Davidjuk_2023,Я и Егор прочитает вводную лекцию.,2.1,2.0,coordination,stimul,18,139,I_noun,3sg,and,SV
+Davidjuk_2023,Никита или я побелю этот высокий потолок.,5.0,5.0,coordination,stimul,20,153,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Вова споёт весёлую песню.",2.9,3.0,coordination,stimul,7,55,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я или Саша отнесут это тяжёлое ведро.,3.1,3.0,coordination,stimul,32,252,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Володя приобрету ценный опыт.,2.9,3.0,coordination,stimul,16,121,I_noun,1sg,and,SV
+Davidjuk_2023,Петя привлечёт эту молодой публику.,2.7721518987341773,3.0,bad,filler,33,282,,,,
+Davidjuk_2023,Я или Митя составлю этот длинный список.,3.3,3.0,coordination,stimul,29,225,I_noun,1sg,or,SV
+Davidjuk_2023,Я и Олег уточним необходимую информацию.,4.7,5.0,coordination,stimul,14,106,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Федя разработает детальный план.,2.4,2.0,coordination,stimul,27,211,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Саша, или я отнесу это тяжёлое ведро.",4.4,4.0,coordination,stimul,32,253,noun_I,1sg,or_or,SV
+Davidjuk_2023,Я и Володя приобретём ценный опыт.,5.777777777777778,6.0,coordination,stimul,16,122,I_noun,1pl,and,SV
+Davidjuk_2023,Я или Егор прочитают эту вводную лекцию.,3.8,4.0,coordination,stimul,6,44,I_noun,3pl,or,SV
+Davidjuk_2023,Федя и я разработают детальный план.,3.1,3.0,coordination,stimul,27,212,noun_I,3pl,and,SV
+Davidjuk_2023,Я и Федя разработают детальный план.,2.2,2.0,coordination,stimul,27,212,I_noun,3pl,and,SV
+Davidjuk_2023,Влад или я покрасят этот новый забор.,4.1,4.0,coordination,stimul,21,164,noun_I,3pl,or,SV
+Davidjuk_2023,Я или Вася проведёт это экстренное совещание.,3.3,3.0,coordination,stimul,1,3,I_noun,3sg,or,SV
+Davidjuk_2023,Гриша и я сыграем шахматную партию.,3.8,4.0,coordination,stimul,29,226,noun_I,1pl,and,SV
+Davidjuk_2023,Лёва или я произнесут эту торжественную речь.,2.8,3.0,coordination,stimul,30,236,noun_I,3pl,or,SV
+Davidjuk_2023,"Или Миша, или я исправит эту случайную ошибку.",2.8,3.0,coordination,stimul,31,247,noun_I,3sg,or_or,SV
+Davidjuk_2023,Олег и я уточнит необходимую информацию.,3.2,3.0,coordination,stimul,14,107,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Володя приобретём ценный опыт.",4.4,4.0,coordination,stimul,16,126,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Паша посетят этот научный семинар.,3.3,3.0,coordination,stimul,16,124,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Костя расскажу интересную историю.",1.5,2.0,coordination,stimul,22,173,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И Дима, и я послушают праздничный концерт.",3.1,3.0,coordination,stimul,17,136,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Яша, или я закажет этот дорогой десерт.",2.272727272727273,2.0,coordination,stimul,24,191,noun_I,3sg,or_or,SV
+Davidjuk_2023,Олег и я уточним необходимую информацию.,5.4,5.0,coordination,stimul,14,106,noun_I,1pl,and,SV
+Davidjuk_2023,Денис и я пропущу финальный матч.,3.1,3.0,coordination,stimul,12,89,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Яша приготовлю вкусный обед.",1.8,2.0,coordination,stimul,30,237,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Игорь совершу это далёкое путешествие.",3.3,3.0,coordination,stimul,13,101,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Стёпа, или я исполню эту оперную арию.",3.888888888888889,4.0,coordination,stimul,4,29,noun_I,1sg,or_or,SV
+Davidjuk_2023,Яша или я закажу этот дорогой десерт.,4.9,5.0,coordination,stimul,24,185,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Лёва решит сложную задачу.",2.2,2.0,coordination,stimul,25,199,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И я, и Миша сдадим вступительный экзамен.",4.8,5.0,coordination,stimul,8,62,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И Яша, и я приготовят вкусный обед.",3.7,4.0,coordination,stimul,30,240,noun_I,3pl,and_and,SV
+Davidjuk_2023,"И я, и Костя расскажут интересную историю.",3.1,3.0,coordination,stimul,22,176,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Андрей увижу этот кукольный спектакль.",1.9,2.0,coordination,stimul,2,13,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Вася проведёт это экстренное совещание.",2.7,3.0,coordination,stimul,1,7,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я и Влад покажут короткую дорогу.,2.6,3.0,coordination,stimul,13,100,I_noun,3pl,and,SV
+Davidjuk_2023,"И Боря, и я подготовят промежуточный отчёт.",3.3,3.0,coordination,stimul,21,168,noun_I,3pl,and_and,SV
+Davidjuk_2023,Олег или я подпишут это деловое соглашение.,3.7,4.0,coordination,stimul,17,132,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Федя выиграют этот теннисный турнир.",4.0,4.0,coordination,stimul,26,208,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я и Денис пропущу финальный матч.,2.0,2.0,coordination,stimul,12,89,I_noun,1sg,and,SV
+Davidjuk_2023,"Или я, или Костя расскажет эту интересную историю.",3.5,4.0,coordination,stimul,8,62,I_noun,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Стёпа исполню эту оперную арию.",2.6,3.0,coordination,stimul,4,29,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Олег подпишем это деловое соглашение.",4.8,5.0,coordination,stimul,17,134,I_noun,1pl,or_or,SV
+Davidjuk_2023,Вадим или я соберём этот нужный материал.,5.6,6.0,coordination,stimul,9,66,noun_I,1pl,or,SV
+Davidjuk_2023,"И Гена, и я продолжу заочное обучение.",1.9,2.0,coordination,stimul,15,117,noun_I,1sg,and_and,SV
+Davidjuk_2023,"И Стёпа, и я попробуют яблочный пирог.",2.875,3.0,coordination,stimul,9,72,noun_I,3pl,and_and,SV
+Davidjuk_2023,"И я, и Стёпа попробуют яблочный пирог.",3.0,3.0,coordination,stimul,9,72,I_noun,3pl,and_and,SV
+Davidjuk_2023,Миша или я исправит эту случайную ошибку.,2.7,3.0,coordination,stimul,31,243,noun_I,3sg,or,SV
+Davidjuk_2023,"Или я, или Лёва произнесём эту торжественную речь.",4.6,5.0,coordination,stimul,30,238,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я или Саша отнесёт это тяжёлое ведро.,2.1,2.0,coordination,stimul,32,251,I_noun,3sg,or,SV
+Davidjuk_2023,Никита и я попросим дополнительный отгул.,4.7,5.0,coordination,stimul,10,74,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Игорь совершат это далёкое путешествие.,2.3,2.0,coordination,stimul,13,100,I_noun,3pl,or,SV
+Davidjuk_2023,"Или я, или Гена раскроют это подлое преступление.",3.0,3.0,coordination,stimul,23,184,I_noun,3pl,or_or,SV
+Davidjuk_2023,Стёпа и я попробует яблочный пирог.,2.8,3.0,coordination,stimul,9,67,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Гриша переведу эту английскую фразу.",2.6,3.0,coordination,stimul,25,197,I_noun,1sg,or_or,SV
+Davidjuk_2023,Вова и я споём весёлую песню.,4.8,5.0,coordination,stimul,7,50,noun_I,1pl,and,SV
+Davidjuk_2023,"Или Петя, или я поднимут этот важный вопрос.",3.090909090909091,3.0,coordination,stimul,15,120,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я или Боря закончу эту шахматную партию.,3.3,3.0,coordination,stimul,27,209,I_noun,1sg,or,SV
+Davidjuk_2023,"И я, и Федя разработаю детальный план.",1.9,2.0,coordination,stimul,27,213,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И Юра, и я устроит детский праздник.",2.7,3.0,coordination,stimul,26,207,noun_I,3sg,and_and,SV
+Davidjuk_2023,Петя и я нарисую подробную схему.,3.1,3.0,coordination,stimul,1,1,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Дима послушаю праздничный концерт.",2.1,2.0,coordination,stimul,17,133,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я или Паша посещу этот научный семинар.,1.9,2.0,coordination,stimul,16,121,I_noun,1sg,or,SV
+Davidjuk_2023,"И Никита, и я внесут небольшой аванс.",2.8,3.0,coordination,stimul,31,248,noun_I,3pl,and_and,SV
+Davidjuk_2023,"И Паша, и я посещу исторический музей.",2.6,3.0,coordination,stimul,11,85,noun_I,1sg,and_and,SV
+Davidjuk_2023,Я и Игорь совершат далёкое путешествие.,2.9,3.0,coordination,stimul,28,220,I_noun,3pl,and,SV
+Davidjuk_2023,"Или я, или Илья выполнят это срочное задание.",2.555555555555556,3.0,coordination,stimul,7,56,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И я, и Данила найдёт верный ответ.",2.5,2.0,coordination,stimul,20,159,I_noun,3sg,and_and,SV
+Davidjuk_2023,Максим продаст шкаф и кровать.,6.455696202531645,6.0,good,filler,33,258,,,,
+Davidjuk_2023,"Или я, или Петя поднимет этот важный вопрос.",3.5,4.0,coordination,stimul,15,119,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я или Никита внесут этот небольшой аванс.,3.6666666666666665,4.0,coordination,stimul,14,108,I_noun,3pl,or,SV
+Davidjuk_2023,"И Федя, и я разработаем детальный план.",5.4,5.0,coordination,stimul,27,214,noun_I,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Никита побелю этот высокий потолок.",2.571428571428572,3.0,coordination,stimul,20,157,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Вася посмотрим документальный фильм.,4.9,5.0,coordination,stimul,2,10,I_noun,1pl,and,SV
+Davidjuk_2023,Вова окончит строительные колледж.,3.358490566037736,3.0,bad,filler,33,287,,,,
+Davidjuk_2023,Гриша и я сыграю шахматную партию.,3.4,3.0,coordination,stimul,29,225,noun_I,1sg,and,SV
+Davidjuk_2023,Ваня и я возьмём краткосрочный отпуск.,5.9,6.0,coordination,stimul,6,42,noun_I,1pl,and,SV
+Davidjuk_2023,Лёва или я решат эту сложную задачу.,3.363636363636364,3.0,coordination,stimul,11,84,noun_I,3pl,or,SV
+Davidjuk_2023,"И Яша, и я приготовит вкусный обед.",2.8,3.0,coordination,stimul,30,239,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И Лёва, и я решат сложную задачу.",2.9,3.0,coordination,stimul,25,200,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Дима, или я послушают это голосовое сообщение.",3.9,4.0,coordination,stimul,5,40,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я или Юра устроит этот детский праздник.,2.3,2.0,coordination,stimul,12,91,I_noun,3sg,or,SV
+Davidjuk_2023,"Или Игорь, или я совершит это далёкое путешествие.",3.1,3.0,coordination,stimul,13,103,noun_I,3sg,or_or,SV
+Davidjuk_2023,Володя посадит берёзу или тополь.,6.28125,6.0,good,filler,33,270,,,,
+Davidjuk_2023,Гена или я раскроет это подлое преступление.,2.5,2.0,coordination,stimul,23,179,noun_I,3sg,or,SV
+Davidjuk_2023,"Или я, или Боря закончит эту шахматную партию.",3.8,4.0,coordination,stimul,27,215,I_noun,3sg,or_or,SV
+Davidjuk_2023,Гена и я продолжу заочное обучение.,1.6,2.0,coordination,stimul,15,113,noun_I,1sg,and,SV
+Davidjuk_2023,Я и Денис пропустят финальный матч.,2.8,3.0,coordination,stimul,12,92,I_noun,3pl,and,SV
+Davidjuk_2023,Илья поделит этот родительский наследство.,1.7701863354037266,2.0,bad,filler,33,287,,,,
+Davidjuk_2023,"Или я, или Яша закажет этот дорогой десерт.",3.7,4.0,coordination,stimul,24,191,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Максим приобрету этот старинный дом.",1.7,2.0,coordination,stimul,22,173,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Федя разработаем детальный план.,5.7,6.0,coordination,stimul,27,210,I_noun,1pl,and,SV
+Davidjuk_2023,"Или Федя, или я выиграет этот теннисный турнир.",4.0,4.0,coordination,stimul,26,207,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И я, и Никита внесу небольшой аванс.",3.0,3.0,coordination,stimul,31,245,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И я, и Федя разработают детальный план.",2.1,2.0,coordination,stimul,27,216,I_noun,3pl,and_and,SV
+Davidjuk_2023,Андрей или я увидим этот кукольный спектакль.,4.3,4.0,coordination,stimul,2,10,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Дима послушаем праздничный концерт.",4.0,4.0,coordination,stimul,17,134,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Андрей увидят этот кукольный спектакль.",4.2,4.0,coordination,stimul,2,16,I_noun,3pl,or_or,SV
+Davidjuk_2023,Данила и я найдём верный ответ.,5.2,5.0,coordination,stimul,20,154,noun_I,1pl,and,SV
+Davidjuk_2023,Гриша или я переведут эту английскую фразу.,3.3,3.0,coordination,stimul,25,196,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Боря закончим эту шахматную партию.",4.3,4.0,coordination,stimul,27,214,I_noun,1pl,or_or,SV
+Davidjuk_2023,Олег или я подпишем это деловое соглашение.,5.3,5.0,coordination,stimul,17,130,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Егор прочитаем вводную лекцию.",4.7,5.0,coordination,stimul,18,142,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Гриша переведут эту английскую фразу.",2.3,2.0,coordination,stimul,25,200,I_noun,3pl,or_or,SV
+Davidjuk_2023,Лёва или я произнесу эту торжественную речь.,2.909090909090909,3.0,coordination,stimul,30,233,noun_I,1sg,or,SV
+Davidjuk_2023,Я или Илья выполнит это срочное задание.,4.3,4.0,coordination,stimul,7,51,I_noun,3sg,or,SV
+Davidjuk_2023,"И я, и Вася посмотрят документальный фильм.",3.25,3.0,coordination,stimul,2,16,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я и Кирилл прополем капустную грядку.,5.0,5.0,coordination,stimul,24,186,I_noun,1pl,and,SV
+Davidjuk_2023,"И я, и Боря подготовим промежуточный отчёт.",4.0,4.0,coordination,stimul,21,166,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Кирилл прополет эту капустную грядку.",3.2,3.0,coordination,stimul,10,79,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И Петя, и я нарисую подробную схему.",2.9,3.0,coordination,stimul,1,5,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Ваня, или я отправят это заказное письмо.",2.5,2.0,coordination,stimul,18,144,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И Ваня, и я возьмёт краткосрочный отпуск.",2.2,2.0,coordination,stimul,6,47,noun_I,3sg,and_and,SV
+Davidjuk_2023,Я или Костя расскажу эту интересную историю.,2.555555555555556,3.0,coordination,stimul,8,57,I_noun,1sg,or,SV
+Davidjuk_2023,"Или я, или Максим приобретёт этот старинный дом.",3.2,3.0,coordination,stimul,22,175,I_noun,3sg,or_or,SV
+Davidjuk_2023,Дима или я послушаем это голосовое сообщение.,4.4,4.0,coordination,stimul,5,34,noun_I,1pl,or,SV
+Davidjuk_2023,"Или я, или Гриша переведём эту английскую фразу.",4.5,4.0,coordination,stimul,25,198,I_noun,1pl,or_or,SV
+Davidjuk_2023,"Или Олег, или я подпишет это деловое соглашение.",3.6,4.0,coordination,stimul,17,135,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И Федя, и я разработает детальный план.",2.7777777777777777,3.0,coordination,stimul,27,215,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Или Яша, или я закажут этот дорогой десерт.",3.5,4.0,coordination,stimul,24,192,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Влад покажут короткую дорогу.",2.9,3.0,coordination,stimul,13,104,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или Илья, или я выполним это срочное задание.",5.4,5.0,coordination,stimul,7,54,noun_I,1pl,or_or,SV
+Davidjuk_2023,Андрей наденет тёплую куртку.,6.563291139240507,7.0,good,filler,33,269,,,,
+Davidjuk_2023,"Или Дима, или я послушает это голосовое сообщение.",3.3,3.0,coordination,stimul,5,39,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И Кирилл, и я прополет капустную грядку.",2.4,2.0,coordination,stimul,24,191,noun_I,3sg,and_and,SV
+Davidjuk_2023,Паша или я посетим этот научный семинар.,4.6,5.0,coordination,stimul,16,122,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Слава получат двойную зарплату.",4.0,4.0,coordination,stimul,5,40,I_noun,3pl,and_and,SV
+Davidjuk_2023,Гена и я продолжит заочное обучение.,3.0,3.0,coordination,stimul,15,115,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Саша отнесу это тяжёлое ведро.",2.6,3.0,coordination,stimul,32,253,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Паша посетят исторический музей.,2.5,2.0,coordination,stimul,11,84,I_noun,3pl,and,SV
+Davidjuk_2023,Митя напечатает длинный рассказ.,6.503184713375796,7.0,good,filler,33,267,,,,
+Davidjuk_2023,"И Петя, и я нарисуют подробную схему.",3.5,4.0,coordination,stimul,1,8,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Лёва решу эту сложную задачу.",2.8,3.0,coordination,stimul,11,85,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И Максим, и я прогуляют последний урок.",2.7,3.0,coordination,stimul,32,256,noun_I,3pl,and_and,SV
+Davidjuk_2023,Я или Слава куплю эту известную картину.,3.2,3.0,coordination,stimul,19,145,I_noun,1sg,or,SV
+Davidjuk_2023,"Или Слава, или я купят эту известную картину.",3.1,3.0,coordination,stimul,19,152,noun_I,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Петя поднимем этот важный вопрос.",5.3,5.0,coordination,stimul,15,118,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Никита, и я попрошу дополнительный отгул.",3.3,3.0,coordination,stimul,10,77,noun_I,1sg,and_and,SV
+Davidjuk_2023,Я или Дима послушает это голосовое сообщение.,4.1,4.0,coordination,stimul,5,35,I_noun,3sg,or,SV
+Davidjuk_2023,Я или Вася проведут это экстренное совещание.,3.9,4.0,coordination,stimul,1,4,I_noun,3pl,or,SV
+Davidjuk_2023,"Или Лёва, или я произнесём эту торжественную речь.",5.111111111111111,5.0,coordination,stimul,30,238,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я и Олег уточнят необходимую информацию.,3.333333333333333,3.0,coordination,stimul,14,108,I_noun,3pl,and,SV
+Davidjuk_2023,"И Денис, и я пропустят финальный матч.",2.5,2.0,coordination,stimul,12,96,noun_I,3pl,and_and,SV
+Davidjuk_2023,Я или Петя поднимут этот важный вопрос.,2.7,3.0,coordination,stimul,15,116,I_noun,3pl,or,SV
+Davidjuk_2023,"Или Юра, или я устроим этот детский праздник.",4.5,4.0,coordination,stimul,12,94,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или Олег, или я подпишу это деловое соглашение.",4.1,4.0,coordination,stimul,17,133,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Дима послушаю это голосовое сообщение.",3.5,4.0,coordination,stimul,5,37,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Гоша, или я начнут этот непростой разговор.",3.0,3.0,coordination,stimul,28,224,noun_I,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Гена раскрою это подлое преступление.",2.5,2.0,coordination,stimul,23,181,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Ваня отправит это заказное письмо.,3.5,4.0,coordination,stimul,18,139,I_noun,3sg,or,SV
+Davidjuk_2023,Андрей или я увидят этот кукольный спектакль.,3.4,3.0,coordination,stimul,2,12,noun_I,3pl,or,SV
+Davidjuk_2023,"Или Влад, или я покрасят этот новый забор.",2.6,3.0,coordination,stimul,21,168,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И Вова, и я споют весёлую песню.",2.3,2.0,coordination,stimul,7,56,noun_I,3pl,and_and,SV
+Davidjuk_2023,Костя и я расскажу интересную историю.,2.3,2.0,coordination,stimul,22,169,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Никита попрошу дополнительный отгул.",2.888888888888889,3.0,coordination,stimul,10,77,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Паша посетим этот научный семинар.",4.6,5.0,coordination,stimul,16,126,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Никита, и я внесёт небольшой аванс.",2.6,3.0,coordination,stimul,31,247,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И я, и Кирилл прополют капустную грядку.",3.2,3.0,coordination,stimul,24,192,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я и Петя нарисует подробную схему.,1.9,2.0,coordination,stimul,1,3,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Яша, или я закажем этот дорогой десерт.",4.1,4.0,coordination,stimul,24,190,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я и Максим сделаем домашнее задание.,4.9,5.0,coordination,stimul,3,18,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Яша приготовлю вкусный обед.,1.8,2.0,coordination,stimul,30,233,I_noun,1sg,and,SV
+Davidjuk_2023,Я и Андрей увижу кукольный спектакль.,1.6666666666666667,2.0,coordination,stimul,4,25,I_noun,1sg,and,SV
+Davidjuk_2023,Митя или я составят этот длинный список.,4.3,4.0,coordination,stimul,29,228,noun_I,3pl,or,SV
+Davidjuk_2023,"Или Кирилл, или я прополют эту капустную грядку.",2.6666666666666665,3.0,coordination,stimul,10,80,noun_I,3pl,or_or,SV
+Davidjuk_2023,"Или Яша, или я закажу этот дорогой десерт.",4.7,5.0,coordination,stimul,24,189,noun_I,1sg,or_or,SV
+Davidjuk_2023,Рома скачает этот детективный сериал.,6.327044025157233,6.0,good,filler,33,257,,,,
+Davidjuk_2023,Я или Петя подниму этот важный вопрос.,3.5,4.0,coordination,stimul,15,113,I_noun,1sg,or,SV
+Davidjuk_2023,Илья и я выполню срочное поручение.,2.0,2.0,coordination,stimul,19,145,noun_I,1sg,and,SV
+Davidjuk_2023,"Или я, или Вадим соберёт этот нужный материал.",3.5,4.0,coordination,stimul,9,71,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Никита внесу этот небольшой аванс.",3.3,3.0,coordination,stimul,14,109,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Никита внесёт этот небольшой аванс.,3.555555555555556,4.0,coordination,stimul,14,107,I_noun,3sg,or,SV
+Davidjuk_2023,Кирилл или я прополют эту капустную грядку.,3.555555555555556,4.0,coordination,stimul,10,76,noun_I,3pl,or,SV
+Davidjuk_2023,Юра или я устрою этот детский праздник.,4.3,4.0,coordination,stimul,12,89,noun_I,1sg,or,SV
+Davidjuk_2023,Петя и я нарисуют подробную схему.,3.9,4.0,coordination,stimul,1,4,noun_I,3pl,and,SV
+Davidjuk_2023,"И Гена, и я продолжим заочное обучение.",4.9,5.0,coordination,stimul,15,118,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Олег, и я уточним необходимую информацию.",3.2222222222222223,3.0,coordination,stimul,14,110,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Юра устроим детский праздник.,6.0,6.0,coordination,stimul,26,202,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Вова спою весёлую песню.,2.2,2.0,coordination,stimul,7,49,I_noun,1sg,and,SV
+Davidjuk_2023,"И Максим, и я сделаем домашнее задание.",4.0,4.0,coordination,stimul,3,22,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Кирилл прополю капустную грядку.,3.2,3.0,coordination,stimul,24,185,I_noun,1sg,and,SV
+Davidjuk_2023,Гена и я продолжат заочное обучение.,3.5,4.0,coordination,stimul,15,116,noun_I,3pl,and,SV
+Davidjuk_2023,"И Вася, и я посмотрю документальный фильм.",2.7,3.0,coordination,stimul,2,13,noun_I,1sg,and_and,SV
+Davidjuk_2023,"И я, и Данила найду верный ответ.",2.8,3.0,coordination,stimul,20,157,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или Костя, или я расскажу эту интересную историю.",5.2,5.0,coordination,stimul,8,61,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Миша, или я исправим эту случайную ошибку.",5.0,5.0,coordination,stimul,31,246,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Костя расскажем эту интересную историю.",4.666666666666667,5.0,coordination,stimul,8,63,I_noun,3sg,or_or,SV
+Davidjuk_2023,Кирилл и я прополю капустную грядку.,3.8,4.0,coordination,stimul,24,185,noun_I,1sg,and,SV
+Davidjuk_2023,Вася и я посмотрю документальный фильм.,1.6,2.0,coordination,stimul,2,9,noun_I,1sg,and,SV
+Davidjuk_2023,"Или Лёва, или я произнесу эту торжественную речь.",3.7,4.0,coordination,stimul,30,237,noun_I,1sg,or_or,SV
+Davidjuk_2023,"И Андрей, и я увижу кукольный спектакль.",3.4,3.0,coordination,stimul,4,29,noun_I,1sg,and_and,SV
+Davidjuk_2023,Лёва или я произнесём эту торжественную речь.,5.111111111111111,5.0,coordination,stimul,30,234,noun_I,1pl,or,SV
+Davidjuk_2023,"Или Паша, или я посетим этот научный семинар.",4.2,4.0,coordination,stimul,16,126,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Илья выполнит это срочное задание.",4.6,5.0,coordination,stimul,7,55,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И я, и Дима послушает праздничный концерт.",2.1,2.0,coordination,stimul,17,135,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или Вадим, или я соберём этот нужный материал.",3.636363636363636,4.0,coordination,stimul,9,70,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Боря закончат эту шахматную партию.,3.0,3.0,coordination,stimul,27,212,I_noun,3pl,or,SV
+Davidjuk_2023,Максим и я сделаю домашнее задание.,3.1,3.0,coordination,stimul,3,17,noun_I,1sg,and,SV
+Davidjuk_2023,Стёпа или я исполню эту оперную арию.,4.4,4.0,coordination,stimul,4,25,noun_I,1sg,or,SV
+Davidjuk_2023,Я и Никита внесёт небольшой аванс.,2.888888888888889,3.0,coordination,stimul,31,243,I_noun,3sg,and,SV
+Davidjuk_2023,Я и Дима послушают праздничный концерт.,3.6,4.0,coordination,stimul,17,132,I_noun,3pl,and,SV
+Davidjuk_2023,Андрей и Федя поймаем крупную рыбу.,2.4713375796178343,2.0,bad,filler,33,273,,,,
+Davidjuk_2023,"Или Вова, или Серёжа примем это непростое решение.",3.062111801242236,3.0,bad,filler,33,280,,,,
+Davidjuk_2023,"И я, и Олег уточню необходимую информацию.",2.1,2.0,coordination,stimul,14,109,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И я, и Юра устроим детский праздник.",5.3,5.0,coordination,stimul,26,206,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И я, и Егор прочитаю вводную лекцию.",1.8,2.0,coordination,stimul,18,141,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Максим прогуляет последний урок.,2.555555555555556,3.0,coordination,stimul,32,251,I_noun,3sg,and,SV
+Davidjuk_2023,Я и Костя расскажут интересную историю.,3.125,3.0,coordination,stimul,22,172,I_noun,3pl,and,SV
+Davidjuk_2023,Я и Паша посетит исторический музей.,2.111111111111111,2.0,coordination,stimul,11,83,I_noun,3sg,and,SV
+Davidjuk_2023,Петя и я нарисуем подробную схему.,6.4,6.0,coordination,stimul,1,2,noun_I,1pl,and,SV
+Davidjuk_2023,"Или я, или Никита внесём этот небольшой аванс.",4.5,4.0,coordination,stimul,14,110,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я или Петя поднимет этот важный вопрос.,4.4,4.0,coordination,stimul,15,115,I_noun,3sg,or,SV
+Davidjuk_2023,"Яша подготовит и статью, и доклад.",5.835443037974684,6.0,good,filler,33,266,,,,
+Davidjuk_2023,"И Данила, и я найдут верный ответ.",2.4,2.0,coordination,stimul,20,160,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Игорь, или я совершу это далёкое путешествие.",3.4,3.0,coordination,stimul,13,101,noun_I,1sg,or_or,SV
+Davidjuk_2023,Егор и я прочитают вводную лекцию.,3.8,4.0,coordination,stimul,18,140,noun_I,3pl,and,SV
+Davidjuk_2023,"Или Юра, или я устроят этот детский праздник.",3.6666666666666665,4.0,coordination,stimul,12,96,noun_I,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Ваня отправят это заказное письмо.",3.7777777777777777,4.0,coordination,stimul,18,144,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я или Костя расскажут эту интересную историю.,3.9,4.0,coordination,stimul,8,60,I_noun,3pl,or,SV
+Davidjuk_2023,Я или Никита внесу этот небольшой аванс.,2.333333333333333,2.0,coordination,stimul,14,105,I_noun,1sg,or,SV
+Davidjuk_2023,Гоша или я начнём этот непростой разговор.,4.4,4.0,coordination,stimul,28,218,noun_I,1pl,or,SV
+Davidjuk_2023,Я или Саша отнесём это тяжёлое ведро.,4.7,5.0,coordination,stimul,32,250,I_noun,1pl,or,SV
+Davidjuk_2023,"И Дима, и я послушаю праздничный концерт.",4.3,4.0,coordination,stimul,17,133,noun_I,1sg,and_and,SV
+Davidjuk_2023,"И я, и Паша посетит исторический музей.",3.0,3.0,coordination,stimul,11,87,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или я, или Ваня отправим это заказное письмо.",3.1,3.0,coordination,stimul,18,142,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И я, и Ваня возьму краткосрочный отпуск.",2.1,2.0,coordination,stimul,6,45,I_noun,1sg,and_and,SV
+Davidjuk_2023,Федя или я выиграем этот теннисный турнир.,5.2,5.0,coordination,stimul,26,202,noun_I,1pl,or,SV
+Davidjuk_2023,"И Федя, и я разработаю детальный план.",2.6,3.0,coordination,stimul,27,213,noun_I,1sg,and_and,SV
+Davidjuk_2023,Вова или я споём эту весёлую песню.,4.4,4.0,coordination,stimul,3,18,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Володя приобретут ценный опыт.",3.0,3.0,coordination,stimul,16,128,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Андрей, и я увидит кукольный спектакль.",1.5,2.0,coordination,stimul,4,31,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И я, и Гриша сыграю шахматную партию.",2.333333333333333,2.0,coordination,stimul,29,229,I_noun,1sg,and_and,SV
+Davidjuk_2023,Максим или я приобретём этот старинный дом.,5.3,5.0,coordination,stimul,22,170,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Кирилл прополем капустную грядку.",4.5,4.0,coordination,stimul,24,190,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И Ваня, и я возьмём краткосрочный отпуск.",3.7,4.0,coordination,stimul,6,46,noun_I,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Вова споёт эту весёлую песню.",4.3,4.0,coordination,stimul,3,23,I_noun,3sg,or_or,SV
+Davidjuk_2023,Кирилл или я прополю эту капустную грядку.,4.1,4.0,coordination,stimul,10,73,noun_I,1sg,or,SV
+Davidjuk_2023,Я и Максим сделает домашнее задание.,2.4,2.0,coordination,stimul,3,19,I_noun,3sg,and,SV
+Davidjuk_2023,"И Боря, и я подготовит промежуточный отчёт.",2.2,2.0,coordination,stimul,21,167,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И я, и Максим прогуляем последний урок.",4.7,5.0,coordination,stimul,32,254,I_noun,1pl,and_and,SV
+Davidjuk_2023,Петя или я подниму этот важный вопрос.,3.0,3.0,coordination,stimul,15,113,noun_I,1sg,or,SV
+Davidjuk_2023,"И Гена, и я продолжит заочное обучение.",2.6,3.0,coordination,stimul,15,119,noun_I,3sg,and_and,SV
+Davidjuk_2023,Вадим или я соберут этот нужный материал.,2.7,3.0,coordination,stimul,9,68,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Юра устрою этот детский праздник.",2.2,2.0,coordination,stimul,12,93,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И Илья, и я выполню срочное поручение.",1.9,2.0,coordination,stimul,19,149,noun_I,1sg,and_and,SV
+Davidjuk_2023,Яша или я закажут этот дорогой десерт.,2.6666666666666665,3.0,coordination,stimul,24,188,noun_I,3pl,or,SV
+Davidjuk_2023,Никита и я попросят дополнительный отгул.,3.6,4.0,coordination,stimul,10,76,noun_I,3pl,and,SV
+Davidjuk_2023,"Или Гоша, или я начнём этот непростой разговор.",4.6,5.0,coordination,stimul,28,222,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Саша отнесём это тяжёлое ведро.",4.8,5.0,coordination,stimul,32,254,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Гриша, и я сыграю шахматную партию.",2.6,3.0,coordination,stimul,29,229,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Илья выполним это срочное задание.",5.6,6.0,coordination,stimul,7,54,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Вадим, и я соберём нужный материал.",4.8,5.0,coordination,stimul,23,182,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Данила, и я найдём верный ответ.",6.1,6.0,coordination,stimul,20,158,noun_I,1pl,and_and,SV
+Davidjuk_2023,Андрей или я увидит этот кукольный спектакль.,3.0,3.0,coordination,stimul,2,11,noun_I,3sg,or,SV
+Davidjuk_2023,Никита или я внесём этот небольшой аванс.,4.4,4.0,coordination,stimul,14,106,noun_I,1pl,or,SV
+Davidjuk_2023,"Или я, или Егор прочитает эту вводную лекцию.",5.0,5.0,coordination,stimul,6,47,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или Никита, или я побелю этот высокий потолок.",3.5,4.0,coordination,stimul,20,157,noun_I,1sg,or_or,SV
+Davidjuk_2023,Володя и я приобрету ценный опыт.,3.0,3.0,coordination,stimul,16,121,noun_I,1sg,and,SV
+Davidjuk_2023,Слава или я купит эту известную картину.,2.8,3.0,coordination,stimul,19,147,noun_I,3sg,or,SV
+Davidjuk_2023,"И Паша, и я посетят исторический музей.",2.6,3.0,coordination,stimul,11,88,noun_I,3pl,and_and,SV
+Davidjuk_2023,"И Максим, и я сделаю домашнее задание.",1.8,2.0,coordination,stimul,3,21,noun_I,1sg,and_and,SV
+Davidjuk_2023,Я и Влад покажем короткую дорогу.,5.1,5.0,coordination,stimul,13,98,I_noun,1pl,and,SV
+Davidjuk_2023,"И Андрей, и я увидят кукольный спектакль.",2.1,2.0,coordination,stimul,4,32,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Лёва решат эту сложную задачу.",4.3,4.0,coordination,stimul,11,88,I_noun,3pl,or_or,SV
+Davidjuk_2023,Олег или я подпишу это деловое соглашение.,2.9,3.0,coordination,stimul,17,129,noun_I,1sg,or,SV
+Davidjuk_2023,"И Егор, и я прочитаю вводную лекцию.",2.5,2.0,coordination,stimul,18,141,noun_I,1sg,and_and,SV
+Davidjuk_2023,Вася и я посмотрим документальный фильм.,5.111111111111111,5.0,coordination,stimul,2,10,noun_I,1pl,and,SV
+Davidjuk_2023,Денис и я пропустит финальный матч.,3.0,3.0,coordination,stimul,12,91,noun_I,3sg,and,SV
+Davidjuk_2023,Я или Стёпа исполнит эту оперную арию.,2.8,3.0,coordination,stimul,4,27,I_noun,3sg,or,SV
+Davidjuk_2023,"Или я, или Боря закончат эту шахматную партию.",2.5,2.0,coordination,stimul,27,216,I_noun,3pl,or_or,SV
+Davidjuk_2023,Федя или я выиграет этот теннисный турнир.,3.7,4.0,coordination,stimul,26,203,noun_I,3sg,or,SV
+Davidjuk_2023,"Или Миша, или я исправлю эту случайную ошибку.",3.9,4.0,coordination,stimul,31,245,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Лёва, или я произнесёт эту торжественную речь.",3.7,4.0,coordination,stimul,30,239,noun_I,3sg,or_or,SV
+Davidjuk_2023,Вадим и я соберут нужный материал.,1.8,2.0,coordination,stimul,23,180,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Ваня отправит это заказное письмо.",4.1,4.0,coordination,stimul,18,143,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Гена раскроем это подлое преступление.",5.7,6.0,coordination,stimul,23,182,I_noun,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Никита внесут этот небольшой аванс.",3.9,4.0,coordination,stimul,14,112,I_noun,3pl,or_or,SV
+Davidjuk_2023,Федя выразит всеобщие недовольство.,3.961783439490446,4.0,bad,filler,33,281,,,,
+Davidjuk_2023,"И я, и Петя нарисуем подробную схему.",5.2,5.0,coordination,stimul,1,6,I_noun,1pl,and_and,SV
+Davidjuk_2023,Паша и я посетит исторический музей.,2.6,3.0,coordination,stimul,11,83,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Юра устроит детский праздник.",2.4,2.0,coordination,stimul,26,207,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или Илья, или я выполнят это срочное задание.",2.272727272727273,2.0,coordination,stimul,7,56,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Андрей увидят кукольный спектакль.",2.555555555555556,3.0,coordination,stimul,4,32,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Никита побелят этот высокий потолок.",2.888888888888889,3.0,coordination,stimul,20,160,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я или Максим приобретут этот старинный дом.,4.5,4.0,coordination,stimul,22,172,I_noun,3pl,or,SV
+Davidjuk_2023,"Или Егор, или я прочитает эту вводную лекцию.",3.6666666666666665,4.0,coordination,stimul,6,47,noun_I,3sg,or_or,SV
+Davidjuk_2023,Игорь или я совершим это далёкое путешествие.,3.5454545454545454,4.0,coordination,stimul,13,98,noun_I,1pl,or,SV
+Davidjuk_2023,"И Денис, и я пропустит финальный матч.",2.1,2.0,coordination,stimul,12,95,noun_I,3sg,and_and,SV
+Davidjuk_2023,Боря и я подготовят промежуточный отчёт.,3.2,3.0,coordination,stimul,21,164,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Игорь совершат это далёкое путешествие.",4.5,4.0,coordination,stimul,13,104,I_noun,3pl,or_or,SV
+Davidjuk_2023,Илья и я выполнят срочное поручение.,2.9,3.0,coordination,stimul,19,148,noun_I,3pl,and,SV
+Davidjuk_2023,Влад или я покрашу этот новый забор.,3.9,4.0,coordination,stimul,21,161,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Вадим соберём нужный материал.",5.2,5.0,coordination,stimul,23,182,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Лёва решу эту сложную задачу.,2.4444444444444446,2.0,coordination,stimul,11,81,I_noun,1sg,or,SV
+Davidjuk_2023,"И я, и Вася посмотрим документальный фильм.",4.5,4.0,coordination,stimul,2,14,I_noun,1pl,and_and,SV
+Davidjuk_2023,Костя или я расскажем эту интересную историю.,4.2,4.0,coordination,stimul,8,58,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Петя нарисую подробную схему.",2.4,2.0,coordination,stimul,1,5,I_noun,1sg,and_and,SV
+Davidjuk_2023,Митя или я составим этот длинный список.,3.909090909090909,4.0,coordination,stimul,29,226,noun_I,1pl,or,SV
+Davidjuk_2023,Илья поделит родительские наследство.,4.140127388535032,4.0,bad,filler,33,284,,,,
+Davidjuk_2023,Я и Максим сделают домашнее задание.,2.8,3.0,coordination,stimul,3,20,I_noun,3pl,and,SV
+Davidjuk_2023,"Или я, или Вася проведут это экстренное совещание.",2.6,3.0,coordination,stimul,1,8,I_noun,3pl,or_or,SV
+Davidjuk_2023,Максим или я приобретут этот старинный дом.,2.7,3.0,coordination,stimul,22,172,noun_I,3pl,or,SV
+Davidjuk_2023,Миша или я исправим эту случайную ошибку.,6.1,6.0,coordination,stimul,31,242,noun_I,1pl,or,SV
+Davidjuk_2023,"Или Кирилл, или я прополет эту капустную грядку.",4.444444444444445,4.0,coordination,stimul,10,79,noun_I,3sg,or_or,SV
+Davidjuk_2023,Игорь и я совершу далёкое путешествие.,3.0,3.0,coordination,stimul,28,217,noun_I,1sg,and,SV
+Davidjuk_2023,Я или Влад покрасит этот новый забор.,3.3,3.0,coordination,stimul,21,163,I_noun,3sg,or,SV
+Davidjuk_2023,Федя или я выиграют этот теннисный турнир.,3.0,3.0,coordination,stimul,26,204,noun_I,3pl,or,SV
+Davidjuk_2023,"И я, и Стёпа попробует яблочный пирог.",2.1,2.0,coordination,stimul,9,71,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или Ваня, или я отправлю это заказное письмо.",2.636363636363636,3.0,coordination,stimul,18,141,noun_I,1sg,or_or,SV
+Davidjuk_2023,Володя и я приобретут ценный опыт.,2.8,3.0,coordination,stimul,16,124,noun_I,3pl,and,SV
+Davidjuk_2023,Я или Митя составят этот длинный список.,2.4,2.0,coordination,stimul,29,228,I_noun,3pl,or,SV
+Davidjuk_2023,"Или Паша, или я посещу этот научный семинар.",5.222222222222222,5.0,coordination,stimul,16,125,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Юра устроим этот детский праздник.",4.8,5.0,coordination,stimul,12,94,I_noun,1pl,or_or,SV
+Davidjuk_2023,Дима и я послушает праздничный концерт.,2.1,2.0,coordination,stimul,17,131,noun_I,3sg,and,SV
+Davidjuk_2023,"Или Вася, или я проведёт это экстренное совещание.",3.2222222222222223,3.0,coordination,stimul,1,7,noun_I,3sg,or_or,SV
+Davidjuk_2023,Гоша или я начнут этот непростой разговор.,3.1,3.0,coordination,stimul,28,220,noun_I,3pl,or,SV
+Davidjuk_2023,Я или Олег подпишет это деловое соглашение.,3.9,4.0,coordination,stimul,17,131,I_noun,3sg,or,SV
+Davidjuk_2023,Я или Игорь совершу это далёкое путешествие.,2.571428571428572,3.0,coordination,stimul,13,97,I_noun,1sg,or,SV
+Davidjuk_2023,Максим и я сделает домашнее задание.,2.3,2.0,coordination,stimul,3,19,noun_I,3sg,and,SV
+Davidjuk_2023,Максим испытает сильные удивление.,3.329113924050633,3.0,bad,filler,33,286,,,,
+Davidjuk_2023,Артём и Дима продадим плохую картину.,2.39622641509434,2.0,bad,filler,33,279,,,,
+Davidjuk_2023,Игорь или я совершит это далёкое путешествие.,3.6,4.0,coordination,stimul,13,99,noun_I,3sg,or,SV
+Davidjuk_2023,"Или я, или Никита внесёт этот небольшой аванс.",3.8,4.0,coordination,stimul,14,111,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я и Олег уточнит необходимую информацию.,2.8,3.0,coordination,stimul,14,107,I_noun,3sg,and,SV
+Davidjuk_2023,Вася и я посмотрит документальный фильм.,3.1,3.0,coordination,stimul,2,11,noun_I,3sg,and,SV
+Davidjuk_2023,"И Гриша, и я сыграем шахматную партию.",4.4,4.0,coordination,stimul,29,230,noun_I,1pl,and_and,SV
+Davidjuk_2023,"Или Вася, или я проведём это экстренное совещание.",4.0,4.0,coordination,stimul,1,6,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Егор прочитаю эту вводную лекцию.",2.1,2.0,coordination,stimul,6,45,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Егор прочитают вводную лекцию.,3.1,3.0,coordination,stimul,18,140,I_noun,3pl,and,SV
+Davidjuk_2023,"Или Вова, или я споёт эту весёлую песню.",2.7,3.0,coordination,stimul,3,23,noun_I,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Ваня отправлю это заказное письмо.",2.3,2.0,coordination,stimul,18,141,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Лёва решат эту сложную задачу.,2.7,3.0,coordination,stimul,11,84,I_noun,3pl,or,SV
+Davidjuk_2023,Я или Федя выиграют этот теннисный турнир.,5.1,5.0,coordination,stimul,26,204,I_noun,3pl,or,SV
+Davidjuk_2023,Слава или я куплю эту известную картину.,3.3,3.0,coordination,stimul,19,145,noun_I,1sg,or,SV
+Davidjuk_2023,Максим окончит этот строительную колледж.,3.00625,3.0,bad,filler,33,288,,,,
+Davidjuk_2023,"И Яша, и Данила нарушим строгий дедлайн.",2.78343949044586,3.0,bad,filler,33,280,,,,
+Davidjuk_2023,"И я, и Лёва решим сложную задачу.",4.9,5.0,coordination,stimul,25,198,I_noun,1pl,and_and,SV
+Davidjuk_2023,Боря и я подготовим промежуточный отчёт.,4.444444444444445,4.0,coordination,stimul,21,162,noun_I,1pl,and,SV
+Davidjuk_2023,Миша или я исправлю эту случайную ошибку.,3.9,4.0,coordination,stimul,31,241,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Илья выполню срочное поручение.",2.1,2.0,coordination,stimul,19,149,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я или Максим приобретёт этот старинный дом.,3.4,3.0,coordination,stimul,22,171,I_noun,3sg,or,SV
+Davidjuk_2023,"И Никита, и я внесём небольшой аванс.",4.7,5.0,coordination,stimul,31,246,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Дима, и я послушаем праздничный концерт.",3.6,4.0,coordination,stimul,17,134,noun_I,1pl,and_and,SV
+Davidjuk_2023,Гриша или я переведёт эту английскую фразу.,2.555555555555556,3.0,coordination,stimul,25,195,noun_I,3sg,or,SV
+Davidjuk_2023,"Или Федя, или я выиграют этот теннисный турнир.",2.7,3.0,coordination,stimul,26,208,noun_I,3pl,or_or,SV
+Davidjuk_2023,Боря или я закончу эту шахматную партию.,3.2,3.0,coordination,stimul,27,209,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Никита попросят дополнительный отгул.",3.25,3.0,coordination,stimul,10,80,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я или Олег подпишу это деловое соглашение.,3.5,4.0,coordination,stimul,17,129,I_noun,1sg,or,SV
+Davidjuk_2023,Я или Миша исправят эту случайную ошибку.,2.7,3.0,coordination,stimul,31,244,I_noun,3pl,or,SV
+Davidjuk_2023,Юра и я устроит детский праздник.,2.8,3.0,coordination,stimul,26,203,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Максим прогуляю последний урок.",1.9,2.0,coordination,stimul,32,253,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или Гоша, или я начну этот непростой разговор.",4.2,4.0,coordination,stimul,28,221,noun_I,1sg,or_or,SV
+Davidjuk_2023,Никита улучшит этот основную показатель.,2.254658385093168,2.0,bad,filler,33,285,,,,
+Davidjuk_2023,Я или Ваня отправлю это заказное письмо.,2.1,2.0,coordination,stimul,18,137,I_noun,1sg,or,SV
+Davidjuk_2023,"И Лёва, и Кирилл запустим успешный стартап.",2.703225806451613,3.0,bad,filler,33,276,,,,
+Davidjuk_2023,Миша сдаст этот вступительный экзамен.,6.2025316455696204,6.0,good,filler,33,262,,,,
+Davidjuk_2023,Гриша и я сыграет шахматную партию.,1.8,2.0,coordination,stimul,29,227,noun_I,3sg,and,SV
+Davidjuk_2023,Я и Лёва решу сложную задачу.,2.333333333333333,2.0,coordination,stimul,25,193,I_noun,1sg,and,SV
+Davidjuk_2023,Вова или я споют эту весёлую песню.,3.1818181818181817,3.0,coordination,stimul,3,20,noun_I,3pl,or,SV
+Davidjuk_2023,Я или Вова спою эту весёлую песню.,3.7,4.0,coordination,stimul,3,17,I_noun,1sg,or,SV
+Davidjuk_2023,"И я, и Влад покажу короткую дорогу.",2.7777777777777777,3.0,coordination,stimul,13,101,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Петя нарисуют подробную схему.,3.5,4.0,coordination,stimul,1,4,I_noun,3pl,and,SV
+Davidjuk_2023,"Или Гоша, или я начнёт этот непростой разговор.",3.7,4.0,coordination,stimul,28,223,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И Влад, и я покажут короткую дорогу.",3.6,4.0,coordination,stimul,13,104,noun_I,3pl,and_and,SV
+Davidjuk_2023,Володя и я приобретём ценный опыт.,6.1,6.0,coordination,stimul,16,122,noun_I,1pl,and,SV
+Davidjuk_2023,Я и Вова споёт весёлую песню.,2.555555555555556,3.0,coordination,stimul,7,51,I_noun,3sg,and,SV
+Davidjuk_2023,"Или я, или Игорь совершит это далёкое путешествие.",3.0,3.0,coordination,stimul,13,103,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или Егор, или я прочитают эту вводную лекцию.",4.3,4.0,coordination,stimul,6,48,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И Игорь, и я совершим далёкое путешествие.",6.0,6.0,coordination,stimul,28,222,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И я, и Вадим соберут нужный материал.",2.7,3.0,coordination,stimul,23,184,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Петя, и я нарисуем подробную схему.",3.8,4.0,coordination,stimul,1,6,noun_I,1pl,and_and,SV
+Davidjuk_2023,"Или Никита, или я внесём этот небольшой аванс.",5.3,5.0,coordination,stimul,14,110,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Саша отнесу это тяжёлое ведро.,2.1,2.0,coordination,stimul,32,249,I_noun,1sg,or,SV
+Davidjuk_2023,"Или я, или Гена раскроет это подлое преступление.",3.7,4.0,coordination,stimul,23,183,I_noun,3sg,or_or,SV
+Davidjuk_2023,Дима или Ваня протрём эту грязную полку.,3.0,3.0,bad,filler,33,275,,,,
+Davidjuk_2023,Я и Юра устроят детский праздник.,2.7,3.0,coordination,stimul,26,204,I_noun,3pl,and,SV
+Davidjuk_2023,"Или Слава, или я куплю эту известную картину.",3.4,3.0,coordination,stimul,19,149,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или я, или Петя поднимут этот важный вопрос.",3.3,3.0,coordination,stimul,15,120,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я и Данила найдёт верный ответ.,2.5,2.0,coordination,stimul,20,155,I_noun,3sg,and,SV
+Davidjuk_2023,Лёва и я решим сложную задачу.,5.7,6.0,coordination,stimul,25,194,noun_I,1pl,and,SV
+Davidjuk_2023,Егор или я прочитаем эту вводную лекцию.,5.666666666666667,6.0,coordination,stimul,6,42,noun_I,1pl,or,SV
+Davidjuk_2023,Дима и я послушают праздничный концерт.,4.0,4.0,coordination,stimul,17,132,noun_I,3pl,and,SV
+Davidjuk_2023,"Или Максим, или я приобрету этот старинный дом.",3.7,4.0,coordination,stimul,22,173,noun_I,1sg,or_or,SV
+Davidjuk_2023,Стёпа или я исполнят эту оперную арию.,3.7,4.0,coordination,stimul,4,28,noun_I,3pl,or,SV
+Davidjuk_2023,Влад и я покажут короткую дорогу.,3.111111111111111,3.0,coordination,stimul,13,100,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Максим приобретут этот старинный дом.",3.7,4.0,coordination,stimul,22,176,I_noun,3pl,or_or,SV
+Davidjuk_2023,Саша или я отнесу это тяжёлое ведро.,5.1,5.0,coordination,stimul,32,249,noun_I,1sg,or,SV
+Davidjuk_2023,Данила и я найдёт верный ответ.,2.9,3.0,coordination,stimul,20,155,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Саша отнесут это тяжёлое ведро.",3.111111111111111,3.0,coordination,stimul,32,256,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И я, и Петя нарисуют подробную схему.",2.7,3.0,coordination,stimul,1,8,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И я, и Боря подготовлю промежуточный отчёт.",2.111111111111111,2.0,coordination,stimul,21,165,I_noun,1sg,and_and,SV
+Davidjuk_2023,Вася или я проведут это экстренное совещание.,3.5,4.0,coordination,stimul,1,4,noun_I,3pl,or,SV
+Davidjuk_2023,"И я, и Миша сдаст вступительный экзамен.",2.6,3.0,coordination,stimul,8,63,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И Кирилл, и я прополем капустную грядку.",5.5,6.0,coordination,stimul,24,190,noun_I,1pl,and_and,SV
+Davidjuk_2023,Данила и я найду верный ответ.,3.3,3.0,coordination,stimul,20,153,noun_I,1sg,and,SV
+Davidjuk_2023,Я или Ваня отправят это заказное письмо.,3.3,3.0,coordination,stimul,18,140,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Олег уточню необходимую информацию.,1.8,2.0,coordination,stimul,14,105,I_noun,1sg,and,SV
+Davidjuk_2023,Стёпа или я исполнит эту оперную арию.,3.6,4.0,coordination,stimul,4,27,noun_I,3sg,or,SV
+Davidjuk_2023,Я и Данила найду верный ответ.,1.9,2.0,coordination,stimul,20,153,I_noun,1sg,and,SV
+Davidjuk_2023,"И я, и Андрей увидит кукольный спектакль.",1.9,2.0,coordination,stimul,4,31,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я или Вадим соберём этот нужный материал.,4.666666666666667,5.0,coordination,stimul,9,66,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Егор, или я прочитаем эту вводную лекцию.",5.3,5.0,coordination,stimul,6,46,noun_I,1pl,or_or,SV
+Davidjuk_2023,Саша или я отнесут это тяжёлое ведро.,2.6,3.0,coordination,stimul,32,252,noun_I,3pl,or,SV
+Davidjuk_2023,"И я, и Данила найдём верный ответ.",5.444444444444445,5.0,coordination,stimul,20,158,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И я, и Максим прогуляют последний урок.",3.3,3.0,coordination,stimul,32,256,I_noun,3pl,and_and,SV
+Davidjuk_2023,Лёва оформит деловой договор.,6.440251572327044,6.0,good,filler,33,270,,,,
+Davidjuk_2023,"И я, и Дима послушают праздничный концерт.",2.4,2.0,coordination,stimul,17,136,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Вася, и я посмотрят документальный фильм.",3.3,3.0,coordination,stimul,2,16,noun_I,3pl,and_and,SV
+Davidjuk_2023,Егор и я прочитаю вводную лекцию.,1.4444444444444444,1.0,coordination,stimul,18,137,noun_I,1sg,and,SV
+Davidjuk_2023,Я и Никита внесу небольшой аванс.,3.0,3.0,coordination,stimul,31,241,I_noun,1sg,and,SV
+Davidjuk_2023,Я или Андрей увидим этот кукольный спектакль.,4.7,5.0,coordination,stimul,2,10,I_noun,1pl,or,SV
+Davidjuk_2023,Илья или я выполню это срочное задание.,4.0,4.0,coordination,stimul,7,49,noun_I,1sg,or,SV
+Davidjuk_2023,Вася починит телевизор и радио.,6.316455696202532,6.0,good,filler,33,265,,,,
+Davidjuk_2023,"И я, и Никита внесёт небольшой аванс.",2.6,3.0,coordination,stimul,31,247,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я или Паша посетит этот научный семинар.,2.6,3.0,coordination,stimul,16,123,I_noun,3sg,or,SV
+Davidjuk_2023,"И Ваня, и я возьму краткосрочный отпуск.",1.4444444444444444,1.0,coordination,stimul,6,45,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Лёва, или я решим эту сложную задачу.",5.2,5.0,coordination,stimul,11,86,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или я, или Юра устроят этот детский праздник.",3.5,4.0,coordination,stimul,12,96,I_noun,3pl,or_or,SV
+Davidjuk_2023,"Или Андрей, или я увидит этот кукольный спектакль.",3.3,3.0,coordination,stimul,2,15,noun_I,3sg,or_or,SV
+Davidjuk_2023,Миша и я сдаст вступительный экзамен.,1.7,2.0,coordination,stimul,8,59,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Игорь совершит далёкое путешествие.",1.8,2.0,coordination,stimul,28,223,I_noun,3sg,and_and,SV
+Davidjuk_2023,Боря или я закончат эту шахматную партию.,2.8181818181818183,3.0,coordination,stimul,27,212,noun_I,3pl,or,SV
+Davidjuk_2023,Я и Стёпа попробует яблочный пирог.,2.3,2.0,coordination,stimul,9,67,I_noun,3sg,and,SV
+Davidjuk_2023,Я и Никита попросим дополнительный отгул.,6.2,6.0,coordination,stimul,10,74,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Стёпа попробуем яблочный пирог.,6.4,6.0,coordination,stimul,9,66,I_noun,1pl,and,SV
+Davidjuk_2023,"Или Вадим, или я соберут этот нужный материал.",2.9,3.0,coordination,stimul,9,72,noun_I,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Боря закончу эту шахматную партию.",2.7,3.0,coordination,stimul,27,213,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Петя нарисуем подробную схему.,6.0,6.0,coordination,stimul,1,2,I_noun,1pl,and,SV
+Davidjuk_2023,Митя приготовит этот сытный суп.,6.372670807453416,6.0,good,filler,33,260,,,,
+Davidjuk_2023,Ваня или я отправят это заказное письмо.,3.0,3.0,coordination,stimul,18,140,noun_I,3pl,or,SV
+Davidjuk_2023,"И Денис, и я пропустим финальный матч.",5.8,6.0,coordination,stimul,12,94,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Стёпа, и я попробуем яблочный пирог.",3.5,4.0,coordination,stimul,9,70,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я или Стёпа исполним эту оперную арию.,4.7,5.0,coordination,stimul,4,26,I_noun,1pl,or,SV
+Davidjuk_2023,Я или Петя поднимем этот важный вопрос.,4.4,4.0,coordination,stimul,15,114,I_noun,1pl,or,SV
+Davidjuk_2023,Я и Егор прочитаем вводную лекцию.,5.5,6.0,coordination,stimul,18,138,I_noun,1pl,and,SV
+Davidjuk_2023,Я или Дима послушают это голосовое сообщение.,3.1,3.0,coordination,stimul,5,36,I_noun,3pl,or,SV
+Davidjuk_2023,"И Вова, и я спою весёлую песню.",1.7,2.0,coordination,stimul,7,53,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Слава купим эту известную картину.",4.5,4.0,coordination,stimul,19,150,I_noun,1pl,or_or,SV
+Davidjuk_2023,Илья или я выполним это срочное задание.,6.0,6.0,coordination,stimul,7,50,noun_I,1pl,or,SV
+Davidjuk_2023,"И я, и Вова споют весёлую песню.",2.7,3.0,coordination,stimul,7,56,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Олег подпишут это деловое соглашение.",2.8,3.0,coordination,stimul,17,136,I_noun,3pl,or_or,SV
+Davidjuk_2023,Костя или я расскажет эту интересную историю.,3.6666666666666665,4.0,coordination,stimul,8,59,noun_I,3sg,or,SV
+Davidjuk_2023,Максим и я прогуляю последний урок.,2.7,3.0,coordination,stimul,32,249,noun_I,1sg,and,SV
+Davidjuk_2023,"Или я, или Гриша переведёт эту английскую фразу.",3.4,3.0,coordination,stimul,25,199,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я и Данила найдут верный ответ.,3.3,3.0,coordination,stimul,20,156,I_noun,3pl,and,SV
+Davidjuk_2023,Боря и я подготовлю промежуточный отчёт.,3.2222222222222223,3.0,coordination,stimul,21,161,noun_I,1sg,and,SV
+Davidjuk_2023,Егор или я прочитает эту вводную лекцию.,5.4,5.0,coordination,stimul,6,43,noun_I,3sg,or,SV
+Davidjuk_2023,"И я, и Илья выполним срочное поручение.",5.1,5.0,coordination,stimul,19,150,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И Юра, и я устрою детский праздник.",2.9,3.0,coordination,stimul,26,205,noun_I,1sg,and_and,SV
+Davidjuk_2023,Я или Гена раскроем это подлое преступление.,5.1,5.0,coordination,stimul,23,178,I_noun,1pl,or,SV
+Davidjuk_2023,Я или Юра устрою этот детский праздник.,4.2,4.0,coordination,stimul,12,89,I_noun,1sg,or,SV
+Davidjuk_2023,"И Игорь, и я совершу далёкое путешествие.",3.1,3.0,coordination,stimul,28,221,noun_I,1sg,and_and,SV
+Davidjuk_2023,Дима и я послушаю праздничный концерт.,2.5,2.0,coordination,stimul,17,129,noun_I,1sg,and,SV
+Davidjuk_2023,Я или Федя выиграет этот теннисный турнир.,3.6,4.0,coordination,stimul,26,203,I_noun,3sg,or,SV
+Davidjuk_2023,Паша и я посетят исторический музей.,3.3,3.0,coordination,stimul,11,84,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Митя составим этот длинный список.",4.1,4.0,coordination,stimul,29,230,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Дима, и я послушает праздничный концерт.",1.8,2.0,coordination,stimul,17,135,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И я, и Гриша сыграют шахматную партию.",2.6,3.0,coordination,stimul,29,232,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я и Игорь совершит далёкое путешествие.,2.1,2.0,coordination,stimul,28,219,I_noun,3sg,and,SV
+Davidjuk_2023,Я и Кирилл прополют капустную грядку.,2.5,2.0,coordination,stimul,24,188,I_noun,3pl,and,SV
+Davidjuk_2023,Я или Гриша переведут эту английскую фразу.,3.7,4.0,coordination,stimul,25,196,I_noun,3pl,or,SV
+Davidjuk_2023,Я или Вадим соберут этот нужный материал.,4.2,4.0,coordination,stimul,9,68,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Боря подготовим промежуточный отчёт.,4.9,5.0,coordination,stimul,21,162,I_noun,1pl,and,SV
+Davidjuk_2023,"Или Стёпа, или я исполнят эту оперную арию.",3.9,4.0,coordination,stimul,4,32,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Слава получит двойную зарплату.",2.7,3.0,coordination,stimul,5,39,I_noun,3sg,and_and,SV
+Davidjuk_2023,Вася или я проведу это экстренное совещание.,3.1,3.0,coordination,stimul,1,1,noun_I,1sg,or,SV
+Davidjuk_2023,"Или Максим, или я приобретёт этот старинный дом.",3.5,4.0,coordination,stimul,22,175,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И Вова, и я споёт весёлую песню.",2.2,2.0,coordination,stimul,7,55,noun_I,3sg,and_and,SV
+Davidjuk_2023,Я и Яша приготовят вкусный обед.,2.375,2.0,coordination,stimul,30,236,I_noun,3pl,and,SV
+Davidjuk_2023,"И Данила, и я найду верный ответ.",3.3,3.0,coordination,stimul,20,157,noun_I,1sg,and_and,SV
+Davidjuk_2023,Боря и я подготовит промежуточный отчёт.,2.1,2.0,coordination,stimul,21,163,noun_I,3sg,and,SV
+Davidjuk_2023,"Или Слава, или я купит эту известную картину.",2.3,2.0,coordination,stimul,19,151,noun_I,3sg,or_or,SV
+Davidjuk_2023,Вася или я проведёт это экстренное совещание.,2.5,2.0,coordination,stimul,1,3,noun_I,3sg,or,SV
+Davidjuk_2023,"И Илья, и я выполним срочное поручение.",4.7,5.0,coordination,stimul,19,150,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я или Влад покрашу этот новый забор.,2.1,2.0,coordination,stimul,21,161,I_noun,1sg,or,SV
+Davidjuk_2023,"Или Стёпа, или я исполнит эту оперную арию.",3.7777777777777777,4.0,coordination,stimul,4,31,noun_I,3sg,or_or,SV
+Davidjuk_2023,Слава и я получит двойную зарплату.,2.2,2.0,coordination,stimul,5,35,noun_I,3sg,and,SV
+Davidjuk_2023,Я или Никита побелю этот высокий потолок.,3.0,3.0,coordination,stimul,20,153,I_noun,1sg,or,SV
+Davidjuk_2023,"Или Митя, или я составят этот длинный список.",3.1,3.0,coordination,stimul,29,232,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Влад покажет короткую дорогу.",2.2,2.0,coordination,stimul,13,103,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я и Вадим соберёт нужный материал.,2.333333333333333,2.0,coordination,stimul,23,179,I_noun,3sg,and,SV
+Davidjuk_2023,Олег или я подпишет это деловое соглашение.,2.4,2.0,coordination,stimul,17,131,noun_I,3sg,or,SV
+Davidjuk_2023,"И Никита, и я попросит дополнительный отгул.",2.7777777777777777,3.0,coordination,stimul,10,79,noun_I,3sg,and_and,SV
+Davidjuk_2023,Вадим и я соберёт нужный материал.,2.5,2.0,coordination,stimul,23,179,noun_I,3sg,and,SV
+Davidjuk_2023,Я и Миша сдадим вступительный экзамен.,4.777777777777778,5.0,coordination,stimul,8,58,I_noun,1pl,and,SV
+Davidjuk_2023,"Или Гриша, или я переведём эту английскую фразу.",4.181818181818182,4.0,coordination,stimul,25,198,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Слава купят эту известную картину.,3.2,3.0,coordination,stimul,19,148,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Паша посетят исторический музей.",2.3,2.0,coordination,stimul,11,88,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Олег, и я уточнит необходимую информацию.",2.9,3.0,coordination,stimul,14,111,noun_I,3sg,and_and,SV
+Davidjuk_2023,Ваня или я отправлю это заказное письмо.,3.7,4.0,coordination,stimul,18,137,noun_I,1sg,or,SV
+Davidjuk_2023,Кеша заправит этот грузовую автомобиль.,2.571428571428572,3.0,bad,filler,33,286,,,,
+Davidjuk_2023,Я или Юра устроят этот детский праздник.,4.1,4.0,coordination,stimul,12,92,I_noun,3pl,or,SV
+Davidjuk_2023,"И я, и Стёпа попробуем яблочный пирог.",5.3,5.0,coordination,stimul,9,70,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или Лёва, или я решат эту сложную задачу.",3.4444444444444446,3.0,coordination,stimul,11,88,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я или Яша закажем этот дорогой десерт.,4.9,5.0,coordination,stimul,24,186,I_noun,1pl,or,SV
+Davidjuk_2023,Костя или я расскажут эту интересную историю.,3.0,3.0,coordination,stimul,8,60,noun_I,3pl,or,SV
+Davidjuk_2023,Я или Гоша начнём этот непростой разговор.,5.6,6.0,coordination,stimul,28,218,I_noun,1pl,or,SV
+Davidjuk_2023,Я или Миша исправит эту случайную ошибку.,5.0,5.0,coordination,stimul,31,243,I_noun,3sg,or,SV
+Davidjuk_2023,Я и Влад покажет короткую дорогу.,3.0,3.0,coordination,stimul,13,99,I_noun,3sg,and,SV
+Davidjuk_2023,"И Илья, и я выполнят срочное поручение.",2.3,2.0,coordination,stimul,19,152,noun_I,3pl,and_and,SV
+Davidjuk_2023,Я или Гриша переведёт эту английскую фразу.,4.0,4.0,coordination,stimul,25,195,I_noun,3sg,or,SV
+Davidjuk_2023,Я или Игорь совершим это далёкое путешествие.,4.7,5.0,coordination,stimul,13,98,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Петя, или я подниму этот важный вопрос.",3.6,4.0,coordination,stimul,15,117,noun_I,1sg,or_or,SV
+Davidjuk_2023,Я или Яша закажет этот дорогой десерт.,2.3,2.0,coordination,stimul,24,187,I_noun,3sg,or,SV
+Davidjuk_2023,Я или Влад покрасят этот новый забор.,2.8,3.0,coordination,stimul,21,164,I_noun,3pl,or,SV
+Davidjuk_2023,"Или я, или Игорь совершим это далёкое путешествие.",3.8,4.0,coordination,stimul,13,102,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Володя, и я приобретём ценный опыт.",5.5,6.0,coordination,stimul,16,126,noun_I,1pl,and_and,SV
+Davidjuk_2023,Костя и я расскажем интересную историю.,4.8,5.0,coordination,stimul,22,170,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Митя составит этот длинный список.,3.6,4.0,coordination,stimul,29,227,I_noun,3sg,or,SV
+Davidjuk_2023,"И Гена, и я продолжат заочное обучение.",2.9,3.0,coordination,stimul,15,120,noun_I,3pl,and_and,SV
+Davidjuk_2023,Максим и я прогуляют последний урок.,2.8,3.0,coordination,stimul,32,252,noun_I,3pl,and,SV
+Davidjuk_2023,Юра и я устроим детский праздник.,6.2,6.0,coordination,stimul,26,202,noun_I,1pl,and,SV
+Davidjuk_2023,"И Влад, и я покажу короткую дорогу.",2.4,2.0,coordination,stimul,13,101,noun_I,1sg,and_and,SV
+Davidjuk_2023,Слава и я получу двойную зарплату.,2.8,3.0,coordination,stimul,5,33,noun_I,1sg,and,SV
+Davidjuk_2023,Федя или я выиграю этот теннисный турнир.,4.3,4.0,coordination,stimul,26,201,noun_I,1sg,or,SV
+Davidjuk_2023,Я и Егор прочитаю вводную лекцию.,2.7,3.0,coordination,stimul,18,137,I_noun,1sg,and,SV
+Davidjuk_2023,Денис или Илья нарушим эти строгие сроки.,2.94375,3.0,bad,filler,33,277,,,,
+Davidjuk_2023,"И Никита, и я попросят дополнительный отгул.",3.7777777777777777,4.0,coordination,stimul,10,80,noun_I,3pl,and_and,SV
+Davidjuk_2023,Я и Никита попрошу дополнительный отгул.,3.3,3.0,coordination,stimul,10,73,I_noun,1sg,and,SV
+Davidjuk_2023,Данила и я найдут верный ответ.,1.9,2.0,coordination,stimul,20,156,noun_I,3pl,and,SV
+Davidjuk_2023,"Или Влад, или я покрашу этот новый забор.",2.7,3.0,coordination,stimul,21,165,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Влад, или я покрасит этот новый забор.",3.0,3.0,coordination,stimul,21,167,noun_I,3sg,or_or,SV
+Davidjuk_2023,Я и Дима послушаем праздничный концерт.,6.2,6.0,coordination,stimul,17,130,I_noun,1pl,and,SV
+Davidjuk_2023,"Или я, или Кирилл прополем эту капустную грядку.",4.7,5.0,coordination,stimul,10,78,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я и Максим сделаю домашнее задание.,2.0,2.0,coordination,stimul,3,17,I_noun,1sg,and,SV
+Davidjuk_2023,Кирилл и я прополет капустную грядку.,2.2,2.0,coordination,stimul,24,187,noun_I,3sg,and,SV
+Davidjuk_2023,Дима или я послушает это голосовое сообщение.,2.1,2.0,coordination,stimul,5,35,noun_I,3sg,or,SV
+Davidjuk_2023,"Витя пропустит или репетицию, или концерт.",5.234177215189874,5.0,good,filler,33,268,,,,
+Davidjuk_2023,"И Влад, и я покажет короткую дорогу.",2.2,2.0,coordination,stimul,13,103,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Или Боря, или я закончим эту шахматную партию.",5.3,5.0,coordination,stimul,27,214,noun_I,1pl,or_or,SV
+Davidjuk_2023,Яша и я приготовлю вкусный обед.,2.9,3.0,coordination,stimul,30,233,noun_I,1sg,and,SV
+Davidjuk_2023,"И Лёва, и я решу сложную задачу.",3.9,4.0,coordination,stimul,25,197,noun_I,1sg,and_and,SV
+Davidjuk_2023,Илья и я выполним срочное поручение.,5.0,5.0,coordination,stimul,19,146,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Вова споёт эту весёлую песню.,3.1,3.0,coordination,stimul,3,19,I_noun,3sg,or,SV
+Davidjuk_2023,Я и Илья выполню срочное поручение.,2.0,2.0,coordination,stimul,19,145,I_noun,1sg,and,SV
+Davidjuk_2023,Андрей или я увижу этот кукольный спектакль.,3.2,3.0,coordination,stimul,2,9,noun_I,1sg,or,SV
+Davidjuk_2023,Я и Слава получу двойную зарплату.,2.7777777777777777,3.0,coordination,stimul,5,33,I_noun,1sg,and,SV
+Davidjuk_2023,Ваня или я отправит это заказное письмо.,3.6,4.0,coordination,stimul,18,139,noun_I,3sg,or,SV
+Davidjuk_2023,"Или Илья, или я выполнит это срочное задание.",2.9,3.0,coordination,stimul,7,55,noun_I,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Юра устроит этот детский праздник.",2.8,3.0,coordination,stimul,12,95,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И Юра, и я устроим детский праздник.",4.9,5.0,coordination,stimul,26,206,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И я, и Данила найдут верный ответ.",2.6666666666666665,3.0,coordination,stimul,20,160,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я и Денис пропустим финальный матч.,4.6,5.0,coordination,stimul,12,90,I_noun,1pl,and,SV
+Davidjuk_2023,"Или я, или Дима послушает это голосовое сообщение.",3.6,4.0,coordination,stimul,5,39,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Олег подпишет это деловое соглашение.",3.6,4.0,coordination,stimul,17,135,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я и Андрей увидим кукольный спектакль.,4.8,5.0,coordination,stimul,4,26,I_noun,1pl,and,SV
+Davidjuk_2023,Я и Ваня возьму краткосрочный отпуск.,2.6,3.0,coordination,stimul,6,41,I_noun,1sg,and,SV
+Davidjuk_2023,Я и Андрей увидят кукольный спектакль.,4.0,4.0,coordination,stimul,4,28,I_noun,3pl,and,SV
+Davidjuk_2023,"И я, и Андрей увидим кукольный спектакль.",5.666666666666667,6.0,coordination,stimul,4,30,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или я, или Миша исправим эту случайную ошибку.",5.666666666666667,6.0,coordination,stimul,31,246,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И я, и Гена продолжу заочное обучение.",2.5,2.0,coordination,stimul,15,117,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или Вася, или я проведу это экстренное совещание.",4.0,4.0,coordination,stimul,1,5,noun_I,1sg,or_or,SV
+Davidjuk_2023,"И Влад, и я покажем короткую дорогу.",4.333333333333333,4.0,coordination,stimul,13,102,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Никита внесём небольшой аванс.,5.1,5.0,coordination,stimul,31,242,I_noun,1pl,and,SV
+Davidjuk_2023,Петя или я поднимут этот важный вопрос.,3.555555555555556,4.0,coordination,stimul,15,116,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Слава куплю эту известную картину.",2.6,3.0,coordination,stimul,19,149,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Никита побелят этот высокий потолок.,3.5,4.0,coordination,stimul,20,156,I_noun,3pl,or,SV
+Davidjuk_2023,"Или я, или Влад покрасим этот новый забор.",4.8,5.0,coordination,stimul,21,166,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я и Никита попросит дополнительный отгул.,3.2,3.0,coordination,stimul,10,75,I_noun,3sg,and,SV
+Davidjuk_2023,"Или Никита, или я внесёт этот небольшой аванс.",3.2,3.0,coordination,stimul,14,111,noun_I,3sg,or_or,SV
+Davidjuk_2023,Максим или я приобрету этот старинный дом.,2.727272727272727,3.0,coordination,stimul,22,169,noun_I,1sg,or,SV
+Davidjuk_2023,"И Вася, и я посмотрит документальный фильм.",3.7,4.0,coordination,stimul,2,15,noun_I,3sg,and_and,SV
+Davidjuk_2023,"И Вася, и я посмотрим документальный фильм.",4.5,4.0,coordination,stimul,2,14,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Вова споём весёлую песню.,5.6,6.0,coordination,stimul,7,50,I_noun,1pl,and,SV
+Davidjuk_2023,"И я, и Максим сделают домашнее задание.",2.2,2.0,coordination,stimul,3,24,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я или Боря закончим эту шахматную партию.,5.8,6.0,coordination,stimul,27,210,I_noun,1pl,or,SV
+Davidjuk_2023,Я или Лёва решит эту сложную задачу.,3.2,3.0,coordination,stimul,11,83,I_noun,3sg,or,SV
+Davidjuk_2023,Илья и я выполнит срочное поручение.,2.4,2.0,coordination,stimul,19,147,noun_I,3sg,and,SV
+Davidjuk_2023,Паша или я посещу этот научный семинар.,3.9,4.0,coordination,stimul,16,121,noun_I,1sg,or,SV
+Davidjuk_2023,"И я, и Миша сдам вступительный экзамен.",1.9,2.0,coordination,stimul,8,61,I_noun,1sg,and_and,SV
+Davidjuk_2023,"Или Костя, или я расскажут эту интересную историю.",3.9,4.0,coordination,stimul,8,64,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Илья выполнят срочное поручение.",2.8,3.0,coordination,stimul,19,152,I_noun,3pl,and_and,SV
+Davidjuk_2023,"И Егор, и я прочитают вводную лекцию.",3.8,4.0,coordination,stimul,18,144,noun_I,3pl,and_and,SV
+Davidjuk_2023,Егор и я прочитает вводную лекцию.,2.3,2.0,coordination,stimul,18,139,noun_I,3sg,and,SV
+Davidjuk_2023,Я или Гриша переведём эту английскую фразу.,3.2,3.0,coordination,stimul,25,194,I_noun,1pl,or,SV
+Davidjuk_2023,"Или я, или Митя составлю этот длинный список.",3.0,3.0,coordination,stimul,29,229,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И Ваня, и я возьмут краткосрочный отпуск.",3.3,3.0,coordination,stimul,6,48,noun_I,3pl,and_and,SV
+Davidjuk_2023,Никита покрасит входную дверь.,6.213836477987422,6.0,good,filler,33,260,,,,
+Davidjuk_2023,Я или Федя выиграю этот теннисный турнир.,2.1,2.0,coordination,stimul,26,201,I_noun,1sg,or,SV
+Davidjuk_2023,"И Кирилл, и я прополю капустную грядку.",2.8,3.0,coordination,stimul,24,189,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или я, или Митя составят этот длинный список.",3.5,4.0,coordination,stimul,29,232,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я и Ваня возьмёт краткосрочный отпуск.,2.8,3.0,coordination,stimul,6,43,I_noun,3sg,and,SV
+Davidjuk_2023,"И я, и Вася посмотрит документальный фильм.",2.6,3.0,coordination,stimul,2,15,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И я, и Володя приобретёт ценный опыт.",2.0,2.0,coordination,stimul,16,127,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я или Ваня отправим это заказное письмо.,4.9,5.0,coordination,stimul,18,138,I_noun,1pl,or,SV
+Davidjuk_2023,"Или Андрей, или я увидят этот кукольный спектакль.",3.2,3.0,coordination,stimul,2,16,noun_I,3pl,or_or,SV
+Davidjuk_2023,Егор и я прочитаем вводную лекцию.,4.6,5.0,coordination,stimul,18,138,noun_I,1pl,and,SV
+Davidjuk_2023,"И Егор, и я прочитаем вводную лекцию.",5.1,5.0,coordination,stimul,18,142,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Костя, и я расскажут интересную историю.",3.8,4.0,coordination,stimul,22,176,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Гриша, или я переведёт эту английскую фразу.",3.0,3.0,coordination,stimul,25,199,noun_I,3sg,or_or,SV
+Davidjuk_2023,Я и Ваня возьмём краткосрочный отпуск.,6.0,6.0,coordination,stimul,6,42,I_noun,1pl,and,SV
+Davidjuk_2023,"И Стёпа, и я попробует яблочный пирог.",2.555555555555556,3.0,coordination,stimul,9,71,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Или Вася, или я проведут это экстренное совещание.",4.5,4.0,coordination,stimul,1,8,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я и Юра устрою детский праздник.,2.7,3.0,coordination,stimul,26,201,I_noun,1sg,and,SV
+Davidjuk_2023,Я и Кирилл прополет капустную грядку.,3.2,3.0,coordination,stimul,24,187,I_noun,3sg,and,SV
+Davidjuk_2023,Я или Никита внесём этот небольшой аванс.,4.9,5.0,coordination,stimul,14,106,I_noun,1pl,or,SV
+Davidjuk_2023,Я и Костя расскажет интересную историю.,2.9,3.0,coordination,stimul,22,171,I_noun,3sg,and,SV
+Davidjuk_2023,Я или Максим приобретём этот старинный дом.,4.7,5.0,coordination,stimul,22,170,I_noun,1pl,or,SV
+Davidjuk_2023,Егор или я прочитают эту вводную лекцию.,3.9,4.0,coordination,stimul,6,44,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Саша отнесёт это тяжёлое ведро.",2.5,2.0,coordination,stimul,32,255,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или Боря, или я закончат эту шахматную партию.",3.6,4.0,coordination,stimul,27,216,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я и Миша сдам вступительный экзамен.,3.1,3.0,coordination,stimul,8,57,I_noun,1sg,and,SV
+Davidjuk_2023,Я и Лёва решат сложную задачу.,2.888888888888889,3.0,coordination,stimul,25,196,I_noun,3pl,and,SV
+Davidjuk_2023,Никита и я внесу небольшой аванс.,2.2,2.0,coordination,stimul,31,241,noun_I,1sg,and,SV
+Davidjuk_2023,Я и Гена продолжим заочное обучение.,5.9,6.0,coordination,stimul,15,114,I_noun,1pl,and,SV
+Davidjuk_2023,Я или Никита побелит этот высокий потолок.,2.8,3.0,coordination,stimul,20,155,I_noun,3sg,or,SV
+Davidjuk_2023,"И Миша, и я сдаст вступительный экзамен.",2.2,2.0,coordination,stimul,8,63,noun_I,3sg,and_and,SV
+Davidjuk_2023,"Или я, или Слава купят эту известную картину.",2.2,2.0,coordination,stimul,19,152,I_noun,3pl,or_or,SV
+Davidjuk_2023,Андрей и я увидим кукольный спектакль.,5.6,6.0,coordination,stimul,4,26,noun_I,1pl,and,SV
+Davidjuk_2023,Я или Вова споют эту весёлую песню.,2.4,2.0,coordination,stimul,3,20,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Слава получим двойную зарплату.,5.2,5.0,coordination,stimul,5,34,I_noun,1pl,and,SV
+Davidjuk_2023,Гена и я продолжим заочное обучение.,5.7,6.0,coordination,stimul,15,114,noun_I,1pl,and,SV
+Davidjuk_2023,"Или я, или Олег подпишу это деловое соглашение.",2.5,2.0,coordination,stimul,17,133,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Влад покрасим этот новый забор.,4.666666666666667,5.0,coordination,stimul,21,162,I_noun,1pl,or,SV
+Davidjuk_2023,Я и Илья выполним срочное поручение.,6.0,6.0,coordination,stimul,19,146,I_noun,1pl,and,SV
+Davidjuk_2023,"И я, и Яша приготовим вкусный обед.",5.0,5.0,coordination,stimul,30,238,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Яша закажут этот дорогой десерт.,2.9,3.0,coordination,stimul,24,188,I_noun,3pl,or,SV
+Davidjuk_2023,Федя и я разработаю детальный план.,2.6,3.0,coordination,stimul,27,209,noun_I,1sg,and,SV
+Davidjuk_2023,"Или Саша, или я отнесёт это тяжёлое ведро.",3.363636363636364,3.0,coordination,stimul,32,255,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И я, и Боря подготовит промежуточный отчёт.",2.5,2.0,coordination,stimul,21,167,I_noun,3sg,and_and,SV
+Davidjuk_2023,Я и Яша приготовим вкусный обед.,5.6,6.0,coordination,stimul,30,234,I_noun,1pl,and,SV
+Davidjuk_2023,"Или Дима, или я послушаю это голосовое сообщение.",3.0,3.0,coordination,stimul,5,37,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Олег, или я подпишут это деловое соглашение.",3.8,4.0,coordination,stimul,17,136,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я и Вадим соберу нужный материал.,2.1,2.0,coordination,stimul,23,177,I_noun,1sg,and,SV
+Davidjuk_2023,Дима и Ваня уберём ванную комнату.,2.742138364779874,3.0,bad,filler,33,275,,,,
+Davidjuk_2023,Лёва и я решу сложную задачу.,2.7,3.0,coordination,stimul,25,193,noun_I,1sg,and,SV
+Davidjuk_2023,"И Паша, и я посетим исторический музей.",4.222222222222222,4.0,coordination,stimul,11,86,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я или Кирилл прополем эту капустную грядку.,4.8,5.0,coordination,stimul,10,74,I_noun,1pl,or,SV
+Davidjuk_2023,"Или я, или Митя составит этот длинный список.",3.3,3.0,coordination,stimul,29,231,I_noun,3sg,or_or,SV
+Davidjuk_2023,Кирилл и я прополем капустную грядку.,5.1,5.0,coordination,stimul,24,186,noun_I,1pl,and,SV
+Davidjuk_2023,"И я, и Слава получу двойную зарплату.",2.6666666666666665,3.0,coordination,stimul,5,37,I_noun,1sg,and_and,SV
+Davidjuk_2023,Я и Боря подготовит промежуточный отчёт.,2.0,2.0,coordination,stimul,21,163,I_noun,3sg,and,SV
+Davidjuk_2023,Илья или я выполнит это срочное задание.,2.6,3.0,coordination,stimul,7,51,noun_I,3sg,or,SV
+Davidjuk_2023,Я или Федя выиграем этот теннисный турнир.,4.8,5.0,coordination,stimul,26,202,I_noun,1pl,or,SV
+Davidjuk_2023,"И Паша, и я посетит исторический музей.",2.5,2.0,coordination,stimul,11,87,noun_I,3sg,and_and,SV
+Davidjuk_2023,Юра или я устроит этот детский праздник.,2.636363636363636,3.0,coordination,stimul,12,91,noun_I,3sg,or,SV
+Davidjuk_2023,Я и Миша сдаст вступительный экзамен.,2.8,3.0,coordination,stimul,8,59,I_noun,3sg,and,SV
+Davidjuk_2023,Кирилл или я прополет эту капустную грядку.,2.888888888888889,3.0,coordination,stimul,10,75,noun_I,3sg,or,SV
+Davidjuk_2023,"И я, и Егор прочитают вводную лекцию.",2.6666666666666665,3.0,coordination,stimul,18,144,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Федя выиграю этот теннисный турнир.",2.8,3.0,coordination,stimul,26,205,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Ваня, или я отправим это заказное письмо.",5.2,5.0,coordination,stimul,18,142,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Миша исправим эту случайную ошибку.,4.888888888888889,5.0,coordination,stimul,31,242,I_noun,1pl,or,SV
+Davidjuk_2023,Максим и я сделают домашнее задание.,2.555555555555556,3.0,coordination,stimul,3,20,noun_I,3pl,and,SV
+Davidjuk_2023,"И я, и Олег уточним необходимую информацию.",4.7,5.0,coordination,stimul,14,110,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И Яша, и я приготовим вкусный обед.",4.6,5.0,coordination,stimul,30,238,noun_I,1pl,and_and,SV
+Davidjuk_2023,Никита или я внесут этот небольшой аванс.,3.7,4.0,coordination,stimul,14,108,noun_I,3pl,or,SV
+Davidjuk_2023,"Или я, или Паша посетит этот научный семинар.",3.4,3.0,coordination,stimul,16,127,I_noun,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Петя подниму этот важный вопрос.",2.5,2.0,coordination,stimul,15,117,I_noun,1sg,or_or,SV
+Davidjuk_2023,"И я, и Влад покажем короткую дорогу.",3.0,3.0,coordination,stimul,13,102,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И я, и Стёпа попробую яблочный пирог.",2.4,2.0,coordination,stimul,9,69,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И я, и Юра устрою детский праздник.",2.0,2.0,coordination,stimul,26,205,I_noun,1sg,and_and,SV
+Davidjuk_2023,"И Никита, и я попросим дополнительный отгул.",4.7,5.0,coordination,stimul,10,78,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я или Стёпа исполнят эту оперную арию.,3.8,4.0,coordination,stimul,4,28,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Федя разработаю детальный план.,1.8,2.0,coordination,stimul,27,209,I_noun,1sg,and,SV
+Davidjuk_2023,"Или Лёва, или я решу эту сложную задачу.",4.3,4.0,coordination,stimul,11,85,noun_I,1sg,or_or,SV
+Davidjuk_2023,"И я, и Миша сдадут вступительный экзамен.",3.6,4.0,coordination,stimul,8,64,I_noun,3pl,and_and,SV
+Davidjuk_2023,"Или Саша, или Коля прочитаем это длинное письмо.",3.620253164556962,4.0,bad,filler,33,274,,,,
+Davidjuk_2023,"Или я, или Слава купит эту известную картину.",4.6,5.0,coordination,stimul,19,151,I_noun,3sg,or_or,SV
+Davidjuk_2023,Яша или я закажет этот дорогой десерт.,3.9,4.0,coordination,stimul,24,187,noun_I,3sg,or,SV
+Davidjuk_2023,Стёпа и я попробую яблочный пирог.,2.9,3.0,coordination,stimul,9,65,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Максим прогуляет последний урок.",2.1,2.0,coordination,stimul,32,255,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или я, или Вова споют эту весёлую песню.",3.2,3.0,coordination,stimul,3,24,I_noun,3pl,or_or,SV
+Davidjuk_2023,"Или я, или Никита побелит этот высокий потолок.",2.6,3.0,coordination,stimul,20,159,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я или Дима послушаем это голосовое сообщение.,4.7,5.0,coordination,stimul,5,34,I_noun,1pl,or,SV
+Davidjuk_2023,Я и Петя нарисую подробную схему.,2.888888888888889,3.0,coordination,stimul,1,1,I_noun,1sg,and,SV
+Davidjuk_2023,"Или я, или Стёпа исполнят эту оперную арию.",2.888888888888889,3.0,coordination,stimul,4,32,I_noun,3pl,or_or,SV
+Davidjuk_2023,Я или Гена раскрою эту подлое преступление.,2.0,2.0,coordination,stimul,23,177,I_noun,1sg,or,SV
+Davidjuk_2023,"Или я, или Вова споём эту весёлую песню.",4.1,4.0,coordination,stimul,3,22,I_noun,1pl,or_or,SV
+Davidjuk_2023,Костя и я расскажет интересную историю.,2.4,2.0,coordination,stimul,22,171,noun_I,3sg,and,SV
+Davidjuk_2023,"Или я, или Егор прочитают эту вводную лекцию.",3.5,4.0,coordination,stimul,6,48,I_noun,3pl,or_or,SV
+Davidjuk_2023,Стёпа и я попробуем яблочный пирог.,6.1,6.0,coordination,stimul,9,66,noun_I,1pl,and,SV
+Davidjuk_2023,Гена или я раскрою эту подлое преступление.,3.3,3.0,coordination,stimul,23,177,noun_I,1sg,or,SV
+Davidjuk_2023,"И Слава, и я получим двойную зарплату.",5.0,5.0,coordination,stimul,5,38,noun_I,1pl,and_and,SV
+Davidjuk_2023,Лёва или я решит эту сложную задачу.,3.3,3.0,coordination,stimul,11,83,noun_I,3sg,or,SV
+Davidjuk_2023,Я или Костя расскажем эту интересную историю.,4.6,5.0,coordination,stimul,8,58,I_noun,1pl,or,SV
+Davidjuk_2023,"И Володя, и я приобретут ценный опыт.",3.3,3.0,coordination,stimul,16,128,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или Юра, или я устрою этот детский праздник.",4.222222222222222,4.0,coordination,stimul,12,93,noun_I,1sg,or_or,SV
+Davidjuk_2023,Ваня или я отправим это заказное письмо.,5.2,5.0,coordination,stimul,18,138,noun_I,1pl,or,SV
+Davidjuk_2023,"Или я, или Вадим соберём этот нужный материал.",4.1,4.0,coordination,stimul,9,70,I_noun,1pl,or_or,SV
+Davidjuk_2023,"И Гриша, и я сыграют шахматную партию.",3.8,4.0,coordination,stimul,29,232,noun_I,3pl,and_and,SV
+Davidjuk_2023,"Или я, или Яша закажем этот дорогой десерт.",4.666666666666667,5.0,coordination,stimul,24,190,I_noun,1pl,or_or,SV
+Davidjuk_2023,Никита или я побелит этот высокий потолок.,3.1818181818181817,3.0,coordination,stimul,20,155,noun_I,3sg,or,SV
+Davidjuk_2023,Я или Дима послушаю это голосовое сообщение.,3.2222222222222223,3.0,coordination,stimul,5,33,I_noun,1sg,or,SV
+Davidjuk_2023,Я или Гена раскроют это подлое преступление.,2.9,3.0,coordination,stimul,23,180,I_noun,3pl,or,SV
+Davidjuk_2023,"Или Миша, или я исправят эту случайную ошибку.",3.363636363636364,3.0,coordination,stimul,31,248,noun_I,3pl,or_or,SV
+Davidjuk_2023,Миша или я исправят эту случайную ошибку.,4.0,4.0,coordination,stimul,31,244,noun_I,3pl,or,SV
+Davidjuk_2023,Я и Максим прогуляю последний урок.,3.1,3.0,coordination,stimul,32,249,I_noun,1sg,and,SV
+Davidjuk_2023,Гриша и я сыграют шахматную партию.,2.9,3.0,coordination,stimul,29,228,noun_I,3pl,and,SV
+Davidjuk_2023,"Или я, или Гоша начнут этот непростой разговор.",3.4,3.0,coordination,stimul,28,224,I_noun,3pl,or_or,SV
+Davidjuk_2023,"И Саша, и Коля оставим длинный комментарий.",2.961783439490446,3.0,bad,filler,33,274,,,,
+Davidjuk_2023,Никита и я попрошу дополнительный отгул.,1.8,2.0,coordination,stimul,10,73,noun_I,1sg,and,SV
+Davidjuk_2023,Я и Данила найдём верный ответ.,4.8,5.0,coordination,stimul,20,154,I_noun,1pl,and,SV
+Davidjuk_2023,"Или я, или Егор прочитаем эту вводную лекцию.",4.1,4.0,coordination,stimul,6,46,I_noun,1pl,or_or,SV
+Davidjuk_2023,Лёва и я решит сложную задачу.,1.9,2.0,coordination,stimul,25,195,noun_I,3sg,and,SV
+Davidjuk_2023,"Или Костя, или я расскажем эту интересную историю.",3.8181818181818175,4.0,coordination,stimul,8,63,noun_I,3sg,or_or,SV
+Davidjuk_2023,Я и Костя расскажу интересную историю.,2.1,2.0,coordination,stimul,22,169,I_noun,1sg,and,SV
+Davidjuk_2023,"Или я, или Влад покрашу этот новый забор.",2.4,2.0,coordination,stimul,21,165,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я и Гриша сыграем шахматную партию.,4.7,5.0,coordination,stimul,29,226,I_noun,1pl,and,SV
+Davidjuk_2023,Я или Лёва произнесу эту торжественную речь.,2.4,2.0,coordination,stimul,30,233,I_noun,1sg,or,SV
+Davidjuk_2023,"И Лёва, и я решит сложную задачу.",1.8,2.0,coordination,stimul,25,199,noun_I,3sg,and_and,SV
+Davidjuk_2023,Игорь и я совершит далёкое путешествие.,2.7,3.0,coordination,stimul,28,219,noun_I,3sg,and,SV
+Davidjuk_2023,Слава или я купят эту известную картину.,3.1818181818181817,3.0,coordination,stimul,19,148,noun_I,3pl,or,SV
+Davidjuk_2023,Я и Дима послушает праздничный концерт.,1.6,2.0,coordination,stimul,17,131,I_noun,3sg,and,SV
+Davidjuk_2023,Игорь или я совершу это далёкое путешествие.,3.25,3.0,coordination,stimul,13,97,noun_I,1sg,or,SV
+Davidjuk_2023,Паша и я посещу исторический музей.,2.9,3.0,coordination,stimul,11,81,noun_I,1sg,and,SV
+Davidjuk_2023,Я или Гоша начну этот непростой разговор.,3.5,4.0,coordination,stimul,28,217,I_noun,1sg,or,SV
+Davidjuk_2023,"И Миша, и я сдадут вступительный экзамен.",2.6,3.0,coordination,stimul,8,64,noun_I,3pl,and_and,SV
+Davidjuk_2023,Андрей и я увижу кукольный спектакль.,4.3,4.0,coordination,stimul,4,25,noun_I,1sg,and,SV
+Davidjuk_2023,Паша или я посетит этот научный семинар.,3.6,4.0,coordination,stimul,16,123,noun_I,3sg,or,SV
+Davidjuk_2023,"Или я, или Стёпа исполним эту оперную арию.",5.222222222222222,5.0,coordination,stimul,4,30,I_noun,1pl,or_or,SV
+Davidjuk_2023,"Или Костя, или я расскажет эту интересную историю.",2.7,3.0,coordination,stimul,8,62,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я и Юра устроит детский праздник.,1.9,2.0,coordination,stimul,26,203,I_noun,3sg,and,SV
+Davidjuk_2023,"Или я, или Миша исправлю эту случайную ошибку.",2.6,3.0,coordination,stimul,31,245,I_noun,1sg,or_or,SV
+Davidjuk_2023,Никита и я внесёт небольшой аванс.,2.8,3.0,coordination,stimul,31,243,noun_I,3sg,and,SV
+Davidjuk_2023,Я или Вадим соберёт этот нужный материал.,3.3,3.0,coordination,stimul,9,67,I_noun,3sg,or,SV
+Davidjuk_2023,"Или я, или Вася проведу это экстренное совещание.",3.2,3.0,coordination,stimul,1,5,I_noun,1sg,or_or,SV
+Davidjuk_2023,Миша и я сдадим вступительный экзамен.,6.4,6.0,coordination,stimul,8,58,noun_I,1pl,and,SV
+Davidjuk_2023,Яша и я приготовят вкусный обед.,3.1,3.0,coordination,stimul,30,236,noun_I,3pl,and,SV
+Davidjuk_2023,Костя и я расскажут интересную историю.,3.4,3.0,coordination,stimul,22,172,noun_I,3pl,and,SV
+Davidjuk_2023,Гриша или я переведём эту английскую фразу.,4.9,5.0,coordination,stimul,25,194,noun_I,1pl,or,SV
+Davidjuk_2023,Федя и я разработаем детальный план.,5.4,5.0,coordination,stimul,27,210,noun_I,1pl,and,SV
+Davidjuk_2023,Миша и я сдам вступительный экзамен.,3.1,3.0,coordination,stimul,8,57,noun_I,1sg,and,SV
+Davidjuk_2023,"Или я, или Дима послушают это голосовое сообщение.",3.3,3.0,coordination,stimul,5,40,I_noun,3pl,or_or,SV
+Davidjuk_2023,"Или Вадим, или я соберу этот нужный материал.",3.9,4.0,coordination,stimul,9,69,noun_I,1sg,or_or,SV
+Davidjuk_2023,"Или Петя, или я поднимет этот важный вопрос.",3.2,3.0,coordination,stimul,15,119,noun_I,3sg,or_or,SV
+Davidjuk_2023,Вася или я проведём это экстренное совещание.,5.3,5.0,coordination,stimul,1,2,noun_I,1pl,or,SV
+Davidjuk_2023,Ваня и я возьмут краткосрочный отпуск.,2.3,2.0,coordination,stimul,6,44,noun_I,3pl,and,SV
+Davidjuk_2023,Я и Слава получат двойную зарплату.,3.7,4.0,coordination,stimul,5,36,I_noun,3pl,and,SV
+Davidjuk_2023,Петя привлечёт молодые публику.,2.3836477987421385,2.0,bad,filler,33,288,,,,
+Davidjuk_2023,Я и Вася посмотрю документальный фильм.,2.9,3.0,coordination,stimul,2,9,I_noun,1sg,and,SV
+Davidjuk_2023,"И Костя, и я расскажет интересную историю.",2.2,2.0,coordination,stimul,22,174,noun_I,1pl,and_and,SV
+Davidjuk_2023,"И Боря, и я подготовим промежуточный отчёт.",5.0,5.0,coordination,stimul,21,166,noun_I,1pl,and_and,SV
+Davidjuk_2023,Вадим или я соберу этот нужный материал.,2.7,3.0,coordination,stimul,9,65,noun_I,1sg,or,SV
+Davidjuk_2023,Я или Лёва произнесём эту торжественную речь.,4.8,5.0,coordination,stimul,30,234,I_noun,1pl,or,SV
+Davidjuk_2023,"И Олег, и я уточню необходимую информацию.",1.9,2.0,coordination,stimul,14,109,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Или Никита, или я побелим этот высокий потолок.",4.8,5.0,coordination,stimul,20,158,noun_I,1pl,or_or,SV
+Davidjuk_2023,Петя и я нарисует подробную схему.,2.7,3.0,coordination,stimul,1,3,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Федя разработаем детальный план.",5.1,5.0,coordination,stimul,27,214,I_noun,1pl,and_and,SV
+Davidjuk_2023,"И я, и Вова споём весёлую песню.",4.5,4.0,coordination,stimul,7,54,I_noun,1pl,and_and,SV
+Davidjuk_2023,"Или Влад, или я покрасим этот новый забор.",5.0,5.0,coordination,stimul,21,166,noun_I,1pl,or_or,SV
+Davidjuk_2023,Кирилл и я прополют капустную грядку.,2.9,3.0,coordination,stimul,24,188,noun_I,3pl,and,SV
+Davidjuk_2023,Игорь и я совершим далёкое путешествие.,5.0,5.0,coordination,stimul,28,218,noun_I,1pl,and,SV
+Davidjuk_2023,"Или я, или Костя расскажу эту интересную историю.",3.1,3.0,coordination,stimul,8,61,I_noun,1sg,or_or,SV
+Davidjuk_2023,"Или Паша, или я посетит этот научный семинар.",2.636363636363636,3.0,coordination,stimul,16,127,noun_I,3sg,or_or,SV
+Davidjuk_2023,"И Вадим, и я соберу нужный материал.",2.2,2.0,coordination,stimul,23,181,noun_I,1sg,and_and,SV
+Davidjuk_2023,"Вова вызовет и скорую, и полицию.",5.412903225806452,5.0,good,filler,33,262,,,,
+Davidjuk_2023,"Или Лёва, или я решит эту сложную задачу.",2.5,2.0,coordination,stimul,11,87,noun_I,3sg,or_or,SV
+Davidjuk_2023,"Или я, или Федя выиграет этот теннисный турнир.",3.6,4.0,coordination,stimul,26,207,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я или Илья выполню это срочное задание.,4.0,4.0,coordination,stimul,7,49,I_noun,1sg,or,SV
+Davidjuk_2023,Егор или я прочитаю эту вводную лекцию.,3.6,4.0,coordination,stimul,6,41,noun_I,1sg,or,SV
+Davidjuk_2023,Яша и я приготовим вкусный обед.,5.9,6.0,coordination,stimul,30,234,noun_I,1pl,and,SV
+Davidjuk_2023,"Или Федя, или я выиграю этот теннисный турнир.",3.5454545454545454,4.0,coordination,stimul,26,205,noun_I,1sg,or_or,SV
+Davidjuk_2023,Я и Вася посмотрит документальный фильм.,2.3,2.0,coordination,stimul,2,11,I_noun,3sg,and,SV
+Davidjuk_2023,Я или Юра устроим этот детский праздник.,5.8,6.0,coordination,stimul,12,90,I_noun,1pl,or,SV
+Davidjuk_2023,Вова и я споют весёлую песню.,2.4,2.0,coordination,stimul,7,52,noun_I,3pl,and,SV
+Davidjuk_2023,Федя подметёт этот пыльную пол.,2.1055900621118013,2.0,bad,filler,33,284,,,,
+Davidjuk_2023,Артём раскритикует эту плохой картину.,2.891025641025641,3.0,bad,filler,33,281,,,,
+Davidjuk_2023,"И Вова, и я споём весёлую песню.",5.3,5.0,coordination,stimul,7,54,noun_I,1pl,and_and,SV
+Davidjuk_2023,"Ваня напишет или реферат, или курсовую.",5.962732919254658,6.0,good,filler,33,271,,,,
+Davidjuk_2023,"Или Никита, или я побелят этот высокий потолок.",3.4,3.0,coordination,stimul,20,160,noun_I,3pl,or_or,SV
+Davidjuk_2023,"И я, и Федя разработает детальный план.",2.555555555555556,3.0,coordination,stimul,27,215,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И Игорь, и я совершат далёкое путешествие.",2.4,2.0,coordination,stimul,28,224,noun_I,3pl,and_and,SV
+Davidjuk_2023,Паша и я посетим исторический музей.,5.444444444444445,5.0,coordination,stimul,11,82,noun_I,1pl,and,SV
+Davidjuk_2023,"И Миша, и я сдадим вступительный экзамен.",4.7,5.0,coordination,stimul,8,62,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Паша посетим исторический музей.,6.1,6.0,coordination,stimul,11,82,I_noun,1pl,and,SV
+Davidjuk_2023,Слава или я купим эту известную картину.,5.6,6.0,coordination,stimul,19,146,noun_I,1pl,or,SV
+Davidjuk_2023,"Витя почистит и диван, и кресло.",5.751592356687898,6.0,good,filler,33,264,,,,
+Davidjuk_2023,Я и Игорь совершим далёкое путешествие.,4.7,5.0,coordination,stimul,28,218,I_noun,1pl,and,SV
+Davidjuk_2023,"И я, и Лёва решу сложную задачу.",2.0,2.0,coordination,stimul,25,197,I_noun,1sg,and_and,SV
+Davidjuk_2023,Митя или я составит этот длинный список.,3.0,3.0,coordination,stimul,29,227,noun_I,3sg,or,SV
+Davidjuk_2023,"И я, и Гена продолжим заочное обучение.",5.1,5.0,coordination,stimul,15,118,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Лёва произнесёт эту торжественную речь.,3.6,4.0,coordination,stimul,30,235,I_noun,3sg,or,SV
+Davidjuk_2023,"Или Кирилл, или я прополем эту капустную грядку.",4.8,5.0,coordination,stimul,10,78,noun_I,1pl,or_or,SV
+Davidjuk_2023,Юра и я устрою детский праздник.,1.7,2.0,coordination,stimul,26,201,noun_I,1sg,and,SV
+Davidjuk_2023,"И я, и Боря подготовят промежуточный отчёт.",3.0,3.0,coordination,stimul,21,168,I_noun,3pl,and_and,SV
+Davidjuk_2023,Я или Егор прочитаю эту вводную лекцию.,2.6,3.0,coordination,stimul,6,41,I_noun,1sg,or,SV
+Davidjuk_2023,"И Костя, и я расскажу интересную историю.",1.4,1.0,coordination,stimul,22,173,noun_I,1sg,and_and,SV
+Davidjuk_2023,"И Володя, и я приобретёт ценный опыт.",1.7777777777777777,2.0,coordination,stimul,16,127,noun_I,3sg,and_and,SV
+Davidjuk_2023,Миша или Федя поймаем эту крупную рыбу.,2.8050314465408803,3.0,bad,filler,33,273,,,,
+Davidjuk_2023,"Или Андрей, или я увижу этот кукольный спектакль.",2.8181818181818183,3.0,coordination,stimul,2,13,noun_I,1sg,or_or,SV
+Davidjuk_2023,Максим и я прогуляем последний урок.,5.7,6.0,coordination,stimul,32,250,noun_I,1pl,and,SV
+Davidjuk_2023,"Или я, или Гоша начнёт этот непростой разговор.",2.7,3.0,coordination,stimul,28,223,I_noun,3sg,or_or,SV
+Davidjuk_2023,Я или Максим приобрету этот старинный дом.,2.0,2.0,coordination,stimul,22,169,I_noun,1sg,or,SV
+Davidjuk_2023,Я или Митя составим этот длинный список.,5.3,5.0,coordination,stimul,29,226,I_noun,1pl,or,SV
+Davidjuk_2023,"И Лёва, и я решим сложную задачу.",3.5,4.0,coordination,stimul,25,198,noun_I,1pl,and_and,SV
+Davidjuk_2023,Ваня и я возьмёт краткосрочный отпуск.,3.2,3.0,coordination,stimul,6,43,noun_I,3sg,and,SV
+Davidjuk_2023,Петя или я поднимем этот важный вопрос.,5.888888888888889,6.0,coordination,stimul,15,114,noun_I,1pl,or,SV
+Davidjuk_2023,"Или Саша, или я отнесём это тяжёлое ведро.",4.5,4.0,coordination,stimul,32,254,noun_I,1pl,or_or,SV
+Davidjuk_2023,Я или Яша закажу этот дорогой десерт.,1.8,2.0,coordination,stimul,24,185,I_noun,1sg,or,SV
+Davidjuk_2023,Гоша или я начнёт этот непростой разговор.,3.090909090909091,3.0,coordination,stimul,28,219,noun_I,3sg,or,SV
+Davidjuk_2023,Я и Максим прогуляем последний урок.,5.777777777777778,6.0,coordination,stimul,32,250,I_noun,1pl,and,SV
+Davidjuk_2023,"Или я, или Гоша начнём этот непростой разговор.",4.3,4.0,coordination,stimul,28,222,I_noun,1pl,or_or,SV
+Davidjuk_2023,Петя или я поднимет этот важный вопрос.,3.0,3.0,coordination,stimul,15,115,noun_I,3sg,or,SV
+Davidjuk_2023,"И Слава, и я получат двойную зарплату.",4.0,4.0,coordination,stimul,5,40,noun_I,3pl,and_and,SV
+Davidjuk_2023,Артём почистит этот резиновый сапог.,6.285714285714286,6.0,good,filler,33,264,,,,
+Davidjuk_2023,"И я, и Егор прочитает вводную лекцию.",2.3,2.0,coordination,stimul,18,143,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или я, или Лёва решит эту сложную задачу.",4.7,5.0,coordination,stimul,11,87,I_noun,3sg,or_or,SV
+Davidjuk_2023,"И я, и Яша приготовит вкусный обед.",1.9,2.0,coordination,stimul,30,239,I_noun,3sg,and_and,SV
+Davidjuk_2023,"И Гоша, и Боря осуществим давнюю мечту.",2.518987341772152,3.0,bad,filler,33,278,,,,
+Davidjuk_2023,Я и Вася посмотрят документальный фильм.,4.3,4.0,coordination,stimul,2,12,I_noun,3pl,and,SV
+Davidjuk_2023,Боря или я закончим эту шахматную партию.,5.2,5.0,coordination,stimul,27,210,noun_I,1pl,or,SV
+Davidjuk_2023,"Или я, или Федя выиграем этот теннисный турнир.",4.2,4.0,coordination,stimul,26,206,I_noun,1pl,or_or,SV
+Davidjuk_2023,Я и Вадим соберём нужный материал.,5.4,5.0,coordination,stimul,23,178,I_noun,1pl,and,SV
+Davidjuk_2023,"Или я, или Гоша начну этот непростой разговор.",1.6,2.0,coordination,stimul,28,221,I_noun,1sg,or_or,SV
+Davidjuk_2023,Я или Стёпа исполню эту оперную арию.,3.3,3.0,coordination,stimul,4,25,I_noun,1sg,or,SV
+Davidjuk_2023,Костя или я расскажу эту интересную историю.,4.777777777777778,5.0,coordination,stimul,8,57,noun_I,1sg,or,SV
+Davidjuk_2023,Я или Вадим соберу этот нужный материал.,4.0,4.0,coordination,stimul,9,65,I_noun,1sg,or,SV
+Davidjuk_2023,"И Игорь, и я совершит далёкое путешествие.",1.6,2.0,coordination,stimul,28,223,noun_I,3sg,and_and,SV
+Davidjuk_2023,Я или Вова споём эту весёлую песню.,4.7,5.0,coordination,stimul,3,18,I_noun,1pl,or,SV
+Davidjuk_2023,Лёва или я решу эту сложную задачу.,3.7,4.0,coordination,stimul,11,81,noun_I,1sg,or,SV
+Davidjuk_2023,"Или Слава, или я купим эту известную картину.",5.4,5.0,coordination,stimul,19,150,noun_I,1pl,or_or,SV
+Davidjuk_2023,"Или Максим, или я приобретут этот старинный дом.",2.9,3.0,coordination,stimul,22,176,noun_I,3pl,or_or,SV
+Davidjuk_2023,Я и Гена продолжу заочное обучение.,2.5,2.0,coordination,stimul,15,113,I_noun,1sg,and,SV
+Davidjuk_2023,Никита или я побелим этот высокий потолок.,4.4,4.0,coordination,stimul,20,154,noun_I,1pl,or,SV
+Davidjuk_2023,"И Федя, и я разработают детальный план.",2.3,2.0,coordination,stimul,27,216,noun_I,3pl,and_and,SV
+Davidjuk_2023,Боря или я закончит эту шахматную партию.,2.9,3.0,coordination,stimul,27,211,noun_I,3sg,or,SV
+Davidjuk_2023,"Или Коля, или Гена испробуем этот новый метод.",3.1320754716981134,3.0,bad,filler,33,278,,,,
+Davidjuk_2023,"И я, и Ваня возьмём краткосрочный отпуск.",5.1,5.0,coordination,stimul,6,46,I_noun,1pl,and_and,SV
+Davidjuk_2023,Я или Боря закончит эту шахматную партию.,3.2,3.0,coordination,stimul,27,211,I_noun,3sg,or,SV
+Davidjuk_2023,"И я, и Юра устроят детский праздник.",2.6666666666666665,3.0,coordination,stimul,26,208,I_noun,3pl,and_and,SV
+Davidjuk_2023,Федя и я разработает детальный план.,2.8,3.0,coordination,stimul,27,211,noun_I,3sg,and,SV
+Davidjuk_2023,"И я, и Максим сделает домашнее задание.",2.4444444444444446,2.0,coordination,stimul,3,23,I_noun,3sg,and_and,SV
+Davidjuk_2023,Паша или я посетят этот научный семинар.,3.5,4.0,coordination,stimul,16,124,noun_I,3pl,or,SV
+Davidjuk_2023,"И Андрей, и я увидим кукольный спектакль.",5.7,6.0,coordination,stimul,4,30,noun_I,1pl,and_and,SV
+Davidjuk_2023,Я и Дима послушаю праздничный концерт.,3.2222222222222223,3.0,coordination,stimul,17,129,I_noun,1sg,and,SV
+Davidjuk_2023,Гоша или Боря осуществим эту давнюю мечту.,2.8385093167701863,3.0,bad,filler,33,279,,,,
+Davidjuk_2023,"И я, и Костя расскажем интересную историю.",5.111111111111111,5.0,coordination,stimul,22,175,I_noun,3sg,and_and,SV
+Davidjuk_2023,"Или Лёва, или я произнесут эту торжественную речь.",3.1,3.0,coordination,stimul,30,240,noun_I,3pl,or_or,SV
+Davidjuk_2023,Дима или я послушают это голосовое сообщение.,4.875,5.0,coordination,stimul,5,36,noun_I,3pl,or,SV
+Davidjuk_2023,Я или Олег подпишут это деловое соглашение.,3.6,4.0,coordination,stimul,17,132,I_noun,3pl,or,SV
+Davidjuk_2023,Я и Гриша сыграют шахматную партию.,2.5,2.0,coordination,stimul,29,228,I_noun,3pl,and,SV
