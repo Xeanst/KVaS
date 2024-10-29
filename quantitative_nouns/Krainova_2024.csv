@@ -1,0 +1,121 @@
+experiment,sentence,response,response_round,subtype,type,lexicalization,premodifier_number,noun_type,case
+Krainova_2024,Издатели потребовали этих сотни экземпляров.,2.5,2.0,quantitative_nouns,stimul,22,pl,sotnya,genitive
+Krainova_2024,Клиенты требовали этих пары встреч.,3.6666666666666665,4.0,quantitative_nouns,stimul,5,pl,para,genitive
+Krainova_2024,Астероиды задели эти тысячу звезд.,3.5,4.0,quantitative_nouns,stimul,7,pl,tisyacha,accusative
+Krainova_2024,Лингвист изучил эти дюжину языков.,2.583333333333333,3.0,quantitative_nouns,stimul,1,pl,dyuzina,accusative
+Krainova_2024,В фильме звучали эти десяток песен.,2.333333333333333,2.0,quantitative_nouns,stimul,14,pl,desyatok,nominative
+Krainova_2024,На водопой пришли эти сотня животных.,2.833333333333333,3.0,quantitative_nouns,stimul,20,pl,sotnya,nominative
+Krainova_2024,На репетиции произошли эти пара ошибок.,4.083333333333333,4.0,quantitative_nouns,stimul,24,pl,para,nominative
+Krainova_2024,Ботаник засушил эти сотню трав.,2.6666666666666665,3.0,quantitative_nouns,stimul,21,pl,sotnya,accusative
+Krainova_2024,Знаменитости возмутились этими дюжиной журналистов.,2.272727272727273,2.0,quantitative_nouns,stimul,19,pl,dyuzina,instrumental
+Krainova_2024,Соревнования принесли эти десяток наград.,3.25,3.0,quantitative_nouns,stimul,13,pl,desyatok,accusative
+Krainova_2024,В книжный поступили эти сотня экземпляров.,1.75,2.0,quantitative_nouns,stimul,22,pl,sotnya,nominative
+Krainova_2024,Музыкант сочинил эти десяток песен.,3.25,3.0,quantitative_nouns,stimul,14,pl,desyatok,accusative
+Krainova_2024,Бухгалтер избегал этих пары коллег.,3.0,3.0,quantitative_nouns,stimul,4,pl,para,genitive
+Krainova_2024,За городом построили эти дюжину заводов.,2.1666666666666665,2.0,quantitative_nouns,stimul,17,pl,dyuzina,accusative
+Krainova_2024,Переводчики избегают этих дюжины языков.,3.083333333333333,3.0,quantitative_nouns,stimul,1,pl,dyuzina,genitive
+Krainova_2024,Поклонники восхищались этими парой актеров.,1.4545454545454546,1.0,quantitative_nouns,stimul,23,pl,para,instrumental
+Krainova_2024,Студент допустил эти пару ошибок.,4.333333333333333,4.0,quantitative_nouns,stimul,24,pl,para,accusative
+Krainova_2024,Адвокат добились десятка побед.,1.4375,1.0,bad,filler,501,,,
+Krainova_2024,Певец боялся этих дюжины журналистов.,2.25,2.0,quantitative_nouns,stimul,19,pl,dyuzina,genitive
+Krainova_2024,Скрипач заслужили сотню похвал.,2.382978723404255,2.0,bad,filler,501,,,
+Krainova_2024,На выпускном танцуют эти тысяча школьников.,4.833333333333333,5.0,quantitative_nouns,stimul,12,pl,tisyacha,nominative
+Krainova_2024,Инструктор обучил этих десяток водителей.,2.833333333333333,3.0,quantitative_nouns,stimul,6,pl,desyatok,accusative
+Krainova_2024,Врач не вылечил этих дюжину пациентов.,2.1666666666666665,2.0,quantitative_nouns,stimul,8,pl,dyuzina,genitive
+Krainova_2024,На мероприятии присутствовали эти дюжина журналистов.,3.1666666666666665,3.0,quantitative_nouns,stimul,19,pl,dyuzina,nominative
+Krainova_2024,Зрители ждали этих пары актеров.,2.333333333333333,2.0,quantitative_nouns,stimul,23,pl,para,genitive
+Krainova_2024,В Австралии остерегались этих сотни животных.,3.083333333333333,3.0,quantitative_nouns,stimul,20,pl,sotnya,genitive
+Krainova_2024,В горах росли эти сотня трав.,2.333333333333333,2.0,quantitative_nouns,stimul,21,pl,sotnya,nominative
+Krainova_2024,Ученый не описал этих десятка бабочек.,2.1666666666666665,2.0,quantitative_nouns,stimul,15,pl,desyatok,genitive
+Krainova_2024,На церемонию пригласили этих дюжину журналистов.,2.6666666666666665,3.0,quantitative_nouns,stimul,19,pl,dyuzina,accusative
+Krainova_2024,Прививку поставили этим сотне собак.,2.333333333333333,2.0,quantitative_nouns,stimul,2,pl,sotnya,dative
+Krainova_2024,В спектакле играли эти пара актеров.,3.333333333333333,3.0,quantitative_nouns,stimul,23,pl,para,nominative
+Krainova_2024,На юбилей пришел тысяча гостей.,1.375,1.0,bad,filler,501,,,
+Krainova_2024,В ресторан пришли эти дюжина приятелей.,2.75,3.0,quantitative_nouns,stimul,18,pl,dyuzina,nominative
+Krainova_2024,Предложение привлекло этих тысячу заказчиков.,3.636363636363636,4.0,quantitative_nouns,stimul,10,pl,tisyacha,accusative
+Krainova_2024,Мальчик испугался дюжины пауков.,6.708333333333333,7.0,good,filler,501,,,
+Krainova_2024,Типография напечатала эти сотню экземпляров.,3.6666666666666665,4.0,quantitative_nouns,stimul,22,pl,sotnya,accusative
+Krainova_2024,Волонтеры покормили этих сотню собак.,3.75,4.0,quantitative_nouns,stimul,2,pl,sotnya,accusative
+Krainova_2024,Лекарство помогло этим дюжине пациентов.,2.6666666666666665,3.0,quantitative_nouns,stimul,8,pl,dyuzina,dative
+Krainova_2024,Целительница пользовалась этими сотней трав.,2.333333333333333,2.0,quantitative_nouns,stimul,21,pl,sotnya,instrumental
+Krainova_2024,Биолог заинтересовался этими десятком бабочек.,1.6666666666666667,2.0,quantitative_nouns,stimul,15,pl,desyatok,instrumental
+Krainova_2024,Государство управляло этими дюжиной заводов.,2.75,3.0,quantitative_nouns,stimul,17,pl,dyuzina,instrumental
+Krainova_2024,В употреблении находятся эти дюжина языков.,2.9166666666666665,3.0,quantitative_nouns,stimul,1,pl,dyuzina,nominative
+Krainova_2024,На лечении находились эти дюжина пациентов.,3.333333333333333,3.0,quantitative_nouns,stimul,8,pl,dyuzina,nominative
+Krainova_2024,В шкафах стояли эти сотня книг.,2.75,3.0,quantitative_nouns,stimul,3,pl,sotnya,nominative
+Krainova_2024,Природу загрязняли эти дюжина заводов.,3.25,3.0,quantitative_nouns,stimul,17,pl,dyuzina,nominative
+Krainova_2024,Оранжерея лишилась этих сотни трав.,4.545454545454546,5.0,quantitative_nouns,stimul,21,pl,sotnya,genitive
+Krainova_2024,Астрономы не замечали этих тысячи звезд.,3.083333333333333,3.0,quantitative_nouns,stimul,7,pl,tisyacha,genitive
+Krainova_2024,Пешеходы сторонились этих десятка водителей.,3.583333333333333,4.0,quantitative_nouns,stimul,6,pl,desyatok,genitive
+Krainova_2024,На конкурсе завидовали этим тысяче школьников.,3.363636363636364,3.0,quantitative_nouns,stimul,12,pl,tisyacha,dative
+Krainova_2024,Заяц не заметило пары капканов.,1.0625,1.0,bad,filler,501,,,
+Krainova_2024,Команда гордилась этими десятком наград.,2.9166666666666665,3.0,quantitative_nouns,stimul,13,pl,desyatok,instrumental
+Krainova_2024,Доказательства убедил сотню человек.,1.25,1.0,bad,filler,501,,,
+Krainova_2024,В городе остерегались этих сотни собак.,3.333333333333333,3.0,quantitative_nouns,stimul,2,pl,sotnya,genitive
+Krainova_2024,На диване лежит пара подушек.,6.914893617021277,7.0,good,filler,501,,,
+Krainova_2024,Директор уволил этих пару коллег.,2.833333333333333,3.0,quantitative_nouns,stimul,4,pl,para,accusative
+Krainova_2024,Ураган не повалил этих тысячи деревьев.,3.583333333333333,4.0,quantitative_nouns,stimul,9,pl,tisyacha,genitive
+Krainova_2024,Библиотека владела этими сотней экземпляров.,2.909090909090909,3.0,quantitative_nouns,stimul,22,pl,sotnya,instrumental
+Krainova_2024,Из больницы выписали этих дюжину пациентов.,2.333333333333333,2.0,quantitative_nouns,stimul,8,pl,dyuzina,accusative
+Krainova_2024,На полке стояли эти десяток наград.,2.6666666666666665,3.0,quantitative_nouns,stimul,13,pl,desyatok,nominative
+Krainova_2024,На замене настаивали эти тысяча заказчиков.,3.6666666666666665,4.0,quantitative_nouns,stimul,10,pl,tisyacha,nominative
+Krainova_2024,Обманщики притворялись парой влюбленных.,6.770833333333333,7.0,good,filler,501,,,
+Krainova_2024,В финале наградили этих десяток игроков.,1.9166666666666667,2.0,quantitative_nouns,stimul,16,pl,desyatok,accusative
+Krainova_2024,В магазин привезли эти сотню книг.,3.0,3.0,quantitative_nouns,stimul,3,pl,sotnya,accusative
+Krainova_2024,Предложение %09привлекло этих тысячу заказчиков.,2.0,2.0,quantitative_nouns,stimul,10,pl,tisyacha,accusative
+Krainova_2024,Редактор добился сотни правок.,6.666666666666667,7.0,good,filler,501,,,
+Krainova_2024,Бизнесмены назначили эти пару встреч.,4.75,5.0,quantitative_nouns,stimul,5,pl,para,accusative
+Krainova_2024,В Красную Книгу внесли этих сотню животных.,3.083333333333333,3.0,quantitative_nouns,stimul,20,pl,sotnya,accusative
+Krainova_2024,Обстоятельства способствовали этим паре встреч.,2.333333333333333,2.0,quantitative_nouns,stimul,5,pl,para,dative
+Krainova_2024,Архив не досчитался этих сотни книг.,3.75,4.0,quantitative_nouns,stimul,3,pl,sotnya,genitive
+Krainova_2024,В заповеднике росли эти тысяча деревьев.,4.0,4.0,quantitative_nouns,stimul,9,pl,tisyacha,nominative
+Krainova_2024,Засуха угрожала этим тысяче деревьев.,4.333333333333333,4.0,quantitative_nouns,stimul,9,pl,tisyacha,dative
+Krainova_2024,Фотограф запечатлел этих дюжину приятелей.,2.75,3.0,quantitative_nouns,stimul,18,pl,dyuzina,accusative
+Krainova_2024,Балерина стыдилась этих пары ошибок.,3.4166666666666665,3.0,quantitative_nouns,stimul,24,pl,para,genitive
+Krainova_2024,На экзамен привели этих тысячу школьников.,2.75,3.0,quantitative_nouns,stimul,12,pl,tisyacha,accusative
+Krainova_2024,Тренер похвастался этими десятком игроков.,2.4166666666666665,2.0,quantitative_nouns,stimul,16,pl,desyatok,instrumental
+Krainova_2024,Почта ждала этих тысячи писем.,3.1666666666666665,3.0,quantitative_nouns,stimul,11,pl,tisyacha,genitive
+Krainova_2024,Лесники вырубили эти тысячу деревьев.,3.1666666666666665,3.0,quantitative_nouns,stimul,9,pl,tisyacha,accusative
+Krainova_2024,Компания лишилась этих тысячи заказчиков.,5.0,5.0,quantitative_nouns,stimul,10,pl,tisyacha,genitive
+Krainova_2024,Названия придумали этим тысяче звезд.,1.818181818181818,2.0,quantitative_nouns,stimul,7,pl,tisyacha,dative
+Krainova_2024,История придумана этими дюжиной приятелей.,2.25,2.0,quantitative_nouns,stimul,18,pl,dyuzina,instrumental
+Krainova_2024,Начальник руководит десятком отделов.,6.791666666666667,7.0,good,filler,501,,,
+Krainova_2024,Менеджер позвонил этим паре коллег.,4.166666666666667,4.0,quantitative_nouns,stimul,4,pl,para,dative
+Krainova_2024,Фокусник жонглировали дюжиной факелов.,2.270833333333333,2.0,bad,filler,501,,,
+Krainova_2024,Над цветами летали эти десяток бабочек.,3.0,3.0,quantitative_nouns,stimul,15,pl,desyatok,nominative
+Krainova_2024,Попытки увенчалась сотней неудач.,3.0,3.0,bad,filler,501,,,
+Krainova_2024,Зоопарк заинтересовался этими сотней животных.,2.833333333333333,3.0,quantitative_nouns,stimul,20,pl,sotnya,instrumental
+Krainova_2024,Мальчик поймал этих десяток бабочек.,2.583333333333333,3.0,quantitative_nouns,stimul,15,pl,desyatok,accusative
+Krainova_2024,Коллекционер радуется этим сотне книг.,1.8333333333333333,2.0,quantitative_nouns,stimul,3,pl,sotnya,dative
+Krainova_2024,Репортеры сфотографировали этих пару актеров.,4.083333333333333,4.0,quantitative_nouns,stimul,23,pl,para,accusative
+Krainova_2024,Мальчик подражал паре друзей.,6.479166666666667,6.0,good,filler,501,,,
+Krainova_2024,На совещание опоздали эти пара коллег.,4.583333333333333,5.0,quantitative_nouns,stimul,4,pl,para,nominative
+Krainova_2024,Гимнастка пользовался парой булав.,2.1666666666666665,2.0,bad,filler,501,,,
+Krainova_2024,Туристы любовались тысячей картин.,6.1875,6.0,good,filler,501,,,
+Krainova_2024,Мастерская отказала этим тысяче заказчиков.,2.333333333333333,2.0,quantitative_nouns,stimul,10,pl,tisyacha,dative
+Krainova_2024,На верхней полке стоял десяток банок.,5.333333333333333,5.0,good,filler,501,,,
+Krainova_2024,Следователь опросил десяток свидетелей.,6.916666666666667,7.0,good,filler,501,,,
+Krainova_2024,Заграждение препятствовало этим десятку водителей.,1.9090909090909087,2.0,quantitative_nouns,stimul,6,pl,desyatok,dative
+Krainova_2024,Вася сторонился этих дюжины приятелей.,3.75,4.0,quantitative_nouns,stimul,18,pl,dyuzina,genitive
+Krainova_2024,Фанаты попросили этих десятка песен.,1.5,2.0,quantitative_nouns,stimul,14,pl,desyatok,genitive
+Krainova_2024,Администрация написала эти тысячу писем.,4.666666666666667,5.0,quantitative_nouns,stimul,11,pl,tisyacha,accusative
+Krainova_2024,Критики манипулировали этими парой ошибок.,3.0,3.0,quantitative_nouns,stimul,24,pl,para,instrumental
+Krainova_2024,В приюте жили эти сотня собак.,2.1666666666666665,2.0,quantitative_nouns,stimul,2,pl,sotnya,nominative
+Krainova_2024,Актриса удивилась этим тысяче писем.,2.272727272727273,2.0,quantitative_nouns,stimul,11,pl,tisyacha,dative
+Krainova_2024,В саду рос сотня тюльпанов.,1.1666666666666667,1.0,bad,filler,501,,,
+Krainova_2024,Священник поверил дюжине клятв.,6.617021276595745,7.0,good,filler,501,,,
+Krainova_2024,Ребенок подражало десятку знакомых.,1.1875,1.0,bad,filler,501,,,
+Krainova_2024,От поклонников пришли эти тысяча писем .,3.6666666666666665,4.0,quantitative_nouns,stimul,11,pl,tisyacha,nominative
+Krainova_2024,Спортсмен желал этих десятка наград.,3.4166666666666665,3.0,quantitative_nouns,stimul,13,pl,desyatok,genitive
+Krainova_2024,На сделку повлияли эти пара встреч.,4.916666666666667,5.0,quantitative_nouns,stimul,5,pl,para,nominative
+Krainova_2024,Оранжерея лишилась%09этих сотни трав.,7.0,7.0,quantitative_nouns,stimul,21,pl,sotnya,genitive
+Krainova_2024,Нововведения коснулись этих тысячи школьников.,3.083333333333333,3.0,quantitative_nouns,stimul,12,pl,tisyacha,genitive
+Krainova_2024,Шум мешало паре отдыхающих.,1.0625,1.0,bad,filler,501,,,
+Krainova_2024,В ограждение врезались эти десяток водителей.,2.833333333333333,3.0,quantitative_nouns,stimul,6,pl,desyatok,nominative
+Krainova_2024,Меломан увлекся этими десятком песен.,2.333333333333333,2.0,quantitative_nouns,stimul,14,pl,desyatok,instrumental
+Krainova_2024,На небе светили эти тысяча звезд.,4.25,4.0,quantitative_nouns,stimul,7,pl,tisyacha,nominative
+Krainova_2024,Соперники опасались этих десятка игроков.,2.75,3.0,quantitative_nouns,stimul,16,pl,desyatok,genitive
+Krainova_2024,В баскетбол играли эти десяток игроков.,3.0,3.0,quantitative_nouns,stimul,16,pl,desyatok,nominative
+Krainova_2024,Полиглот научился этим дюжине языков.,3.4166666666666665,3.0,quantitative_nouns,stimul,1,pl,dyuzina,dative
+Krainova_2024,Кризис коснулся этих дюжины заводов.,3.75,4.0,quantitative_nouns,stimul,17,pl,dyuzina,genitive
+Krainova_2024,Рыбак продал сотню окуней.,6.6875,7.0,good,filler,501,,,
