@@ -1,0 +1,1575 @@
+experiment,sentence,response,response_round,subtype,type,lexicalization,sentence_id,quant,strategy,pronoun,agreement,order
+Belova_2023,Они пятеро перезвонят по незнакомым номерам.,3.4,3.0,quantiifier,stimul,22.0,345,dvoje,nom,oni,3pl,SV
+Belova_2023,Мы трое съездят в отдалённые деревни.,2.75,3.0,quantiifier,stimul,20.0,311,dvoje,nom,my,3pl,SV
+Belova_2023,Они четверо познакомится с артистами спектакля.,2.75,3.0,quantiifier,stimul,33.0,522,dvoje,nom,oni,3sg,SV
+Belova_2023,За новые проекты возьмутся мы семеро.,1.8,2.0,quantiifier,stimul,42.0,663,dvoje,nom,my,3pl,VS
+Belova_2023,За выполненные задачи отчитаются они двое.,3.555555555555556,4.0,quantiifier,stimul,43.0,681,dvoje,nom,oni,3pl,VS
+Belova_2023,Четверо из них отправятся в байдарочные походы.,6.4,6.0,quantiifier,stimul,27.0,420,dvoje,elect,oni,3pl,SV
+Belova_2023,За допущенные ошибки извинится четверо из них.,3.888888888888889,4.0,quantiifier,stimul,45.0,709,dvoje,elect,oni,3sg,VS
+Belova_2023,В течение месяца женится пятеро из нас.,5.0,5.0,quantiifier,stimul,16.0,243,dvoje,elect,my,3sg,VS
+Belova_2023,Двое из них свяжется со свадебными фотографами.,1.25,1.0,quantiifier,stimul,25.0,389,dvoje,elect,oni,3sg,SV
+Belova_2023,В дешёвых хостелах остановимся двое из нас.,2.4444444444444446,2.0,quantiifier,stimul,7.0,97,dvoje,elect,my,1pl,VS
+Belova_2023,Мы все порыбачим в лесных озёрах.,4.818181818181818,5.0,quantiifier,stimul,31.0,494,vse,nom,my,1pl,SV
+Belova_2023,На студенческих конференциях выступит мы четверо.,1.875,2.0,quantiifier,stimul,21.0,328,dvoje,nom,my,3sg,VS
+Belova_2023,Мы двое порыбачим в лесных озёрах.,5.5,6.0,quantiifier,stimul,31.0,486,dvoje,nom,my,1pl,SV
+Belova_2023,Они двое свяжется со свадебными фотографами.,2.1666666666666665,2.0,quantiifier,stimul,25.0,394,dvoje,nom,oni,3sg,SV
+Belova_2023,С кредитными долгами рассчитаются шестеро из нас.,5.555555555555555,6.0,quantiifier,stimul,23.0,354,dvoje,elect,my,3pl,VS
+Belova_2023,Они шестеро приедут на утренних поездах.,4.2,4.0,quantiifier,stimul,5.0,73,dvoje,nom,oni,3pl,SV
+Belova_2023,Все из нас подметём в учебных кабинетах.,1.25,1.0,quantiifier,stimul,41.0,651,vse,elect,my,1pl,SV
+Belova_2023,Они все возьмутся за новые проекты.,6.2,6.0,quantiifier,stimul,42.0,672,vse,oni,nom,3pl,SV
+Belova_2023,В больших палатках переночуют мы двое.,2.111111111111111,2.0,quantiifier,stimul,19.0,295,dvoje,nom,my,3pl,VS
+Belova_2023,В больших палатках переночуют они все.,4.5,4.0,quantiifier,stimul,19.0,304,vse,oni,nom,3pl,VS
+Belova_2023,Шестеро из нас поступим в столичные вузы.,2.0,2.0,quantiifier,stimul,17.0,257,dvoje,elect,my,1pl,SV
+Belova_2023,Шестеро из них поступят в столичные вузы.,5.75,6.0,quantiifier,stimul,17.0,260,dvoje,elect,oni,3pl,SV
+Belova_2023,За допущенные ошибки извинятся они все.,4.666666666666667,5.0,quantiifier,stimul,45.0,720,vse,oni,nom,3pl,VS
+Belova_2023,Мы семеро позаботятся о нужных продуктах.,2.75,3.0,quantiifier,stimul,30.0,471,dvoje,nom,my,3pl,SV
+Belova_2023,Семеро из них позаботятся о нужных продуктах.,4.666666666666667,5.0,quantiifier,stimul,30.0,468,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы трое прилетим в разные аэропорты.,3.8,4.0,quantiifier,stimul,8.0,118,dvoje,nom,my,1pl,SV
+Belova_2023,Они семеро переоденется в карнавальные костюмы.,2.0,2.0,quantiifier,stimul,6.0,90,dvoje,nom,oni,3sg,SV
+Belova_2023,Все из нас опубликуемся в научных журналах.,2.75,3.0,quantiifier,stimul,2.0,27,vse,elect,my,1pl,SV
+Belova_2023,Мы двое остановимся в дешёвых хостелах.,5.75,6.0,quantiifier,stimul,7.0,102,dvoje,nom,my,1pl,SV
+Belova_2023,На двугорбых верблюдах покатаются они трое.,2.875,3.0,quantiifier,stimul,26.0,409,dvoje,nom,oni,3pl,VS
+Belova_2023,В гостиничные номера вернёмся мы четверо.,4.0,4.0,quantiifier,stimul,15.0,230,dvoje,nom,my,1pl,VS
+Belova_2023,С проведением экзаменов помогут мы все.,2.4285714285714284,2.0,quantiifier,stimul,3.0,47,vse,nom,my,3pl,VS
+Belova_2023,Четверо из нас вернёмся в гостиничные номера.,2.0,2.0,quantiifier,stimul,15.0,225,dvoje,elect,my,1pl,SV
+Belova_2023,Мы четверо выступят на студенческих конференциях.,1.75,2.0,quantiifier,stimul,21.0,327,dvoje,nom,my,3pl,SV
+Belova_2023,Мы семеро уволимся с нынешних позиций.,4.0,4.0,quantiifier,stimul,18.0,278,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все уволимся с нынешних позиций.,4.666666666666667,5.0,quantiifier,stimul,18.0,286,vse,nom,my,1pl,SV
+Belova_2023,Они все вложатся в перспективные акции.,5.875,6.0,quantiifier,stimul,44.0,704,vse,oni,nom,3pl,SV
+Belova_2023,Мы все приедем на утренних поездах.,6.5,6.0,quantiifier,stimul,5.0,78,vse,nom,my,1pl,SV
+Belova_2023,За выполненные задачи отчитаемся двое из нас.,2.2222222222222223,2.0,quantiifier,stimul,43.0,673,dvoje,elect,my,1pl,VS
+Belova_2023,В больших палатках переночует они двое.,1.4444444444444444,1.0,quantiifier,stimul,19.0,298,dvoje,nom,oni,3sg,VS
+Belova_2023,Все из нас прикрепимся к новым поликлиникам.,1.5,2.0,quantiifier,stimul,40.0,635,vse,elect,my,1pl,SV
+Belova_2023,В важные переговоры вмешаемся все из нас.,2.333333333333333,2.0,quantiifier,stimul,29.0,459,vse,elect,my,1pl,VS
+Belova_2023,Они четверо помогут с проведением экзаменов.,3.363636363636364,3.0,quantiifier,stimul,3.0,41,dvoje,nom,oni,3pl,SV
+Belova_2023,С кредитными долгами рассчитаются они шестеро.,2.555555555555556,3.0,quantiifier,stimul,23.0,361,dvoje,nom,oni,3pl,VS
+Belova_2023,К поисковым отрядам присоединится пятеро из нас.,5.555555555555555,6.0,quantiifier,stimul,28.0,435,dvoje,elect,my,3sg,VS
+Belova_2023,Четверо из нас извинимся за допущенные ошибки.,4.25,4.0,quantiifier,stimul,45.0,705,dvoje,elect,my,1pl,SV
+Belova_2023,Мы семеро позаботится о нужных продуктах.,1.25,1.0,quantiifier,stimul,30.0,472,dvoje,nom,my,3sg,SV
+Belova_2023,Все из нас переоденемся в карнавальные костюмы.,2.333333333333333,2.0,quantiifier,stimul,6.0,91,vse,elect,my,1pl,SV
+Belova_2023,На южных курортах отдохнут все из нас.,4.111111111111111,4.0,quantiifier,stimul,24.0,380,vse,elect,my,3pl,VS
+Belova_2023,Пятеро из нас пойдём на курсы вождения.,2.4,2.0,quantiifier,stimul,46.0,721,dvoje,elect,my,1pl,SV
+Belova_2023,В перспективные акции вложится трое из них.,3.7777777777777777,4.0,quantiifier,stimul,44.0,693,dvoje,elect,oni,3sg,VS
+Belova_2023,Трое фокусника будут приглашен на день рождения.,2.256302521008404,2.0,bad,filler,,813,,,,,
+Belova_2023,Все из нас разберутся со сломанными телефонами.,4.25,4.0,quantiifier,stimul,9.0,140,vse,elect,my,3pl,SV
+Belova_2023,Мы все извинятся за допущенные ошибки.,1.375,1.0,quantiifier,stimul,45.0,719,vse,nom,my,3pl,SV
+Belova_2023,На студенческих конференциях выступят четверо из нас.,5.888888888888889,6.0,quantiifier,stimul,21.0,322,dvoje,elect,my,3pl,VS
+Belova_2023,Шестеро из них ответит за поломанные инструменты.,2.333333333333333,2.0,quantiifier,stimul,35.0,549,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы все сядут за первые парты.,1.25,1.0,quantiifier,stimul,39.0,623,vse,nom,my,3pl,SV
+Belova_2023,В научных журналах опубликуются трое из нас.,4.555555555555555,5.0,quantiifier,stimul,2.0,18,dvoje,elect,my,3pl,VS
+Belova_2023,С артистами спектакля познакомятся четверо из нас.,5.666666666666667,6.0,quantiifier,stimul,33.0,514,dvoje,elect,my,3pl,VS
+Belova_2023,В старых кладовках приберутся все из них.,3.4444444444444446,3.0,quantiifier,stimul,47.0,749,vse,elect,oni,3pl,VS
+Belova_2023,Они семеро позаботится о нужных продуктах.,1.6666666666666667,2.0,quantiifier,stimul,30.0,474,dvoje,nom,oni,3sg,SV
+Belova_2023,В перспективные акции вложатся они все.,4.444444444444445,4.0,quantiifier,stimul,44.0,704,vse,oni,nom,3pl,VS
+Belova_2023,На студенческих конференциях выступят они четверо.,2.888888888888889,3.0,quantiifier,stimul,21.0,329,dvoje,nom,oni,3pl,VS
+Belova_2023,Они четверо вернутся в гостиничные номера.,5.0,5.0,quantiifier,stimul,15.0,233,dvoje,nom,oni,3pl,SV
+Belova_2023,С заменой лампочек справится шестеро из них.,3.888888888888889,4.0,quantiifier,stimul,11.0,165,dvoje,elect,oni,3sg,VS
+Belova_2023,С заменой лампочек справится они шестеро.,1.7777777777777777,2.0,quantiifier,stimul,11.0,170,dvoje,nom,oni,3sg,VS
+Belova_2023,Они шестеро поступят в столичные вузы.,5.1,5.0,quantiifier,stimul,17.0,265,dvoje,nom,oni,3pl,SV
+Belova_2023,В социальных опросах поучаствуют семеро из нас.,5.888888888888889,6.0,quantiifier,stimul,48.0,754,dvoje,elect,my,3pl,VS
+Belova_2023,Они четверо сядет за первые парты.,1.5,2.0,quantiifier,stimul,39.0,618,dvoje,nom,oni,3sg,SV
+Belova_2023,Все из них рассчитаются с кредитными долгами.,4.4,4.0,quantiifier,stimul,23.0,365,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас рассчитаются с кредитными долгами.,5.2,5.0,quantiifier,stimul,23.0,364,vse,elect,my,3pl,SV
+Belova_2023,В учебных кабинетах подметёт шестеро из нас.,4.555555555555555,5.0,quantiifier,stimul,41.0,643,dvoje,elect,my,3sg,VS
+Belova_2023,В старых кладовках приберёмся мы шестеро.,4.25,4.0,quantiifier,stimul,47.0,742,dvoje,nom,my,1pl,VS
+Belova_2023,Мы двое отчитается за выполненные задачи.,3.333333333333333,3.0,quantiifier,stimul,43.0,680,dvoje,nom,my,3sg,SV
+Belova_2023,Они шестеро приберётся в старых кладовках.,2.8,3.0,quantiifier,stimul,47.0,746,dvoje,nom,oni,3sg,SV
+Belova_2023,Они семеро объявят о скорых отставках.,2.8181818181818183,3.0,quantiifier,stimul,36.0,569,dvoje,nom,oni,3pl,SV
+Belova_2023,В столичные вузы поступят все из них.,4.444444444444445,4.0,quantiifier,stimul,17.0,269,vse,elect,oni,3pl,VS
+Belova_2023,За выполненные задачи отчитаются они все.,4.666666666666667,5.0,quantiifier,stimul,43.0,688,vse,oni,nom,3pl,VS
+Belova_2023,Все из нас отметимся на проходной завода.,2.2,2.0,quantiifier,stimul,38.0,603,vse,elect,my,1pl,SV
+Belova_2023,С поставщиками продуктов созвонятся пятеро из них.,5.333333333333333,5.0,quantiifier,stimul,10.0,148,dvoje,elect,oni,3pl,VS
+Belova_2023,Двое из нас победит на конкурсе чтецов.,1.6666666666666667,2.0,quantiifier,stimul,37.0,579,dvoje,elect,my,3sg,SV
+Belova_2023,Они четверо извинится за допущенные ошибки.,2.0,2.0,quantiifier,stimul,45.0,714,dvoje,nom,oni,3sg,SV
+Belova_2023,За новые проекты возьмутся они все.,4.555555555555555,5.0,quantiifier,stimul,42.0,672,vse,oni,nom,3pl,VS
+Belova_2023,Пятеро из нас прикрепится к новым поликлиникам.,4.5,4.0,quantiifier,stimul,40.0,627,dvoje,elect,my,3sg,SV
+Belova_2023,Все из нас переедут в соседние страны.,3.625,4.0,quantiifier,stimul,32.0,508,vse,elect,my,3pl,SV
+Belova_2023,За первые парты сядет мы четверо.,1.625,2.0,quantiifier,stimul,39.0,616,dvoje,nom,my,3sg,VS
+Belova_2023,Все из них придут на пятничную вечеринку.,3.6,4.0,quantiifier,stimul,1.0,13,vse,elect,oni,3pl,SV
+Belova_2023,Мы трое вложатся в перспективные акции.,1.6666666666666667,2.0,quantiifier,stimul,44.0,695,dvoje,nom,my,3pl,SV
+Belova_2023,Мы трое переедет в соседние страны.,2.0,2.0,quantiifier,stimul,32.0,504,dvoje,nom,my,3sg,SV
+Belova_2023,В гостиничные номера вернутся все из нас.,4.333333333333333,4.0,quantiifier,stimul,15.0,236,vse,elect,my,3pl,VS
+Belova_2023,В старых кладовках приберутся шестеро из них.,5.222222222222222,5.0,quantiifier,stimul,47.0,740,dvoje,elect,oni,3pl,VS
+Belova_2023,За новые проекты возьмутся все из них.,4.555555555555555,5.0,quantiifier,stimul,42.0,669,vse,elect,oni,3pl,VS
+Belova_2023,Все из нас познакомимся с артистами спектакля.,2.375,2.0,quantiifier,stimul,33.0,523,vse,elect,my,1pl,SV
+Belova_2023,С нынешних позиций уволится семеро из них.,4.222222222222222,4.0,quantiifier,stimul,18.0,277,dvoje,elect,oni,3sg,VS
+Belova_2023,Они двое свяжутся со свадебными фотографами.,4.666666666666667,5.0,quantiifier,stimul,25.0,393,dvoje,nom,oni,3pl,SV
+Belova_2023,В учебных кабинетах подметёт они шестеро.,1.4444444444444444,1.0,quantiifier,stimul,41.0,650,dvoje,nom,oni,3sg,VS
+Belova_2023,К поисковым отрядам присоединится пятеро из них.,4.0,4.0,quantiifier,stimul,28.0,437,dvoje,elect,oni,3sg,VS
+Belova_2023,В соседние страны переедут они трое.,3.0,3.0,quantiifier,stimul,32.0,505,dvoje,nom,oni,3pl,VS
+Belova_2023,В крещенской проруби искупаемся пятеро из нас.,2.6666666666666665,3.0,quantiifier,stimul,4.0,49,dvoje,elect,my,1pl,VS
+Belova_2023,К поисковым отрядам присоединимся пятеро из нас.,2.4444444444444446,2.0,quantiifier,stimul,28.0,433,dvoje,elect,my,1pl,VS
+Belova_2023,Мы все переночуют в больших палатках.,1.6666666666666667,2.0,quantiifier,stimul,19.0,303,vse,nom,my,3pl,SV
+Belova_2023,Мы все женимся в течение месяца.,6.25,6.0,quantiifier,stimul,16.0,254,vse,nom,my,1pl,SV
+Belova_2023,Все из их переночуют в больших палатках.,1.625,2.0,quantiifier,stimul,19.0,301,vse,elect,oni,3pl,SV
+Belova_2023,Шестеро из нас справится с заменой лампочек.,5.5,6.0,quantiifier,stimul,11.0,163,dvoje,elect,my,3sg,SV
+Belova_2023,С кредитными долгами рассчитаются все из нас.,3.4444444444444446,3.0,quantiifier,stimul,23.0,364,vse,elect,my,3pl,VS
+Belova_2023,Вы с Костей построите крепость из снегом.,2.9071729957805905,3.0,bad,filler,,797,,,,,
+Belova_2023,Мы пятеро побеседует с очевидцами аварии.,2.1,2.0,quantiifier,stimul,34.0,536,dvoje,nom,my,3sg,SV
+Belova_2023,Двое из нас сыграют на акустической гитаре.,6.0,6.0,quantiifier,stimul,13.0,194,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас разберёмся со сломанными телефонами.,2.25,2.0,quantiifier,stimul,9.0,139,vse,elect,my,1pl,SV
+Belova_2023,В лесных озёрах порыбачит двое из нас.,4.388888888888889,4.0,quantiifier,stimul,31.0,483,dvoje,elect,my,3sg,VS
+Belova_2023,В течение месяца женится пятеро из них.,3.7777777777777777,4.0,quantiifier,stimul,16.0,245,dvoje,elect,oni,3sg,VS
+Belova_2023,Все из нас переночуем в больших палатках.,1.5,2.0,quantiifier,stimul,19.0,299,vse,elect,my,1pl,SV
+Belova_2023,В разные аэропорты прилетят мы трое.,1.9,2.0,quantiifier,stimul,8.0,119,dvoje,nom,my,3pl,VS
+Belova_2023,В разные аэропорты прилетят мы все.,2.375,2.0,quantiifier,stimul,8.0,127,vse,nom,my,3pl,VS
+Belova_2023,Вдвоём мы сможем переправиться на другом берега.,2.3375527426160336,2.0,bad,filler,,805,,,,,
+Belova_2023,В гостиничные номера вернутся мы все.,2.625,3.0,quantiifier,stimul,15.0,239,vse,nom,my,3pl,VS
+Belova_2023,В дешёвых хостелах остановится мы двое.,1.875,2.0,quantiifier,stimul,7.0,104,dvoje,nom,my,3sg,VS
+Belova_2023,Семеро из нас уволится с нынешних позиций.,3.0,3.0,quantiifier,stimul,18.0,275,dvoje,elect,my,3sg,SV
+Belova_2023,Мы все приедут на утренних поездах.,1.25,1.0,quantiifier,stimul,5.0,79,vse,nom,my,3pl,SV
+Belova_2023,В дешёвых хостелах остановятся мы все.,2.625,3.0,quantiifier,stimul,7.0,111,vse,nom,my,3pl,VS
+Belova_2023,За допущенные ошибки извинимся четверо из нас.,2.555555555555556,3.0,quantiifier,stimul,45.0,705,dvoje,elect,my,1pl,VS
+Belova_2023,Шестеро из нас подметут в учебных кабинетах.,4.5,4.0,quantiifier,stimul,41.0,642,dvoje,elect,my,3pl,SV
+Belova_2023,На утренних поездах приедем мы шестро.,2.875,3.0,quantiifier,stimul,5.0,70,dvoje,nom,my,1pl,VS
+Belova_2023,В старых кладовках приберётся шестеро из них.,4.0,4.0,quantiifier,stimul,47.0,741,dvoje,elect,oni,3sg,VS
+Belova_2023,Мы все ответят за поломанные инструменты.,2.333333333333333,2.0,quantiifier,stimul,35.0,559,vse,nom,my,3pl,SV
+Belova_2023,Они все отправятся в байдарочные походы.,5.75,6.0,quantiifier,stimul,27.0,432,vse,oni,nom,3pl,SV
+Belova_2023,Мы четверо вернутся в гостиничные номера.,1.75,2.0,quantiifier,stimul,15.0,231,dvoje,nom,my,3pl,SV
+Belova_2023,В дешёвых хостелах остановится двое из них.,4.0,4.0,quantiifier,stimul,7.0,101,dvoje,elect,oni,3sg,VS
+Belova_2023,В лесных озёрах порыбачим мы двое.,4.125,4.0,quantiifier,stimul,31.0,486,dvoje,nom,my,1pl,VS
+Belova_2023,Мы семеро переоденется в карнавальные костюмы.,2.6,3.0,quantiifier,stimul,6.0,88,dvoje,nom,my,3sg,SV
+Belova_2023,В научных журналах опубликуются все из нас.,2.7777777777777777,3.0,quantiifier,stimul,2.0,28,vse,elect,my,3pl,VS
+Belova_2023,Они все прикрепятся к новым поликлиникам.,6.0,6.0,quantiifier,stimul,40.0,640,vse,oni,nom,3pl,SV
+Belova_2023,Мы все согласятся на предложения конкурентов.,1.9,2.0,quantiifier,stimul,14.0,223,vse,nom,my,3pl,SV
+Belova_2023,Трое из них согласится на предложения конкурентов.,4.2,4.0,quantiifier,stimul,14.0,213,dvoje,elect,oni,3sg,SV
+Belova_2023,Пятеро из нас прикрепятся к новым поликлиникам.,6.0,6.0,quantiifier,stimul,40.0,626,dvoje,elect,my,3pl,SV
+Belova_2023,Со свадебными фотографами свяжется они двое.,1.4444444444444444,1.0,quantiifier,stimul,25.0,394,dvoje,nom,oni,3sg,VS
+Belova_2023,В дешёвых хостелах остановимся мы двое.,4.125,4.0,quantiifier,stimul,7.0,102,dvoje,nom,my,1pl,VS
+Belova_2023,Четверо из них познакомятся с артистами спектакля.,6.75,7.0,quantiifier,stimul,33.0,516,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы двое переночует в больших палатках.,3.5,4.0,quantiifier,stimul,19.0,296,dvoje,nom,my,3sg,SV
+Belova_2023,На конкурсе чтецов победят все из нас.,3.111111111111111,3.0,quantiifier,stimul,37.0,588,vse,elect,my,3pl,VS
+Belova_2023,На южных курортах отдохнём мы все.,3.5,4.0,quantiifier,stimul,24.0,382,vse,nom,my,1pl,VS
+Belova_2023,За первые парты сядет четверо из них.,3.555555555555556,4.0,quantiifier,stimul,39.0,613,dvoje,elect,oni,3sg,VS
+Belova_2023,Вы с Любой испечёте шоколадное печенье.,5.5966386554621845,6.0,good,filler,,774,,,,,
+Belova_2023,Трое из нас прилетит в разные аэропорты.,2.0,2.0,quantiifier,stimul,8.0,115,dvoje,elect,my,3sg,SV
+Belova_2023,Мы семеро уволится с нынешних позиций.,1.4,1.0,quantiifier,stimul,18.0,280,dvoje,nom,my,3sg,SV
+Belova_2023,Они двое придёт на пятничную вечеринку.,1.75,2.0,quantiifier,stimul,1.0,10,dvoje,nom,oni,3sg,SV
+Belova_2023,В спортивные секции запишутся семеро из них.,4.777777777777778,5.0,quantiifier,stimul,12.0,180,dvoje,elect,oni,3pl,VS
+Belova_2023,По незнакомым номерам перезвонит пятеро из них.,3.75,4.0,quantiifier,stimul,22.0,341,dvoje,elect,oni,3sg,VS
+Belova_2023,Все из нас позаботимся о нужных продуктах.,1.6,2.0,quantiifier,stimul,30.0,475,vse,elect,my,1pl,SV
+Belova_2023,О нужных продуктах позаботятся семеро из нас.,5.777777777777778,6.0,quantiifier,stimul,30.0,466,dvoje,elect,my,3pl,VS
+Belova_2023,С проведением экзаменов поможем мы все.,3.5,4.0,quantiifier,stimul,3.0,46,vse,nom,my,1pl,VS
+Belova_2023,Все из нас придём на пятничную вечеринку.,2.0,2.0,quantiifier,stimul,1.0,11,vse,elect,my,1pl,SV
+Belova_2023,Все из них отправятся в байдарочные походы.,5.0,5.0,quantiifier,stimul,27.0,429,vse,elect,oni,3pl,SV
+Belova_2023,Мы с Васей съездим на море в августе.,6.0423728813559325,6.0,good,filler,,769,,,,,
+Belova_2023,Мы все вмешаемся в важные переговоры.,3.25,3.0,quantiifier,stimul,29.0,462,vse,nom,my,1pl,SV
+Belova_2023,На курсы вождения пойдём мы все.,5.0,5.0,quantiifier,stimul,46.0,734,vse,nom,my,1pl,VS
+Belova_2023,На курсы вождения пойдём все из нас.,2.6666666666666665,3.0,quantiifier,stimul,46.0,731,vse,elect,my,1pl,VS
+Belova_2023,Они все женятся в течение месяца.,4.888888888888889,5.0,quantiifier,stimul,16.0,256,vse,oni,nom,3pl,SV
+Belova_2023,В перспективные акции вложимся мы трое.,4.5,4.0,quantiifier,stimul,44.0,694,dvoje,nom,my,1pl,VS
+Belova_2023,В соседние страны переедут все из нас.,3.2222222222222223,3.0,quantiifier,stimul,32.0,508,vse,elect,my,3pl,VS
+Belova_2023,Со сломанными телефонами разберемся все из нас.,2.555555555555556,3.0,quantiifier,stimul,9.0,139,vse,elect,my,1pl,VS
+Belova_2023,Все из них помогут с проведением экзаменов.,3.0,3.0,quantiifier,stimul,3.0,45,vse,elect,oni,3pl,SV
+Belova_2023,Мы все остановятся в дешёвых хостелах.,1.9090909090909087,2.0,quantiifier,stimul,7.0,111,vse,nom,my,3pl,SV
+Belova_2023,Мы шестеро ответят за поломанные инструменты.,1.6,2.0,quantiifier,stimul,35.0,551,dvoje,nom,my,3pl,SV
+Belova_2023,Шестеро из нас справимся с заменой лампочек.,1.75,2.0,quantiifier,stimul,11.0,161,dvoje,elect,my,1pl,SV
+Belova_2023,Все из нас отдохнём на южных курортах.,1.5,2.0,quantiifier,stimul,24.0,379,vse,elect,my,1pl,SV
+Belova_2023,Четверо из нас помогут с проведением экзаменов.,6.5,6.0,quantiifier,stimul,3.0,34,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас запишемся в спортивные секции.,2.5454545454545454,3.0,quantiifier,stimul,12.0,187,vse,elect,my,1pl,SV
+Belova_2023,Все из них остановятся в дешёвых хостелах.,2.75,3.0,quantiifier,stimul,7.0,109,vse,elect,oni,3pl,SV
+Belova_2023,Мы семеро поучаствуем в социальных опросах.,6.75,7.0,quantiifier,stimul,48.0,758,dvoje,nom,my,1pl,SV
+Belova_2023,Они все побеседуют с очевидцами аварии.,5.333333333333333,5.0,quantiifier,stimul,34.0,544,vse,oni,nom,3pl,SV
+Belova_2023,В столичные вузы поступит семеро из них.,3.555555555555556,4.0,quantiifier,stimul,17.0,261,dvoje,elect,oni,3sg,VS
+Belova_2023,Мы четверо сядет за первые парты.,1.75,2.0,quantiifier,stimul,39.0,616,dvoje,nom,my,3sg,SV
+Belova_2023,В важные переговоры вмешаются они все.,4.333333333333333,4.0,quantiifier,stimul,29.0,464,vse,oni,nom,3pl,VS
+Belova_2023,В старых кладовках приберутся мы все.,2.5,2.0,quantiifier,stimul,47.0,751,vse,nom,my,3pl,VS
+Belova_2023,В учебных кабинетах подметут они шестеро.,2.888888888888889,3.0,quantiifier,stimul,41.0,649,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы пятеро созвонимся с поставщиками продуктов.,3.7777777777777777,4.0,quantiifier,stimul,10.0,150,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все поучаствуют в социальных опросах.,2.0,2.0,quantiifier,stimul,48.0,767,vse,nom,my,3pl,SV
+Belova_2023,За новые проекты возьмётся они семеро.,1.5555555555555556,2.0,quantiifier,stimul,42.0,666,dvoje,nom,oni,3sg,VS
+Belova_2023,На курсы вождения пойдут все из них.,4.777777777777778,5.0,quantiifier,stimul,46.0,733,vse,elect,oni,3pl,VS
+Belova_2023,Все из нас вложатся в перспективные акции.,6.0,6.0,quantiifier,stimul,44.0,700,vse,elect,my,3pl,SV
+Belova_2023,О нужных продуктах позаботимся мы семеро.,4.625,5.0,quantiifier,stimul,30.0,470,dvoje,nom,my,1pl,VS
+Belova_2023,В лесных озёрах порыбачат двое из них.,6.0,6.0,quantiifier,stimul,31.0,484,dvoje,elect,oni,3pl,VS
+Belova_2023,Все из нас подметут в учебных кабинетах.,5.25,5.0,quantiifier,stimul,41.0,652,vse,elect,my,3pl,SV
+Belova_2023,Четверо из нас отправимся в байдарочные походы.,1.875,2.0,quantiifier,stimul,27.0,417,dvoje,elect,my,1pl,SV
+Belova_2023,Они все сыграют на акустической гитаре.,5.4,5.0,quantiifier,stimul,13.0,208,vse,oni,nom,3pl,SV
+Belova_2023,В разные аэропорты прилетим мы все.,2.875,3.0,quantiifier,stimul,8.0,126,vse,nom,my,1pl,VS
+Belova_2023,Мы семеро запишемся в спортивные секции.,4.666666666666667,5.0,quantiifier,stimul,12.0,182,dvoje,nom,my,1pl,SV
+Belova_2023,Двое из них остановятся в дешёвых хостелах.,5.0,5.0,quantiifier,stimul,7.0,100,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из нас поможем с проведением экзаменов.,2.2,2.0,quantiifier,stimul,3.0,43,vse,elect,my,1pl,SV
+Belova_2023,Четверо из нас познакомимся с артистами спектакля.,4.333333333333333,4.0,quantiifier,stimul,33.0,513,dvoje,elect,my,1pl,SV
+Belova_2023,В дешёвых хостелах остановятся они все.,4.222222222222222,4.0,quantiifier,stimul,7.0,112,vse,oni,nom,3pl,VS
+Belova_2023,На проходной завода отметимся мы все.,4.625,5.0,quantiifier,stimul,38.0,606,vse,nom,my,1pl,VS
+Belova_2023,Четверо из нас познакомится с артистами спектакля.,3.8,4.0,quantiifier,stimul,33.0,515,dvoje,elect,my,3sg,SV
+Belova_2023,Мы все съездят в отдалённые деревни.,2.333333333333333,2.0,quantiifier,stimul,20.0,319,vse,nom,my,3pl,SV
+Belova_2023,Шестеро из нас вмешаемся в важные переговоры.,4.25,4.0,quantiifier,stimul,29.0,449,dvoje,elect,my,1pl,SV
+Belova_2023,На проходной завода отметятся все из нас.,3.4444444444444446,3.0,quantiifier,stimul,38.0,604,vse,elect,my,3pl,VS
+Belova_2023,На предложения конкурентов согласится трое из них.,4.333333333333333,4.0,quantiifier,stimul,14.0,213,dvoje,elect,oni,3sg,VS
+Belova_2023,В байдарочные походы отправятся четверо из них.,6.0,6.0,quantiifier,stimul,27.0,420,dvoje,elect,oni,3pl,VS
+Belova_2023,Мы все возьмёмся за новые проекты.,6.333333333333333,6.0,quantiifier,stimul,42.0,670,vse,nom,my,1pl,SV
+Belova_2023,Все из них подметут в учебных кабинетах.,4.25,4.0,quantiifier,stimul,41.0,653,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас рассчитаемся с кредитными долгами.,2.0,2.0,quantiifier,stimul,23.0,363,vse,elect,my,1pl,SV
+Belova_2023,На южных курортах отдохнут семеро из нас.,6.222222222222222,6.0,quantiifier,stimul,24.0,370,dvoje,elect,my,3pl,VS
+Belova_2023,С артистами спектакля познакомятся мы все.,2.5,2.0,quantiifier,stimul,33.0,527,vse,nom,my,3pl,VS
+Belova_2023,Они двое сыграет на акустической гитаре.,2.0,2.0,quantiifier,stimul,13.0,202,dvoje,nom,oni,3sg,SV
+Belova_2023,Шестеро из них подметёт в учебных кабинетах.,4.0,4.0,quantiifier,stimul,41.0,645,dvoje,elect,oni,3sg,SV
+Belova_2023,К новым поликлиникам прикрепится мы пятеро.,1.875,2.0,quantiifier,stimul,40.0,632,dvoje,nom,my,3sg,VS
+Belova_2023,На двугорбых верблюдах покатаются мы все.,2.5,2.0,quantiifier,stimul,26.0,415,vse,nom,my,3pl,VS
+Belova_2023,К поисковым отрядам присоединятся они все.,4.555555555555555,5.0,quantiifier,stimul,28.0,448,vse,oni,nom,3pl,VS
+Belova_2023,Семеро из нас поучаствуем в социальных опросах.,2.333333333333333,2.0,quantiifier,stimul,48.0,753,dvoje,elect,my,1pl,SV
+Belova_2023,В соседние страны переедут все из них.,4.222222222222222,4.0,quantiifier,stimul,32.0,509,vse,elect,oni,3pl,VS
+Belova_2023,Они семеро запишется в спортивные секции.,1.25,1.0,quantiifier,stimul,12.0,186,dvoje,nom,oni,3sg,SV
+Belova_2023,С нынешних позиций уволятся все из них.,3.0,3.0,quantiifier,stimul,18.0,285,vse,elect,oni,3pl,VS
+Belova_2023,Мы все поможем с проведением экзаменов.,5.333333333333333,5.0,quantiifier,stimul,3.0,46,vse,nom,my,1pl,SV
+Belova_2023,Все из нас вмешаются в важные переговоры.,3.5,4.0,quantiifier,stimul,29.0,460,vse,elect,my,3pl,SV
+Belova_2023,Мы трое согласится на предложения конкурентов.,1.25,1.0,quantiifier,stimul,14.0,216,dvoje,nom,my,3sg,SV
+Belova_2023,Они все победят на конкурсе чтецов.,7.0,7.0,quantiifier,stimul,37.0,592,vse,oni,nom,3pl,SV
+Belova_2023,Мы шестеро вмешаемся в важные переговоры.,3.8333333333333335,4.0,quantiifier,stimul,29.0,454,dvoje,nom,my,1pl,SV
+Belova_2023,На акустической гитаре сыграет двое из них.,4.111111111111111,4.0,quantiifier,stimul,13.0,197,dvoje,elect,oni,3sg,VS
+Belova_2023,За новые проекты возьмётся мы семеро.,2.142857142857143,2.0,quantiifier,stimul,42.0,664,dvoje,nom,my,3sg,VS
+Belova_2023,На студенческих конференциях выступит четверо из нас.,5.777777777777778,6.0,quantiifier,stimul,21.0,323,dvoje,elect,my,3sg,VS
+Belova_2023,Семеро из них переоденется в карнавальные костюмы.,2.625,3.0,quantiifier,stimul,6.0,85,dvoje,elect,oni,3sg,SV
+Belova_2023,На предложения конкурентов согласятся они трое.,3.111111111111111,3.0,quantiifier,stimul,14.0,217,dvoje,nom,oni,3pl,VS
+Belova_2023,За новые проекты возьмутся семеро из них.,6.222222222222222,6.0,quantiifier,stimul,42.0,660,dvoje,elect,oni,3pl,VS
+Belova_2023,К новым поликлиникам прикрепятся мы пятеро.,1.6,2.0,quantiifier,stimul,40.0,631,dvoje,nom,my,3pl,VS
+Belova_2023,В гостиничные номера вернутся четверо из них.,5.111111111111111,5.0,quantiifier,stimul,15.0,228,dvoje,elect,oni,3pl,VS
+Belova_2023,В дешёвых хостелах остановятся все из них.,4.111111111111111,4.0,quantiifier,stimul,7.0,109,vse,elect,oni,3pl,VS
+Belova_2023,За допущенные ошибки извинятся четверо из нас.,5.444444444444445,5.0,quantiifier,stimul,45.0,706,dvoje,elect,my,3pl,VS
+Belova_2023,Все из них приедут на утренних поездах.,3.8333333333333335,4.0,quantiifier,stimul,5.0,77,vse,elect,oni,3pl,SV
+Belova_2023,Шестеро из них приедут на утренних поездах.,5.6,6.0,quantiifier,stimul,5.0,68,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы двое отчитаемся за выполненные задачи.,5.166666666666667,5.0,quantiifier,stimul,43.0,678,dvoje,nom,my,1pl,SV
+Belova_2023,В важные переговоры вмешаются мы шестеро.,1.8,2.0,quantiifier,stimul,29.0,455,dvoje,nom,my,3pl,VS
+Belova_2023,За поломанные инструменты ответит шестеро из них.,4.0,4.0,quantiifier,stimul,35.0,549,dvoje,elect,oni,3sg,VS
+Belova_2023,Все из них отчитаются за выполненные задачи.,4.0,4.0,quantiifier,stimul,43.0,685,vse,elect,oni,3pl,SV
+Belova_2023,О скорых отставках объявим мы все.,4.25,4.0,quantiifier,stimul,36.0,574,vse,nom,my,1pl,VS
+Belova_2023,В течение месяца женимся мы пятеро.,4.625,5.0,quantiifier,stimul,16.0,246,dvoje,nom,my,1pl,VS
+Belova_2023,В крещенской проруби искупается они пятеро.,1.3333333333333333,1.0,quantiifier,stimul,4.0,58,dvoje,nom,oni,3sg,VS
+Belova_2023,О нужных продуктах позаботятся все из них.,4.111111111111111,4.0,quantiifier,stimul,30.0,477,vse,elect,oni,3pl,VS
+Belova_2023,Четверо из них выступит на студенческих конференциях.,3.111111111111111,3.0,quantiifier,stimul,21.0,325,dvoje,elect,oni,3sg,SV
+Belova_2023,Они все присоединятся к поисковым отрядам.,6.5,6.0,quantiifier,stimul,28.0,448,vse,oni,nom,3pl,SV
+Belova_2023,В крещенской проруби искупаются мы пятеро.,1.4,1.0,quantiifier,stimul,4.0,55,dvoje,nom,my,3pl,VS
+Belova_2023,Все из них пойдут на курсы вождения.,6.5,6.0,quantiifier,stimul,46.0,733,vse,elect,oni,3pl,SV
+Belova_2023,На конкурсе чтецов победят они двое.,3.111111111111111,3.0,quantiifier,stimul,37.0,585,dvoje,nom,oni,3pl,VS
+Belova_2023,По незнакомым номерам перезвонят они пятеро.,2.25,2.0,quantiifier,stimul,22.0,345,dvoje,nom,oni,3pl,VS
+Belova_2023,Они семеро поучаствуют в социальных опросах.,3.4,3.0,quantiifier,stimul,48.0,761,dvoje,nom,oni,3pl,SV
+Belova_2023,Семеро из них поучаствует в социальных опросах.,3.25,3.0,quantiifier,stimul,48.0,757,dvoje,elect,oni,3sg,SV
+Belova_2023,На южных курортах отдохнут мы все.,3.0,3.0,quantiifier,stimul,24.0,383,vse,nom,my,3pl,VS
+Belova_2023,Они двое остановятся в дешёвых хостелах.,4.166666666666667,4.0,quantiifier,stimul,7.0,105,dvoje,nom,oni,3pl,SV
+Belova_2023,С артистами спектакля познакомимся четверо из нас.,2.333333333333333,2.0,quantiifier,stimul,33.0,513,dvoje,elect,my,1pl,VS
+Belova_2023,В перспективные акции вложится мы трое.,2.25,2.0,quantiifier,stimul,44.0,696,dvoje,nom,my,3sg,VS
+Belova_2023,Они пятеро перезвонит по незнакомым номерам.,1.5555555555555556,2.0,quantiifier,stimul,22.0,346,dvoje,nom,oni,3sg,SV
+Belova_2023,Со сломанными телефонами разберемся четверо из нас.,2.333333333333333,2.0,quantiifier,stimul,9.0,129,dvoje,elect,my,1pl,VS
+Belova_2023,В научных журналах опубликуемся все из нас.,2.555555555555556,3.0,quantiifier,stimul,2.0,27,vse,elect,my,1pl,VS
+Belova_2023,Все из нас поучаствуем в социальных опросах.,2.5,2.0,quantiifier,stimul,48.0,763,vse,elect,my,1pl,SV
+Belova_2023,Мы все переночуем в больших палатках.,6.166666666666667,6.0,quantiifier,stimul,19.0,302,vse,nom,my,1pl,SV
+Belova_2023,Мы все выступим на студенческих конференциях.,6.5,6.0,quantiifier,stimul,21.0,334,vse,nom,my,1pl,SV
+Belova_2023,С заменой лампочек справится шестеро из нас.,5.333333333333333,5.0,quantiifier,stimul,11.0,163,dvoje,elect,my,3sg,VS
+Belova_2023,Петя с Кириллом вдвоём помоют полы.,5.796610169491525,6.0,good,filler,,780,,,,,
+Belova_2023,Все из них женятся в течение месяца.,5.090909090909091,5.0,quantiifier,stimul,16.0,253,vse,elect,oni,3pl,SV
+Belova_2023,Шестеро из нас ответят за поломанные инструменты.,6.75,7.0,quantiifier,stimul,35.0,546,dvoje,elect,my,3pl,SV
+Belova_2023,В течение месяца женимся пятеро из нас.,2.6666666666666665,3.0,quantiifier,stimul,16.0,241,dvoje,elect,my,1pl,VS
+Belova_2023,Трое из нас съездит в отдалённые деревни.,3.4,3.0,quantiifier,stimul,20.0,307,dvoje,elect,my,3sg,SV
+Belova_2023,Все из нас сыграем на акустической гитаре.,2.0,2.0,quantiifier,stimul,13.0,203,vse,elect,my,1pl,SV
+Belova_2023,Все из нас позаботятся о нужных продуктах.,4.9,5.0,quantiifier,stimul,30.0,476,vse,elect,my,3pl,SV
+Belova_2023,Мы шестеро поступим в столичные вузы.,5.0,5.0,quantiifier,stimul,17.0,262,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все объявим о скорых отставках.,5.666666666666667,6.0,quantiifier,stimul,36.0,574,vse,nom,my,1pl,SV
+Belova_2023,Пятеро из нас прикрепимся к новым поликлиникам.,2.2,2.0,quantiifier,stimul,40.0,625,dvoje,elect,my,1pl,SV
+Belova_2023,Двое из них отчитаются за выполненные задачи.,5.8,6.0,quantiifier,stimul,43.0,676,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы шестеро справится с заменой лампочек.,2.0,2.0,quantiifier,stimul,11.0,168,dvoje,nom,my,3sg,SV
+Belova_2023,Со сломанными телефонами разберется четверо из нас.,4.333333333333333,4.0,quantiifier,stimul,9.0,131,dvoje,elect,my,3sg,VS
+Belova_2023,О нужных продуктах позаботятся они семеро.,3.4444444444444446,3.0,quantiifier,stimul,30.0,473,dvoje,nom,oni,3pl,VS
+Belova_2023,С проведением экзаменов поможем мы четверо.,4.0,4.0,quantiifier,stimul,3.0,38,dvoje,nom,my,1pl,VS
+Belova_2023,В спортивные секции запишутся все из них.,3.888888888888889,4.0,quantiifier,stimul,12.0,189,vse,elect,oni,3pl,VS
+Belova_2023,С поставщиками продуктов созвонятся они все.,3.888888888888889,4.0,quantiifier,stimul,10.0,160,vse,oni,nom,3pl,VS
+Belova_2023,К новым поликлиникам прикрепится они пятеро.,1.7777777777777777,2.0,quantiifier,stimul,40.0,634,dvoje,nom,oni,3sg,VS
+Belova_2023,В перспективные акции вложатся они трое.,3.333333333333333,3.0,quantiifier,stimul,44.0,697,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы четверо извинятся за допущенные ошибки.,2.6,3.0,quantiifier,stimul,45.0,711,dvoje,nom,my,3pl,SV
+Belova_2023,За выполненные задачи отчитается они двое.,1.4444444444444444,1.0,quantiifier,stimul,43.0,682,dvoje,nom,oni,3sg,VS
+Belova_2023,О скорых отставках объявят они семеро.,2.6666666666666665,3.0,quantiifier,stimul,36.0,569,dvoje,nom,oni,3pl,VS
+Belova_2023,На утренних поездах приедут они все.,3.5,4.0,quantiifier,stimul,5.0,80,vse,oni,nom,3pl,VS
+Belova_2023,Пятеро из них прикрепятся к новым поликлиникам.,5.5,6.0,quantiifier,stimul,40.0,628,dvoje,elect,oni,3pl,SV
+Belova_2023,В соседние страны переедем мы трое.,4.375,4.0,quantiifier,stimul,32.0,502,dvoje,nom,my,1pl,VS
+Belova_2023,На предложения конкурентов согласятся трое из нас.,5.5,6.0,quantiifier,stimul,14.0,210,dvoje,elect,my,3pl,VS
+Belova_2023,В гостиничные номера вернётся четверо из них.,3.111111111111111,3.0,quantiifier,stimul,15.0,229,dvoje,elect,oni,3sg,VS
+Belova_2023,Они трое согласится на предложения конкурентов.,2.0,2.0,quantiifier,stimul,14.0,218,dvoje,nom,oni,3sg,SV
+Belova_2023,На проходной завода отметимся трое из нас.,2.2222222222222223,2.0,quantiifier,stimul,38.0,593,dvoje,elect,my,1pl,VS
+Belova_2023,На утренних поездах приедут все из них.,3.625,4.0,quantiifier,stimul,5.0,77,vse,elect,oni,3pl,VS
+Belova_2023,Они четверо отправится в байдарочные походы.,2.5,2.0,quantiifier,stimul,27.0,426,dvoje,nom,oni,3sg,SV
+Belova_2023,Четверо из них выступят на студенческих конференциях.,6.4,6.0,quantiifier,stimul,21.0,324,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы шестеро ответим за поломанные инструменты.,3.2,3.0,quantiifier,stimul,35.0,550,dvoje,nom,my,1pl,SV
+Belova_2023,Шестеро из них приедет на утренних поездах.,5.25,5.0,quantiifier,stimul,5.0,69,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы все вложимся в перспективные акции.,6.6,7.0,quantiifier,stimul,44.0,702,vse,nom,my,1pl,SV
+Belova_2023,В социальных опросах поучаствуют они все.,5.25,5.0,quantiifier,stimul,48.0,768,vse,oni,nom,3pl,VS
+Belova_2023,За допущенные ошибки извинятся они четверо.,3.125,3.0,quantiifier,stimul,45.0,713,dvoje,nom,oni,3pl,VS
+Belova_2023,В учебных кабинетах подметут мы все.,2.2857142857142856,2.0,quantiifier,stimul,41.0,655,vse,nom,my,3pl,VS
+Belova_2023,С заменой лампочек справимся мы все.,4.625,5.0,quantiifier,stimul,11.0,174,vse,nom,my,1pl,VS
+Belova_2023,Двое из нас сыграем на акустической гитаре.,3.75,4.0,quantiifier,stimul,13.0,193,dvoje,elect,my,1pl,SV
+Belova_2023,О скорых отставках объявит семеро из них.,3.888888888888889,4.0,quantiifier,stimul,36.0,565,dvoje,elect,oni,3sg,VS
+Belova_2023,Пятеро из них созвонятся с поставщиками продуктов.,5.0,5.0,quantiifier,stimul,10.0,148,dvoje,elect,oni,3pl,SV
+Belova_2023,С кредитными долгами рассчитаются мы шестеро.,2.0,2.0,quantiifier,stimul,23.0,359,dvoje,nom,my,3pl,VS
+Belova_2023,Они двое переночуют в больших палатках.,4.125,4.0,quantiifier,stimul,19.0,297,dvoje,nom,oni,3pl,SV
+Belova_2023,Двое из нас отчитаются за выполненные задачи.,6.0,6.0,quantiifier,stimul,43.0,674,dvoje,elect,my,3pl,SV
+Belova_2023,Мы все прикрепятся к новым поликлиникам.,2.1818181818181817,2.0,quantiifier,stimul,40.0,639,vse,nom,my,3pl,SV
+Belova_2023,На предложения конкурентов согласятся все из нас.,3.7777777777777777,4.0,quantiifier,stimul,14.0,220,vse,elect,my,3pl,VS
+Belova_2023,Трое из них покатаются на двугорбых верблюдах.,6.75,7.0,quantiifier,stimul,26.0,404,dvoje,elect,oni,3pl,SV
+Belova_2023,К поисковым отрядам присоединятся пятеро из них.,6.111111111111111,6.0,quantiifier,stimul,28.0,436,dvoje,elect,oni,3pl,VS
+Belova_2023,Семеро из них возьмётся за новые проекты.,1.4,1.0,quantiifier,stimul,42.0,661,dvoje,elect,oni,3sg,SV
+Belova_2023,Двое из нас порыбачит в лесных озёрах.,3.0,3.0,quantiifier,stimul,31.0,483,dvoje,elect,my,3sg,SV
+Belova_2023,Они четверо извинятся за допущенные ошибки.,4.75,5.0,quantiifier,stimul,45.0,713,dvoje,nom,oni,3pl,SV
+Belova_2023,Все из них свяжутся со свадебными фотографами.,4.25,4.0,quantiifier,stimul,25.0,397,vse,elect,oni,3pl,SV
+Belova_2023,Мы четверо выступит на студенческих конференциях.,1.5454545454545454,2.0,quantiifier,stimul,21.0,328,dvoje,nom,my,3sg,SV
+Belova_2023,На двугорбых верблюдах покатаются мы трое.,1.8,2.0,quantiifier,stimul,26.0,407,dvoje,nom,my,3pl,VS
+Belova_2023,По незнакомым номерам перезвонят пятеро из нас.,5.444444444444445,5.0,quantiifier,stimul,22.0,338,dvoje,elect,my,3pl,VS
+Belova_2023,Мы все позаботятся о нужных продуктах.,2.272727272727273,2.0,quantiifier,stimul,30.0,479,vse,nom,my,3pl,SV
+Belova_2023,Четверо из них познакомится с артистами спектакля.,2.25,2.0,quantiifier,stimul,33.0,517,dvoje,elect,oni,3sg,SV
+Belova_2023,Трое из нас съездим в отдалённые деревни.,2.25,2.0,quantiifier,stimul,20.0,305,dvoje,elect,my,1pl,SV
+Belova_2023,В течение месяца женятся все из них.,4.0,4.0,quantiifier,stimul,16.0,253,vse,elect,oni,3pl,VS
+Belova_2023,С поставщиками продуктов созвонятся пятеро из нас.,5.333333333333333,5.0,quantiifier,stimul,10.0,146,dvoje,elect,my,3pl,VS
+Belova_2023,На предложения конкурентов согласимся мы трое.,3.5,4.0,quantiifier,stimul,14.0,214,dvoje,nom,my,1pl,VS
+Belova_2023,Мы семеро отдохнём на южных курортах.,5.5,6.0,quantiifier,stimul,24.0,374,dvoje,nom,my,1pl,SV
+Belova_2023,В спортивные секции запишутся семеро из нас.,6.555555555555555,7.0,quantiifier,stimul,12.0,178,dvoje,elect,my,3pl,VS
+Belova_2023,Мы все победят на конкурсе чтецов.,3.25,3.0,quantiifier,stimul,37.0,591,vse,nom,my,3pl,SV
+Belova_2023,С нынешних позиций уволятся они семеро.,2.6666666666666665,3.0,quantiifier,stimul,18.0,281,dvoje,nom,oni,3pl,VS
+Belova_2023,Четверо из них вернутся в гостиничные номера.,6.166666666666667,6.0,quantiifier,stimul,15.0,228,dvoje,elect,oni,3pl,SV
+Belova_2023,Двое из них переночует в больших палатках.,5.5,6.0,quantiifier,stimul,19.0,293,dvoje,elect,oni,3sg,SV
+Belova_2023,Они все разберутся со сломанными телефонами.,5.5,6.0,quantiifier,stimul,9.0,144,vse,oni,nom,3pl,SV
+Belova_2023,В социальных опросах поучаствуем мы семеро.,4.5,4.0,quantiifier,stimul,48.0,758,dvoje,nom,my,1pl,VS
+Belova_2023,Все из них порыбачат в лесных озёрах.,3.375,3.0,quantiifier,stimul,31.0,493,vse,elect,oni,3pl,SV
+Belova_2023,С поставщиками продуктов созвонятся мы пятеро.,1.7,2.0,quantiifier,stimul,10.0,151,dvoje,nom,my,3pl,VS
+Belova_2023,Двое из нас отчитаемся за выполненные задачи.,2.25,2.0,quantiifier,stimul,43.0,673,dvoje,elect,my,1pl,SV
+Belova_2023,В гостиничные номера вернёмся мы все.,4.625,5.0,quantiifier,stimul,15.0,238,vse,nom,my,1pl,VS
+Belova_2023,Все из нас поучаствуют в социальных опросах.,4.5,4.0,quantiifier,stimul,48.0,764,vse,elect,my,3pl,SV
+Belova_2023,За поломанные инструменты ответят они все.,5.0,5.0,quantiifier,stimul,35.0,560,vse,oni,nom,3pl,VS
+Belova_2023,Двое из них остановится в дешёвых хостелах.,2.7,3.0,quantiifier,stimul,7.0,101,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы трое покатаются на двугорбых верблюдах.,1.6,2.0,quantiifier,stimul,26.0,407,dvoje,nom,my,3pl,SV
+Belova_2023,С кредитными долгами рассчитаются шестеро из них.,5.555555555555555,6.0,quantiifier,stimul,23.0,356,dvoje,elect,oni,3pl,VS
+Belova_2023,Трое из нас покатаемся на двугорбых верблюдах.,2.75,3.0,quantiifier,stimul,26.0,401,dvoje,elect,my,1pl,SV
+Belova_2023,С заменой лампочек справимся все из нас.,2.555555555555556,3.0,quantiifier,stimul,11.0,171,vse,elect,my,1pl,VS
+Belova_2023,О скорых отставках объявят семеро из нас.,4.777777777777778,5.0,quantiifier,stimul,36.0,562,dvoje,elect,my,3pl,VS
+Belova_2023,На курсы вождения пойдут пятеро из нас.,5.666666666666667,6.0,quantiifier,stimul,46.0,722,dvoje,elect,my,3pl,VS
+Belova_2023,В учебных кабинетах подметём все из нас.,2.6666666666666665,3.0,quantiifier,stimul,41.0,651,vse,elect,my,1pl,VS
+Belova_2023,Со свадебными фотографами свяжутся все из нас.,3.6666666666666665,4.0,quantiifier,stimul,25.0,396,vse,elect,my,3pl,VS
+Belova_2023,Пятеро из нас женимся в течение месяца.,1.5,2.0,quantiifier,stimul,16.0,241,dvoje,elect,my,1pl,SV
+Belova_2023,На конкурсе чтецов победят двое из них.,5.888888888888889,6.0,quantiifier,stimul,37.0,580,dvoje,elect,oni,3pl,VS
+Belova_2023,Мы семеро объявят о скорых отставках.,1.75,2.0,quantiifier,stimul,36.0,567,dvoje,nom,my,3pl,SV
+Belova_2023,В спортивные секции запишутся мы семеро.,2.0,2.0,quantiifier,stimul,12.0,183,dvoje,nom,my,3pl,VS
+Belova_2023,На южных курортах отдохнёт семеро из нас.,5.0,5.0,quantiifier,stimul,24.0,371,dvoje,elect,my,3sg,VS
+Belova_2023,В соседние страны переедет трое из нас.,6.111111111111111,6.0,quantiifier,stimul,32.0,499,dvoje,elect,my,3sg,VS
+Belova_2023,Мы двое сыграют на акустической гитаре.,1.6,2.0,quantiifier,stimul,13.0,199,dvoje,nom,my,3pl,SV
+Belova_2023,С очевидцами аварии побеседует мы пятеро.,2.375,2.0,quantiifier,stimul,34.0,536,dvoje,nom,my,3sg,VS
+Belova_2023,В карнавальные костюмы переоденемся мы все.,4.125,4.0,quantiifier,stimul,6.0,94,vse,nom,my,1pl,VS
+Belova_2023,Трое из них вложатся в перспективные акции.,5.777777777777778,6.0,quantiifier,stimul,44.0,692,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из них победят на конкурсе чтецов.,3.333333333333333,3.0,quantiifier,stimul,37.0,589,vse,elect,oni,3pl,SV
+Belova_2023,Пятеро из нас женятся в течение месяца.,4.333333333333333,4.0,quantiifier,stimul,16.0,242,dvoje,elect,my,3pl,SV
+Belova_2023,В крещенской проруби искупаются пятеро из них.,6.0,6.0,quantiifier,stimul,4.0,52,dvoje,elect,oni,3pl,VS
+Belova_2023,С поставщиками продуктов созвонится пятеро из нас.,5.222222222222222,5.0,quantiifier,stimul,10.0,147,dvoje,elect,my,3sg,VS
+Belova_2023,С поставщиками продуктов созвонится мы пятеро.,1.625,2.0,quantiifier,stimul,10.0,152,dvoje,nom,my,3sg,VS
+Belova_2023,С очевидцами аварии побеседуют они все.,4.444444444444445,4.0,quantiifier,stimul,34.0,544,vse,oni,nom,3pl,VS
+Belova_2023,Они трое переедут в соседние страны.,3.8,4.0,quantiifier,stimul,32.0,505,dvoje,nom,oni,3pl,SV
+Belova_2023,С очевидцами аварии побеседуют мы все.,2.75,3.0,quantiifier,stimul,34.0,543,vse,nom,my,3pl,VS
+Belova_2023,С артистами спектакля познакомится четверо из нас.,5.444444444444445,5.0,quantiifier,stimul,33.0,515,dvoje,elect,my,3sg,VS
+Belova_2023,Мы двое переночуют в больших палатках.,1.9,2.0,quantiifier,stimul,19.0,295,dvoje,nom,my,3pl,SV
+Belova_2023,Все из нас возьмутся за новые проекты.,5.5,6.0,quantiifier,stimul,42.0,668,vse,elect,my,3pl,SV
+Belova_2023,Мы все переоденемся в карнавальные костюмы.,7.0,7.0,quantiifier,stimul,6.0,94,vse,nom,my,1pl,SV
+Belova_2023,Только один из сыновей офицера пойдёт по стопам отца.,5.987234042553191,6.0,good,filler,,787,,,,,
+Belova_2023,К новым поликлиникам прикрепятся все из них.,4.555555555555555,5.0,quantiifier,stimul,40.0,637,vse,elect,oni,3pl,VS
+Belova_2023,Шестеро из нас рассчитаемся с кредитными долгами.,3.0,3.0,quantiifier,stimul,23.0,353,dvoje,elect,my,1pl,SV
+Belova_2023,Они четверо выступят на студенческих конференциях.,6.5,6.0,quantiifier,stimul,21.0,329,dvoje,nom,oni,3pl,SV
+Belova_2023,О скорых отставках объявит мы семеро.,1.75,2.0,quantiifier,stimul,36.0,568,dvoje,nom,my,3sg,VS
+Belova_2023,Все из них отдохнут на южных курортах.,4.0,4.0,quantiifier,stimul,24.0,381,vse,elect,oni,3pl,SV
+Belova_2023,Шестеро из них ответят за поломанные инструменты.,6.181818181818182,6.0,quantiifier,stimul,35.0,548,dvoje,elect,oni,3pl,SV
+Belova_2023,Они шестеро подметёт в учебных кабинетах.,1.5,2.0,quantiifier,stimul,41.0,650,dvoje,nom,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомимся все из нас.,2.555555555555556,3.0,quantiifier,stimul,33.0,523,vse,elect,my,1pl,VS
+Belova_2023,Мы семеро возьмёмся за новые проекты.,2.375,2.0,quantiifier,stimul,42.0,662,dvoje,nom,my,1pl,SV
+Belova_2023,Четверо из нас поможет с проведением экзаменов.,2.4545454545454546,2.0,quantiifier,stimul,3.0,35,dvoje,elect,my,3sg,SV
+Belova_2023,На акустической гитаре сыграют мы двое.,1.8,2.0,quantiifier,stimul,13.0,199,dvoje,nom,my,3pl,VS
+Belova_2023,К поисковым отрядам присоединимся мы все.,3.5,4.0,quantiifier,stimul,28.0,446,vse,nom,my,1pl,VS
+Belova_2023,Они двое победит на конкурсе чтецов.,2.6,3.0,quantiifier,stimul,37.0,586,dvoje,nom,oni,3sg,SV
+Belova_2023,К новым поликлиникам прикрепятся они все.,4.25,4.0,quantiifier,stimul,40.0,640,vse,oni,nom,3pl,VS
+Belova_2023,Мы пятеро пойдём на курсы вождения.,6.25,6.0,quantiifier,stimul,46.0,726,dvoje,nom,my,1pl,SV
+Belova_2023,Со свадебными фотографами свяжутся двое из нас.,4.888888888888889,5.0,quantiifier,stimul,25.0,386,dvoje,elect,my,3pl,VS
+Belova_2023,Мы шестеро вмешаются в важные переговоры.,2.75,3.0,quantiifier,stimul,29.0,455,dvoje,nom,my,3pl,SV
+Belova_2023,Все из нас остановятся в дешёвых хостелах.,5.0,5.0,quantiifier,stimul,7.0,108,vse,elect,my,3pl,SV
+Belova_2023,В столичные вузы поступим мы семеро.,4.0,4.0,quantiifier,stimul,17.0,262,dvoje,nom,my,1pl,VS
+Belova_2023,Все из нас объявим о скорых отставках.,1.8,2.0,quantiifier,stimul,36.0,571,vse,elect,my,1pl,SV
+Belova_2023,Они семеро уволится с нынешних позиций.,2.625,3.0,quantiifier,stimul,18.0,282,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы трое согласятся на предложения конкурентов.,1.5,2.0,quantiifier,stimul,14.0,215,dvoje,nom,my,3pl,SV
+Belova_2023,На утренних поездах приедем мы все.,4.375,4.0,quantiifier,stimul,5.0,78,vse,nom,my,1pl,VS
+Belova_2023,На проходной завода отметятся мы все.,3.0,3.0,quantiifier,stimul,38.0,607,vse,nom,my,3pl,VS
+Belova_2023,Трое из нас переедут в соседние страны.,5.333333333333333,5.0,quantiifier,stimul,32.0,498,dvoje,elect,my,3pl,SV
+Belova_2023,На предложения конкурентов согласятся они все.,4.666666666666667,5.0,quantiifier,stimul,14.0,224,vse,oni,nom,3pl,VS
+Belova_2023,С поставщиками продуктов созвонимся пятеро из нас.,2.555555555555556,3.0,quantiifier,stimul,10.0,145,dvoje,elect,my,1pl,VS
+Belova_2023,Мы все свяжутся со свадебными фотографами.,1.6666666666666667,2.0,quantiifier,stimul,25.0,399,vse,nom,my,3pl,SV
+Belova_2023,В карнавальные костюмы переоденется семеро из нас.,4.888888888888889,5.0,quantiifier,stimul,6.0,83,dvoje,elect,my,3sg,VS
+Belova_2023,Они двое порыбачат в лесных озёрах.,5.5,6.0,quantiifier,stimul,31.0,489,dvoje,nom,oni,3pl,SV
+Belova_2023,Четверо врачи соберётся на консилиум.,2.0,2.0,bad,filler,,804,,,,,
+Belova_2023,Все из нас поступят в столичные вузы.,5.8,6.0,quantiifier,stimul,17.0,268,vse,elect,my,3pl,SV
+Belova_2023,В столичные вузы поступят они семеро.,2.75,3.0,quantiifier,stimul,17.0,265,dvoje,nom,oni,3pl,VS
+Belova_2023,В учебных кабинетах подметут мы шестеро.,2.0,2.0,quantiifier,stimul,41.0,647,dvoje,nom,my,3pl,VS
+Belova_2023,Шестеро из нас справятся с заменой лампочек.,5.2727272727272725,5.0,quantiifier,stimul,11.0,162,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас покатаемся на двугорбых верблюдах.,1.75,2.0,quantiifier,stimul,26.0,411,vse,elect,my,1pl,SV
+Belova_2023,О скорых отставках объявим все из нас.,2.6666666666666665,3.0,quantiifier,stimul,36.0,571,vse,elect,my,1pl,VS
+Belova_2023,С кредитными долгами рассчитается шестеро из нас.,4.875,5.0,quantiifier,stimul,23.0,355,dvoje,elect,my,3sg,VS
+Belova_2023,На двугорбых верблюдах покатается они трое.,1.5555555555555556,2.0,quantiifier,stimul,26.0,410,dvoje,nom,oni,3sg,VS
+Belova_2023,К новым поликлиникам прикрепимся пятеро из нас.,2.333333333333333,2.0,quantiifier,stimul,40.0,625,dvoje,elect,my,1pl,VS
+Belova_2023,Двое из них придёт на пятничную вечеринку.,3.1818181818181817,3.0,quantiifier,stimul,1.0,5,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы трое съездим в отдалённые деревни.,4.9,5.0,quantiifier,stimul,20.0,310,dvoje,nom,my,1pl,SV
+Belova_2023,В социальных опросах поучаствуют семеро из них.,5.888888888888889,6.0,quantiifier,stimul,48.0,756,dvoje,elect,oni,3pl,VS
+Belova_2023,В лесных озёрах порыбачат все из них.,4.444444444444445,4.0,quantiifier,stimul,31.0,493,vse,elect,oni,3pl,VS
+Belova_2023,Мы все искупаются в крещенской проруби.,4.0,4.0,quantiifier,stimul,4.0,63,vse,nom,my,3pl,SV
+Belova_2023,С заменой лампочек справятся они шестеро.,3.2222222222222223,3.0,quantiifier,stimul,11.0,169,dvoje,nom,oni,3pl,VS
+Belova_2023,В разные аэропорты прилетим все из нас.,2.333333333333333,2.0,quantiifier,stimul,8.0,123,vse,elect,my,1pl,VS
+Belova_2023,Двое из них порыбачат в лесных озёрах.,6.0,6.0,quantiifier,stimul,31.0,484,dvoje,elect,oni,3pl,SV
+Belova_2023,К новым поликлиникам прикрепится пятеро из нас.,5.555555555555555,6.0,quantiifier,stimul,40.0,627,dvoje,elect,my,3sg,VS
+Belova_2023,Все из них поступят в столичные вузы.,6.25,6.0,quantiifier,stimul,17.0,269,vse,elect,oni,3pl,SV
+Belova_2023,Пятеро из нас созвонятся с поставщиками продуктов.,6.375,6.0,quantiifier,stimul,10.0,146,dvoje,elect,my,3pl,SV
+Belova_2023,В больших палатках переночуем мы все.,3.625,4.0,quantiifier,stimul,19.0,302,vse,nom,my,1pl,VS
+Belova_2023,Они все вмешаются в важные переговоры.,4.909090909090909,5.0,quantiifier,stimul,29.0,464,vse,oni,nom,3pl,SV
+Belova_2023,В учебных кабинетах подметут все из них.,3.888888888888889,4.0,quantiifier,stimul,41.0,653,vse,elect,oni,3pl,VS
+Belova_2023,На пятничную вечеринку придём все из нас.,2.2222222222222223,2.0,quantiifier,stimul,1.0,11,vse,elect,my,1pl,VS
+Belova_2023,Семеро из нас запишемся в спортивные секции.,2.8181818181818183,3.0,quantiifier,stimul,12.0,177,dvoje,elect,my,1pl,SV
+Belova_2023,С нынешних позиций уволятся они все.,4.111111111111111,4.0,quantiifier,stimul,18.0,288,vse,oni,nom,3pl,VS
+Belova_2023,В больших палатках переночуют они двое.,3.25,3.0,quantiifier,stimul,19.0,297,dvoje,nom,oni,3pl,VS
+Belova_2023,Они все созвонятся с поставщиками продуктов.,5.666666666666667,6.0,quantiifier,stimul,10.0,160,vse,oni,nom,3pl,SV
+Belova_2023,В социальных опросах поучаствует мы семеро.,2.0,2.0,quantiifier,stimul,48.0,760,dvoje,nom,my,3sg,VS
+Belova_2023,С нынешних позиций уволимся мы семеро.,4.125,4.0,quantiifier,stimul,18.0,278,dvoje,nom,my,1pl,VS
+Belova_2023,В социальных опросах поучаствуют все из нас.,3.7777777777777777,4.0,quantiifier,stimul,48.0,764,vse,elect,my,3pl,VS
+Belova_2023,За первые парты сядем мы все.,5.0,5.0,quantiifier,stimul,39.0,622,vse,nom,my,1pl,VS
+Belova_2023,На конкурсе чтецов победит мы двое.,1.75,2.0,quantiifier,stimul,37.0,584,dvoje,nom,my,3sg,VS
+Belova_2023,С нынешних позиций уволится мы семеро.,1.875,2.0,quantiifier,stimul,18.0,280,dvoje,nom,my,3sg,VS
+Belova_2023,Все из нас остановимся в дешёвых хостелах.,1.6666666666666667,2.0,quantiifier,stimul,7.0,107,vse,elect,my,1pl,SV
+Belova_2023,Мы все выступят на студенческих конференциях.,2.6,3.0,quantiifier,stimul,21.0,335,vse,nom,my,3pl,SV
+Belova_2023,Четверо из нас сядет за первые парты.,4.1,4.0,quantiifier,stimul,39.0,611,dvoje,elect,my,3sg,SV
+Belova_2023,В разные аэропорты прилетят трое из нас.,4.888888888888889,5.0,quantiifier,stimul,8.0,114,dvoje,elect,my,3pl,VS
+Belova_2023,Семеро из нас переоденется в карнавальные костюмы.,2.6,3.0,quantiifier,stimul,6.0,83,dvoje,elect,my,3sg,SV
+Belova_2023,Все из нас перезвонят по незнакомым номерам.,4.333333333333333,4.0,quantiifier,stimul,22.0,348,vse,elect,my,3pl,SV
+Belova_2023,К поисковым отрядам присоединимся мы пятеро.,3.857142857142857,4.0,quantiifier,stimul,28.0,438,dvoje,nom,my,1pl,VS
+Belova_2023,В отдалённые деревни съездит мы трое.,1.75,2.0,quantiifier,stimul,20.0,312,dvoje,nom,my,3sg,VS
+Belova_2023,По незнакомым номерам перезвоним мы все.,3.0,3.0,quantiifier,stimul,22.0,350,vse,nom,my,1pl,VS
+Belova_2023,Пятеро из них женятся в течение месяца.,6.75,7.0,quantiifier,stimul,16.0,244,dvoje,elect,oni,3pl,SV
+Belova_2023,В карнавальные костюмы переоденемся семеро из нас.,3.0,3.0,quantiifier,stimul,6.0,81,dvoje,elect,my,1pl,VS
+Belova_2023,Они все помогут с проведением экзаменов.,6.2,6.0,quantiifier,stimul,3.0,48,vse,oni,nom,3pl,SV
+Belova_2023,В гостиничные номера вернется мы четверо.,1.875,2.0,quantiifier,stimul,15.0,232,dvoje,nom,my,3sg,VS
+Belova_2023,С поставщиками продуктов созвонится они пятеро.,1.5555555555555556,2.0,quantiifier,stimul,10.0,154,dvoje,nom,oni,3sg,VS
+Belova_2023,В отдалённые деревни съездят они трое.,2.6666666666666665,3.0,quantiifier,stimul,20.0,313,dvoje,nom,oni,3pl,VS
+Belova_2023,Двое из нас свяжутся со свадебными фотографами.,6.25,6.0,quantiifier,stimul,25.0,386,dvoje,elect,my,3pl,SV
+Belova_2023,По незнакомым номерам перезвоним все из нас.,2.555555555555556,3.0,quantiifier,stimul,22.0,347,vse,elect,my,1pl,VS
+Belova_2023,С кредитными долгами рассчитаются все из них.,4.333333333333333,4.0,quantiifier,stimul,23.0,365,vse,elect,oni,3pl,VS
+Belova_2023,Семеро из нас отдохнут на южных курортах.,6.2,6.0,quantiifier,stimul,24.0,370,dvoje,elect,my,3pl,SV
+Belova_2023,Они трое опубликуются в научных журналах.,4.875,5.0,quantiifier,stimul,2.0,25,dvoje,nom,oni,3pl,SV
+Belova_2023,Семеро из нас переоденемся в карнавальные костюмы.,2.0,2.0,quantiifier,stimul,6.0,81,dvoje,elect,my,1pl,SV
+Belova_2023,Шестеро из нас рассчитаются с кредитными долгами.,6.0,6.0,quantiifier,stimul,23.0,354,dvoje,elect,my,3pl,SV
+Belova_2023,За поломанные инструменты ответит мы шестеро.,2.0,2.0,quantiifier,stimul,35.0,552,dvoje,nom,my,3sg,VS
+Belova_2023,В разные аэропорты прилетит они трое.,1.4444444444444444,1.0,quantiifier,stimul,8.0,122,dvoje,nom,oni,3sg,VS
+Belova_2023,Они все запишутся в спортивные секции.,6.25,6.0,quantiifier,stimul,12.0,192,vse,oni,nom,3pl,SV
+Belova_2023,Пятеро из них пойдут на курсы вождения.,5.333333333333333,5.0,quantiifier,stimul,46.0,724,dvoje,elect,oni,3pl,SV
+Belova_2023,С нынешних позиций уволится семеро из нас.,5.666666666666667,6.0,quantiifier,stimul,18.0,275,dvoje,elect,my,3sg,VS
+Belova_2023,Двое легкоатлетов будут сняты с соревнования.,5.846808510638298,6.0,good,filler,,784,,,,,
+Belova_2023,На пятничную вечеринку придут двое из нас.,5.222222222222222,5.0,quantiifier,stimul,1.0,2,dvoje,elect,my,3pl,VS
+Belova_2023,На конкурсе чтецов победят они все.,4.444444444444445,4.0,quantiifier,stimul,37.0,592,vse,oni,nom,3pl,VS
+Belova_2023,Все из нас порыбачим в лесных озёрах.,1.8888888888888888,2.0,quantiifier,stimul,31.0,491,vse,elect,my,1pl,SV
+Belova_2023,Мы все поступят в столичные вузы.,1.2222222222222223,1.0,quantiifier,stimul,17.0,271,vse,nom,my,3pl,SV
+Belova_2023,Все из них покатаются на двугорбых верблюдах.,5.5,6.0,quantiifier,stimul,26.0,413,vse,elect,oni,3pl,SV
+Belova_2023,Пятеро из них женится в течение месяца.,3.75,4.0,quantiifier,stimul,16.0,245,dvoje,elect,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомится мы четверо.,1.875,2.0,quantiifier,stimul,33.0,520,dvoje,nom,my,3sg,VS
+Belova_2023,Все из нас победим на конкурсе чтецов.,1.2222222222222223,1.0,quantiifier,stimul,37.0,587,vse,elect,my,1pl,SV
+Belova_2023,Они все рассчитаются с кредитными долгами.,5.8,6.0,quantiifier,stimul,23.0,368,vse,oni,nom,3pl,SV
+Belova_2023,Трое из нас прилетят в разные аэропорты.,6.5,6.0,quantiifier,stimul,8.0,114,dvoje,elect,my,3pl,SV
+Belova_2023,За поломанные инструменты ответим шестеро из нас.,2.555555555555556,3.0,quantiifier,stimul,35.0,545,dvoje,elect,my,1pl,VS
+Belova_2023,Мы двое порыбачит в лесных озёрах.,1.6363636363636365,2.0,quantiifier,stimul,31.0,488,dvoje,nom,my,3sg,SV
+Belova_2023,С проведением экзаменов помогут четверо из нас.,5.444444444444445,5.0,quantiifier,stimul,3.0,34,dvoje,elect,my,3pl,VS
+Belova_2023,На предложения конкурентов согласятся трое из них.,5.333333333333333,5.0,quantiifier,stimul,14.0,212,dvoje,elect,oni,3pl,VS
+Belova_2023,С заменой лампочек справятся они все.,4.0,4.0,quantiifier,stimul,11.0,176,vse,oni,nom,3pl,VS
+Belova_2023,Мы все согласимся на предложения конкурентов.,6.125,6.0,quantiifier,stimul,14.0,222,vse,nom,my,1pl,SV
+Belova_2023,В старых кладовках приберутся шестеро из нас.,5.375,5.0,quantiifier,stimul,47.0,738,dvoje,elect,my,3pl,VS
+Belova_2023,На конкурсе чтецов победим все из нас.,2.888888888888889,3.0,quantiifier,stimul,37.0,587,vse,elect,my,1pl,VS
+Belova_2023,К новым поликлиникам прикрепятся мы все.,2.75,3.0,quantiifier,stimul,40.0,639,vse,nom,my,3pl,VS
+Belova_2023,Мы все придут на пятничную вечеринку.,2.333333333333333,2.0,quantiifier,stimul,1.0,15,vse,nom,my,3pl,SV
+Belova_2023,Мы шестеро поступит в столичные вузы.,2.0,2.0,quantiifier,stimul,17.0,264,dvoje,nom,my,3sg,SV
+Belova_2023,На утренних поездах приедем все из нас.,2.111111111111111,2.0,quantiifier,stimul,5.0,75,vse,elect,my,1pl,VS
+Belova_2023,Двое из них свяжутся со свадебными фотографами.,5.090909090909091,5.0,quantiifier,stimul,25.0,388,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из них прилетят в разные аэропорты.,4.75,5.0,quantiifier,stimul,8.0,125,vse,elect,oni,3pl,SV
+Belova_2023,Трое шахматистов представят страну на чемпионате.,6.303030303030303,6.0,good,filler,,788,,,,,
+Belova_2023,К поисковым отрядам присоединится мы пятеро.,2.125,2.0,quantiifier,stimul,28.0,440,dvoje,nom,my,3sg,VS
+Belova_2023,Все из нас вмешаемся в важные переговоры.,1.6666666666666667,2.0,quantiifier,stimul,29.0,459,vse,elect,my,1pl,SV
+Belova_2023,На акустической гитаре сыграем двое из нас.,2.555555555555556,3.0,quantiifier,stimul,13.0,193,dvoje,elect,my,1pl,VS
+Belova_2023,Все из них поучаствуют в социальных опросах.,5.727272727272728,6.0,quantiifier,stimul,48.0,765,vse,elect,oni,3pl,SV
+Belova_2023,На студенческих конференциях выступит четверо из них.,3.4444444444444446,3.0,quantiifier,stimul,21.0,325,dvoje,elect,oni,3sg,VS
+Belova_2023,Все из нас уволимся с нынешних позиций.,2.0,2.0,quantiifier,stimul,18.0,283,vse,elect,my,1pl,SV
+Belova_2023,Все из них позаботятся о нужных продуктах.,3.75,4.0,quantiifier,stimul,30.0,477,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас придут на пятничную вечеринку.,5.5,6.0,quantiifier,stimul,1.0,12,vse,elect,my,3pl,SV
+Belova_2023,В гостиничные номера вернутся они четверо.,3.333333333333333,3.0,quantiifier,stimul,15.0,233,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы шестеро подметём в учебных кабинетах.,3.5,4.0,quantiifier,stimul,41.0,646,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все вернутся в гостиничные номера.,3.0,3.0,quantiifier,stimul,15.0,239,vse,nom,my,3pl,SV
+Belova_2023,Пятеро из нас присоединится к поисковым отрядам.,4.4,4.0,quantiifier,stimul,28.0,435,dvoje,elect,my,3sg,SV
+Belova_2023,Все из нас выступим на студенческих конференциях.,1.875,2.0,quantiifier,stimul,21.0,331,vse,elect,my,1pl,SV
+Belova_2023,С заменой лампочек справятся все из них.,4.444444444444445,4.0,quantiifier,stimul,11.0,173,vse,elect,oni,3pl,VS
+Belova_2023,О нужных продуктах позаботимся семеро из нас.,2.333333333333333,2.0,quantiifier,stimul,30.0,465,dvoje,elect,my,1pl,VS
+Belova_2023,Пятеро из нас перезвонит по незнакомым номерам.,2.0,2.0,quantiifier,stimul,22.0,339,dvoje,elect,my,3sg,SV
+Belova_2023,В крещенской проруби искупаются они пятеро.,2.625,3.0,quantiifier,stimul,4.0,57,dvoje,nom,oni,3pl,VS
+Belova_2023,За допущенные ошибки извинятся мы четверо.,1.8,2.0,quantiifier,stimul,45.0,711,dvoje,nom,my,3pl,VS
+Belova_2023,Мы с Настей пойдём на рыбалку в воскресенье.,6.478991596638656,6.0,good,filler,,770,,,,,
+Belova_2023,В крещенской проруби искупается мы пятеро.,2.0,2.0,quantiifier,stimul,4.0,56,dvoje,nom,my,3sg,VS
+Belova_2023,За поломанные инструменты ответят они шестеро.,3.6666666666666665,4.0,quantiifier,stimul,35.0,553,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы пятеро искупаются в крещенской проруби.,1.25,1.0,quantiifier,stimul,4.0,55,dvoje,nom,my,3pl,SV
+Belova_2023,Только мы с Аней прочтёт все заданный статьи.,1.8818565400843883,2.0,bad,filler,,796,,,,,
+Belova_2023,В столичные вузы поступят семеро из нас.,6.111111111111111,6.0,quantiifier,stimul,17.0,258,dvoje,elect,my,3pl,VS
+Belova_2023,Мы пятеро пойдёт на курсы вождения.,4.75,5.0,quantiifier,stimul,46.0,728,dvoje,nom,my,3sg,SV
+Belova_2023,В учебных кабинетах подметёт мы шестеро.,2.0,2.0,quantiifier,stimul,41.0,648,dvoje,nom,my,3sg,VS
+Belova_2023,За поломанные инструменты ответят шестеро из них.,5.333333333333333,5.0,quantiifier,stimul,35.0,548,dvoje,elect,oni,3pl,VS
+Belova_2023,Двое из нас остановятся в дешёвых хостелах.,6.1,6.0,quantiifier,stimul,7.0,98,dvoje,elect,my,3pl,SV
+Belova_2023,О нужных продуктах позаботятся мы все.,2.5,2.0,quantiifier,stimul,30.0,479,vse,nom,my,3pl,VS
+Belova_2023,По незнакомым номерам перезвонят все из нас.,3.375,3.0,quantiifier,stimul,22.0,348,vse,elect,my,3pl,VS
+Belova_2023,Все из нас прилетят в разные аэропорты.,5.0,5.0,quantiifier,stimul,8.0,124,vse,elect,my,3pl,SV
+Belova_2023,Только двое из выпускники пойдут в магистратура.,2.440677966101695,2.0,bad,filler,,816,,,,,
+Belova_2023,В лесных озёрах порыбачит она двое.,1.5555555555555556,2.0,quantiifier,stimul,31.0,490,dvoje,nom,oni,3sg,VS
+Belova_2023,Они пятеро пойдут на курсы вождения.,5.181818181818182,5.0,quantiifier,stimul,46.0,729,dvoje,nom,oni,3pl,SV
+Belova_2023,Пятеро из нас перезвонят по незнакомым номерам.,5.333333333333333,5.0,quantiifier,stimul,22.0,338,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас познакомятся с артистами спектакля.,5.545454545454546,6.0,quantiifier,stimul,33.0,524,vse,elect,my,3pl,SV
+Belova_2023,С заменой лампочек справятся мы все.,2.625,3.0,quantiifier,stimul,11.0,175,vse,nom,my,3pl,VS
+Belova_2023,В социальных опросах поучаствуем семеро из нас.,2.555555555555556,3.0,quantiifier,stimul,48.0,753,dvoje,elect,my,1pl,VS
+Belova_2023,В научных журналах опубликуются они трое.,3.2222222222222223,3.0,quantiifier,stimul,2.0,25,dvoje,nom,oni,3pl,VS
+Belova_2023,Они семеро возьмутся за новые проекты.,3.6666666666666665,4.0,quantiifier,stimul,42.0,665,dvoje,nom,oni,3pl,SV
+Belova_2023,Они все вернутся в гостиничные номера.,6.2,6.0,quantiifier,stimul,15.0,240,vse,oni,nom,3pl,SV
+Belova_2023,Мы двое отчитаются за выполненные задачи.,2.333333333333333,2.0,quantiifier,stimul,43.0,679,dvoje,nom,my,3pl,SV
+Belova_2023,Четверо из нас сядем за первые парты.,4.666666666666667,5.0,quantiifier,stimul,39.0,609,dvoje,elect,my,1pl,SV
+Belova_2023,Мы пятеро созвонятся с поставщиками продуктов.,2.0,2.0,quantiifier,stimul,10.0,151,dvoje,nom,my,3pl,SV
+Belova_2023,Пятеро из нас побеседуют с очевидцами аварии.,5.4,5.0,quantiifier,stimul,34.0,530,dvoje,elect,my,3pl,SV
+Belova_2023,На студенческих конференциях выступят четверо из них.,5.666666666666667,6.0,quantiifier,stimul,21.0,324,dvoje,elect,oni,3pl,VS
+Belova_2023,Мы шестеро поступят в столичные вузы.,1.3333333333333333,1.0,quantiifier,stimul,17.0,263,dvoje,nom,my,3pl,SV
+Belova_2023,В байдарочные походы отправятся мы все.,2.5,2.0,quantiifier,stimul,27.0,431,vse,nom,my,3pl,VS
+Belova_2023,Мы трое опубликуются в научных журналах.,1.3333333333333333,1.0,quantiifier,stimul,2.0,23,dvoje,nom,my,3pl,SV
+Belova_2023,В течение месяца женятся пятеро из нас.,5.333333333333333,5.0,quantiifier,stimul,16.0,242,dvoje,elect,my,3pl,VS
+Belova_2023,В учебных кабинетах подметут шестеро из них.,5.666666666666667,6.0,quantiifier,stimul,41.0,644,dvoje,elect,oni,3pl,VS
+Belova_2023,На пятничную вечеринку придёт мы двое.,1.75,2.0,quantiifier,stimul,1.0,8,dvoje,nom,my,3sg,VS
+Belova_2023,За первые парты сядет они четверо.,1.4444444444444444,1.0,quantiifier,stimul,39.0,618,dvoje,nom,oni,3sg,VS
+Belova_2023,В научных журналах опубликуемся мы все.,3.375,3.0,quantiifier,stimul,2.0,30,vse,nom,my,1pl,VS
+Belova_2023,Все из нас объявят о скорых отставках.,3.4444444444444446,3.0,quantiifier,stimul,36.0,572,vse,elect,my,3pl,SV
+Belova_2023,Шестеро из нас подметём в учебных кабинетах.,1.7,2.0,quantiifier,stimul,41.0,641,dvoje,elect,my,1pl,SV
+Belova_2023,Мы трое согласимся на предложения конкурентов.,5.0,5.0,quantiifier,stimul,14.0,214,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все возьмутся за новые проекты.,1.2,1.0,quantiifier,stimul,42.0,671,vse,nom,my,3pl,SV
+Belova_2023,Со свадебными фотографами свяжемся все из нас.,2.333333333333333,2.0,quantiifier,stimul,25.0,395,vse,elect,my,1pl,VS
+Belova_2023,За первые парты сядут четверо из нас.,5.666666666666667,6.0,quantiifier,stimul,39.0,610,dvoje,elect,my,3pl,VS
+Belova_2023,Мы двое придут на пятничную вечеринку.,1.8,2.0,quantiifier,stimul,1.0,7,dvoje,nom,my,3pl,SV
+Belova_2023,Пятеро из нас присоединятся к поисковым отрядам.,6.5,6.0,quantiifier,stimul,28.0,434,dvoje,elect,my,3pl,SV
+Belova_2023,В перспективные акции вложатся все из нас.,3.555555555555556,4.0,quantiifier,stimul,44.0,700,vse,elect,my,3pl,VS
+Belova_2023,Мы все опубликуемся в научных журналах.,5.166666666666667,5.0,quantiifier,stimul,2.0,30,vse,nom,my,1pl,SV
+Belova_2023,За допущенные ошибки извинимся мы все.,5.0,5.0,quantiifier,stimul,45.0,718,vse,nom,my,1pl,VS
+Belova_2023,Они пятеро пойдёт на курсы вождения.,1.6666666666666667,2.0,quantiifier,stimul,46.0,730,dvoje,nom,oni,3sg,SV
+Belova_2023,В соседние страны переедет они трое.,1.5555555555555556,2.0,quantiifier,stimul,32.0,506,dvoje,nom,oni,3sg,VS
+Belova_2023,С нынешних позиций уволимся все из нас.,2.4444444444444446,2.0,quantiifier,stimul,18.0,283,vse,elect,my,1pl,VS
+Belova_2023,За первые парты сядут они четверо.,3.111111111111111,3.0,quantiifier,stimul,39.0,617,dvoje,nom,oni,3pl,VS
+Belova_2023,Все из них опубликуются в научных журналах.,3.555555555555556,4.0,quantiifier,stimul,2.0,29,vse,elect,oni,3pl,SV
+Belova_2023,В крещенской проруби искупаемся все из нас.,2.555555555555556,3.0,quantiifier,stimul,4.0,59,vse,elect,my,1pl,VS
+Belova_2023,С очевидцами аварии побеседуют пятеро из нас.,5.888888888888889,6.0,quantiifier,stimul,34.0,530,dvoje,elect,my,3pl,VS
+Belova_2023,Семеро из нас отдохнёт на южных курортах.,5.75,6.0,quantiifier,stimul,24.0,371,dvoje,elect,my,3sg,SV
+Belova_2023,В отдалённые деревни съездят трое из нас.,4.888888888888889,5.0,quantiifier,stimul,20.0,306,dvoje,elect,my,3pl,VS
+Belova_2023,Все из них переоденутся в карнавальные костюмы.,5.0,5.0,quantiifier,stimul,6.0,93,vse,elect,oni,3pl,SV
+Belova_2023,Мы все сыграем на акустической гитаре.,6.5,6.0,quantiifier,stimul,13.0,206,vse,nom,my,1pl,SV
+Belova_2023,Двое из нас свяжется со свадебными фотографами.,2.75,3.0,quantiifier,stimul,25.0,387,dvoje,elect,my,3sg,SV
+Belova_2023,Мы все порыбачат в лесных озёрах.,1.5,2.0,quantiifier,stimul,31.0,495,vse,nom,my,3pl,SV
+Belova_2023,На конкурсе чтецов победят мы двое.,1.9,2.0,quantiifier,stimul,37.0,583,dvoje,nom,my,3pl,VS
+Belova_2023,Со сломанными телефонами разберутся они четверо.,2.7777777777777777,3.0,quantiifier,stimul,9.0,137,dvoje,nom,oni,3pl,VS
+Belova_2023,Вы с Андреем оплатите ремонт карбюратора.,6.117647058823529,6.0,good,filler,,779,,,,,
+Belova_2023,Мы все придём на пятничную вечеринку.,5.888888888888889,6.0,quantiifier,stimul,1.0,14,vse,nom,my,1pl,SV
+Belova_2023,В разные аэропорты прилетит мы трое.,1.5,2.0,quantiifier,stimul,8.0,120,dvoje,nom,my,3sg,VS
+Belova_2023,Все из нас справимся с заменой лампочек.,1.25,1.0,quantiifier,stimul,11.0,171,vse,elect,my,1pl,SV
+Belova_2023,Семеро из них позаботится о нужных продуктах.,3.0,3.0,quantiifier,stimul,30.0,469,dvoje,elect,oni,3sg,SV
+Belova_2023,Трое из них съездит в отдалённые деревни.,2.2,2.0,quantiifier,stimul,20.0,309,dvoje,elect,oni,3sg,SV
+Belova_2023,С нынешних позиций уволимся мы все.,3.625,4.0,quantiifier,stimul,18.0,286,vse,nom,my,1pl,VS
+Belova_2023,Мы все пойдём на курсы вождения.,6.375,6.0,quantiifier,stimul,46.0,734,vse,nom,my,1pl,SV
+Belova_2023,Мы все уволятся с нынешних позиций.,1.1666666666666667,1.0,quantiifier,stimul,18.0,287,vse,nom,my,3pl,SV
+Belova_2023,С нынешних позиций уволятся все из нас.,3.375,3.0,quantiifier,stimul,18.0,284,vse,elect,my,3pl,VS
+Belova_2023,На пятничную вечеринку придут они все.,4.777777777777778,5.0,quantiifier,stimul,1.0,16,vse,oni,nom,3pl,VS
+Belova_2023,Со сломанными телефонами разберутся все из нас.,2.555555555555556,3.0,quantiifier,stimul,9.0,140,vse,elect,my,3pl,VS
+Belova_2023,На двугорбых верблюдах покатаемся трое из нас.,2.6666666666666665,3.0,quantiifier,stimul,26.0,401,dvoje,elect,my,1pl,VS
+Belova_2023,На курсы вождения пойдёт пятеро из них.,4.555555555555555,5.0,quantiifier,stimul,46.0,725,dvoje,elect,oni,3sg,VS
+Belova_2023,В учебных кабинетах подметём мы шестеро.,3.875,4.0,quantiifier,stimul,41.0,646,dvoje,nom,my,1pl,VS
+Belova_2023,Мы все вложатся в перспективные акции.,2.0,2.0,quantiifier,stimul,44.0,703,vse,nom,my,3pl,SV
+Belova_2023,На пятничную вечеринку придём мы двое.,3.0,3.0,quantiifier,stimul,1.0,6,dvoje,nom,my,1pl,VS
+Belova_2023,В карнавальные костюмы переоденутся все из нас.,4.555555555555555,5.0,quantiifier,stimul,6.0,92,vse,elect,my,3pl,VS
+Belova_2023,В важные переговоры вмешаются все из них.,3.6666666666666665,4.0,quantiifier,stimul,29.0,461,vse,elect,oni,3pl,VS
+Belova_2023,В научных журналах опубликуемся трое из нас.,2.555555555555556,3.0,quantiifier,stimul,2.0,17,dvoje,elect,my,1pl,VS
+Belova_2023,Семеро из нас запишутся в спортивные секции.,6.75,7.0,quantiifier,stimul,12.0,178,dvoje,elect,my,3pl,SV
+Belova_2023,Семеро из них объявит о скорых отставках.,1.5,2.0,quantiifier,stimul,36.0,565,dvoje,elect,oni,3sg,SV
+Belova_2023,На предложения конкурентов согласимся мы все.,4.0,4.0,quantiifier,stimul,14.0,222,vse,nom,my,1pl,VS
+Belova_2023,Трое из нас отметится на проходной завода.,3.0,3.0,quantiifier,stimul,38.0,595,dvoje,elect,my,3sg,SV
+Belova_2023,Мы семеро возьмутся за новые проекты.,1.3333333333333333,1.0,quantiifier,stimul,42.0,663,dvoje,nom,my,3pl,SV
+Belova_2023,В перспективные акции вложатся трое из нас.,5.333333333333333,5.0,quantiifier,stimul,44.0,690,dvoje,elect,my,3pl,VS
+Belova_2023,В учебных кабинетах подметут шестеро из нас.,5.222222222222222,5.0,quantiifier,stimul,41.0,642,dvoje,elect,my,3pl,VS
+Belova_2023,Трое истцов потребуют денежной компенсации.,5.444444444444445,5.0,good,filler,,783,,,,,
+Belova_2023,По незнакомым номерам перезвонят они все.,3.588235294117647,4.0,quantiifier,stimul,22.0,352,vse,oni,nom,3pl,VS
+Belova_2023,Все из нас побеседуем с очевидцами аварии.,2.3,2.0,quantiifier,stimul,34.0,539,vse,elect,my,1pl,SV
+Belova_2023,За поломанные инструменты ответят все из нас.,3.6666666666666665,4.0,quantiifier,stimul,35.0,556,vse,elect,my,3pl,VS
+Belova_2023,Семеро из нас позаботятся о нужных продуктах.,5.0,5.0,quantiifier,stimul,30.0,466,dvoje,elect,my,3pl,SV
+Belova_2023,Трое из них прилетит в разные аэропорты.,3.0,3.0,quantiifier,stimul,8.0,117,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы четверо извинимся за допущенные ошибки.,4.5,4.0,quantiifier,stimul,45.0,710,dvoje,nom,my,1pl,SV
+Belova_2023,Они трое прилетят в разные аэропорты.,4.333333333333333,4.0,quantiifier,stimul,8.0,121,dvoje,nom,oni,3pl,SV
+Belova_2023,Они пятеро женятся в течение месяца.,2.8,3.0,quantiifier,stimul,16.0,249,dvoje,nom,oni,3pl,SV
+Belova_2023,О скорых отставках объявит они семеро.,1.7777777777777777,2.0,quantiifier,stimul,36.0,570,dvoje,nom,oni,3sg,VS
+Belova_2023,Двое грабителей предстанут перед судом.,6.436974789915967,6.0,good,filler,,786,,,,,
+Belova_2023,Все из нас прикрепятся к новым поликлиникам.,6.2,6.0,quantiifier,stimul,40.0,636,vse,elect,my,3pl,SV
+Belova_2023,Все из нас отметятся на проходной завода.,3.333333333333333,3.0,quantiifier,stimul,38.0,604,vse,elect,my,3pl,SV
+Belova_2023,Они шестеро рассчитается с кредитными долгами.,2.333333333333333,2.0,quantiifier,stimul,23.0,362,dvoje,nom,oni,3sg,SV
+Belova_2023,Семеро из нас уволимся с нынешних позиций.,1.6666666666666667,2.0,quantiifier,stimul,18.0,273,dvoje,elect,my,1pl,SV
+Belova_2023,Они трое вложится в перспективные акции.,1.25,1.0,quantiifier,stimul,44.0,698,dvoje,nom,oni,3sg,SV
+Belova_2023,Трое из нас вложатся в перспективные акции.,6.75,7.0,quantiifier,stimul,44.0,690,dvoje,elect,my,3pl,SV
+Belova_2023,Мы все отчитаемся за выполненные задачи.,6.0,6.0,quantiifier,stimul,43.0,686,vse,nom,my,1pl,SV
+Belova_2023,Трое из нас переедем в соседние страны.,2.5,2.0,quantiifier,stimul,32.0,497,dvoje,elect,my,1pl,SV
+Belova_2023,Пятеро из них пойдёт на курсы вождения.,2.333333333333333,2.0,quantiifier,stimul,46.0,725,dvoje,elect,oni,3sg,SV
+Belova_2023,Все из нас ответим за поломанные инструменты.,3.25,3.0,quantiifier,stimul,35.0,555,vse,elect,my,1pl,SV
+Belova_2023,Все из нас извинимся за допущенные ошибки.,3.6666666666666665,4.0,quantiifier,stimul,45.0,715,vse,elect,my,1pl,SV
+Belova_2023,По незнакомым номерам перезвонят пятеро из них.,5.111111111111111,5.0,quantiifier,stimul,22.0,340,dvoje,elect,oni,3pl,VS
+Belova_2023,Они все отчитаются за выполненные задачи.,5.0,5.0,quantiifier,stimul,43.0,688,vse,oni,nom,3pl,SV
+Belova_2023,В перспективные акции вложимся мы все.,5.375,5.0,quantiifier,stimul,44.0,702,vse,nom,my,1pl,VS
+Belova_2023,В байдарочные походы отправятся они все.,4.666666666666667,5.0,quantiifier,stimul,27.0,432,vse,oni,nom,3pl,VS
+Belova_2023,В перспективные акции вложится они трое.,1.8888888888888888,2.0,quantiifier,stimul,44.0,698,dvoje,nom,oni,3sg,VS
+Belova_2023,В столичные вузы поступят все из нас.,4.222222222222222,4.0,quantiifier,stimul,17.0,268,vse,elect,my,3pl,VS
+Belova_2023,На курсы вождения пойдут мы все.,2.4285714285714284,2.0,quantiifier,stimul,46.0,735,vse,nom,my,3pl,VS
+Belova_2023,Они двое победят на конкурсе чтецов.,6.5,6.0,quantiifier,stimul,37.0,585,dvoje,nom,oni,3pl,SV
+Belova_2023,На курсы вождения пойдут пятеро из них.,5.888888888888889,6.0,quantiifier,stimul,46.0,724,dvoje,elect,oni,3pl,VS
+Belova_2023,В научных журналах опубликуются мы трое.,2.7,3.0,quantiifier,stimul,2.0,23,dvoje,nom,my,3pl,VS
+Belova_2023,За первые парты сядем мы четверо.,4.0,4.0,quantiifier,stimul,39.0,614,dvoje,nom,my,1pl,VS
+Belova_2023,Мы шестеро подметёт в учебных кабинетах.,1.0,1.0,quantiifier,stimul,41.0,648,dvoje,nom,my,3sg,SV
+Belova_2023,На проходной завода отметимся все из нас.,2.6666666666666665,3.0,quantiifier,stimul,38.0,603,vse,elect,my,1pl,VS
+Belova_2023,С поставщиками продуктов созвонятся они пятеро.,2.333333333333333,2.0,quantiifier,stimul,10.0,153,dvoje,nom,oni,3pl,VS
+Belova_2023,За первые парты сядут мы четверо.,1.9,2.0,quantiifier,stimul,39.0,615,dvoje,nom,my,3pl,VS
+Belova_2023,В научных журналах опубликуются они все.,4.111111111111111,4.0,quantiifier,stimul,2.0,32,vse,oni,nom,3pl,VS
+Belova_2023,Семеро из нас объявит о скорых отставках.,3.090909090909091,3.0,quantiifier,stimul,36.0,563,dvoje,elect,my,3sg,SV
+Belova_2023,Они все согласятся на предложения конкурентов.,6.25,6.0,quantiifier,stimul,14.0,224,vse,oni,nom,3pl,SV
+Belova_2023,В спортивные секции запишемся мы семеро.,3.625,4.0,quantiifier,stimul,12.0,182,dvoje,nom,my,1pl,VS
+Belova_2023,Мы с Даней будем коллекционировать редкие монеты.,6.423728813559322,6.0,good,filler,,777,,,,,
+Belova_2023,Все из них объявят о скорых отставках.,4.333333333333333,4.0,quantiifier,stimul,36.0,573,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас опубликуются в научных журналах.,3.6,4.0,quantiifier,stimul,2.0,28,vse,elect,my,3pl,SV
+Belova_2023,В учебных кабинетах подметёт шестеро из них.,3.555555555555556,4.0,quantiifier,stimul,41.0,645,dvoje,elect,oni,3sg,VS
+Belova_2023,На студенческих конференциях выступят мы все.,2.875,3.0,quantiifier,stimul,21.0,335,vse,nom,my,3pl,VS
+Belova_2023,Мы четверо вернёмся в гостиничные номера.,5.5,6.0,quantiifier,stimul,15.0,230,dvoje,nom,my,1pl,SV
+Belova_2023,Мы четверо извинится за допущенные ошибки.,1.75,2.0,quantiifier,stimul,45.0,712,dvoje,nom,my,3sg,SV
+Belova_2023,Шестеро из них справятся с заменой лампочек.,5.2,5.0,quantiifier,stimul,11.0,164,dvoje,elect,oni,3pl,SV
+Belova_2023,В соседние страны переедем трое из нас.,2.7777777777777777,3.0,quantiifier,stimul,32.0,497,dvoje,elect,my,1pl,VS
+Belova_2023,На пятничную вечеринку придёт двое из нас.,5.555555555555555,6.0,quantiifier,stimul,1.0,3,dvoje,elect,my,3sg,VS
+Belova_2023,За поломанные инструменты ответят мы все.,2.625,3.0,quantiifier,stimul,35.0,559,vse,nom,my,3pl,VS
+Belova_2023,За выполненные задачи отчитается двое из нас.,5.555555555555555,6.0,quantiifier,stimul,43.0,675,dvoje,elect,my,3sg,VS
+Belova_2023,К поисковым отрядам присоединятся мы все.,2.375,2.0,quantiifier,stimul,28.0,447,vse,nom,my,3pl,VS
+Belova_2023,Мы шестеро подметут в учебных кабинетах.,1.2222222222222223,1.0,quantiifier,stimul,41.0,647,dvoje,nom,my,3pl,SV
+Belova_2023,Семеро из них уволится с нынешних позиций.,3.8181818181818175,4.0,quantiifier,stimul,18.0,277,dvoje,elect,oni,3sg,SV
+Belova_2023,В байдарочные походы отправимся четверо из нас.,2.4444444444444446,2.0,quantiifier,stimul,27.0,417,dvoje,elect,my,1pl,VS
+Belova_2023,Они все прилетят в разные аэропорты.,5.0,5.0,quantiifier,stimul,8.0,128,vse,oni,nom,3pl,SV
+Belova_2023,Двое из нас победим на конкурсе чтецов.,2.75,3.0,quantiifier,stimul,37.0,577,dvoje,elect,my,1pl,SV
+Belova_2023,Все из нас искупаются в крещенской проруби.,4.0,4.0,quantiifier,stimul,4.0,60,vse,elect,my,3pl,SV
+Belova_2023,В байдарочные походы отправится они четверо.,1.7777777777777777,2.0,quantiifier,stimul,27.0,426,dvoje,nom,oni,3sg,VS
+Belova_2023,В спортивные секции запишемся все из нас.,2.6666666666666665,3.0,quantiifier,stimul,12.0,187,vse,elect,my,1pl,VS
+Belova_2023,За первые парты сядем все из нас.,2.555555555555556,3.0,quantiifier,stimul,39.0,619,vse,elect,my,1pl,VS
+Belova_2023,Пятеро из нас искупается в крещенской проруби.,3.333333333333333,3.0,quantiifier,stimul,4.0,51,dvoje,elect,my,3sg,SV
+Belova_2023,В важные переговоры вмешается шестеро из них.,2.888888888888889,3.0,quantiifier,stimul,29.0,453,dvoje,elect,oni,3sg,VS
+Belova_2023,За новые проекты возьмёмся семеро из нас.,2.555555555555556,3.0,quantiifier,stimul,42.0,657,dvoje,elect,my,1pl,VS
+Belova_2023,В старых кладовках приберутся они все.,4.333333333333333,4.0,quantiifier,stimul,47.0,752,vse,oni,nom,3pl,VS
+Belova_2023,В научных журналах опубликуются все из них.,4.222222222222222,4.0,quantiifier,stimul,2.0,29,vse,elect,oni,3pl,VS
+Belova_2023,Пятеро из них прикрепится к новым поликлиникам.,3.0,3.0,quantiifier,stimul,40.0,629,dvoje,elect,oni,3sg,SV
+Belova_2023,На проходной завода отметится трое из нас.,5.222222222222222,5.0,quantiifier,stimul,38.0,595,dvoje,elect,my,3sg,VS
+Belova_2023,Мы шестеро рассчитается с кредитными долгами.,1.2,1.0,quantiifier,stimul,23.0,360,dvoje,nom,my,3sg,SV
+Belova_2023,Со сломанными телефонами разберемся мы все.,3.875,4.0,quantiifier,stimul,9.0,142,vse,nom,my,1pl,VS
+Belova_2023,Они пятеро искупается в крещенской проруби.,1.2,1.0,quantiifier,stimul,4.0,58,dvoje,nom,oni,3sg,SV
+Belova_2023,Четверо из них поможет с проведением экзаменов.,2.6,3.0,quantiifier,stimul,3.0,37,dvoje,elect,oni,3sg,SV
+Belova_2023,Со сломанными телефонами разберутся мы четверо.,1.9,2.0,quantiifier,stimul,9.0,135,dvoje,nom,my,3pl,VS
+Belova_2023,К новым поликлиникам прикрепимся мы пятеро.,4.625,5.0,quantiifier,stimul,40.0,630,dvoje,nom,my,1pl,VS
+Belova_2023,Шестеро из нас приберёмся в старых кладовках.,2.333333333333333,2.0,quantiifier,stimul,47.0,737,dvoje,elect,my,1pl,SV
+Belova_2023,Мы все познакомимся с артистами спектакля.,6.0,6.0,quantiifier,stimul,33.0,526,vse,nom,my,1pl,SV
+Belova_2023,С очевидцами аварии побеседуют пятеро из них.,5.444444444444445,5.0,quantiifier,stimul,34.0,532,dvoje,elect,oni,3pl,VS
+Belova_2023,Трое из нас отметятся на проходной завода.,6.0,6.0,quantiifier,stimul,38.0,594,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас прилетим в разные аэропорты.,2.4,2.0,quantiifier,stimul,8.0,123,vse,elect,my,1pl,SV
+Belova_2023,Все из нас женимся в течение месяца.,2.0,2.0,quantiifier,stimul,16.0,251,vse,elect,my,1pl,SV
+Belova_2023,Все из них справятся с заменой лампочек.,5.333333333333333,5.0,quantiifier,stimul,11.0,173,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас извинятся за допущенные ошибки.,3.6,4.0,quantiifier,stimul,45.0,716,vse,elect,my,3pl,SV
+Belova_2023,На конкурсе чтецов победим двое из нас.,2.111111111111111,2.0,quantiifier,stimul,37.0,577,dvoje,elect,my,1pl,VS
+Belova_2023,С артистами спектакля познакомятся они четверо.,3.6666666666666665,4.0,quantiifier,stimul,33.0,521,dvoje,nom,oni,3pl,VS
+Belova_2023,Они шестеро приберутся в старых кладовках.,5.666666666666667,6.0,quantiifier,stimul,47.0,745,dvoje,nom,oni,3pl,SV
+Belova_2023,Все из них познакомятся с артистами спектакля.,6.25,6.0,quantiifier,stimul,33.0,525,vse,elect,oni,3pl,SV
+Belova_2023,За первые парты сядет четверо из нас.,5.666666666666667,6.0,quantiifier,stimul,39.0,611,dvoje,elect,my,3sg,VS
+Belova_2023,К новым поликлиникам прикрепятся пятеро из них.,5.222222222222222,5.0,quantiifier,stimul,40.0,628,dvoje,elect,oni,3pl,VS
+Belova_2023,На утренних поездах приедет они шестеро.,1.25,1.0,quantiifier,stimul,5.0,74,dvoje,nom,oni,3sg,VS
+Belova_2023,На акустической гитаре сыграет они двое.,1.2222222222222223,1.0,quantiifier,stimul,13.0,202,dvoje,nom,oni,3sg,VS
+Belova_2023,Они двое придут на пятничную вечеринку.,4.75,5.0,quantiifier,stimul,1.0,9,dvoje,nom,oni,3pl,SV
+Belova_2023,С заменой лампочек справятся все из нас.,4.111111111111111,4.0,quantiifier,stimul,11.0,172,vse,elect,my,3pl,VS
+Belova_2023,Четверо из них сядут за первые парты.,3.5,4.0,quantiifier,stimul,39.0,612,dvoje,elect,oni,3pl,SV
+Belova_2023,В спортивные секции запишется они семеро.,1.6666666666666667,2.0,quantiifier,stimul,12.0,186,dvoje,nom,oni,3sg,VS
+Belova_2023,На проходной завода отметятся все из них.,4.0,4.0,quantiifier,stimul,38.0,605,vse,elect,oni,3pl,VS
+Belova_2023,На конкурсе чтецов победит они двое.,1.6666666666666667,2.0,quantiifier,stimul,37.0,586,dvoje,nom,oni,3sg,VS
+Belova_2023,О скорых отставках объявят мы семеро.,1.8,2.0,quantiifier,stimul,36.0,567,dvoje,nom,my,3pl,VS
+Belova_2023,Мы с Гришей купим водоросли для нового аквариума.,6.297071129707113,6.0,good,filler,,772,,,,,
+Belova_2023,В дешёвых хостелах остановимся мы все.,3.125,3.0,quantiifier,stimul,7.0,110,vse,nom,my,1pl,VS
+Belova_2023,Все из нас съездят в отдалённые деревни.,2.125,2.0,quantiifier,stimul,20.0,316,vse,elect,my,3pl,SV
+Belova_2023,К новым поликлиникам прикрепимся все из нас.,2.7777777777777777,3.0,quantiifier,stimul,40.0,635,vse,elect,my,1pl,VS
+Belova_2023,В больших палатках переночуют все из нас.,3.111111111111111,3.0,quantiifier,stimul,19.0,300,vse,elect,my,3pl,VS
+Belova_2023,В социальных опросах поучаствует они семеро.,2.2222222222222223,2.0,quantiifier,stimul,48.0,762,dvoje,nom,oni,3sg,VS
+Belova_2023,Пятеро из нас искупаются в крещенской проруби.,6.181818181818182,6.0,quantiifier,stimul,4.0,50,dvoje,elect,my,3pl,SV
+Belova_2023,На акустической гитаре сыграет двое из нас.,3.888888888888889,4.0,quantiifier,stimul,13.0,195,dvoje,elect,my,3sg,VS
+Belova_2023,За новые проекты возьмутся они семеро.,3.111111111111111,3.0,quantiifier,stimul,42.0,665,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы семеро уволятся с нынешних позиций.,1.6,2.0,quantiifier,stimul,18.0,279,dvoje,nom,my,3pl,SV
+Belova_2023,Мы двое свяжутся со свадебными фотографами.,1.2222222222222223,1.0,quantiifier,stimul,25.0,391,dvoje,nom,my,3pl,SV
+Belova_2023,В карнавальные костюмы переоденется они семеро,1.2222222222222223,1.0,quantiifier,stimul,6.0,90,dvoje,nom,oni,3sg,VS
+Belova_2023,Со свадебными фотографами свяжутся двое из них.,5.333333333333333,5.0,quantiifier,stimul,25.0,388,dvoje,elect,oni,3pl,VS
+Belova_2023,В течение месяца женится мы пятеро.,2.142857142857143,2.0,quantiifier,stimul,16.0,248,dvoje,nom,my,3sg,VS
+Belova_2023,Трое из нас опубликуются в научных журналах.,6.25,6.0,quantiifier,stimul,2.0,18,dvoje,elect,my,3pl,SV
+Belova_2023,Мы двое придёт на пятничную вечеринку.,1.4,1.0,quantiifier,stimul,1.0,8,dvoje,nom,my,3sg,SV
+Belova_2023,Со свадебными фотографами свяжутся мы все.,2.375,2.0,quantiifier,stimul,25.0,399,vse,nom,my,3pl,VS
+Belova_2023,Мы все объявят о скорых отставках.,1.3333333333333333,1.0,quantiifier,stimul,36.0,575,vse,nom,my,3pl,SV
+Belova_2023,Они все понакомятся с артистами спектакля.,3.8333333333333335,4.0,quantiifier,stimul,33.0,528,vse,oni,nom,3pl,SV
+Belova_2023,Трое из нас согласится на предложения конкурентов.,2.1666666666666665,2.0,quantiifier,stimul,14.0,211,dvoje,elect,my,3sg,SV
+Belova_2023,За выполненные задачи отчитается мы двое.,2.75,3.0,quantiifier,stimul,43.0,680,dvoje,nom,my,3sg,VS
+Belova_2023,В течение месяца женится они пятеро.,1.6666666666666667,2.0,quantiifier,stimul,16.0,250,dvoje,nom,oni,3sg,VS
+Belova_2023,На двугорбых верблюдах покатаются они все.,4.555555555555555,5.0,quantiifier,stimul,26.0,416,vse,oni,nom,3pl,VS
+Belova_2023,Все из нас порыбачат в лесных озёрах.,3.0,3.0,quantiifier,stimul,31.0,492,vse,elect,my,3pl,SV
+Belova_2023,Мы все женятся в течение месяца.,2.6,3.0,quantiifier,stimul,16.0,255,vse,nom,my,3pl,SV
+Belova_2023,В байдарочные походы отправимся мы четверо.,4.5,4.0,quantiifier,stimul,27.0,422,dvoje,nom,my,1pl,VS
+Belova_2023,В байдарочные походы отправится четверо из нас.,4.888888888888889,5.0,quantiifier,stimul,27.0,419,dvoje,elect,my,3sg,VS
+Belova_2023,Все из нас возьмёмся за новые проекты.,1.5,2.0,quantiifier,stimul,42.0,667,vse,elect,my,1pl,SV
+Belova_2023,Они все отдохнут на южных курортах.,5.0,5.0,quantiifier,stimul,24.0,384,vse,oni,nom,3pl,SV
+Belova_2023,Они все сядут за первые парты.,5.909090909090909,6.0,quantiifier,stimul,39.0,624,vse,oni,nom,3pl,SV
+Belova_2023,Мы все покатаемся на двугорбых верблюдах.,6.0,6.0,quantiifier,stimul,26.0,414,vse,nom,my,1pl,SV
+Belova_2023,Все из нас поступим в столичные вузы.,2.0,2.0,quantiifier,stimul,17.0,267,vse,elect,my,1pl,SV
+Belova_2023,Шестеро из нас приедет на утренних поездах.,2.2,2.0,quantiifier,stimul,5.0,67,dvoje,elect,my,3sg,SV
+Belova_2023,В социальных опросах поучаствуют все из них.,4.444444444444445,4.0,quantiifier,stimul,48.0,765,vse,elect,oni,3pl,VS
+Belova_2023,Семеро из них поучаствуют в социальных опросах.,5.4,5.0,quantiifier,stimul,48.0,756,dvoje,elect,oni,3pl,SV
+Belova_2023,В больших палатках переночуют двое из них.,5.555555555555555,6.0,quantiifier,stimul,19.0,292,dvoje,elect,oni,3pl,VS
+Belova_2023,Они пятеро созвонятся с поставщиками продуктов.,3.8333333333333335,4.0,quantiifier,stimul,10.0,153,dvoje,nom,oni,3pl,SV
+Belova_2023,На пятничную вечеринку придут они двое.,3.4444444444444446,3.0,quantiifier,stimul,1.0,9,dvoje,nom,oni,3pl,VS
+Belova_2023,Только две фигуристка исполнят этот прыжки.,2.4683544303797467,2.0,bad,filler,,806,,,,,
+Belova_2023,Мы пятеро пойдут на курсы вождения.,2.75,3.0,quantiifier,stimul,46.0,727,dvoje,nom,my,3pl,SV
+Belova_2023,Мы все отдохнём на южных курортах.,6.5,6.0,quantiifier,stimul,24.0,382,vse,nom,my,1pl,SV
+Belova_2023,Мы четверо поможет с проведением экзаменов.,2.375,2.0,quantiifier,stimul,3.0,40,dvoje,nom,my,3sg,SV
+Belova_2023,Мы двое победят на конкурсе чтецов.,1.25,1.0,quantiifier,stimul,37.0,583,dvoje,nom,my,3pl,SV
+Belova_2023,Мы все свяжемся со свадебными фотографами.,4.454545454545454,4.0,quantiifier,stimul,25.0,398,vse,nom,my,1pl,SV
+Belova_2023,На курсы вождения пойдём мы пятеро.,3.875,4.0,quantiifier,stimul,46.0,726,dvoje,nom,my,1pl,VS
+Belova_2023,Мы все запишутся в спортивные секции.,3.5,4.0,quantiifier,stimul,12.0,191,vse,nom,my,3pl,SV
+Belova_2023,На проходной завода отметится мы трое.,2.4285714285714284,2.0,quantiifier,stimul,38.0,600,dvoje,nom,my,3sg,VS
+Belova_2023,В столичные вузы поступит мы семеро.,2.0,2.0,quantiifier,stimul,17.0,264,dvoje,nom,my,3sg,VS
+Belova_2023,В больших палатках переночуют все из них.,4.111111111111111,4.0,quantiifier,stimul,19.0,301,vse,elect,oni,3pl,VS
+Belova_2023,Все из нас отчитаемся за выполненные задачи.,3.25,3.0,quantiifier,stimul,43.0,683,vse,elect,my,1pl,SV
+Belova_2023,За поломанные инструменты ответят все из них.,4.333333333333333,4.0,quantiifier,stimul,35.0,557,vse,elect,oni,3pl,VS
+Belova_2023,В важные переговоры вмешаются шестеро из них.,5.555555555555555,6.0,quantiifier,stimul,29.0,452,dvoje,elect,oni,3pl,VS
+Belova_2023,В крещенской проруби искупаются мы все.,2.625,3.0,quantiifier,stimul,4.0,63,vse,nom,my,3pl,VS
+Belova_2023,Все из нас побеседуют с очевидцами аварии.,6.5,6.0,quantiifier,stimul,34.0,540,vse,elect,my,3pl,SV
+Belova_2023,В гостиничные номера вернутся четверо из нас.,5.5,6.0,quantiifier,stimul,15.0,226,dvoje,elect,my,3pl,VS
+Belova_2023,Четверо из нас разберёмся со сломанными телефонами.,3.75,4.0,quantiifier,stimul,9.0,129,dvoje,elect,my,1pl,SV
+Belova_2023,В социальных опросах поучаствует семеро из них.,4.625,5.0,quantiifier,stimul,48.0,757,dvoje,elect,oni,3sg,VS
+Belova_2023,В лесных озёрах порыбачим все из нас.,2.7777777777777777,3.0,quantiifier,stimul,31.0,491,vse,elect,my,1pl,VS
+Belova_2023,На пятничную вечеринку придём мы все.,4.0,4.0,quantiifier,stimul,1.0,14,vse,nom,my,1pl,VS
+Belova_2023,Мы трое съездит в отдалённые деревни.,1.25,1.0,quantiifier,stimul,20.0,312,dvoje,nom,my,3sg,SV
+Belova_2023,В дешёвых хостелах остановятся все из нас.,3.4444444444444446,3.0,quantiifier,stimul,7.0,108,vse,elect,my,3pl,VS
+Belova_2023,С проведением экзаменов поможет четверо из нас.,4.222222222222222,4.0,quantiifier,stimul,3.0,35,dvoje,elect,my,3sg,VS
+Belova_2023,О нужных продуктах позаботится мы семеро.,1.875,2.0,quantiifier,stimul,30.0,472,dvoje,nom,my,3sg,VS
+Belova_2023,Мы трое опубликуется в научных журналах.,2.0,2.0,quantiifier,stimul,2.0,24,dvoje,nom,my,3sg,SV
+Belova_2023,В важные переговоры вмешаются они шестеро.,3.111111111111111,3.0,quantiifier,stimul,29.0,457,dvoje,nom,oni,3pl,VS
+Belova_2023,С очевидцами аварии побеседуют все из нас.,3.888888888888889,4.0,quantiifier,stimul,34.0,540,vse,elect,my,3pl,VS
+Belova_2023,За допущенные ошибки извинятся все из нас.,3.4444444444444446,3.0,quantiifier,stimul,45.0,716,vse,elect,my,3pl,VS
+Belova_2023,На пятничную вечеринку придём двое из нас.,3.0,3.0,quantiifier,stimul,1.0,1,dvoje,elect,my,1pl,VS
+Belova_2023,На акустической гитаре сыграют они все.,3.888888888888889,4.0,quantiifier,stimul,13.0,208,vse,oni,nom,3pl,VS
+Belova_2023,Только вы с Мишей планируют поездку на дачей.,1.9617021276595743,2.0,bad,filler,,800,,,,,
+Belova_2023,С очевидцами аварии побеседует они пятеро.,1.6666666666666667,2.0,quantiifier,stimul,34.0,538,dvoje,nom,oni,3sg,VS
+Belova_2023,За новые проекты возьмутся мы все.,2.571428571428572,3.0,quantiifier,stimul,42.0,671,vse,nom,my,3pl,VS
+Belova_2023,Они шестеро рассчитаются с кредитными долгами.,3.111111111111111,3.0,quantiifier,stimul,23.0,361,dvoje,nom,oni,3pl,SV
+Belova_2023,К поисковым отрядам присоединятся все из нас.,3.6666666666666665,4.0,quantiifier,stimul,28.0,444,vse,elect,my,3pl,VS
+Belova_2023,Двое из нас переночуем в больших палатках.,2.2222222222222223,2.0,quantiifier,stimul,19.0,289,dvoje,elect,my,1pl,SV
+Belova_2023,На конкурсе чтецов победят мы все.,2.5,2.0,quantiifier,stimul,37.0,591,vse,nom,my,3pl,VS
+Belova_2023,С поставщиками продуктов созвонится пятеро из них.,3.25,3.0,quantiifier,stimul,10.0,149,dvoje,elect,oni,3sg,VS
+Belova_2023,Мы шестеро справятся с заменой лампочек.,2.0,2.0,quantiifier,stimul,11.0,167,dvoje,nom,my,3pl,SV
+Belova_2023,О нужных продуктах позаботятся мы семеро.,2.5,2.0,quantiifier,stimul,30.0,471,dvoje,nom,my,3pl,VS
+Belova_2023,В гостиничные номера вернёмся четверо из нас.,2.333333333333333,2.0,quantiifier,stimul,15.0,225,dvoje,elect,my,1pl,VS
+Belova_2023,На студенческих конференциях выступят мы четверо.,2.0,2.0,quantiifier,stimul,21.0,327,dvoje,nom,my,3pl,VS
+Belova_2023,В карнавальные костюмы переоденутся они все.,4.555555555555555,5.0,quantiifier,stimul,6.0,96,vse,oni,nom,3pl,VS
+Belova_2023,Мы все покатаются на двугорбых верблюдах.,1.4,1.0,quantiifier,stimul,26.0,415,vse,nom,my,3pl,SV
+Belova_2023,Они пятеро женится в течение месяца.,1.9,2.0,quantiifier,stimul,16.0,250,dvoje,nom,oni,3sg,SV
+Belova_2023,В соседние страны переедет мы трое.,1.75,2.0,quantiifier,stimul,32.0,504,dvoje,nom,my,3sg,VS
+Belova_2023,В течение месяца женятся они все.,3.6666666666666665,4.0,quantiifier,stimul,16.0,256,vse,oni,nom,3pl,VS
+Belova_2023,Мы все созвонимся с поставщиками продуктов.,5.666666666666667,6.0,quantiifier,stimul,10.0,158,vse,nom,my,1pl,SV
+Belova_2023,Все из нас покатаются на двугорбых верблюдах.,5.0,5.0,quantiifier,stimul,26.0,412,vse,elect,my,3pl,SV
+Belova_2023,За допущенные ошибки извинится мы четверо.,2.0,2.0,quantiifier,stimul,45.0,712,dvoje,nom,my,3sg,VS
+Belova_2023,На конкурсе чтецов победят все из них.,4.555555555555555,5.0,quantiifier,stimul,37.0,589,vse,elect,oni,3pl,VS
+Belova_2023,Мы шестеро приберёмся в старых кладовках.,5.5,6.0,quantiifier,stimul,47.0,742,dvoje,nom,my,1pl,SV
+Belova_2023,В разные аэропорты прилетят все из нас.,3.0,3.0,quantiifier,stimul,8.0,124,vse,elect,my,3pl,VS
+Belova_2023,Они все подметут в учебных кабинетах.,3.0,3.0,quantiifier,stimul,41.0,656,vse,oni,nom,3pl,SV
+Belova_2023,Они все приберутся в старых кладовках.,4.6,5.0,quantiifier,stimul,47.0,752,vse,oni,nom,3pl,SV
+Belova_2023,В крещенской проруби искупаются пятеро из нас.,5.777777777777778,6.0,quantiifier,stimul,4.0,50,dvoje,elect,my,3pl,VS
+Belova_2023,Три картины из этого музея будут отреставрированы.,6.359832635983263,6.0,good,filler,,789,,,,,
+Belova_2023,В важные переговоры вмешаются мы все.,2.25,2.0,quantiifier,stimul,29.0,463,vse,nom,my,3pl,VS
+Belova_2023,Мы пятеро прикрепимся к новым поликлиникам.,6.75,7.0,quantiifier,stimul,40.0,630,dvoje,nom,my,1pl,SV
+Belova_2023,С очевидцами аварии побеседует пятеро из нас.,5.555555555555555,6.0,quantiifier,stimul,34.0,531,dvoje,elect,my,3sg,VS
+Belova_2023,В соседние страны переедут трое из нас.,5.777777777777778,6.0,quantiifier,stimul,32.0,498,dvoje,elect,my,3pl,VS
+Belova_2023,Они семеро возьмётся за новые проекты.,2.8,3.0,quantiifier,stimul,42.0,666,dvoje,nom,oni,3sg,SV
+Belova_2023,В гостиничные номера вернутся мы четверо.,2.1,2.0,quantiifier,stimul,15.0,231,dvoje,nom,my,3pl,VS
+Belova_2023,Они шестеро вмешаются в важные переговоры.,6.0,6.0,quantiifier,stimul,29.0,457,dvoje,nom,oni,3pl,SV
+Belova_2023,За новые проекты возьмётся семеро из нас.,5.555555555555555,6.0,quantiifier,stimul,42.0,659,dvoje,elect,my,3sg,VS
+Belova_2023,В дешёвых хостелах остановится двое из нас.,4.333333333333333,4.0,quantiifier,stimul,7.0,99,dvoje,elect,my,3sg,VS
+Belova_2023,На утренних поездах приедет шестро из нас.,4.444444444444445,4.0,quantiifier,stimul,5.0,67,dvoje,elect,my,3sg,VS
+Belova_2023,Пятеро из нас пойдёт на курсы вождения.,2.1666666666666665,2.0,quantiifier,stimul,46.0,723,dvoje,elect,my,3sg,SV
+Belova_2023,Семеро из нас отдохнём на южных курортах.,1.8,2.0,quantiifier,stimul,24.0,369,dvoje,elect,my,1pl,SV
+Belova_2023,Мы четверо разберётся со сломанными телефонами.,2.0,2.0,quantiifier,stimul,9.0,136,dvoje,nom,my,3sg,SV
+Belova_2023,В разные аэропорты прилетят все из них.,4.333333333333333,4.0,quantiifier,stimul,8.0,125,vse,elect,oni,3pl,VS
+Belova_2023,В научных журналах опубликуются мы все.,2.5,2.0,quantiifier,stimul,2.0,31,vse,nom,my,3pl,VS
+Belova_2023,Мы трое отметятся на проходной завода.,1.818181818181818,2.0,quantiifier,stimul,38.0,599,dvoje,nom,my,3pl,SV
+Belova_2023,В научных журналах опубликуется они трое.,1.8888888888888888,2.0,quantiifier,stimul,2.0,26,dvoje,nom,oni,3sg,VS
+Belova_2023,В карнавальные костюмы переоденемся все из нас.,2.555555555555556,3.0,quantiifier,stimul,6.0,91,vse,elect,my,1pl,VS
+Belova_2023,С заменой лампочек справимся шестеро из нас.,2.555555555555556,3.0,quantiifier,stimul,11.0,161,dvoje,elect,my,1pl,VS
+Belova_2023,В крещенской проруби искупаются все из них.,4.222222222222222,4.0,quantiifier,stimul,4.0,61,vse,elect,oni,3pl,VS
+Belova_2023,Пятеро из нас побеседуем с очевидцами аварии.,3.5,4.0,quantiifier,stimul,34.0,529,dvoje,elect,my,1pl,SV
+Belova_2023,За новые проекты возьмёмся мы семеро.,4.125,4.0,quantiifier,stimul,42.0,662,dvoje,nom,my,1pl,VS
+Belova_2023,О нужных продуктах позаботятся семеро из них.,5.888888888888889,6.0,quantiifier,stimul,30.0,468,dvoje,elect,oni,3pl,VS
+Belova_2023,Двое из нас сыграет на акустической гитаре.,2.583333333333333,3.0,quantiifier,stimul,13.0,195,dvoje,elect,my,3sg,SV
+Belova_2023,В перспективные акции вложатся трое из них.,5.888888888888889,6.0,quantiifier,stimul,44.0,692,dvoje,elect,oni,3pl,VS
+Belova_2023,В старых кладовках приберёмся шестеро из нас.,2.4444444444444446,2.0,quantiifier,stimul,47.0,737,dvoje,elect,my,1pl,VS
+Belova_2023,Все из нас вложимся в перспективные акции.,2.727272727272727,3.0,quantiifier,stimul,44.0,699,vse,elect,my,1pl,SV
+Belova_2023,Все из них уволятся с нынешних позиций.,4.2,4.0,quantiifier,stimul,18.0,285,vse,elect,oni,3pl,SV
+Belova_2023,По незнакомым номерам перезвонит пятеро из нас.,4.555555555555555,5.0,quantiifier,stimul,22.0,339,dvoje,elect,my,3sg,VS
+Belova_2023,Все из нас отправимся в байдарочные походы.,1.5,2.0,quantiifier,stimul,27.0,427,vse,elect,my,1pl,SV
+Belova_2023,На курсы вождения пойдёт они пятеро.,1.5555555555555556,2.0,quantiifier,stimul,46.0,730,dvoje,nom,oni,3sg,VS
+Belova_2023,В крещенской проруби искупаемся мы все.,4.375,4.0,quantiifier,stimul,4.0,62,vse,nom,my,1pl,VS
+Belova_2023,Четверо из них отправится в байдарочные походы.,4.666666666666667,5.0,quantiifier,stimul,27.0,421,dvoje,elect,oni,3sg,SV
+Belova_2023,Шестеро из нас приедут на утренних поездах.,5.0,5.0,quantiifier,stimul,5.0,66,dvoje,elect,my,3pl,SV
+Belova_2023,Мы пятеро перезвоним по незнакомым номерам.,5.375,5.0,quantiifier,stimul,22.0,342,dvoje,nom,my,1pl,SV
+Belova_2023,На студенческих конференциях выступим мы четверо.,4.625,5.0,quantiifier,stimul,21.0,326,dvoje,nom,my,1pl,VS
+Belova_2023,На предложения конкурентов согласится трое из нас.,5.0,5.0,quantiifier,stimul,14.0,211,dvoje,elect,my,3sg,VS
+Belova_2023,Все из них побеседуют с очевидцами аварии.,3.8,4.0,quantiifier,stimul,34.0,541,vse,elect,oni,3pl,SV
+Belova_2023,В крещенской проруби искупается пятеро из нас.,5.625,6.0,quantiifier,stimul,4.0,51,dvoje,elect,my,3sg,VS
+Belova_2023,Все из них прикрепятся к новым поликлиникам.,4.25,4.0,quantiifier,stimul,40.0,637,vse,elect,oni,3pl,SV
+Belova_2023,В дешёвых хостелах остановятся двое из нас.,5.222222222222222,5.0,quantiifier,stimul,7.0,98,dvoje,elect,my,3pl,VS
+Belova_2023,Со свадебными фотографами свяжемся мы все.,3.25,3.0,quantiifier,stimul,25.0,398,vse,nom,my,1pl,VS
+Belova_2023,На студенческих конференциях выступим мы все.,4.125,4.0,quantiifier,stimul,21.0,334,vse,nom,my,1pl,VS
+Belova_2023,Со сломанными телефонами разберется они четверо.,1.6666666666666667,2.0,quantiifier,stimul,9.0,138,dvoje,nom,oni,3sg,VS
+Belova_2023,Восемь первокурсник придут на конференцией.,2.1617021276595745,2.0,bad,filler,,808,,,,,
+Belova_2023,С проведением экзаменов помогут четверо из них.,4.777777777777778,5.0,quantiifier,stimul,3.0,36,dvoje,elect,oni,3pl,VS
+Belova_2023,С очевидцами аварии побеседует пятеро из них.,4.555555555555555,5.0,quantiifier,stimul,34.0,533,dvoje,elect,oni,3sg,VS
+Belova_2023,С заменой лампочек справятся шестеро из нас.,5.777777777777778,6.0,quantiifier,stimul,11.0,162,dvoje,elect,my,3pl,VS
+Belova_2023,Мы четверо познакомимся с артистами спектакля.,4.727272727272728,5.0,quantiifier,stimul,33.0,518,dvoje,nom,my,1pl,SV
+Belova_2023,Мы с Сашей вместе снимем комнату.,6.29957805907173,6.0,good,filler,,773,,,,,
+Belova_2023,Мы пятеро женятся в течение месяца.,2.4545454545454546,2.0,quantiifier,stimul,16.0,247,dvoje,nom,my,3pl,SV
+Belova_2023,Все из нас созвонимся с поставщиками продуктов.,1.25,1.0,quantiifier,stimul,10.0,155,vse,elect,my,1pl,SV
+Belova_2023,В спортивные секции запишутся они семеро.,3.4444444444444446,3.0,quantiifier,stimul,12.0,185,dvoje,nom,oni,3pl,VS
+Belova_2023,С нынешних позиций уволится они семеро.,2.111111111111111,2.0,quantiifier,stimul,18.0,282,dvoje,nom,oni,3sg,VS
+Belova_2023,В столичные вузы поступят семеро из них.,5.333333333333333,5.0,quantiifier,stimul,17.0,260,dvoje,elect,oni,3pl,VS
+Belova_2023,Все из нас вернёмся в гостиничные номера.,1.5,2.0,quantiifier,stimul,15.0,235,vse,elect,my,1pl,SV
+Belova_2023,Пятеро из них побеседует с очевидцами аварии.,4.8,5.0,quantiifier,stimul,34.0,533,dvoje,elect,oni,3sg,SV
+Belova_2023,В лесных озёрах порыбачат мы двое.,2.2,2.0,quantiifier,stimul,31.0,487,dvoje,nom,my,3pl,VS
+Belova_2023,С заменой лампочек справимся мы шестеро.,3.875,4.0,quantiifier,stimul,11.0,166,dvoje,nom,my,1pl,VS
+Belova_2023,Мы все поучаствуем в социальных опросах.,6.5,6.0,quantiifier,stimul,48.0,766,vse,nom,my,1pl,SV
+Belova_2023,В старых кладовках приберётся мы шестеро.,1.7647058823529411,2.0,quantiifier,stimul,47.0,744,dvoje,nom,my,3sg,VS
+Belova_2023,Они семеро поучаствует в социальных опросах.,3.3,3.0,quantiifier,stimul,48.0,762,dvoje,nom,oni,3sg,SV
+Belova_2023,Они пятеро присоединится к поисковым отрядам.,2.0,2.0,quantiifier,stimul,28.0,442,dvoje,nom,oni,3sg,SV
+Belova_2023,В дешёвых хостелах остановится они двое.,1.5555555555555556,2.0,quantiifier,stimul,7.0,106,dvoje,nom,oni,3sg,VS
+Belova_2023,В карнавальные костюмы переоденутся семеро из нас.,5.333333333333333,5.0,quantiifier,stimul,6.0,82,dvoje,elect,my,3pl,VS
+Belova_2023,На проходной завода отметимся мы трое.,4.625,5.0,quantiifier,stimul,38.0,598,dvoje,nom,my,1pl,VS
+Belova_2023,В важные переговоры вмешаемся мы все.,3.7142857142857135,4.0,quantiifier,stimul,29.0,462,vse,nom,my,1pl,VS
+Belova_2023,Мы трое переедут в соседние страны.,1.818181818181818,2.0,quantiifier,stimul,32.0,503,dvoje,nom,my,3pl,SV
+Belova_2023,Трое из нас прилетим в разные аэропорты.,1.4444444444444444,1.0,quantiifier,stimul,8.0,113,dvoje,elect,my,1pl,SV
+Belova_2023,Вы с Дашей не возмут билетам на этот концерт.,1.6075949367088609,2.0,bad,filler,,793,,,,,
+Belova_2023,Все из них сядут за первые парты.,5.0,5.0,quantiifier,stimul,39.0,621,vse,elect,oni,3pl,SV
+Belova_2023,Мы семеро объявит о скорых отставках.,1.375,1.0,quantiifier,stimul,36.0,568,dvoje,nom,my,3sg,SV
+Belova_2023,Мы двое победим на конкурсе чтецов.,5.25,5.0,quantiifier,stimul,37.0,582,dvoje,nom,my,1pl,SV
+Belova_2023,На студенческих конференциях выступят они все.,3.7777777777777777,4.0,quantiifier,stimul,21.0,336,vse,oni,nom,3pl,VS
+Belova_2023,По незнакомым номерам перезвоним пятеро из нас.,2.0,2.0,quantiifier,stimul,22.0,337,dvoje,elect,my,1pl,VS
+Belova_2023,На утренних поездах приедут они шестеро.,2.888888888888889,3.0,quantiifier,stimul,5.0,73,dvoje,nom,oni,3pl,VS
+Belova_2023,Шестеро из нас ответит за поломанные инструменты.,1.25,1.0,quantiifier,stimul,35.0,547,dvoje,elect,my,3sg,SV
+Belova_2023,В дешёвых хостелах остановятся мы двое.,2.2,2.0,quantiifier,stimul,7.0,103,dvoje,nom,my,3pl,VS
+Belova_2023,В карнавальные костюмы переоденется мы семеро.,2.875,3.0,quantiifier,stimul,6.0,88,dvoje,nom,my,3sg,VS
+Belova_2023,Шестеро из них поступит в столичные вузы.,4.0,4.0,quantiifier,stimul,17.0,261,dvoje,elect,oni,3sg,SV
+Belova_2023,В карнавальные костюмы переоденемся мы семеро.,4.625,5.0,quantiifier,stimul,6.0,86,dvoje,nom,my,1pl,VS
+Belova_2023,Два ресторана в этом городе будут награждены почётной наградой.,5.892241379310345,6.0,good,filler,,790,,,,,
+Belova_2023,Они все придут на пятничную вечеринку.,5.666666666666667,6.0,quantiifier,stimul,1.0,16,vse,oni,nom,3pl,SV
+Belova_2023,Мы все приберёмся в старых кладовках.,5.454545454545454,5.0,quantiifier,stimul,47.0,750,vse,nom,my,1pl,SV
+Belova_2023,Четверо из нас разберётся со сломанными телефонами.,2.7,3.0,quantiifier,stimul,9.0,131,dvoje,elect,my,3sg,SV
+Belova_2023,Они шестеро ответит за поломанные инструменты.,2.1818181818181817,2.0,quantiifier,stimul,35.0,554,dvoje,nom,oni,3sg,SV
+Belova_2023,Все из них присоединятся к поисковым отрядам.,4.4,4.0,quantiifier,stimul,28.0,445,vse,elect,oni,3pl,SV
+Belova_2023,Мы семеро объявим о скорых отставках.,4.8,5.0,quantiifier,stimul,36.0,566,dvoje,nom,my,1pl,SV
+Belova_2023,На акустической гитаре сыграют все из них.,4.0,4.0,quantiifier,stimul,13.0,205,vse,elect,oni,3pl,VS
+Belova_2023,Мы все отчитаются за выполненные задачи.,1.5,2.0,quantiifier,stimul,43.0,687,vse,nom,my,3pl,SV
+Belova_2023,На акустической гитаре сыграем мы все.,3.875,4.0,quantiifier,stimul,13.0,206,vse,nom,my,1pl,VS
+Belova_2023,Четверо из них извинится за допущенные ошибки.,3.333333333333333,3.0,quantiifier,stimul,45.0,709,dvoje,elect,oni,3sg,SV
+Belova_2023,На южных курортах отдохнут мы семеро.,1.9,2.0,quantiifier,stimul,24.0,375,dvoje,nom,my,3pl,VS
+Belova_2023,Пятеро писателей выпустят сборником рассказов.,2.2711864406779663,2.0,bad,filler,,815,,,,,
+Belova_2023,Они четверо поможет с проведением экзаменов.,3.75,4.0,quantiifier,stimul,3.0,42,dvoje,nom,oni,3sg,SV
+Belova_2023,Все из них выступят на студенческих конференциях.,3.6666666666666665,4.0,quantiifier,stimul,21.0,333,vse,elect,oni,3pl,SV
+Belova_2023,Семеро из нас возьмёмся за новые проекты.,4.0,4.0,quantiifier,stimul,42.0,657,dvoje,elect,my,1pl,SV
+Belova_2023,О нужных продуктах позаботится семеро из них.,4.555555555555555,5.0,quantiifier,stimul,30.0,469,dvoje,elect,oni,3sg,VS
+Belova_2023,Пятеро малышей сделают подарки для воспитательница.,2.2288135593220337,2.0,bad,filler,,809,,,,,
+Belova_2023,В крещенской проруби искупаются все из нас.,3.2222222222222223,3.0,quantiifier,stimul,4.0,60,vse,elect,my,3pl,VS
+Belova_2023,К поисковым отрядам присоединятся пятеро из нас.,5.888888888888889,6.0,quantiifier,stimul,28.0,434,dvoje,elect,my,3pl,VS
+Belova_2023,На предложения конкурентов согласимся все из нас.,2.7777777777777777,3.0,quantiifier,stimul,14.0,219,vse,elect,my,1pl,VS
+Belova_2023,Мы все разберутся со сломанными телефонами.,1.6,2.0,quantiifier,stimul,9.0,143,vse,nom,my,3pl,SV
+Belova_2023,Со сломанными телефонами разберется мы четверо.,2.25,2.0,quantiifier,stimul,9.0,136,dvoje,nom,my,3sg,VS
+Belova_2023,Мы четверо познакомятся с артистами спектакля.,1.3333333333333333,1.0,quantiifier,stimul,33.0,519,dvoje,nom,my,3pl,SV
+Belova_2023,По незнакомым номерам перезвонит мы пятеро.,1.75,2.0,quantiifier,stimul,22.0,344,dvoje,nom,my,3sg,VS
+Belova_2023,О нужных продуктах позаботится семеро из нас.,4.444444444444445,4.0,quantiifier,stimul,30.0,467,dvoje,elect,my,3sg,VS
+Belova_2023,В гостиничные номера вернётся четверо из нас.,4.888888888888889,5.0,quantiifier,stimul,15.0,227,dvoje,elect,my,3sg,VS
+Belova_2023,В течение месяца женятся они пятеро.,2.4444444444444446,2.0,quantiifier,stimul,16.0,249,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы шестеро приедет на утренних поездах.,3.0,3.0,quantiifier,stimul,5.0,72,dvoje,nom,my,3sg,SV
+Belova_2023,Мы семеро переоденутся в карнавальные костюмы.,1.5,2.0,quantiifier,stimul,6.0,87,dvoje,nom,my,3pl,SV
+Belova_2023,Они все остановятся в дешёвых хостелах.,5.5,6.0,quantiifier,stimul,7.0,112,vse,oni,nom,3pl,SV
+Belova_2023,В старых кладовках приберутся все из нас.,3.333333333333333,3.0,quantiifier,stimul,47.0,748,vse,elect,my,3pl,VS
+Belova_2023,В спортивные секции запишемся мы все.,3.857142857142857,4.0,quantiifier,stimul,12.0,190,vse,nom,my,1pl,VS
+Belova_2023,В отдалённые деревни съездим мы трое.,4.714285714285714,5.0,quantiifier,stimul,20.0,310,dvoje,nom,my,1pl,VS
+Belova_2023,Трое из нас согласимся на предложения конкурентов.,1.8,2.0,quantiifier,stimul,14.0,209,dvoje,elect,my,1pl,SV
+Belova_2023,Все из нас приедут на утренних поездах.,2.333333333333333,2.0,quantiifier,stimul,5.0,76,vse,elect,my,3pl,SV
+Belova_2023,С кредитными долгами рассчитаемся шестеро из нас.,2.7777777777777777,3.0,quantiifier,stimul,23.0,353,dvoje,elect,my,1pl,VS
+Belova_2023,В лесных озёрах порыбачат они все.,4.444444444444445,4.0,quantiifier,stimul,31.0,496,vse,oni,nom,3pl,VS
+Belova_2023,С нынешних позиций уволятся семеро из них.,4.777777777777778,5.0,quantiifier,stimul,18.0,276,dvoje,elect,oni,3pl,VS
+Belova_2023,Трое из нас согласятся на предложения конкурентов.,5.555555555555555,6.0,quantiifier,stimul,14.0,210,dvoje,elect,my,3pl,SV
+Belova_2023,В старых кладовках приберётся шестеро из нас.,5.222222222222222,5.0,quantiifier,stimul,47.0,739,dvoje,elect,my,3sg,VS
+Belova_2023,Шестеро из нас рассчитается с кредитными долгами.,3.4444444444444446,3.0,quantiifier,stimul,23.0,357,dvoje,elect,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомятся четверо из них.,5.888888888888889,6.0,quantiifier,stimul,33.0,516,dvoje,elect,oni,3pl,VS
+Belova_2023,Они четверо сядут за первые парты.,3.111111111111111,3.0,quantiifier,stimul,39.0,617,dvoje,nom,oni,3pl,SV
+Belova_2023,В байдарочные походы отправятся все из них.,4.375,4.0,quantiifier,stimul,27.0,429,vse,elect,oni,3pl,VS
+Belova_2023,Вы с Димой подключитесь к уроку по видеосвязи.,5.88646288209607,6.0,good,filler,,778,,,,,
+Belova_2023,Пятеро из них искупаются в крещенской проруби.,6.0,6.0,quantiifier,stimul,4.0,52,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы двое остановится в дешёвых хостелах.,1.8888888888888888,2.0,quantiifier,stimul,7.0,104,dvoje,nom,my,3sg,SV
+Belova_2023,В столичные вузы поступим семеро из нас.,2.4444444444444446,2.0,quantiifier,stimul,17.0,257,dvoje,elect,my,1pl,VS
+Belova_2023,На двугорбых верблюдах покатается трое из нас.,5.444444444444445,5.0,quantiifier,stimul,26.0,403,dvoje,elect,my,3sg,VS
+Belova_2023,К новым поликлиникам прикрепятся пятеро из нас.,5.666666666666667,6.0,quantiifier,stimul,40.0,626,dvoje,elect,my,3pl,VS
+Belova_2023,Все из нас созвонятся с поставщиками продуктов.,4.5,4.0,quantiifier,stimul,10.0,156,vse,elect,my,3pl,SV
+Belova_2023,Пятеро из них перезвонит по незнакомым номерам.,5.25,5.0,quantiifier,stimul,22.0,341,dvoje,elect,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомится четверо из них.,4.222222222222222,4.0,quantiifier,stimul,33.0,517,dvoje,elect,oni,3sg,VS
+Belova_2023,За первые парты сядут мы все.,2.571428571428572,3.0,quantiifier,stimul,39.0,623,vse,nom,my,3pl,VS
+Belova_2023,На курсы вождения пойдут все из нас.,3.6666666666666665,4.0,quantiifier,stimul,46.0,732,vse,elect,my,3pl,VS
+Belova_2023,С проведением экзаменов помогут все из них.,4.111111111111111,4.0,quantiifier,stimul,3.0,45,vse,elect,oni,3pl,VS
+Belova_2023,Они шестеро приедет на утренних поездах.,1.2222222222222223,1.0,quantiifier,stimul,5.0,74,dvoje,nom,oni,3sg,SV
+Belova_2023,Двое из нас остановится в дешёвых хостелах.,3.25,3.0,quantiifier,stimul,7.0,99,dvoje,elect,my,3sg,SV
+Belova_2023,Мы двое придём на пятничную вечеринку.,3.6666666666666665,4.0,quantiifier,stimul,1.0,6,dvoje,nom,my,1pl,SV
+Belova_2023,Трое из нас вложимся в перспективные акции.,2.4545454545454546,2.0,quantiifier,stimul,44.0,689,dvoje,elect,my,1pl,SV
+Belova_2023,В отдалённые деревни съездим мы все.,4.0,4.0,quantiifier,stimul,20.0,318,vse,nom,my,1pl,VS
+Belova_2023,За выполненные задачи отчитаемся мы все.,4.428571428571429,4.0,quantiifier,stimul,43.0,686,vse,nom,my,1pl,VS
+Belova_2023,На курсы вождения пойдёт пятеро из нас.,5.333333333333333,5.0,quantiifier,stimul,46.0,723,dvoje,elect,my,3sg,VS
+Belova_2023,Они трое согласятся на предложения конкурентов.,4.2727272727272725,4.0,quantiifier,stimul,14.0,217,dvoje,nom,oni,3pl,SV
+Belova_2023,Мы пятеро перезвонят по незнакомым номерам.,1.7,2.0,quantiifier,stimul,22.0,343,dvoje,nom,my,3pl,SV
+Belova_2023,Трое из нас опубликуется в научных журналах.,4.166666666666667,4.0,quantiifier,stimul,2.0,21,dvoje,elect,oni,3sg,SV
+Belova_2023,На акустической гитаре сыграют все из нас.,3.888888888888889,4.0,quantiifier,stimul,13.0,204,vse,elect,my,3pl,VS
+Belova_2023,Мы пятеро женимся в течение месяца.,6.0,6.0,quantiifier,stimul,16.0,246,dvoje,nom,my,1pl,SV
+Belova_2023,За новые проекты возьмёмся все из нас.,2.7777777777777777,3.0,quantiifier,stimul,42.0,667,vse,elect,my,1pl,VS
+Belova_2023,В разные аэропорты прилетим трое из нас.,2.555555555555556,3.0,quantiifier,stimul,8.0,113,dvoje,elect,my,1pl,VS
+Belova_2023,Четверо из них вернётся в гостиничные номера.,2.5,2.0,quantiifier,stimul,15.0,229,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы все справимся с заменой лампочек.,5.8,6.0,quantiifier,stimul,11.0,174,vse,nom,my,1pl,SV
+Belova_2023,Трое из нас покатаются на двугорбых верблюдах.,6.125,6.0,quantiifier,stimul,26.0,402,dvoje,elect,my,3pl,SV
+Belova_2023,Они все съездят в отдалённые деревни.,5.4,5.0,quantiifier,stimul,20.0,320,vse,oni,nom,3pl,SV
+Belova_2023,На утренних поездах приедут мы шестеро.,1.9,2.0,quantiifier,stimul,5.0,71,dvoje,nom,my,3pl,VS
+Belova_2023,На утренних поездах приедут мы все.,2.2857142857142856,2.0,quantiifier,stimul,5.0,79,vse,nom,my,3pl,VS
+Belova_2023,Шестеро из них приберутся в старых кладовках.,4.666666666666667,5.0,quantiifier,stimul,47.0,740,dvoje,elect,oni,3pl,SV
+Belova_2023,В байдарочные походы отправится четверо из них.,3.7777777777777777,4.0,quantiifier,stimul,27.0,421,dvoje,elect,oni,3sg,VS
+Belova_2023,Четверо из них разберутся со сломанными телефонами.,6.75,7.0,quantiifier,stimul,9.0,132,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы все помогут с проведением экзаменов.,2.1666666666666665,2.0,quantiifier,stimul,3.0,47,vse,nom,my,3pl,SV
+Belova_2023,С заменой лампочек справятся шестеро из них.,5.555555555555555,6.0,quantiifier,stimul,11.0,164,dvoje,elect,oni,3pl,VS
+Belova_2023,Все из нас пойдём на курсы вождения.,1.2,1.0,quantiifier,stimul,46.0,731,vse,elect,my,1pl,SV
+Belova_2023,Мы семеро поучаствует в социальных опросах.,2.0,2.0,quantiifier,stimul,48.0,760,dvoje,nom,my,3sg,SV
+Belova_2023,Мы пятеро искупается в крещенской проруби.,2.0,2.0,quantiifier,stimul,4.0,56,dvoje,nom,my,3sg,SV
+Belova_2023,Все из нас ответят за поломанные инструменты.,5.4,5.0,quantiifier,stimul,35.0,556,vse,elect,my,3pl,SV
+Belova_2023,Они двое отчитается за выполненные задачи.,1.75,2.0,quantiifier,stimul,43.0,682,dvoje,nom,oni,3sg,SV
+Belova_2023,На проходной завода отметятся они все.,4.555555555555555,5.0,quantiifier,stimul,38.0,608,vse,oni,nom,3pl,VS
+Belova_2023,По незнакомым номерам перезвонят мы все.,1.875,2.0,quantiifier,stimul,22.0,351,vse,nom,my,3pl,VS
+Belova_2023,Они четверо познакомятся с артистами спектакля.,5.4,5.0,quantiifier,stimul,33.0,521,dvoje,nom,oni,3pl,SV
+Belova_2023,В столичные вузы поступит семеро из нас.,5.444444444444445,5.0,quantiifier,stimul,17.0,259,dvoje,elect,my,3sg,VS
+Belova_2023,Они все покатаются на двугорбых верблюдах.,5.2,5.0,quantiifier,stimul,26.0,416,vse,oni,nom,3pl,SV
+Belova_2023,Пятеро из нас созвонится с поставщиками продуктов.,2.5454545454545454,3.0,quantiifier,stimul,10.0,147,dvoje,elect,my,3sg,SV
+Belova_2023,Все из нас приедем на утренних поездах.,1.3333333333333333,1.0,quantiifier,stimul,5.0,75,vse,elect,my,1pl,SV
+Belova_2023,Они трое покатаются на двугорбых верблюдах.,4.0,4.0,quantiifier,stimul,26.0,409,dvoje,nom,oni,3pl,SV
+Belova_2023,Все из них отметятся на проходной завода.,4.5,4.0,quantiifier,stimul,38.0,605,vse,elect,oni,3pl,SV
+Belova_2023,В научных журналах опубликуются трое из них.,5.555555555555555,6.0,quantiifier,stimul,2.0,20,dvoje,elect,oni,3pl,VS
+Belova_2023,За допущенные ошибки извинятся мы все.,2.125,2.0,quantiifier,stimul,45.0,719,vse,nom,my,3pl,VS
+Belova_2023,Со свадебными фотографами свяжутся все из них.,3.555555555555556,4.0,quantiifier,stimul,25.0,397,vse,elect,oni,3pl,VS
+Belova_2023,В спортивные секции запишутся мы все.,2.5,2.0,quantiifier,stimul,12.0,191,vse,nom,my,3pl,VS
+Belova_2023,Они четверо разберётся со сломанными телефонами.,1.2,1.0,quantiifier,stimul,9.0,138,dvoje,nom,oni,3sg,SV
+Belova_2023,Четверо из нас вернутся в гостиничные номера.,5.833333333333333,6.0,quantiifier,stimul,15.0,226,dvoje,elect,my,3pl,SV
+Belova_2023,Все из них согласятся на предложения конкурентов.,4.25,4.0,quantiifier,stimul,14.0,221,vse,elect,oni,3pl,SV
+Belova_2023,За новые проекты возьмутся все из нас.,3.6666666666666665,4.0,quantiifier,stimul,42.0,668,vse,elect,my,3pl,VS
+Belova_2023,С артистами спектакля познакомятся все из нас.,3.6666666666666665,4.0,quantiifier,stimul,33.0,524,vse,elect,my,3pl,VS
+Belova_2023,В спортивные секции запишется мы семеро.,1.75,2.0,quantiifier,stimul,12.0,184,dvoje,nom,my,3sg,VS
+Belova_2023,Они все поучаствуют в социальных опросах.,6.333333333333333,6.0,quantiifier,stimul,48.0,768,vse,oni,nom,3pl,SV
+Belova_2023,В спортивные секции запишется семеро из нас.,5.333333333333333,5.0,quantiifier,stimul,12.0,179,dvoje,elect,my,3sg,VS
+Belova_2023,С поставщиками продуктов созвонятся все из них.,3.555555555555556,4.0,quantiifier,stimul,10.0,157,vse,elect,oni,3pl,VS
+Belova_2023,С проведением экзаменов поможем четверо из нас.,2.0,2.0,quantiifier,stimul,3.0,33,dvoje,elect,my,1pl,VS
+Belova_2023,В социальных опросах поучаствует семеро из нас.,5.666666666666667,6.0,quantiifier,stimul,48.0,755,dvoje,elect,my,3sg,VS
+Belova_2023,На двугорбых верблюдах покатаются все из них.,4.75,5.0,quantiifier,stimul,26.0,413,vse,elect,oni,3pl,VS
+Belova_2023,В дешёвых хостелах остановятся они двое.,3.0,3.0,quantiifier,stimul,7.0,105,dvoje,nom,oni,3pl,VS
+Belova_2023,В отдалённые деревни съездит они трое.,1.25,1.0,quantiifier,stimul,20.0,314,dvoje,nom,oni,3sg,VS
+Belova_2023,Мы четверо вернётся в гостиничные номера.,2.4545454545454546,2.0,quantiifier,stimul,15.0,232,dvoje,nom,my,3sg,SV
+Belova_2023,На южных курортах отдохнут все из них.,4.111111111111111,4.0,quantiifier,stimul,24.0,381,vse,elect,oni,3pl,VS
+Belova_2023,С нынешних позиций уволятся семеро из нас.,5.444444444444445,5.0,quantiifier,stimul,18.0,274,dvoje,elect,my,3pl,VS
+Belova_2023,Мы все поступим в столичные вузы.,6.6,7.0,quantiifier,stimul,17.0,270,vse,nom,my,1pl,SV
+Belova_2023,Пятеро из нас женится в течение месяца.,2.5,2.0,quantiifier,stimul,16.0,243,dvoje,elect,my,3sg,SV
+Belova_2023,За первые парты сядут все из нас.,3.2222222222222223,3.0,quantiifier,stimul,39.0,620,vse,elect,my,3pl,VS
+Belova_2023,На южных курортах отдохнут они семеро.,3.2222222222222223,3.0,quantiifier,stimul,24.0,377,dvoje,nom,oni,3pl,VS
+Belova_2023,В научных журналах опубликуется трое из нас.,4.666666666666667,5.0,quantiifier,stimul,2.0,19,dvoje,elect,my,3sg,VS
+Belova_2023,Они трое съездят в отдалённые деревни.,2.090909090909091,2.0,quantiifier,stimul,20.0,313,dvoje,nom,oni,3pl,SV
+Belova_2023,На предложения конкурентов согласятся все из них.,4.333333333333333,4.0,quantiifier,stimul,14.0,221,vse,elect,oni,3pl,VS
+Belova_2023,Шестеро из нас поступит в столичные вузы.,4.5,4.0,quantiifier,stimul,17.0,259,dvoje,elect,my,3sg,SV
+Belova_2023,Мы четверо отправятся в байдарочные походы.,2.0,2.0,quantiifier,stimul,27.0,423,dvoje,nom,my,3pl,SV
+Belova_2023,Все из них искупаются в крещенской проруби.,3.6666666666666665,4.0,quantiifier,stimul,4.0,61,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас приберутся в старых кладовках.,2.75,3.0,quantiifier,stimul,47.0,748,vse,elect,my,3pl,SV
+Belova_2023,За выполненные задачи отчитаются все из нас.,3.888888888888889,4.0,quantiifier,stimul,43.0,684,vse,elect,my,3pl,VS
+Belova_2023,Со сломанными телефонами разберутся они все.,3.888888888888889,4.0,quantiifier,stimul,9.0,144,vse,oni,nom,3pl,VS
+Belova_2023,За выполненные задачи отчитается двое из них.,3.333333333333333,3.0,quantiifier,stimul,43.0,677,dvoje,elect,oni,3sg,VS
+Belova_2023,Семеро из них отдохнёт на южных курортах.,3.4,3.0,quantiifier,stimul,24.0,373,dvoje,elect,oni,3sg,SV
+Belova_2023,Все из нас победят на конкурсе чтецов.,4.0,4.0,quantiifier,stimul,37.0,588,vse,elect,my,3pl,SV
+Belova_2023,Семеро из них запишется в спортивные секции.,4.0,4.0,quantiifier,stimul,12.0,181,dvoje,elect,oni,3sg,SV
+Belova_2023,Все из нас согласимся на предложения конкурентов.,2.0,2.0,quantiifier,stimul,14.0,219,vse,elect,my,1pl,SV
+Belova_2023,В байдарочные походы отправимся все из нас.,2.555555555555556,3.0,quantiifier,stimul,27.0,427,vse,elect,my,1pl,VS
+Belova_2023,О скорых отставках объявят мы все.,2.375,2.0,quantiifier,stimul,36.0,575,vse,nom,my,3pl,VS
+Belova_2023,Все из нас помогут с проведением экзаменов.,3.4444444444444446,3.0,quantiifier,stimul,3.0,44,vse,elect,my,3pl,SV
+Belova_2023,На конкурсе чтецов победим мы все.,5.25,5.0,quantiifier,stimul,37.0,590,vse,nom,my,1pl,VS
+Belova_2023,Мы четверо поможем с проведением экзаменов.,5.888888888888889,6.0,quantiifier,stimul,3.0,38,dvoje,nom,my,1pl,SV
+Belova_2023,Трое из них согласятся на предложения конкурентов.,4.666666666666667,5.0,quantiifier,stimul,14.0,212,dvoje,elect,oni,3pl,SV
+Belova_2023,Двое из нас придёт на пятничную вечеринку.,3.5,4.0,quantiifier,stimul,1.0,3,dvoje,elect,my,3sg,SV
+Belova_2023,С поставщиками продуктов созвонятся мы все.,2.625,3.0,quantiifier,stimul,10.0,159,vse,nom,my,3pl,VS
+Belova_2023,В гостиничные номера вернёмся все из нас.,2.555555555555556,3.0,quantiifier,stimul,15.0,235,vse,elect,my,1pl,VS
+Belova_2023,Мы все отдохнут на южных курортах.,3.090909090909091,3.0,quantiifier,stimul,24.0,383,vse,nom,my,3pl,SV
+Belova_2023,Семеро из них переоденутся в карнавальные костюмы.,6.5,6.0,quantiifier,stimul,6.0,84,dvoje,elect,oni,3pl,SV
+Belova_2023,Они двое остановится в дешёвых хостелах.,1.6666666666666667,2.0,quantiifier,stimul,7.0,106,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы все переоденутся в карнавальные костюмы.,1.25,1.0,quantiifier,stimul,6.0,95,vse,nom,my,3pl,SV
+Belova_2023,В перспективные акции вложится трое из нас.,5.111111111111111,5.0,quantiifier,stimul,44.0,691,dvoje,elect,my,3sg,VS
+Belova_2023,Вы с Кириллом будете строго наказаны.,6.273109243697479,6.0,good,filler,,776,,,,,
+Belova_2023,В лесных озёрах порыбачит мы двое.,1.875,2.0,quantiifier,stimul,31.0,488,dvoje,nom,my,3sg,VS
+Belova_2023,В важные переговоры вмешается шестеро из нас.,4.777777777777778,5.0,quantiifier,stimul,29.0,451,dvoje,elect,my,3sg,VS
+Belova_2023,За допущенные ошибки извинятся четверо из них.,6.0,6.0,quantiifier,stimul,45.0,708,dvoje,elect,oni,3pl,VS
+Belova_2023,Мы шестеро справимся с заменой лампочек.,5.0,5.0,quantiifier,stimul,11.0,166,dvoje,nom,my,1pl,SV
+Belova_2023,Мы двое переночуем в больших палатках.,4.4,4.0,quantiifier,stimul,19.0,294,dvoje,nom,my,1pl,SV
+Belova_2023,В карнавальные костюмы переоденутся мы все.,2.857142857142857,3.0,quantiifier,stimul,6.0,95,vse,nom,my,3pl,VS
+Belova_2023,Четверо из них извинятся за допущенные ошибки.,5.666666666666667,6.0,quantiifier,stimul,45.0,708,dvoje,elect,oni,3pl,SV
+Belova_2023,В разные аэропорты прилетит трое из них.,2.555555555555556,3.0,quantiifier,stimul,8.0,117,dvoje,elect,oni,3sg,VS
+Belova_2023,На акустической гитаре сыграют они двое.,2.6666666666666665,3.0,quantiifier,stimul,13.0,201,dvoje,nom,oni,3pl,VS
+Belova_2023,Они все объявят о скорых отставках.,6.0,6.0,quantiifier,stimul,36.0,576,vse,oni,nom,3pl,SV
+Belova_2023,С артистами спектакля познакомится они четверо.,2.0,2.0,quantiifier,stimul,33.0,522,dvoje,nom,oni,3sg,VS
+Belova_2023,Шестеро из нас ответим за поломанные инструменты.,4.0,4.0,quantiifier,stimul,35.0,545,dvoje,elect,my,1pl,SV
+Belova_2023,За выполненные задачи отчитаемся все из нас.,3.111111111111111,3.0,quantiifier,stimul,43.0,683,vse,elect,my,1pl,VS
+Belova_2023,Все из нас переедем в соседние страны.,2.25,2.0,quantiifier,stimul,32.0,507,vse,elect,my,1pl,SV
+Belova_2023,В больших палатках переночуют мы все.,2.625,3.0,quantiifier,stimul,19.0,303,vse,nom,my,3pl,VS
+Belova_2023,Шестеро из них приберётся в старых кладовках.,3.5,4.0,quantiifier,stimul,47.0,741,dvoje,elect,oni,3sg,SV
+Belova_2023,Со сломанными телефонами разберется четверо из них.,3.888888888888889,4.0,quantiifier,stimul,9.0,133,dvoje,elect,oni,3sg,VS
+Belova_2023,На проходной завода отметится они трое.,1.5555555555555556,2.0,quantiifier,stimul,38.0,602,dvoje,nom,oni,3sg,VS
+Belova_2023,В перспективные акции вложимся трое из нас.,2.2222222222222223,2.0,quantiifier,stimul,44.0,689,dvoje,elect,my,1pl,VS
+Belova_2023,На курсы вождения пойдут они все.,4.777777777777778,5.0,quantiifier,stimul,46.0,736,vse,oni,nom,3pl,VS
+Belova_2023,Двое из них порыбачит в лесных озёрах.,3.4,3.0,quantiifier,stimul,31.0,485,dvoje,elect,oni,3sg,SV
+Belova_2023,На проходной завода отметятся они трое.,3.2222222222222223,3.0,quantiifier,stimul,38.0,601,dvoje,nom,oni,3pl,VS
+Belova_2023,О нужных продуктах позаботятся они все.,4.571428571428571,5.0,quantiifier,stimul,30.0,480,vse,oni,nom,3pl,VS
+Belova_2023,К новым поликлиникам прикрепятся все из нас.,3.888888888888889,4.0,quantiifier,stimul,40.0,636,vse,elect,my,3pl,VS
+Belova_2023,Мы пятеро присоединится к поисковым отрядам.,3.0,3.0,quantiifier,stimul,28.0,440,dvoje,nom,my,3sg,SV
+Belova_2023,Мы все подметут в учебных кабинетах.,1.3333333333333333,1.0,quantiifier,stimul,41.0,655,vse,nom,my,3pl,SV
+Belova_2023,В спортивные секции запишутся они все.,3.888888888888889,4.0,quantiifier,stimul,12.0,192,vse,oni,nom,3pl,VS
+Belova_2023,Мы пятеро женится в течение месяца.,1.3333333333333333,1.0,quantiifier,stimul,16.0,248,dvoje,nom,my,3sg,SV
+Belova_2023,С кредитными долгами рассчитаемся все из нас.,2.6666666666666665,3.0,quantiifier,stimul,23.0,363,vse,elect,my,1pl,VS
+Belova_2023,С кредитными долгами рассчитаемся мы шестеро.,2.625,3.0,quantiifier,stimul,23.0,358,dvoje,nom,my,1pl,VS
+Belova_2023,На предложения конкурентов согласятся мы все.,2.375,2.0,quantiifier,stimul,14.0,223,vse,nom,my,3pl,VS
+Belova_2023,В крещенской проруби искупаются они все.,4.555555555555555,5.0,quantiifier,stimul,4.0,64,vse,oni,nom,3pl,VS
+Belova_2023,За поломанные инструменты ответит они шестеро.,1.5555555555555556,2.0,quantiifier,stimul,35.0,554,dvoje,nom,oni,3sg,VS
+Belova_2023,На двугорбых верблюдах покатаются трое из нас.,5.444444444444445,5.0,quantiifier,stimul,26.0,402,dvoje,elect,my,3pl,VS
+Belova_2023,На проходной завода отметится трое из них.,3.4444444444444446,3.0,quantiifier,stimul,38.0,597,dvoje,elect,oni,3sg,VS
+Belova_2023,О скорых отставках объявят они все.,3.4444444444444446,3.0,quantiifier,stimul,36.0,576,vse,oni,nom,3pl,VS
+Belova_2023,Пятеро из нас побеседует с очевидцами аварии.,5.75,6.0,quantiifier,stimul,34.0,531,dvoje,elect,my,3sg,SV
+Belova_2023,На двугорбых верблюдах покатаются все из нас.,3.4444444444444446,3.0,quantiifier,stimul,26.0,412,vse,elect,my,3pl,VS
+Belova_2023,С очевидцами аварии побеседуют все из них.,3.4444444444444446,3.0,quantiifier,stimul,34.0,541,vse,elect,oni,3pl,VS
+Belova_2023,Мы шестеро приберётся в старых кладовках.,3.0,3.0,quantiifier,stimul,47.0,744,dvoje,nom,my,3sg,SV
+Belova_2023,Мы пятеро искупаемся в крещенской проруби.,5.5,6.0,quantiifier,stimul,4.0,54,dvoje,nom,my,1pl,SV
+Belova_2023,Мы двое победит на конкурсе чтецов.,1.6363636363636365,2.0,quantiifier,stimul,37.0,584,dvoje,nom,my,3sg,SV
+Belova_2023,Вы с Мариной останетесь в лагере ещё на неделю.,6.086580086580087,6.0,good,filler,,771,,,,,
+Belova_2023,В столичные вузы поступят они все.,4.555555555555555,5.0,quantiifier,stimul,17.0,272,vse,oni,nom,3pl,VS
+Belova_2023,В дешёвых хостелах остановятся двое из них.,5.222222222222222,5.0,quantiifier,stimul,7.0,100,dvoje,elect,oni,3pl,VS
+Belova_2023,Все из них сыграют на акустической гитаре.,5.3,5.0,quantiifier,stimul,13.0,205,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас сыграют на акустической гитаре.,2.4,2.0,quantiifier,stimul,13.0,204,vse,elect,my,3pl,SV
+Belova_2023,В разные аэропорты прилетим мы трое.,4.0,4.0,quantiifier,stimul,8.0,118,dvoje,nom,my,1pl,VS
+Belova_2023,О скорых отставках объявит семеро из нас.,4.666666666666667,5.0,quantiifier,stimul,36.0,563,dvoje,elect,my,3sg,VS
+Belova_2023,Семеро из нас объявят о скорых отставках.,6.5,6.0,quantiifier,stimul,36.0,562,dvoje,elect,my,3pl,SV
+Belova_2023,Они двое отчитаются за выполненные задачи.,5.6,6.0,quantiifier,stimul,43.0,681,dvoje,nom,oni,3pl,SV
+Belova_2023,Трое из нас покатается на двугорбых верблюдах.,2.1875,2.0,quantiifier,stimul,26.0,405,dvoje,elect,oni,3sg,SV
+Belova_2023,К поисковым отрядам присоединимся все из нас.,3.0,3.0,quantiifier,stimul,28.0,443,vse,elect,my,1pl,VS
+Belova_2023,В гостиничные номера вернётся они четверо.,1.5555555555555556,2.0,quantiifier,stimul,15.0,234,dvoje,nom,oni,3sg,VS
+Belova_2023,На акустической гитаре сыграют мы все.,2.5,2.0,quantiifier,stimul,13.0,207,vse,nom,my,3pl,VS
+Belova_2023,Они четверо разберутся со сломанными телефонами.,3.6666666666666665,4.0,quantiifier,stimul,9.0,137,dvoje,nom,oni,3pl,SV
+Belova_2023,Трое из них опубликуются в научных журналах.,6.090909090909091,6.0,quantiifier,stimul,2.0,20,dvoje,elect,oni,3pl,SV
+Belova_2023,В течение месяца женятся мы все.,2.0,2.0,quantiifier,stimul,16.0,255,vse,nom,my,3pl,VS
+Belova_2023,В важные переговоры вмешается мы шестеро.,1.875,2.0,quantiifier,stimul,29.0,456,dvoje,nom,my,3sg,VS
+Belova_2023,Мы все познакомятся с артистами спектакля.,2.6666666666666665,3.0,quantiifier,stimul,33.0,527,vse,nom,my,3pl,SV
+Belova_2023,Со свадебными фотографами свяжутся мы двое.,2.0,2.0,quantiifier,stimul,25.0,391,dvoje,nom,my,3pl,VS
+Belova_2023,Они семеро отдохнут на южных курортах.,2.6666666666666665,3.0,quantiifier,stimul,24.0,377,dvoje,nom,oni,3pl,SV
+Belova_2023,На студенческих конференциях выступит они четверо.,1.5555555555555556,2.0,quantiifier,stimul,21.0,330,dvoje,nom,oni,3sg,VS
+Belova_2023,Мы пятеро перезвонит по незнакомым номерам.,1.5,2.0,quantiifier,stimul,22.0,344,dvoje,nom,my,3sg,SV
+Belova_2023,В соседние страны переедем мы все.,4.875,5.0,quantiifier,stimul,32.0,510,vse,nom,my,1pl,VS
+Belova_2023,На курсы вождения пойдём пятеро из нас.,2.7777777777777777,3.0,quantiifier,stimul,46.0,721,dvoje,elect,my,1pl,VS
+Belova_2023,Вы с Ульяной сделают все домашнего задания.,1.747863247863248,2.0,bad,filler,,803,,,,,
+Belova_2023,Мы все приберутся в старых кладовках.,1.5,2.0,quantiifier,stimul,47.0,751,vse,nom,my,3pl,SV
+Belova_2023,Мы с Никитой досмотрят хороший сериал про пираты.,1.7991452991452992,2.0,bad,filler,,795,,,,,
+Belova_2023,Со свадебными фотографами свяжутся они все.,4.222222222222222,4.0,quantiifier,stimul,25.0,400,vse,oni,nom,3pl,VS
+Belova_2023,Мы двое сыграем на акустической гитаре.,4.166666666666667,4.0,quantiifier,stimul,13.0,198,dvoje,nom,my,1pl,SV
+Belova_2023,Все из них ответят за поломанные инструменты.,3.888888888888889,4.0,quantiifier,stimul,35.0,557,vse,elect,oni,3pl,SV
+Belova_2023,Мы четверо познакомится с артистами спектакля.,1.8,2.0,quantiifier,stimul,33.0,520,dvoje,nom,my,3sg,SV
+Belova_2023,Мы все вмешаются в важные переговоры.,1.25,1.0,quantiifier,stimul,29.0,463,vse,nom,my,3pl,SV
+Belova_2023,В лесных озёрах порыбачат двое из нас.,5.111111111111111,5.0,quantiifier,stimul,31.0,482,dvoje,elect,my,3pl,VS
+Belova_2023,Все из них переедут в соседние страны.,5.454545454545454,5.0,quantiifier,stimul,32.0,509,vse,elect,oni,3pl,SV
+Belova_2023,Четверо из нас выступят на студенческих конференциях.,6.2727272727272725,6.0,quantiifier,stimul,21.0,322,dvoje,elect,my,3pl,SV
+Belova_2023,На пятничную вечеринку придёт двое из них.,4.111111111111111,4.0,quantiifier,stimul,1.0,5,dvoje,elect,oni,3sg,VS
+Belova_2023,К поисковым отрядам присоединятся все из них.,4.555555555555555,5.0,quantiifier,stimul,28.0,445,vse,elect,oni,3pl,VS
+Belova_2023,Четверо из нас отправятся в байдарочные походы.,5.2727272727272725,5.0,quantiifier,stimul,27.0,418,dvoje,elect,my,3pl,SV
+Belova_2023,В карнавальные костюмы переоденутся все из них.,4.111111111111111,4.0,quantiifier,stimul,6.0,93,vse,elect,oni,3pl,VS
+Belova_2023,Мы шестеро приберутся в старых кладовках.,1.25,1.0,quantiifier,stimul,47.0,743,dvoje,nom,my,3pl,SV
+Belova_2023,По незнакомым номерам перезвонит они пятеро.,1.6666666666666667,2.0,quantiifier,stimul,22.0,346,dvoje,nom,oni,3sg,VS
+Belova_2023,Четверо из нас отправится в байдарочные походы.,3.5,4.0,quantiifier,stimul,27.0,419,dvoje,elect,my,3sg,SV
+Belova_2023,Мы пятеро созвонится с поставщиками продуктов.,2.0,2.0,quantiifier,stimul,10.0,152,dvoje,nom,my,3sg,SV
+Belova_2023,Двое часовых будут стоять у парадного входа.,6.063559322033898,6.0,good,filler,,791,,,,,
+Belova_2023,В байдарочные походы отправятся мы четверо.,2.1,2.0,quantiifier,stimul,27.0,423,dvoje,nom,my,3pl,VS
+Belova_2023,Все из нас сядем за первые парты.,2.333333333333333,2.0,quantiifier,stimul,39.0,619,vse,elect,my,1pl,SV
+Belova_2023,В учебных кабинетах подметут все из нас.,3.111111111111111,3.0,quantiifier,stimul,41.0,652,vse,elect,my,3pl,VS
+Belova_2023,Они все отметятся на проходной завода.,5.25,5.0,quantiifier,stimul,38.0,608,vse,oni,nom,3pl,SV
+Belova_2023,Мы все рассчитаются с кредитными долгами.,1.25,1.0,quantiifier,stimul,23.0,367,vse,nom,my,3pl,SV
+Belova_2023,С кредитными долгами рассчитается они шестеро.,1.2222222222222223,1.0,quantiifier,stimul,23.0,362,dvoje,nom,oni,3sg,VS
+Belova_2023,Трое из нас съездят в отдалённые деревни.,6.5,6.0,quantiifier,stimul,20.0,306,dvoje,elect,my,3pl,SV
+Belova_2023,Мы все рассчитаемся с кредитными долгами.,6.25,6.0,quantiifier,stimul,23.0,366,vse,nom,my,1pl,SV
+Belova_2023,Мы шестеро приедем на утренних поездах.,4.5,4.0,quantiifier,stimul,5.0,70,dvoje,nom,my,1pl,SV
+Belova_2023,В перспективные акции вложатся все из них.,4.222222222222222,4.0,quantiifier,stimul,44.0,701,vse,elect,oni,3pl,VS
+Belova_2023,На конкурсе чтецов победим мы двое.,5.285714285714286,5.0,quantiifier,stimul,37.0,582,dvoje,nom,my,1pl,VS
+Belova_2023,Пятеро из них присоединятся к поисковым отрядам.,5.0,5.0,quantiifier,stimul,28.0,436,dvoje,elect,oni,3pl,SV
+Belova_2023,В столичные вузы поступит они семеро.,1.5555555555555556,2.0,quantiifier,stimul,17.0,266,dvoje,nom,oni,3sg,VS
+Belova_2023,Все из нас отправятся в байдарочные походы.,5.545454545454546,6.0,quantiifier,stimul,27.0,428,vse,elect,my,3pl,SV
+Belova_2023,Трое из них отметится на проходной завода.,3.5,4.0,quantiifier,stimul,38.0,597,dvoje,elect,oni,3sg,SV
+Belova_2023,О скорых отставках объявим семеро из нас.,2.555555555555556,3.0,quantiifier,stimul,36.0,561,dvoje,elect,my,1pl,VS
+Belova_2023,За допущенные ошибки извинимся все из нас.,2.6666666666666665,3.0,quantiifier,stimul,45.0,715,vse,elect,my,1pl,VS
+Belova_2023,На южных курортах отдохнём семеро из нас.,1.875,2.0,quantiifier,stimul,24.0,369,dvoje,elect,my,1pl,VS
+Belova_2023,Мы семеро запишется в спортивные секции.,3.0,3.0,quantiifier,stimul,12.0,184,dvoje,nom,my,3sg,SV
+Belova_2023,Семеро из нас переоденутся в карнавальные костюмы.,6.6,7.0,quantiifier,stimul,6.0,82,dvoje,elect,my,3pl,SV
+Belova_2023,Мы с Ритой сварит на ужин гречкой на костре.,1.6329113924050631,2.0,bad,filler,,799,,,,,
+Belova_2023,Они трое покатается на двугорбых верблюдах.,2.6,3.0,quantiifier,stimul,26.0,410,dvoje,nom,oni,3sg,SV
+Belova_2023,Шестеро из них вмешаются в важные переговоры.,5.5,6.0,quantiifier,stimul,29.0,452,dvoje,elect,oni,3pl,SV
+Belova_2023,За допущенные ошибки извинится четверо из нас.,5.222222222222222,5.0,quantiifier,stimul,45.0,707,dvoje,elect,my,3sg,VS
+Belova_2023,В больших палатках переночует мы двое.,1.875,2.0,quantiifier,stimul,19.0,296,dvoje,nom,my,3sg,VS
+Belova_2023,Все из нас пойдут на курсы вождения.,5.6,6.0,quantiifier,stimul,46.0,732,vse,elect,my,3pl,SV
+Belova_2023,С поставщиками продуктов созвонимся мы все.,3.625,4.0,quantiifier,stimul,10.0,158,vse,nom,my,1pl,VS
+Belova_2023,Все из нас перезвоним по незнакомым номерам.,1.3333333333333333,1.0,quantiifier,stimul,22.0,347,vse,elect,my,1pl,SV
+Belova_2023,Все из них приберутся в старых кладовках.,3.5,4.0,quantiifier,stimul,47.0,749,vse,elect,oni,3pl,SV
+Belova_2023,Двое из нас придут на пятничную вечеринку.,5.8,6.0,quantiifier,stimul,1.0,2,dvoje,elect,my,3pl,SV
+Belova_2023,В социальных опросах поучаствуют мы семеро.,1.9,2.0,quantiifier,stimul,48.0,759,dvoje,nom,my,3pl,VS
+Belova_2023,На курсы вождения пойдут мы пятеро.,1.9,2.0,quantiifier,stimul,46.0,727,dvoje,nom,my,3pl,VS
+Belova_2023,Шестеро из нас вмешаются в важные переговоры.,3.6,4.0,quantiifier,stimul,29.0,450,dvoje,elect,my,3pl,SV
+Belova_2023,На южных курортах отдохнут семеро из них.,5.444444444444445,5.0,quantiifier,stimul,24.0,372,dvoje,elect,oni,3pl,VS
+Belova_2023,Четверо из них сядет за первые парты.,2.571428571428572,3.0,quantiifier,stimul,39.0,613,dvoje,elect,oni,3sg,SV
+Belova_2023,В карнавальные костюмы переоденутся они семеро.,3.111111111111111,3.0,quantiifier,stimul,6.0,89,dvoje,nom,oni,3pl,VS
+Belova_2023,На южных курортах отдохнут они все.,4.444444444444445,4.0,quantiifier,stimul,24.0,384,vse,oni,nom,3pl,VS
+Belova_2023,Они все перезвонят по незнакомым номерам.,6.0,6.0,quantiifier,stimul,22.0,352,vse,oni,nom,3pl,SV
+Belova_2023,Они все свяжутся со свадебными фотографами.,4.8,5.0,quantiifier,stimul,25.0,400,vse,oni,nom,3pl,SV
+Belova_2023,Мы все созвонятся с поставщиками продуктов.,1.4,1.0,quantiifier,stimul,10.0,159,vse,nom,my,3pl,SV
+Belova_2023,Со свадебными фотографами свяжемся мы двое.,3.375,3.0,quantiifier,stimul,25.0,390,dvoje,nom,my,1pl,VS
+Belova_2023,На утренних поездах приедут все из нас.,2.333333333333333,2.0,quantiifier,stimul,5.0,76,vse,elect,my,3pl,VS
+Belova_2023,В отдалённые деревни съездят мы трое.,2.5,2.0,quantiifier,stimul,20.0,311,dvoje,nom,my,3pl,VS
+Belova_2023,Они все уволятся с нынешних позиций.,4.666666666666667,5.0,quantiifier,stimul,18.0,288,vse,oni,nom,3pl,SV
+Belova_2023,С проведением экзаменов поможет они четверо.,1.625,2.0,quantiifier,stimul,3.0,42,dvoje,nom,oni,3sg,VS
+Belova_2023,Шестеро из них справится с заменой лампочек.,3.111111111111111,3.0,quantiifier,stimul,11.0,165,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы трое вложимся в перспективные акции.,5.333333333333333,5.0,quantiifier,stimul,44.0,694,dvoje,nom,my,1pl,SV
+Belova_2023,К новым поликлиникам прикрепимся мы все.,4.25,4.0,quantiifier,stimul,40.0,638,vse,nom,my,1pl,VS
+Belova_2023,Мы все сядем за первые парты.,5.5,6.0,quantiifier,stimul,39.0,622,vse,nom,my,1pl,SV
+Belova_2023,С очевидцами аварии побеседуем пятеро из нас.,2.4444444444444446,2.0,quantiifier,stimul,34.0,529,dvoje,elect,my,1pl,VS
+Belova_2023,Двое из них переночуют в больших палатках.,6.181818181818182,6.0,quantiifier,stimul,19.0,292,dvoje,elect,oni,3pl,SV
+Belova_2023,За первые парты сядут они все.,4.222222222222222,4.0,quantiifier,stimul,39.0,624,vse,oni,nom,3pl,VS
+Belova_2023,Они семеро переоденутся в карнавальные костюмы.,3.111111111111111,3.0,quantiifier,stimul,6.0,89,dvoje,nom,oni,3pl,SV
+Belova_2023,Они пятеро искупаются в крещенской проруби.,4.0,4.0,quantiifier,stimul,4.0,57,dvoje,nom,oni,3pl,SV
+Belova_2023,Мы трое покатается на двугорбых верблюдах.,3.6666666666666665,4.0,quantiifier,stimul,26.0,408,dvoje,nom,my,3sg,SV
+Belova_2023,За выполненные задачи отчитаются мы двое.,2.3,2.0,quantiifier,stimul,43.0,679,dvoje,nom,my,3pl,VS
+Belova_2023,Мы все остановимся в дешёвых хостелах.,6.25,6.0,quantiifier,stimul,7.0,110,vse,nom,my,1pl,SV
+Belova_2023,Они четверо вернётся в гостиничные номера.,1.2,1.0,quantiifier,stimul,15.0,234,dvoje,nom,oni,3sg,SV
+Belova_2023,Семеро из них уволятся с нынешних позиций.,6.25,6.0,quantiifier,stimul,18.0,276,dvoje,elect,oni,3pl,SV
+Belova_2023,Они трое опубликуется в научных журналах.,2.272727272727273,2.0,quantiifier,stimul,2.0,26,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы трое вложится в перспективные акции.,2.75,3.0,quantiifier,stimul,44.0,696,dvoje,nom,my,3sg,SV
+Belova_2023,В лесных озёрах порыбачат мы все.,2.125,2.0,quantiifier,stimul,31.0,495,vse,nom,my,3pl,VS
+Belova_2023,Мы пятеро побеседуем с очевидцами аварии.,5.666666666666667,6.0,quantiifier,stimul,34.0,534,dvoje,nom,my,1pl,SV
+Belova_2023,Они все порыбачат в лесных озёрах.,5.8,6.0,quantiifier,stimul,31.0,496,vse,oni,nom,3pl,SV
+Belova_2023,Мы четверо разберемся со сломанными телефонами.,2.888888888888889,3.0,quantiifier,stimul,9.0,134,dvoje,nom,my,1pl,SV
+Belova_2023,В лесных озёрах порыбачат они двое.,3.0,3.0,quantiifier,stimul,31.0,489,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы все побеседуют с очевидцами аварии.,1.5,2.0,quantiifier,stimul,34.0,543,vse,nom,my,3pl,SV
+Belova_2023,Четверо из нас вернётся в гостиничные номера.,2.6666666666666665,3.0,quantiifier,stimul,15.0,227,dvoje,elect,my,3sg,SV
+Belova_2023,Мы все ответим за поломанные инструменты.,6.0,6.0,quantiifier,stimul,35.0,558,vse,nom,my,1pl,SV
+Belova_2023,Все из нас приберёмся в старых кладовках.,1.7777777777777777,2.0,quantiifier,stimul,47.0,747,vse,elect,my,1pl,SV
+Belova_2023,В течение месяца женимся все из нас.,2.4444444444444446,2.0,quantiifier,stimul,16.0,251,vse,elect,my,1pl,VS
+Belova_2023,Мы все побеседуем с очевидцами аварии.,5.666666666666667,6.0,quantiifier,stimul,34.0,542,vse,nom,my,1pl,SV
+Belova_2023,На предложения конкурентов согласятся мы трое.,1.8,2.0,quantiifier,stimul,14.0,215,dvoje,nom,my,3pl,VS
+Belova_2023,Мы четверо отправится в байдарочные походы.,2.5,2.0,quantiifier,stimul,27.0,424,dvoje,nom,my,3sg,SV
+Belova_2023,На акустической гитаре сыграет мы двое.,2.125,2.0,quantiifier,stimul,13.0,200,dvoje,nom,my,3sg,VS
+Belova_2023,В важные переговоры вмешаются шестеро из нас.,5.888888888888889,6.0,quantiifier,stimul,29.0,450,dvoje,elect,my,3pl,VS
+Belova_2023,С проведением экзаменов помогут они все.,3.888888888888889,4.0,quantiifier,stimul,3.0,48,vse,oni,nom,3pl,VS
+Belova_2023,На утренних поездах приедем шестеро из нас.,2.111111111111111,2.0,quantiifier,stimul,5.0,65,dvoje,elect,my,1pl,VS
+Belova_2023,На двугорбых верблюдах покатаемся все из нас.,2.555555555555556,3.0,quantiifier,stimul,26.0,411,vse,elect,my,1pl,VS
+Belova_2023,Мы семеро отдохнут на южных курортах.,1.4,1.0,quantiifier,stimul,24.0,375,dvoje,nom,my,3pl,SV
+Belova_2023,Шесть яиц будут нужно для этого пирога.,3.1974248927038627,3.0,bad,filler,,810,,,,,
+Belova_2023,В байдарочные походы отправится мы четверо.,1.625,2.0,quantiifier,stimul,27.0,424,dvoje,nom,my,3sg,VS
+Belova_2023,На утренних поездах приедут шестеро из них.,6.111111111111111,6.0,quantiifier,stimul,5.0,68,dvoje,elect,oni,3pl,VS
+Belova_2023,С проведением экзаменов поможет четверо из них.,3.0,3.0,quantiifier,stimul,3.0,37,dvoje,elect,oni,3sg,VS
+Belova_2023,В столичные вузы поступят мы семеро.,1.8,2.0,quantiifier,stimul,17.0,263,dvoje,nom,my,3pl,VS
+Belova_2023,Семеро из нас поучаствует в социальных опросах.,4.666666666666667,5.0,quantiifier,stimul,48.0,755,dvoje,elect,my,3sg,SV
+Belova_2023,Со сломанными телефонами разберутся четверо из них.,5.111111111111111,5.0,quantiifier,stimul,9.0,132,dvoje,elect,oni,3pl,VS
+Belova_2023,Все из них съездят в отдалённые деревни.,3.6666666666666665,4.0,quantiifier,stimul,20.0,317,vse,elect,oni,3pl,SV
+Belova_2023,На утренних поездах приедут шестеро из нас.,5.333333333333333,5.0,quantiifier,stimul,5.0,66,dvoje,elect,my,3pl,VS
+Belova_2023,Они все пойдут на курсы вождения.,6.75,7.0,quantiifier,stimul,46.0,736,vse,oni,nom,3pl,SV
+Belova_2023,Мы шестеро вмешается в важные переговоры.,1.25,1.0,quantiifier,stimul,29.0,456,dvoje,nom,my,3sg,SV
+Belova_2023,Со свадебными фотографами свяжемся двое из нас.,2.2222222222222223,2.0,quantiifier,stimul,25.0,385,dvoje,elect,my,1pl,VS
+Belova_2023,Все из нас вернутся в гостиничные номера.,4.5,4.0,quantiifier,stimul,15.0,236,vse,elect,my,3pl,SV
+Belova_2023,Пятеро из нас созвонимся с поставщиками продуктов.,3.0,3.0,quantiifier,stimul,10.0,145,dvoje,elect,my,1pl,SV
+Belova_2023,Все из нас выступят на студенческих конференциях.,4.666666666666667,5.0,quantiifier,stimul,21.0,332,vse,elect,my,3pl,SV
+Belova_2023,В отдалённые деревни съездит трое из нас.,4.333333333333333,4.0,quantiifier,stimul,20.0,307,dvoje,elect,my,3sg,VS
+Belova_2023,Они трое вложатся в перспективные акции.,6.75,7.0,quantiifier,stimul,44.0,697,dvoje,nom,oni,3pl,SV
+Belova_2023,За поломанные инструменты ответят мы шестеро.,1.6,2.0,quantiifier,stimul,35.0,551,dvoje,nom,my,3pl,VS
+Belova_2023,В гостиничные номера вернутся все из них.,3.888888888888889,4.0,quantiifier,stimul,15.0,237,vse,elect,oni,3pl,VS
+Belova_2023,Пятеро из нас присоединимся к поисковым отрядам.,2.727272727272727,3.0,quantiifier,stimul,28.0,433,dvoje,elect,my,1pl,SV
+Belova_2023,Мы двое свяжется со свадебными фотографами.,1.6666666666666667,2.0,quantiifier,stimul,25.0,392,dvoje,nom,my,3sg,SV
+Belova_2023,Мы четверо сядем за первые парты.,4.636363636363637,5.0,quantiifier,stimul,39.0,614,dvoje,nom,my,1pl,SV
+Belova_2023,Они двое сыграют на акустической гитаре.,4.0,4.0,quantiifier,stimul,13.0,201,dvoje,nom,oni,3pl,SV
+Belova_2023,Они четверо выступит на студенческих конференциях.,2.2,2.0,quantiifier,stimul,21.0,330,dvoje,nom,oni,3sg,SV
+Belova_2023,Двое из нас порыбачим в лесных озёрах.,1.6666666666666667,2.0,quantiifier,stimul,31.0,481,dvoje,elect,my,1pl,SV
+Belova_2023,На пятничную вечеринку придёт они двое.,1.5555555555555556,2.0,quantiifier,stimul,1.0,10,dvoje,nom,oni,3sg,VS
+Belova_2023,Мы все победим на конкурсе чтецов.,5.833333333333333,6.0,quantiifier,stimul,37.0,590,vse,nom,my,1pl,SV
+Belova_2023,Все из нас уволятся с нынешних позиций.,6.25,6.0,quantiifier,stimul,18.0,284,vse,elect,my,3pl,SV
+Belova_2023,За выполненные задачи отчитаются мы все.,2.125,2.0,quantiifier,stimul,43.0,687,vse,nom,my,3pl,VS
+Belova_2023,Все из нас искупаемся в крещенской проруби.,1.5555555555555556,2.0,quantiifier,stimul,4.0,59,vse,elect,my,1pl,SV
+Belova_2023,В больших палатках переночуем мы двое.,4.375,4.0,quantiifier,stimul,19.0,294,dvoje,nom,my,1pl,VS
+Belova_2023,Мы все прилетят в разные аэропорты.,1.3333333333333333,1.0,quantiifier,stimul,8.0,127,vse,nom,my,3pl,SV
+Belova_2023,В важные переговоры вмешаемся шестеро из нас.,2.333333333333333,2.0,quantiifier,stimul,29.0,449,dvoje,elect,my,1pl,VS
+Belova_2023,На конкурсе чтецов победят двое из нас.,5.444444444444445,5.0,quantiifier,stimul,37.0,578,dvoje,elect,my,3pl,VS
+Belova_2023,Мы четверо помогут с проведением экзаменов.,3.5,4.0,quantiifier,stimul,3.0,39,dvoje,nom,my,3pl,SV
+Belova_2023,Четверо из нас выступит на студенческих конференциях.,2.333333333333333,2.0,quantiifier,stimul,21.0,323,dvoje,elect,my,3sg,SV
+Belova_2023,Все из них извинятся за допущенные ошибки.,5.7,6.0,quantiifier,stimul,45.0,717,vse,elect,oni,3pl,SV
+Belova_2023,На курсы вождения пойдёт мы пятеро.,2.375,2.0,quantiifier,stimul,46.0,728,dvoje,nom,my,3sg,VS
+Belova_2023,За новые проекты возьмутся семеро из нас.,6.222222222222222,6.0,quantiifier,stimul,42.0,658,dvoje,elect,my,3pl,VS
+Belova_2023,Мы с Егором внесёт аванс за квартирами.,1.8680851063829784,2.0,bad,filler,,802,,,,,
+Belova_2023,Они все опубликуются в научных журналах.,4.6,5.0,quantiifier,stimul,2.0,32,vse,oni,nom,3pl,SV
+Belova_2023,По незнакомым номерам перезвоним мы пятеро.,3.625,4.0,quantiifier,stimul,22.0,342,dvoje,nom,my,1pl,VS
+Belova_2023,В старых кладовках приберёмся все из нас.,2.555555555555556,3.0,quantiifier,stimul,47.0,747,vse,elect,my,1pl,VS
+Belova_2023,Они пятеро прикрепятся к новым поликлиникам.,3.1666666666666665,3.0,quantiifier,stimul,40.0,633,dvoje,nom,oni,3pl,SV
+Belova_2023,Мы семеро поучаствуют в социальных опросах.,2.1818181818181817,2.0,quantiifier,stimul,48.0,759,dvoje,nom,my,3pl,SV
+Belova_2023,Двое из них победят на конкурсе чтецов.,5.8,6.0,quantiifier,stimul,37.0,580,dvoje,elect,oni,3pl,SV
+Belova_2023,В отдалённые деревни съездят они все.,3.6666666666666665,4.0,quantiifier,stimul,20.0,320,vse,oni,nom,3pl,VS
+Belova_2023,На пятничную вечеринку придут мы двое.,2.0,2.0,quantiifier,stimul,1.0,7,dvoje,nom,my,3pl,VS
+Belova_2023,Мы шестеро приедут на утренних поездах.,1.9090909090909087,2.0,quantiifier,stimul,5.0,71,dvoje,nom,my,3pl,SV
+Belova_2023,Мы все извинимся за допущенные ошибки.,5.75,6.0,quantiifier,stimul,45.0,718,vse,nom,my,1pl,SV
+Belova_2023,Мы все присоединимся к поисковым отрядам.,6.6,7.0,quantiifier,stimul,28.0,446,vse,nom,my,1pl,SV
+Belova_2023,За поломанные инструменты ответит шестеро из нас.,5.555555555555555,6.0,quantiifier,stimul,35.0,547,dvoje,elect,my,3sg,VS
+Belova_2023,Четверо из нас выступим на студенческих конференциях.,3.0,3.0,quantiifier,stimul,21.0,321,dvoje,elect,my,1pl,SV
+Belova_2023,В больших палатках переночуем двое из нас.,2.4444444444444446,2.0,quantiifier,stimul,19.0,289,dvoje,elect,my,1pl,VS
+Belova_2023,В научных журналах опубликется мы трое.,1.875,2.0,quantiifier,stimul,2.0,24,dvoje,nom,my,3sg,VS
+Belova_2023,Шестеро из нас приберутся в старых кладовках.,5.833333333333333,6.0,quantiifier,stimul,47.0,738,dvoje,elect,my,3pl,SV
+Belova_2023,На предложения конкурентов согласимся трое из нас.,2.6666666666666665,3.0,quantiifier,stimul,14.0,209,dvoje,elect,my,1pl,VS
+Belova_2023,На студенческих конференциях выступят все из нас.,4.222222222222222,4.0,quantiifier,stimul,21.0,332,vse,elect,my,3pl,VS
+Belova_2023,Шестеро из нас подметёт в учебных кабинетах.,2.571428571428572,3.0,quantiifier,stimul,41.0,643,dvoje,elect,my,3sg,SV
+Belova_2023,В соседние страны переедем все из нас.,2.555555555555556,3.0,quantiifier,stimul,32.0,507,vse,elect,my,1pl,VS
+Belova_2023,Они семеро отдохнёт на южных курортах.,1.3333333333333333,1.0,quantiifier,stimul,24.0,378,dvoje,nom,oni,3sg,SV
+Belova_2023,На утренних поездах приедет мы шестеро.,2.125,2.0,quantiifier,stimul,5.0,72,dvoje,nom,my,3sg,VS
+Belova_2023,Шестеро из нас вмешается в важные переговоры.,2.333333333333333,2.0,quantiifier,stimul,29.0,451,dvoje,elect,my,3sg,SV
+Belova_2023,С нынешних позиций уволятся мы семеро.,2.2,2.0,quantiifier,stimul,18.0,279,dvoje,nom,my,3pl,VS
+Belova_2023,К поисковым отрядам присоединятся мы пятеро.,2.5,2.0,quantiifier,stimul,28.0,439,dvoje,nom,my,3pl,VS
+Belova_2023,В разные аэропорты прилетит трое из нас.,3.111111111111111,3.0,quantiifier,stimul,8.0,115,dvoje,elect,my,3sg,VS
+Belova_2023,Восемь клёнов будут посадят на этом аллее.,2.175213675213675,2.0,bad,filler,,811,,,,,
+Belova_2023,Двое из них сыграют на акустической гитаре.,6.333333333333333,6.0,quantiifier,stimul,13.0,196,dvoje,elect,oni,3pl,SV
+Belova_2023,С проведением экзаменов помогут они четверо.,3.0,3.0,quantiifier,stimul,3.0,41,dvoje,nom,oni,3pl,VS
+Belova_2023,С очевидцами аварии побеседуем все из нас.,2.4444444444444446,2.0,quantiifier,stimul,34.0,539,vse,elect,my,1pl,VS
+Belova_2023,С кредитными долгами рассчитаются они все.,4.125,4.0,quantiifier,stimul,23.0,368,vse,oni,nom,3pl,VS
+Belova_2023,За допущенные ошибки извинимся мы четверо.,4.875,5.0,quantiifier,stimul,45.0,710,dvoje,nom,my,1pl,VS
+Belova_2023,Они все переедут в соседние страны.,5.75,6.0,quantiifier,stimul,32.0,512,vse,oni,nom,3pl,SV
+Belova_2023,Двое из нас свяжемся со свадебными фотографами.,2.0,2.0,quantiifier,stimul,25.0,385,dvoje,elect,my,1pl,SV
+Belova_2023,В отдалённые деревни съездят трое из них.,6.0,6.0,quantiifier,stimul,20.0,308,dvoje,elect,oni,3pl,VS
+Belova_2023,Пятеро из них побеседуют с очевидцами аварии.,6.5,6.0,quantiifier,stimul,34.0,532,dvoje,elect,oni,3pl,SV
+Belova_2023,Они шестеро справятся с заменой лампочек.,3.2,3.0,quantiifier,stimul,11.0,169,dvoje,nom,oni,3pl,SV
+Belova_2023,В больших палатках переночуем все из нас.,2.555555555555556,3.0,quantiifier,stimul,19.0,299,vse,elect,my,1pl,VS
+Belova_2023,Они все переоденутся в карнавальные костюмы.,6.636363636363637,7.0,quantiifier,stimul,6.0,96,vse,oni,nom,3pl,SV
+Belova_2023,Шестеро из нас приедем на утренних поездах.,2.636363636363636,3.0,quantiifier,stimul,5.0,65,dvoje,elect,my,1pl,SV
+Belova_2023,За новые проекты возьмётся семеро из них.,3.7777777777777777,4.0,quantiifier,stimul,42.0,661,dvoje,elect,oni,3sg,VS
+Belova_2023,Мы все подметём в учебных кабинетах.,5.727272727272728,6.0,quantiifier,stimul,41.0,654,vse,nom,my,1pl,SV
+Belova_2023,С кредитными долгами рассчитаемся мы все.,4.125,4.0,quantiifier,stimul,23.0,366,vse,nom,my,1pl,VS
+Belova_2023,На южных курортах отдохнёт семеро из них.,4.333333333333333,4.0,quantiifier,stimul,24.0,373,dvoje,elect,oni,3sg,VS
+Belova_2023,С очевидцами аварии побеседуем мы все.,4.125,4.0,quantiifier,stimul,34.0,542,vse,nom,my,1pl,VS
+Belova_2023,На пятничную вечеринку придут двое из них.,6.0,6.0,quantiifier,stimul,1.0,4,dvoje,elect,oni,3pl,VS
+Belova_2023,Четверо из нас познакомятся с артистами спектакля.,5.833333333333333,6.0,quantiifier,stimul,33.0,514,dvoje,elect,my,3pl,SV
+Belova_2023,В течение месяца женятся пятеро из них.,5.444444444444445,5.0,quantiifier,stimul,16.0,244,dvoje,elect,oni,3pl,VS
+Belova_2023,Мы трое переедем в соседние страны.,5.75,6.0,quantiifier,stimul,32.0,502,dvoje,nom,my,1pl,SV
+Belova_2023,В спортивные секции запишемся семеро из нас.,2.6666666666666665,3.0,quantiifier,stimul,12.0,177,dvoje,elect,my,1pl,VS
+Belova_2023,В больших палатках переночуют двое из нас.,5.333333333333333,5.0,quantiifier,stimul,19.0,290,dvoje,elect,my,3pl,VS
+Belova_2023,Все из них разберутся со сломанными телефонами.,4.9,5.0,quantiifier,stimul,9.0,141,vse,elect,oni,3pl,SV
+Belova_2023,Четверо из них разберётся со сломанными телефонами.,3.0,3.0,quantiifier,stimul,9.0,133,dvoje,elect,oni,3sg,SV
+Belova_2023,В спортивные секции запишется семеро из них.,3.5,4.0,quantiifier,stimul,12.0,181,dvoje,elect,oni,3sg,VS
+Belova_2023,В важные переговоры вмешается они шестеро.,1.6666666666666667,2.0,quantiifier,stimul,29.0,458,dvoje,nom,oni,3sg,VS
+Belova_2023,Мы пятеро присоединимся к поисковым отрядам.,4.333333333333333,4.0,quantiifier,stimul,28.0,438,dvoje,nom,my,1pl,SV
+Belova_2023,О скорых отставках объявят все из них.,3.7777777777777777,4.0,quantiifier,stimul,36.0,573,vse,elect,oni,3pl,VS
+Belova_2023,Двое из нас победят на конкурсе чтецов.,6.0,6.0,quantiifier,stimul,37.0,578,dvoje,elect,my,3pl,SV
+Belova_2023,С поставщиками продуктов созвонятся все из нас.,3.0,3.0,quantiifier,stimul,10.0,156,vse,elect,my,3pl,VS
+Belova_2023,Шестеро из нас поступят в столичные вузы.,5.333333333333333,5.0,quantiifier,stimul,17.0,258,dvoje,elect,my,3pl,SV
+Belova_2023,Мы все разберемся со сломанными телефонами.,5.666666666666667,6.0,quantiifier,stimul,9.0,142,vse,nom,my,1pl,SV
+Belova_2023,Только три черепашонка из кладки доберутся до моря.,5.987124463519313,6.0,good,filler,,792,,,,,
+Belova_2023,Мы все отметимся на проходной завода.,5.4,5.0,quantiifier,stimul,38.0,606,vse,nom,my,1pl,SV
+Belova_2023,С проведением экзаменов поможем все из нас.,2.555555555555556,3.0,quantiifier,stimul,3.0,43,vse,elect,my,1pl,VS
+Belova_2023,Пятеро из нас перезвоним по незнакомым номерам.,2.909090909090909,3.0,quantiifier,stimul,22.0,337,dvoje,elect,my,1pl,SV
+Belova_2023,Они трое прилетит в разные аэропорты.,1.8,2.0,quantiifier,stimul,8.0,122,dvoje,nom,oni,3sg,SV
+Belova_2023,С нынешних позиций уволятся мы все.,2.2857142857142856,2.0,quantiifier,stimul,18.0,287,vse,nom,my,3pl,VS
+Belova_2023,Со сломанными телефонами разберутся все из них.,3.6666666666666665,4.0,quantiifier,stimul,9.0,141,vse,elect,oni,3pl,VS
+Belova_2023,Мы трое покатаемся на двугорбых верблюдах.,3.2222222222222223,3.0,quantiifier,stimul,26.0,406,dvoje,nom,my,1pl,SV
+Belova_2023,В перспективные акции вложатся мы все.,2.571428571428572,3.0,quantiifier,stimul,44.0,703,vse,nom,my,3pl,VS
+Belova_2023,На пятничную вечеринку придут все из нас.,3.111111111111111,3.0,quantiifier,stimul,1.0,12,vse,elect,my,3pl,VS
+Belova_2023,Они шестеро поступит в столичные вузы.,4.0,4.0,quantiifier,stimul,17.0,266,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы четверо отправимся в байдарочные походы.,4.5,4.0,quantiifier,stimul,27.0,422,dvoje,nom,my,1pl,SV
+Belova_2023,С поставщиками продуктов созвонимся все из нас.,2.333333333333333,2.0,quantiifier,stimul,10.0,155,vse,elect,my,1pl,VS
+Belova_2023,На двугорбых верблюдах покатаемся мы все.,4.5,4.0,quantiifier,stimul,26.0,414,vse,nom,my,1pl,VS
+Belova_2023,На курсы вождения пойдут они пятеро.,3.2222222222222223,3.0,quantiifier,stimul,46.0,729,dvoje,nom,oni,3pl,VS
+Belova_2023,В отдалённые деревни съездят мы все.,2.7142857142857144,3.0,quantiifier,stimul,20.0,319,vse,nom,my,3pl,VS
+Belova_2023,Только двое из вашей группы будут допущены к экзамену.,6.419491525423729,6.0,good,filler,,781,,,,,
+Belova_2023,За выполненные задачи отчитаются двое из нас.,5.555555555555555,6.0,quantiifier,stimul,43.0,674,dvoje,elect,my,3pl,VS
+Belova_2023,Они семеро запишутся в спортивные секции.,2.75,3.0,quantiifier,stimul,12.0,185,dvoje,nom,oni,3pl,SV
+Belova_2023,Пятеро из них созвонится с поставщиками продуктов.,3.0,3.0,quantiifier,stimul,10.0,149,dvoje,elect,oni,3sg,SV
+Belova_2023,С очевидцами аварии побеседуют мы пятеро.,1.8,2.0,quantiifier,stimul,34.0,535,dvoje,nom,my,3pl,VS
+Belova_2023,В крещенской проруби искупается пятеро из них.,4.666666666666667,5.0,quantiifier,stimul,4.0,53,dvoje,elect,oni,3sg,VS
+Belova_2023,К новым поликлиникам прикрепится пятеро из них.,3.888888888888889,4.0,quantiifier,stimul,40.0,629,dvoje,elect,oni,3sg,VS
+Belova_2023,Семеро из них запишутся в спортивные секции.,5.444444444444445,5.0,quantiifier,stimul,12.0,180,dvoje,elect,oni,3pl,SV
+Belova_2023,Они семеро позаботятся о нужных продуктах.,3.909090909090909,4.0,quantiifier,stimul,30.0,473,dvoje,nom,oni,3pl,SV
+Belova_2023,В гостиничные номера вернутся они все.,4.666666666666667,5.0,quantiifier,stimul,15.0,240,vse,oni,nom,3pl,VS
+Belova_2023,В отдалённые деревни съездят все из нас.,3.6666666666666665,4.0,quantiifier,stimul,20.0,316,vse,elect,my,3pl,VS
+Belova_2023,Все из них возьмутся за новые проекты.,5.727272727272728,6.0,quantiifier,stimul,42.0,669,vse,elect,oni,3pl,SV
+Belova_2023,Четверо из них помогут с проведением экзаменов.,5.5,6.0,quantiifier,stimul,3.0,36,dvoje,elect,oni,3pl,SV
+Belova_2023,В социальных опросах поучаствуем мы все.,5.0,5.0,quantiifier,stimul,48.0,766,vse,nom,my,1pl,VS
+Belova_2023,Трое из них съездят в отдалённые деревни.,5.666666666666667,6.0,quantiifier,stimul,20.0,308,dvoje,elect,oni,3pl,SV
+Belova_2023,Они пятеро побеседует с очевидцами аварии.,2.625,3.0,quantiifier,stimul,34.0,538,dvoje,nom,oni,3sg,SV
+Belova_2023,Семеро из нас позаботится о нужных продуктах.,2.5,2.0,quantiifier,stimul,30.0,467,dvoje,elect,my,3sg,SV
+Belova_2023,В байдарочные походы отправятся все из нас.,3.6666666666666665,4.0,quantiifier,stimul,27.0,428,vse,elect,my,3pl,VS
+Belova_2023,На южных курортах отдохнём мы семеро.,4.5,4.0,quantiifier,stimul,24.0,374,dvoje,nom,my,1pl,VS
+Belova_2023,Со свадебными фотографами свяжется двое из них.,3.6666666666666665,4.0,quantiifier,stimul,25.0,389,dvoje,elect,oni,3sg,VS
+Belova_2023,Они все искупаются в крещенской проруби.,6.75,7.0,quantiifier,stimul,4.0,64,vse,oni,nom,3pl,SV
+Belova_2023,Вы с Любой выкупим цепочку из ломбарде.,2.1059322033898304,2.0,bad,filler,,798,,,,,
+Belova_2023,В столичные вузы поступим мы все.,4.125,4.0,quantiifier,stimul,17.0,270,vse,nom,my,1pl,VS
+Belova_2023,На конкурсе чтецов победит двое из нас.,5.333333333333333,5.0,quantiifier,stimul,37.0,579,dvoje,elect,my,3sg,VS
+Belova_2023,Семеро из нас объявим о скорых отставках.,1.5,2.0,quantiifier,stimul,36.0,561,dvoje,elect,my,1pl,SV
+Belova_2023,На двугорбых верблюдах покатается мы трое.,2.125,2.0,quantiifier,stimul,26.0,408,dvoje,nom,my,3sg,VS
+Belova_2023,Шестеро из них подметут в учебных кабинетах.,5.2727272727272725,5.0,quantiifier,stimul,41.0,644,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы все запишемся в спортивные секции.,6.2,6.0,quantiifier,stimul,12.0,190,vse,nom,my,1pl,SV
+Belova_2023,Все из нас переоденутся в карнавальные костюмы.,4.666666666666667,5.0,quantiifier,stimul,6.0,92,vse,elect,my,3pl,SV
+Belova_2023,С проведением экзаменов помогут все из нас.,3.333333333333333,3.0,quantiifier,stimul,3.0,44,vse,elect,my,3pl,VS
+Belova_2023,В столичные вузы поступят мы все.,2.375,2.0,quantiifier,stimul,17.0,271,vse,nom,my,3pl,VS
+Belova_2023,С очевидцами аварии побеседуем мы пятеро.,4.0,4.0,quantiifier,stimul,34.0,534,dvoje,nom,my,1pl,VS
+Belova_2023,В отдалённые деревни съездит трое из них.,3.2222222222222223,3.0,quantiifier,stimul,20.0,309,dvoje,elect,oni,3sg,VS
+Belova_2023,Двое из нас порыбочат в лесных озёрах.,3.0,3.0,quantiifier,stimul,31.0,482,dvoje,elect,my,3pl,SV
+Belova_2023,Мы все отметятся на проходной завода.,1.75,2.0,quantiifier,stimul,38.0,607,vse,nom,my,3pl,SV
+Belova_2023,Шестеро из них вмешается в важные переговоры.,2.6666666666666665,3.0,quantiifier,stimul,29.0,453,dvoje,elect,oni,3sg,SV
+Belova_2023,Трое из них переедут в соседние страны.,6.4,6.0,quantiifier,stimul,32.0,500,dvoje,elect,oni,3pl,SV
+Belova_2023,За первые парты сядем четверо из нас.,2.111111111111111,2.0,quantiifier,stimul,39.0,609,dvoje,elect,my,1pl,VS
+Belova_2023,На предложения конкурентов согласится мы трое.,1.625,2.0,quantiifier,stimul,14.0,216,dvoje,nom,my,3sg,VS
+Belova_2023,Двое из них победит на конкурсе чтецов.,2.9,3.0,quantiifier,stimul,37.0,581,dvoje,elect,oni,3sg,SV
+Belova_2023,Со сломанными телефонами разберемся мы четверо.,4.5,4.0,quantiifier,stimul,9.0,134,dvoje,nom,my,1pl,VS
+Belova_2023,Они четверо отправятся в байдарочные походы.,5.2,5.0,quantiifier,stimul,27.0,425,dvoje,nom,oni,3pl,SV
+Belova_2023,В отдалённые деревни съездим трое из нас.,2.6666666666666665,3.0,quantiifier,stimul,20.0,305,dvoje,elect,my,1pl,VS
+Belova_2023,Все из них вмешаются в важные переговоры.,3.333333333333333,3.0,quantiifier,stimul,29.0,461,vse,elect,oni,3pl,SV
+Belova_2023,На проходной завода отметятся трое из нас.,5.111111111111111,5.0,quantiifier,stimul,38.0,594,dvoje,elect,my,3pl,VS
+Belova_2023,Трое из них вложится в перспективные акции.,3.1666666666666665,3.0,quantiifier,stimul,44.0,693,dvoje,elect,oni,3sg,SV
+Belova_2023,Мы все позаботимся о нужных продуктах.,5.875,6.0,quantiifier,stimul,30.0,478,vse,nom,my,1pl,SV
+Belova_2023,Двое из нас отчитается за выполненные задачи.,5.0,5.0,quantiifier,stimul,43.0,675,dvoje,elect,my,3sg,SV
+Belova_2023,В разные аэропорты прилетят они все.,3.7777777777777777,4.0,quantiifier,stimul,8.0,128,vse,oni,nom,3pl,VS
+Belova_2023,Они семеро уволятся с нынешних позиций.,3.25,3.0,quantiifier,stimul,18.0,281,dvoje,nom,oni,3pl,SV
+Belova_2023,Пятеро из нас пойдут на курсы вождения.,6.111111111111111,6.0,quantiifier,stimul,46.0,722,dvoje,elect,my,3pl,SV
+Belova_2023,К поисковым отрядам присоединятся они пятеро.,3.5,4.0,quantiifier,stimul,28.0,441,dvoje,nom,oni,3pl,VS
+Belova_2023,В отдалённые деревни съездим все из нас.,2.4444444444444446,2.0,quantiifier,stimul,20.0,315,vse,elect,my,1pl,VS
+Belova_2023,Мы пятеро присоединятся к поисковым отрядам.,3.1666666666666665,3.0,quantiifier,stimul,28.0,439,dvoje,nom,my,3pl,SV
+Belova_2023,На студенческих конференциях выступят все из них.,4.111111111111111,4.0,quantiifier,stimul,21.0,333,vse,elect,oni,3pl,VS
+Belova_2023,В соседние страны переедет трое из них.,3.333333333333333,3.0,quantiifier,stimul,32.0,501,dvoje,elect,oni,3sg,VS
+Belova_2023,На двугорбых верблюдах покатается трое из них.,3.555555555555556,4.0,quantiifier,stimul,26.0,405,dvoje,elect,oni,3sg,VS
+Belova_2023,В течение месяца женятся мы пятеро.,1.8,2.0,quantiifier,stimul,16.0,247,dvoje,nom,my,3pl,VS
+Belova_2023,В учебных кабинетах подметём мы все.,3.75,4.0,quantiifier,stimul,41.0,654,vse,nom,my,1pl,VS
+Belova_2023,Со сломанными телефонами разберутся мы все.,2.571428571428572,3.0,quantiifier,stimul,9.0,143,vse,nom,my,3pl,VS
+Belova_2023,Все из них вернутся в гостиничные номера.,5.0,5.0,quantiifier,stimul,15.0,237,vse,elect,oni,3pl,SV
+Belova_2023,В лесных озёрах порыбачим мы все.,4.375,4.0,quantiifier,stimul,31.0,494,vse,nom,my,1pl,VS
+Belova_2023,По незнакомым номерам перезвонят мы пятеро.,1.8,2.0,quantiifier,stimul,22.0,343,dvoje,nom,my,3pl,VS
+Belova_2023,В соседние страны переедут они все.,4.444444444444445,4.0,quantiifier,stimul,32.0,512,vse,oni,nom,3pl,VS
+Belova_2023,Мы четверо сядут за первые парты.,3.0,3.0,quantiifier,stimul,39.0,615,dvoje,nom,my,3pl,SV
+Belova_2023,В старых кладовках приберёмся мы все.,3.5,4.0,quantiifier,stimul,47.0,750,vse,nom,my,1pl,VS
+Belova_2023,Четверо из мальчик смастерят кормушкой для птиц.,1.7605042016806722,2.0,bad,filler,,814,,,,,
+Belova_2023,Трое из них отметятся на проходной завода.,5.7,6.0,quantiifier,stimul,38.0,596,dvoje,elect,oni,3pl,SV
+Belova_2023,Они трое отметятся на проходной завода.,3.4,3.0,quantiifier,stimul,38.0,601,dvoje,nom,oni,3pl,SV
+Belova_2023,Все из нас свяжемся со свадебными фотографами.,1.6,2.0,quantiifier,stimul,25.0,395,vse,elect,my,1pl,SV
+Belova_2023,Семеро из нас поучаствуют в социальных опросах.,5.0,5.0,quantiifier,stimul,48.0,754,dvoje,elect,my,3pl,SV
+Belova_2023,Мы шестеро рассчитаемся с кредитными долгами.,3.5454545454545454,4.0,quantiifier,stimul,23.0,358,dvoje,nom,my,1pl,SV
+Belova_2023,В социальных опросах поучаствуют они семеро.,3.333333333333333,3.0,quantiifier,stimul,48.0,761,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы все отправимся в байдарочные походы.,6.0,6.0,quantiifier,stimul,27.0,430,vse,nom,my,1pl,SV
+Belova_2023,В байдарочные походы отправимся мы все.,5.285714285714286,5.0,quantiifier,stimul,27.0,430,vse,nom,my,1pl,VS
+Belova_2023,В лесных озёрах порыбачат все из нас.,3.6666666666666665,4.0,quantiifier,stimul,31.0,492,vse,elect,my,3pl,VS
+Belova_2023,Мы все справятся с заменой лампочек.,1.4,1.0,quantiifier,stimul,11.0,175,vse,nom,my,3pl,SV
+Belova_2023,Четверо из нас извинятся за допущенные ошибки.,6.4,6.0,quantiifier,stimul,45.0,706,dvoje,elect,my,3pl,SV
+Belova_2023,На проходной завода отметятся мы трое.,1.9,2.0,quantiifier,stimul,38.0,599,dvoje,nom,my,3pl,VS
+Belova_2023,Семеро из них возьмутся за новые проекты.,6.5,6.0,quantiifier,stimul,42.0,660,dvoje,elect,oni,3pl,SV
+Belova_2023,С кредитными долгами рассчитается мы шестеро.,2.0,2.0,quantiifier,stimul,23.0,360,dvoje,nom,my,3sg,VS
+Belova_2023,Со свадебными фотографами свяжутся они двое.,3.125,3.0,quantiifier,stimul,25.0,393,dvoje,nom,oni,3pl,VS
+Belova_2023,Все из них созвонятся с поставщиками продуктов.,5.545454545454546,6.0,quantiifier,stimul,10.0,157,vse,elect,oni,3pl,SV
+Belova_2023,Они семеро объявит о скорых отставках.,3.5,4.0,quantiifier,stimul,36.0,570,dvoje,nom,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомимся мы все.,4.375,4.0,quantiifier,stimul,33.0,526,vse,nom,my,1pl,VS
+Belova_2023,Мы все пойдут на курсы вождения.,2.272727272727273,2.0,quantiifier,stimul,46.0,735,vse,nom,my,3pl,SV
+Belova_2023,Только двое девочка будут сдавать биологией.,1.6932773109243695,2.0,bad,filler,,812,,,,,
+Belova_2023,С артистами спектакля познакомимся мы четверо.,4.75,5.0,quantiifier,stimul,33.0,518,dvoje,nom,my,1pl,VS
+Belova_2023,Семеро из них отдохнут на южных курортах.,6.5,6.0,quantiifier,stimul,24.0,372,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из нас запишутся в спортивные секции.,5.333333333333333,5.0,quantiifier,stimul,12.0,188,vse,elect,my,3pl,SV
+Belova_2023,Мы все перезвонят по незнакомым номерам.,2.25,2.0,quantiifier,stimul,22.0,351,vse,nom,my,3pl,SV
+Belova_2023,Мы двое остановятся в дешёвых хостелах.,2.8,3.0,quantiifier,stimul,7.0,103,dvoje,nom,my,3pl,SV
+Belova_2023,Семеро из нас позаботимся о нужных продуктах.,3.25,3.0,quantiifier,stimul,30.0,465,dvoje,elect,my,1pl,SV
+Belova_2023,С заменой лампочек справятся мы шестеро.,1.7,2.0,quantiifier,stimul,11.0,167,dvoje,nom,my,3pl,VS
+Belova_2023,На студенческих конференциях выступим все из нас.,2.7777777777777777,3.0,quantiifier,stimul,21.0,331,vse,elect,my,1pl,VS
+Belova_2023,Мы все искупаемся в крещенской проруби.,5.0,5.0,quantiifier,stimul,4.0,62,vse,nom,my,1pl,SV
+Belova_2023,Мы все опубликуются в научных журналах.,1.6666666666666667,2.0,quantiifier,stimul,2.0,31,vse,nom,my,3pl,SV
+Belova_2023,С нынешних позиций уволимся семеро из нас.,2.0,2.0,quantiifier,stimul,18.0,273,dvoje,elect,my,1pl,VS
+Belova_2023,Пятеро из них присоединится к поисковым отрядам.,2.5,2.0,quantiifier,stimul,28.0,437,dvoje,elect,oni,3sg,SV
+Belova_2023,Четыре ребёнка сходят в цирк и зоопарку.,2.029535864978903,2.0,bad,filler,,807,,,,,
+Belova_2023,Пятерых погорельцев переселят в новый дом.,6.148305084745763,6.0,good,filler,,785,,,,,
+Belova_2023,Семеро из нас запишется в спортивные секции.,4.8,5.0,quantiifier,stimul,12.0,179,dvoje,elect,my,3sg,SV
+Belova_2023,С проведением экзаменов помогут мы четверо.,2.111111111111111,2.0,quantiifier,stimul,3.0,39,dvoje,nom,my,3pl,VS
+Belova_2023,Четверо из нас разберутся со сломанными телефонами.,5.428571428571429,5.0,quantiifier,stimul,9.0,130,dvoje,elect,my,3pl,SV
+Belova_2023,Трое из нас опубликуемся в научных журналах.,3.0,3.0,quantiifier,stimul,2.0,17,dvoje,elect,my,1pl,SV
+Belova_2023,Мы трое отметится на проходной завода.,4.0,4.0,quantiifier,stimul,38.0,600,dvoje,nom,my,3sg,SV
+Belova_2023,Мы все переедем в соседние страны.,6.75,7.0,quantiifier,stimul,32.0,510,vse,nom,my,1pl,SV
+Belova_2023,На южных курортах отдохнём все из нас.,2.555555555555556,3.0,quantiifier,stimul,24.0,379,vse,elect,my,1pl,VS
+Belova_2023,За первые парты сядут все из них.,3.6666666666666665,4.0,quantiifier,stimul,39.0,621,vse,elect,oni,3pl,VS
+Belova_2023,Мы все прикрепимся к новым поликлиникам.,6.0,6.0,quantiifier,stimul,40.0,638,vse,nom,my,1pl,SV
+Belova_2023,За поломанные инструменты ответят шестеро из нас.,5.666666666666667,6.0,quantiifier,stimul,35.0,546,dvoje,elect,my,3pl,VS
+Belova_2023,Они двое порыбачит в лесных озёрах.,1.2,1.0,quantiifier,stimul,31.0,490,dvoje,nom,oni,3sg,SV
+Belova_2023,С артистами спектакля познакомятся мы четверо.,2.4,2.0,quantiifier,stimul,33.0,519,dvoje,nom,my,3pl,VS
+Belova_2023,Они шестеро ответят за поломанные инструменты.,3.5,4.0,quantiifier,stimul,35.0,553,dvoje,nom,oni,3pl,SV
+Belova_2023,За допущенные ошибки извинятся все из них.,3.888888888888889,4.0,quantiifier,stimul,45.0,717,vse,elect,oni,3pl,VS
+Belova_2023,Они все извинятся за допущенные ошибки.,5.727272727272728,6.0,quantiifier,stimul,45.0,720,vse,oni,nom,3pl,SV
+Belova_2023,За новые проекты возьмёмся мы все.,5.375,5.0,quantiifier,stimul,42.0,670,vse,nom,my,1pl,VS
+Belova_2023,Они шестеро справится с заменой лампочек.,2.75,3.0,quantiifier,stimul,11.0,170,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы пятеро прикрепятся к новым поликлиникам.,1.4,1.0,quantiifier,stimul,40.0,631,dvoje,nom,my,3pl,SV
+Belova_2023,Трое из нас отметимся на проходной завода.,3.0,3.0,quantiifier,stimul,38.0,593,dvoje,elect,my,1pl,SV
+Belova_2023,Двое из них отчитается за выполненные задачи.,3.2222222222222223,3.0,quantiifier,stimul,43.0,677,dvoje,elect,oni,3sg,SV
+Belova_2023,В карнавальные костюмы переоденутся семеро из них.,5.444444444444445,5.0,quantiifier,stimul,6.0,84,dvoje,elect,oni,3pl,VS
+Belova_2023,О нужных продуктах позаботимся все из нас.,2.333333333333333,2.0,quantiifier,stimul,30.0,475,vse,elect,my,1pl,VS
+Belova_2023,За поломанные инструменты ответим все из нас.,2.6666666666666665,3.0,quantiifier,stimul,35.0,555,vse,elect,my,1pl,VS
+Belova_2023,С артистами спектакля познакомятся все из них.,4.25,4.0,quantiifier,stimul,33.0,525,vse,elect,oni,3pl,VS
+Belova_2023,Мы пятеро побеседуют с очевидцами аварии.,1.6,2.0,quantiifier,stimul,34.0,535,dvoje,nom,my,3pl,SV
+Belova_2023,На акустической гитаре сыграем мы двое.,4.25,4.0,quantiifier,stimul,13.0,198,dvoje,nom,my,1pl,VS
+Belova_2023,На двугорбых верблюдах покатаются трое из них.,6.111111111111111,6.0,quantiifier,stimul,26.0,404,dvoje,elect,oni,3pl,VS
+Belova_2023,О скорых отставках объявим мы семеро.,4.625,5.0,quantiifier,stimul,36.0,566,dvoje,nom,my,1pl,VS
+Belova_2023,В социальных опросах поучаствуем все из нас.,2.555555555555556,3.0,quantiifier,stimul,48.0,763,vse,elect,my,1pl,VS
+Belova_2023,Все из нас съездим в отдалённые деревни.,1.2,1.0,quantiifier,stimul,20.0,315,vse,elect,my,1pl,SV
+Belova_2023,Мы трое отметимся на проходной завода.,5.375,5.0,quantiifier,stimul,38.0,598,dvoje,nom,my,1pl,SV
+Belova_2023,На акустической гитаре сыграют двое из нас.,5.444444444444445,5.0,quantiifier,stimul,13.0,194,dvoje,elect,my,3pl,VS
+Belova_2023,Все из нас сядут за первые парты.,3.6666666666666665,4.0,quantiifier,stimul,39.0,620,vse,elect,my,3pl,SV
+Belova_2023,Мы семеро возьмётся за новые проекты.,2.333333333333333,2.0,quantiifier,stimul,42.0,664,dvoje,nom,my,3sg,SV
+Belova_2023,Только мы с Васей вскопают грядка под редис.,1.8312236286919832,2.0,bad,filler,,801,,,,,
+Belova_2023,Пятеро из них перезвонят по незнакомым номерам.,5.8,6.0,quantiifier,stimul,22.0,340,dvoje,elect,oni,3pl,SV
+Belova_2023,О нужных продуктах позаботятся все из нас.,3.333333333333333,3.0,quantiifier,stimul,30.0,476,vse,elect,my,3pl,VS
+Belova_2023,Мы все отправятся в байдарочные походы.,1.4,1.0,quantiifier,stimul,27.0,431,vse,nom,my,3pl,SV
+Belova_2023,Мы все вернёмся в гостиничные номера.,6.0,6.0,quantiifier,stimul,15.0,238,vse,nom,my,1pl,SV
+Belova_2023,На пятничную вечеринку придут мы все.,2.625,3.0,quantiifier,stimul,1.0,15,vse,nom,my,3pl,VS
+Belova_2023,Мы двое свяжемся со свадебными фотографами.,4.0,4.0,quantiifier,stimul,25.0,390,dvoje,nom,my,1pl,SV
+Belova_2023,Мы все прилетим в разные аэропорты.,6.0,6.0,quantiifier,stimul,8.0,126,vse,nom,my,1pl,SV
+Belova_2023,В крещенской проруби искупаемся мы пятеро.,4.125,4.0,quantiifier,stimul,4.0,54,dvoje,nom,my,1pl,VS
+Belova_2023,Мы трое прилетит в разные аэропорты.,1.3333333333333333,1.0,quantiifier,stimul,8.0,120,dvoje,nom,my,3sg,SV
+Belova_2023,Все из них запишутся в спортивные секции.,3.4,3.0,quantiifier,stimul,12.0,189,vse,elect,oni,3pl,SV
+Belova_2023,За выполненные задачи отчитаемся мы двое.,5.125,5.0,quantiifier,stimul,43.0,678,dvoje,nom,my,1pl,VS
+Belova_2023,Они все переночуют в больших палатках.,6.166666666666667,6.0,quantiifier,stimul,19.0,304,vse,oni,nom,3pl,SV
+Belova_2023,Они все выступят на студенческих конференциях.,6.75,7.0,quantiifier,stimul,21.0,336,vse,oni,nom,3pl,SV
+Belova_2023,На предложения конкурентов согласится они трое.,2.0,2.0,quantiifier,stimul,14.0,218,dvoje,nom,oni,3sg,VS
+Belova_2023,Мы семеро позаботимся о нужных продуктах.,5.6,6.0,quantiifier,stimul,30.0,470,dvoje,nom,my,1pl,SV
+Belova_2023,В соседние страны переедут мы все.,2.625,3.0,quantiifier,stimul,32.0,511,vse,nom,my,3pl,VS
+Belova_2023,В научных журналах опубликуется трое из них.,4.333333333333333,4.0,quantiifier,stimul,2.0,21,dvoje,elect,oni,3sg,VS
+Belova_2023,О скорых отставках объявят семеро из них.,5.777777777777778,6.0,quantiifier,stimul,36.0,564,dvoje,elect,oni,3pl,VS
+Belova_2023,В важные переговоры вмешаются все из нас.,3.2222222222222223,3.0,quantiifier,stimul,29.0,460,vse,elect,my,3pl,VS
+Belova_2023,На южных курортах отдохнёт они семеро.,1.2222222222222223,1.0,quantiifier,stimul,24.0,378,dvoje,nom,oni,3sg,VS
+Belova_2023,В спортивные секции запишутся все из нас.,4.0,4.0,quantiifier,stimul,12.0,188,vse,elect,my,3pl,VS
+Belova_2023,Все из нас присоединимся к поисковым отрядам.,2.272727272727273,2.0,quantiifier,stimul,28.0,443,vse,elect,my,1pl,SV
+Belova_2023,В учебных кабинетах подметут они все.,3.7777777777777777,4.0,quantiifier,stimul,41.0,656,vse,oni,nom,3pl,VS
+Belova_2023,Все из них перезвонят по незнакомым номерам.,2.833333333333333,3.0,quantiifier,stimul,22.0,349,vse,elect,oni,3pl,SV
+Belova_2023,Все из нас справятся с заменой лампочек.,4.727272727272728,5.0,quantiifier,stimul,11.0,172,vse,elect,my,3pl,SV
+Belova_2023,К новым поликлиникам прикрепятся они пятеро.,2.375,2.0,quantiifier,stimul,40.0,633,dvoje,nom,oni,3pl,VS
+Belova_2023,Они трое съездит в отдалённые деревни.,1.5,2.0,quantiifier,stimul,20.0,314,dvoje,nom,oni,3sg,SV
+Belova_2023,Они все приедут на утренних поездах.,6.5,6.0,quantiifier,stimul,5.0,80,vse,oni,nom,3pl,SV
+Belova_2023,Мы все перезвоним по незнакомым номерам.,4.0,4.0,quantiifier,stimul,22.0,350,vse,nom,my,1pl,SV
+Belova_2023,Они трое отметится на проходной завода.,2.2222222222222223,2.0,quantiifier,stimul,38.0,602,dvoje,nom,oni,3sg,SV
+Belova_2023,Семеро из нас возьмутся за новые проекты.,6.375,6.0,quantiifier,stimul,42.0,658,dvoje,elect,my,3pl,SV
+Belova_2023,За допущенные ошибки извинится они четверо.,1.7777777777777777,2.0,quantiifier,stimul,45.0,714,dvoje,nom,oni,3sg,VS
+Belova_2023,В дешёвых хостелах остановимся все из нас.,2.333333333333333,2.0,quantiifier,stimul,7.0,107,vse,elect,my,1pl,VS
+Belova_2023,В байдарочные походы отправятся четверо из нас.,5.444444444444445,5.0,quantiifier,stimul,27.0,418,dvoje,elect,my,3pl,VS
+Belova_2023,Они шестеро вмешается в важные переговоры.,2.5454545454545454,3.0,quantiifier,stimul,29.0,458,dvoje,nom,oni,3sg,SV
+Belova_2023,Они все ответят за поломанные инструменты.,5.666666666666667,6.0,quantiifier,stimul,35.0,560,vse,oni,nom,3pl,SV
+Belova_2023,Двое из них придут на пятничную вечеринку.,6.75,7.0,quantiifier,stimul,1.0,4,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из нас присоединятся к поисковым отрядам.,5.666666666666667,6.0,quantiifier,stimul,28.0,444,vse,elect,my,3pl,SV
+Belova_2023,В разные аэропорты прилетят они трое.,2.888888888888889,3.0,quantiifier,stimul,8.0,121,dvoje,nom,oni,3pl,VS
+Belova_2023,Мы с друзьями отправят стихи в районной газеты.,1.9285714285714288,2.0,bad,filler,,794,,,,,
+Belova_2023,В социальных опросах поучаствуют мы все.,2.75,3.0,quantiifier,stimul,48.0,767,vse,nom,my,3pl,VS
+Belova_2023,Мы трое опубликуемся в научных журналах.,4.0,4.0,quantiifier,stimul,2.0,22,dvoje,nom,my,1pl,SV
+Belova_2023,Они все позаботятся о нужных продуктах.,5.0,5.0,quantiifier,stimul,30.0,480,vse,oni,nom,3pl,SV
+Belova_2023,На двугорбых верблюдах покатаемся мы трое.,4.0,4.0,quantiifier,stimul,26.0,406,dvoje,nom,my,1pl,VS
+Belova_2023,Все из нас отчитаются за выполненные задачи.,5.818181818181818,6.0,quantiifier,stimul,43.0,684,vse,elect,my,3pl,SV
+Belova_2023,Мы двое порыбачат в лесных озёрах.,1.25,1.0,quantiifier,stimul,31.0,487,dvoje,nom,my,3pl,SV
+Belova_2023,В учебных кабинетах подметём шестеро из нас.,2.555555555555556,3.0,quantiifier,stimul,41.0,641,dvoje,elect,my,1pl,VS
+Belova_2023,На южных курортах отдохнёт мы семеро.,2.5,2.0,quantiifier,stimul,24.0,376,dvoje,nom,my,3sg,VS
+Belova_2023,С заменой лампочек справится мы шестеро.,2.0,2.0,quantiifier,stimul,11.0,168,dvoje,nom,my,3sg,VS
+Belova_2023,Вы с Пашей будете писать контрольную во вторник.,6.364406779661017,6.0,good,filler,,775,,,,,
+Belova_2023,Шестеро из них рассчитаются с кредитными долгами.,6.25,6.0,quantiifier,stimul,23.0,356,dvoje,elect,oni,3pl,SV
+Belova_2023,Мы четверо выступим на студенческих конференциях.,5.5,6.0,quantiifier,stimul,21.0,326,dvoje,nom,my,1pl,SV
+Belova_2023,В течение месяца женимся мы все.,3.25,3.0,quantiifier,stimul,16.0,254,vse,nom,my,1pl,VS
+Belova_2023,На утренних поездах приедет шестро из них.,3.2222222222222223,3.0,quantiifier,stimul,5.0,69,dvoje,elect,oni,3sg,VS
+Belova_2023,В соседние страны переедут мы трое.,2.0,2.0,quantiifier,stimul,32.0,503,dvoje,nom,my,3pl,VS
+Belova_2023,В перспективные акции вложатся мы трое.,2.1,2.0,quantiifier,stimul,44.0,695,dvoje,nom,my,3pl,VS
+Belova_2023,Мы двое сыграет на акустической гитаре.,1.25,1.0,quantiifier,stimul,13.0,200,dvoje,nom,my,3sg,SV
+Belova_2023,Все из них вложатся в перспективные акции.,3.4,3.0,quantiifier,stimul,44.0,701,vse,elect,oni,3pl,SV
+Belova_2023,Мы все сыграют на акустической гитаре.,1.375,1.0,quantiifier,stimul,13.0,207,vse,nom,my,3pl,SV
+Belova_2023,Они пятеро присоединятся к поисковым отрядам.,4.25,4.0,quantiifier,stimul,28.0,441,dvoje,nom,oni,3pl,SV
+Belova_2023,За поломанные инструменты ответим мы шестеро.,4.375,4.0,quantiifier,stimul,35.0,550,dvoje,nom,my,1pl,VS
+Belova_2023,Со свадебными фотографами свяжется мы двое.,1.875,2.0,quantiifier,stimul,25.0,392,dvoje,nom,my,3sg,VS
+Belova_2023,О нужных продуктах позаботимся мы все.,5.25,5.0,quantiifier,stimul,30.0,478,vse,nom,my,1pl,VS
+Belova_2023,О нужных продуктах позаботится они семеро.,1.6666666666666667,2.0,quantiifier,stimul,30.0,474,dvoje,nom,oni,3sg,VS
+Belova_2023,Со свадебными фотографами свяжется двое из нас.,3.625,4.0,quantiifier,stimul,25.0,387,dvoje,elect,my,3sg,VS
+Belova_2023,Они двое переночует в больших палатках.,2.090909090909091,2.0,quantiifier,stimul,19.0,298,dvoje,nom,oni,3sg,SV
+Belova_2023,В соседние страны переедут трое из них.,5.777777777777778,6.0,quantiifier,stimul,32.0,500,dvoje,elect,oni,3pl,VS
+Belova_2023,В важные переговоры вмешаемся мы шестеро.,4.0,4.0,quantiifier,stimul,29.0,454,dvoje,nom,my,1pl,VS
+Belova_2023,Мы семеро отдохнёт на южных курортах.,1.4444444444444444,1.0,quantiifier,stimul,24.0,376,dvoje,nom,my,3sg,SV
+Belova_2023,За выполненные задачи отчитаются все из них.,4.0,4.0,quantiifier,stimul,43.0,685,vse,elect,oni,3pl,VS
+Belova_2023,Трое из нас вложится в перспективные акции.,3.2,3.0,quantiifier,stimul,44.0,691,dvoje,elect,my,3sg,SV
+Belova_2023,Трое из них переедет в соседние страны.,3.25,3.0,quantiifier,stimul,32.0,501,dvoje,elect,oni,3sg,SV
+Belova_2023,Шестеро из нас приберётся в старых кладовках.,2.6666666666666665,3.0,quantiifier,stimul,47.0,739,dvoje,elect,my,3sg,SV
+Belova_2023,Семеро из нас уволятся с нынешних позиций.,5.6,6.0,quantiifier,stimul,18.0,274,dvoje,elect,my,3pl,SV
+Belova_2023,В карнавальные костюмы переоденутся мы семеро.,2.0,2.0,quantiifier,stimul,6.0,87,dvoje,nom,my,3pl,VS
+Belova_2023,С проведением экзаменов поможет мы четверо.,1.75,2.0,quantiifier,stimul,3.0,40,dvoje,nom,my,3sg,VS
+Belova_2023,На конкурсе чтецов победит двое из них.,4.555555555555555,5.0,quantiifier,stimul,37.0,581,dvoje,elect,oni,3sg,VS
+Belova_2023,За поломанные инструменты ответим мы все.,4.875,5.0,quantiifier,stimul,35.0,558,vse,nom,my,1pl,VS
+Belova_2023,Семеро из нас возьмётся за новые проекты.,3.272727272727273,3.0,quantiifier,stimul,42.0,659,dvoje,elect,my,3sg,SV
+Belova_2023,Мы семеро переоденемся в карнавальные костюмы.,3.727272727272727,4.0,quantiifier,stimul,6.0,86,dvoje,nom,my,1pl,SV
+Belova_2023,В старых кладовках приберутся мы шестеро.,1.8888888888888888,2.0,quantiifier,stimul,47.0,745,dvoje,nom,oni,3pl,VS
+Belova_2023,В байдарочные походы отправятся они четверо.,3.0,3.0,quantiifier,stimul,27.0,425,dvoje,nom,oni,3pl,VS
+Belova_2023,Все из нас женятся в течение месяца.,5.0,5.0,quantiifier,stimul,16.0,252,vse,elect,my,3pl,SV
+Belova_2023,К поисковым отрядам присоединится они пятеро.,1.7777777777777777,2.0,quantiifier,stimul,28.0,442,dvoje,nom,oni,3sg,VS
+Belova_2023,Все из нас согласятся на предложения конкурентов.,4.7,5.0,quantiifier,stimul,14.0,220,vse,elect,my,3pl,SV
+Belova_2023,С кредитными долгами рассчитаются мы все.,2.571428571428572,3.0,quantiifier,stimul,23.0,367,vse,nom,my,3pl,VS
+Belova_2023,В перспективные акции вложимся все из нас.,2.6666666666666665,3.0,quantiifier,stimul,44.0,699,vse,elect,my,1pl,VS
+Belova_2023,Мы шестеро ответит за поломанные инструменты.,2.75,3.0,quantiifier,stimul,35.0,552,dvoje,nom,my,3sg,SV
+Belova_2023,В больших палатках переночует двое из нас.,5.444444444444445,5.0,quantiifier,stimul,19.0,291,dvoje,elect,my,3sg,VS
+Belova_2023,Мы все переедут в соседние страны.,1.4,1.0,quantiifier,stimul,32.0,511,vse,nom,my,3pl,SV
+Belova_2023,Четверо из нас поможем с проведением экзаменов.,1.5,2.0,quantiifier,stimul,3.0,33,dvoje,elect,my,1pl,SV
+Belova_2023,Они трое переедет в соседние страны.,1.5,2.0,quantiifier,stimul,32.0,506,dvoje,nom,oni,3sg,SV
+Belova_2023,Мы четверо разберутся со сломанными телефонами.,1.6666666666666667,2.0,quantiifier,stimul,9.0,135,dvoje,nom,my,3pl,SV
+Belova_2023,С артистами спектакля познакомятся они все.,4.666666666666667,5.0,quantiifier,stimul,33.0,528,vse,oni,nom,3pl,VS
+Belova_2023,За первые парты сядут четверо из них.,5.444444444444445,5.0,quantiifier,stimul,39.0,612,dvoje,elect,oni,3pl,VS
+Belova_2023,Четверо подозреваемых будут опрошены повторно.,5.862068965517241,6.0,good,filler,,782,,,,,
+Belova_2023,Мы все присоединятся к поисковым отрядам.,3.5,4.0,quantiifier,stimul,28.0,447,vse,nom,my,3pl,SV
+Belova_2023,На пятничную вечеринку придут все из них.,4.444444444444445,4.0,quantiifier,stimul,1.0,13,vse,elect,oni,3pl,VS
+Belova_2023,В разные аэропорты прилетят трое из них.,5.555555555555555,6.0,quantiifier,stimul,8.0,116,dvoje,elect,oni,3pl,VS
+Belova_2023,На студенческих конференциях выступим четверо из нас.,2.7777777777777777,3.0,quantiifier,stimul,21.0,321,dvoje,elect,my,1pl,VS
+Belova_2023,Мы все съездим в отдалённые деревни.,4.0,4.0,quantiifier,stimul,20.0,318,vse,nom,my,1pl,SV
+Belova_2023,Четверо из нас извинится за допущенные ошибки.,2.7777777777777777,3.0,quantiifier,stimul,45.0,707,dvoje,elect,my,3sg,SV
+Belova_2023,За выполненные задачи отчитаются двое из них.,6.0,6.0,quantiifier,stimul,43.0,676,dvoje,elect,oni,3pl,VS
+Belova_2023,Они все поступят в столичные вузы.,6.333333333333333,6.0,quantiifier,stimul,17.0,272,vse,oni,nom,3pl,SV
+Belova_2023,Двое из нас придём на пятничную вечеринку.,1.8333333333333333,2.0,quantiifier,stimul,1.0,1,dvoje,elect,my,1pl,SV
+Belova_2023,Мы шестеро рассчитаются с кредитными долгами.,3.25,3.0,quantiifier,stimul,23.0,359,dvoje,nom,my,3pl,SV
+Belova_2023,Мы пятеро прикрепится к новым поликлиникам.,1.6666666666666667,2.0,quantiifier,stimul,40.0,632,dvoje,nom,my,3sg,SV
+Belova_2023,В столичные вузы поступим все из нас.,2.6666666666666665,3.0,quantiifier,stimul,17.0,267,vse,elect,my,1pl,VS
+Belova_2023,В больших палатках переночует двое из них.,3.888888888888889,4.0,quantiifier,stimul,19.0,293,dvoje,elect,oni,3sg,VS
+Belova_2023,С поставщиками продуктов созвонимся мы пятеро.,4.0,4.0,quantiifier,stimul,10.0,150,dvoje,nom,my,1pl,VS
+Belova_2023,Двое из нас остановимся в дешёвых хостелах.,1.6,2.0,quantiifier,stimul,7.0,97,dvoje,elect,my,1pl,SV
+Belova_2023,Они шестеро подметут в учебных кабинетах.,3.333333333333333,3.0,quantiifier,stimul,41.0,649,dvoje,nom,oni,3pl,SV
+Belova_2023,В течение месяца женятся все из нас.,4.0,4.0,quantiifier,stimul,16.0,252,vse,elect,my,3pl,VS
+Belova_2023,На проходной завода отметятся трое из них.,5.444444444444445,5.0,quantiifier,stimul,38.0,596,dvoje,elect,oni,3pl,VS
+Belova_2023,Пятеро из нас искупаемся в крещенской проруби.,3.0,3.0,quantiifier,stimul,4.0,49,dvoje,elect,my,1pl,SV
+Belova_2023,Все из нас свяжутся со свадебными фотографами.,3.0,3.0,quantiifier,stimul,25.0,396,vse,elect,my,3pl,SV
+Belova_2023,Мы трое прилетят в разные аэропорты.,1.4444444444444444,1.0,quantiifier,stimul,8.0,119,dvoje,nom,my,3pl,SV
+Belova_2023,Со сломанными телефонами разберутся четверо из нас.,5.0,5.0,quantiifier,stimul,9.0,130,dvoje,elect,my,3pl,VS
+Belova_2023,Четверо из нас сядут за первые парты.,6.2,6.0,quantiifier,stimul,39.0,610,dvoje,elect,my,3pl,SV
+Belova_2023,Все из нас переночуют в больших палатках.,4.0,4.0,quantiifier,stimul,19.0,300,vse,elect,my,3pl,SV
+Belova_2023,Мы семеро запишутся в спортивные секции.,1.3333333333333333,1.0,quantiifier,stimul,12.0,183,dvoje,nom,my,3pl,SV
+Belova_2023,С очевидцами аварии побеседуют они пятеро.,3.375,3.0,quantiifier,stimul,34.0,537,dvoje,nom,oni,3pl,VS
+Belova_2023,В научных журналах опубликуемся мы трое.,3.75,4.0,quantiifier,stimul,2.0,22,dvoje,nom,my,1pl,VS
+Belova_2023,На акустической гитаре сыграют двое из них.,5.666666666666667,6.0,quantiifier,stimul,13.0,196,dvoje,elect,oni,3pl,VS
+Belova_2023,Они пятеро побеседуют с очевидцами аварии.,4.0,4.0,quantiifier,stimul,34.0,537,dvoje,nom,oni,3pl,SV
+Belova_2023,Семеро из них объявят о скорых отставках.,6.0,6.0,quantiifier,stimul,36.0,564,dvoje,elect,oni,3pl,SV
+Belova_2023,В карнавальные костюмы переоденется семеро из них.,4.333333333333333,4.0,quantiifier,stimul,6.0,85,dvoje,elect,oni,3sg,VS
+Belova_2023,Трое из них прилетят в разные аэропорты.,5.090909090909091,5.0,quantiifier,stimul,8.0,116,dvoje,elect,oni,3pl,SV
+Belova_2023,Все из нас отдохнут на южных курортах.,4.6,5.0,quantiifier,stimul,24.0,380,vse,elect,my,3pl,SV
+Belova_2023,Пятеро из них искупается в крещенской проруби.,2.5,2.0,quantiifier,stimul,4.0,53,dvoje,elect,oni,3sg,SV
+Belova_2023,Двое из нас переночуют в больших палатках.,6.5,6.0,quantiifier,stimul,19.0,290,dvoje,elect,my,3pl,SV
+Belova_2023,В лесных озёрах порыбачим двое из нас.,2.4444444444444446,2.0,quantiifier,stimul,31.0,481,dvoje,elect,my,1pl,VS
+Belova_2023,О скорых отставках объявят все из нас.,3.2222222222222223,3.0,quantiifier,stimul,36.0,572,vse,elect,my,3pl,VS
+Belova_2023,Они все справятся с заменой лампочек.,5.0,5.0,quantiifier,stimul,11.0,176,vse,oni,nom,3pl,SV
+Belova_2023,Они пятеро созвонится с поставщиками продуктов.,1.6,2.0,quantiifier,stimul,10.0,154,dvoje,nom,oni,3sg,SV
+Belova_2023,С кредитными долгами рассчитается шестеро из них.,3.888888888888889,4.0,quantiifier,stimul,23.0,357,dvoje,elect,oni,3sg,VS
+Belova_2023,На акустической гитаре сыграем все из нас.,2.6666666666666665,3.0,quantiifier,stimul,13.0,203,vse,elect,my,1pl,VS
+Belova_2023,Трое из нас переедет в соседние страны.,2.6666666666666665,3.0,quantiifier,stimul,32.0,499,dvoje,elect,my,3sg,SV
+Belova_2023,Они пятеро прикрепится к новым поликлиникам.,2.333333333333333,2.0,quantiifier,stimul,40.0,634,dvoje,nom,oni,3sg,SV
