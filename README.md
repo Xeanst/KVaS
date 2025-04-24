@@ -33,7 +33,7 @@
 - <a href="https://github.com/Xeanst/KVaS/tree/main/1.%20coordination">сочинительные конструкции</a>
 - <a href="https://github.com/Xeanst/KVaS/tree/main/2.%20relative%20clauses">конструкции с постпозитивным определительным предложением</a>
 - <a href="https://github.com/Xeanst/KVaS/tree/main/3.%20quantifiers">конструкции с управляющими квантификаторами</a>
-- <a href="https://github.com/Xeanst/KVaS/tree/main/quantitative_nouns">конструкции с количественными существительными</a>
+- <a href="https://github.com/Xeanst/KVaS/tree/main/4.%20quantitative%20nouns">конструкции с количественными существительными и числительными</a>
 
 Автор выражает благодарность участникам <a href="https://expsynt.com/">Московской группой экспериментального синтаксиса</a>, которая активно разрабатывает проблематику вариативного согласования в русском языке и занимается формальным моделированием грамматических ограничений на основании экспериментальных данных.
 
