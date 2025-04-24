@@ -1,0 +1,289 @@
+author,sentence,response,response_round,subtype,type,lexicalization,condition,agreement,conjunction
+Davidjuk_2023_1,"И я, и Денис пропустит финальный матч.",3.0,3.0,coordination,stimul,12,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Володя приобретут ценный опыт.,3.1,3.0,coordination,stimul,16,"3pl, and",3pl,and
+Davidjuk_2023_1,Андрей и Федя поймаем крупную рыбу.,2.576923076923077,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Данила найдём верный ответ.",5.444444444444445,5.0,coordination,stimul,20,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Егор прочитает вводную лекцию.,2.1,2.0,coordination,stimul,18,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Вадим соберут нужный материал.",2.7,3.0,coordination,stimul,23,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Денис пропустят финальный матч.",2.4,2.0,coordination,stimul,12,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Денис пропустим финальный матч.,4.6,5.0,coordination,stimul,12,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Максим прогуляет последний урок.",2.1,2.0,coordination,stimul,32,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Кирилл прополют капустную грядку.,2.5,2.0,coordination,stimul,24,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Никита попросят дополнительный отгул.,3.4,3.0,coordination,stimul,10,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Гена продолжим заочное обучение.",5.1,5.0,coordination,stimul,15,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Федя разработаем детальный план.",5.1,5.0,coordination,stimul,27,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Максим продаст шкаф и кровать.,6.371794871794871,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Игорь совершат далёкое путешествие.",2.4,2.0,coordination,stimul,28,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Никита внесу небольшой аванс.,3.0,3.0,coordination,stimul,31,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Боря подготовит промежуточный отчёт.",2.5,2.0,coordination,stimul,21,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Олег уточним необходимую информацию.,4.7,5.0,coordination,stimul,14,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Слава получим двойную зарплату.,5.2,5.0,coordination,stimul,5,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Лёва решу сложную задачу.",2.0,2.0,coordination,stimul,25,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Гриша сварит овсяную кашу.,6.512820512820513,7.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Миша сдадим вступительный экзамен.",4.8,5.0,coordination,stimul,8,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Стёпа попробует яблочный пирог.",2.1,2.0,coordination,stimul,9,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Федя выразит всеобщие недовольство.,3.6962025316455698,4.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Лёва решим сложную задачу.",4.9,5.0,coordination,stimul,25,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Юра устрою детский праздник.,2.7,3.0,coordination,stimul,26,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Ваня возьму краткосрочный отпуск.,2.6,3.0,coordination,stimul,6,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Вася посмотрят документальный фильм.,4.3,4.0,coordination,stimul,2,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Слава получу двойную зарплату.",2.6666666666666665,3.0,coordination,stimul,5,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Илья выполним срочное поручение.",5.1,5.0,coordination,stimul,19,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Паша посетит исторический музей.",3.0,3.0,coordination,stimul,11,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Игорь совершим далёкое путешествие.,4.7,5.0,coordination,stimul,28,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Вова споём весёлую песню.,5.6,6.0,coordination,stimul,7,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Слава получат двойную зарплату.,3.7,4.0,coordination,stimul,5,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Егор прочитают вводную лекцию.,3.1,3.0,coordination,stimul,18,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Данила найду верный ответ.,1.9,2.0,coordination,stimul,20,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Паша посещу исторический музей.,1.9,2.0,coordination,stimul,11,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Ваня возьмёт краткосрочный отпуск.,2.8,3.0,coordination,stimul,6,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Лёва решит сложную задачу.,2.0,2.0,coordination,stimul,25,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Федя разработает детальный план.",2.555555555555556,3.0,coordination,stimul,27,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Гриша сыграет шахматную партию.,2.1,2.0,coordination,stimul,29,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Яша приготовлю вкусный обед.,1.8,2.0,coordination,stimul,30,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Вова споёт весёлую песню.,2.555555555555556,3.0,coordination,stimul,7,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Боря подготовим промежуточный отчёт.,4.9,5.0,coordination,stimul,21,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Володя приобретём ценный опыт.",4.4,4.0,coordination,stimul,16,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Влад покажу короткую дорогу.",2.7777777777777777,3.0,coordination,stimul,13,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Вова спою весёлую песню.",2.0,2.0,coordination,stimul,7,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Володя приобретём ценный опыт.,5.777777777777778,6.0,coordination,stimul,16,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Вася посмотрим документальный фильм.,4.9,5.0,coordination,stimul,2,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Гриша сыграют шахматную партию.,2.5,2.0,coordination,stimul,29,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Слава получу двойную зарплату.,2.7777777777777777,3.0,coordination,stimul,5,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Яша приготовит вкусный обед.,2.4,2.0,coordination,stimul,30,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Олег уточнит необходимую информацию.",2.2,2.0,coordination,stimul,14,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Максим прогуляют последний урок.,2.333333333333333,2.0,coordination,stimul,32,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Денис пропустит финальный матч.,2.0,2.0,coordination,stimul,12,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Дима послушают праздничный концерт.,3.6,4.0,coordination,stimul,17,"3pl, and",3pl,and
+Davidjuk_2023_1,Лёва оформит деловой договор.,6.354430379746836,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Боря подготовлю промежуточный отчёт.",2.111111111111111,2.0,coordination,stimul,21,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Никита попросит дополнительный отгул.",3.0,3.0,coordination,stimul,10,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Кирилл прополю капустную грядку.",1.8,2.0,coordination,stimul,24,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Илья выполнят срочное поручение.",2.8,3.0,coordination,stimul,19,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Максим прогуляют последний урок.",3.3,3.0,coordination,stimul,32,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Вова споют весёлую песню.",2.7,3.0,coordination,stimul,7,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Кирилл прополю капустную грядку.,3.2,3.0,coordination,stimul,24,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Вася посмотрю документальный фильм.,2.9,3.0,coordination,stimul,2,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Яша приготовят вкусный обед.,2.375,2.0,coordination,stimul,30,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Вася посмотрят документальный фильм.",3.25,3.0,coordination,stimul,2,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Митя напечатает длинный рассказ.,6.397435897435898,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Никита попросим дополнительный отгул.",5.5,6.0,coordination,stimul,10,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Ваня возьмёт краткосрочный отпуск.",2.1,2.0,coordination,stimul,6,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Вадим соберём нужный материал.",5.2,5.0,coordination,stimul,23,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Максим прогуляю последний урок.,3.1,3.0,coordination,stimul,32,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Костя расскажем интересную историю.",5.111111111111111,5.0,coordination,stimul,22,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Слава получат двойную зарплату.",4.0,4.0,coordination,stimul,5,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Гриша сыграет шахматную партию.",2.1,2.0,coordination,stimul,29,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Вася посмотрим документальный фильм.",4.5,4.0,coordination,stimul,2,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Миша сдадут вступительный экзамен.,3.3,3.0,coordination,stimul,8,"3pl, and",3pl,and
+Davidjuk_2023_1,Илья поделит родительские наследство.,4.376623376623376,4.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"Ваня напишет и реферат, и курсовую.",5.278481012658228,5.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Кирилл прополют капустную грядку.",3.2,3.0,coordination,stimul,24,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Максим сделаю домашнее задание.",2.0,2.0,coordination,stimul,3,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Федя разработаю детальный план.",1.9,2.0,coordination,stimul,27,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Максим сделает домашнее задание.,2.4,2.0,coordination,stimul,3,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Слава получим двойную зарплату.",3.6,4.0,coordination,stimul,5,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Максим прогуляем последний урок.,5.777777777777778,6.0,coordination,stimul,32,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Никита внесём небольшой аванс.",5.5,6.0,coordination,stimul,31,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Вася посмотрю документальный фильм.",2.2,2.0,coordination,stimul,2,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Петя нарисуем подробную схему.,6.0,6.0,coordination,stimul,1,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Миша сдам вступительный экзамен.",1.9,2.0,coordination,stimul,8,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Никита попрошу дополнительный отгул.,3.3,3.0,coordination,stimul,10,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Федя разработаем детальный план.,5.7,6.0,coordination,stimul,27,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Стёпа попробуем яблочный пирог.",5.3,5.0,coordination,stimul,9,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Рома скачает детективный сериал.,6.2405063291139244,6.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Игорь совершит далёкое путешествие.,2.1,2.0,coordination,stimul,28,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Егор прочитают вводную лекцию.",2.6666666666666665,3.0,coordination,stimul,18,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Яша приготовим вкусный обед.",5.0,5.0,coordination,stimul,30,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Паша посетим исторический музей.,6.1,6.0,coordination,stimul,11,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Гриша сыграю шахматную партию.",2.333333333333333,2.0,coordination,stimul,29,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Денис пропущу финальный матч.,2.0,2.0,coordination,stimul,12,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Федя разработают детальный план.",2.1,2.0,coordination,stimul,27,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Игорь совершим далёкое путешествие.",5.777777777777778,6.0,coordination,stimul,28,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Стёпа попробую яблочный пирог.",2.4,2.0,coordination,stimul,9,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Кирилл помоет тарелку и чашку.,6.379746835443038,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И Саша, и Коля оставим длинный комментарий.",3.0,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,Я и Слава получит двойную зарплату.,2.3,2.0,coordination,stimul,5,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Володя приобретёт ценный опыт.",2.0,2.0,coordination,stimul,16,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Володя спрячет подарок и цветы.,5.884615384615385,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Максим прогуляю последний урок.",1.9,2.0,coordination,stimul,32,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Лёва решу сложную задачу.,2.333333333333333,2.0,coordination,stimul,25,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Дима послушает праздничный концерт.,1.6,2.0,coordination,stimul,17,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Олег уточнит необходимую информацию.,2.8,3.0,coordination,stimul,14,"3sg, and",3sg,and
+Davidjuk_2023_1,Вася починит телевизор и радио.,6.32051282051282,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Олег уточним необходимую информацию.",4.7,5.0,coordination,stimul,14,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Вова окончит строительные колледж.,3.5443037974683542,4.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Яша приготовит вкусный обед.",1.9,2.0,coordination,stimul,30,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Кирилл прополем капустную грядку.,5.0,5.0,coordination,stimul,24,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Яша приготовлю вкусный обед.",1.8,2.0,coordination,stimul,30,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Дима послушаем праздничный концерт.,6.2,6.0,coordination,stimul,17,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Костя расскажет интересную историю.",1.6,2.0,coordination,stimul,22,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И Лёва, и Кирилл запустим успешный стартап.",2.518987341772152,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Андрей увидят кукольный спектакль.",2.555555555555556,3.0,coordination,stimul,4,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Петя нарисуем подробную схему.",5.2,5.0,coordination,stimul,1,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Максим прогуляем последний урок.",4.7,5.0,coordination,stimul,32,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Стёпа попробуют яблочный пирог.",3.0,3.0,coordination,stimul,9,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Гриша сыграем шахматную партию.,4.7,5.0,coordination,stimul,29,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Вадим соберёт нужный материал.,2.333333333333333,2.0,coordination,stimul,23,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Володя приобретёт ценный опыт.,3.7,4.0,coordination,stimul,16,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Юра устроим детский праздник.",5.3,5.0,coordination,stimul,26,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Никита попросит дополнительный отгул.,3.2,3.0,coordination,stimul,10,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Стёпа попробую яблочный пирог.,2.333333333333333,2.0,coordination,stimul,9,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Яша приготовят вкусный обед.",2.9,3.0,coordination,stimul,30,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Лёва решит сложную задачу.",2.2,2.0,coordination,stimul,25,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Володя приобретут ценный опыт.",3.0,3.0,coordination,stimul,16,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Артём построит садовую беседку.,6.443037974683544,6.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Никита внесём небольшой аванс.,5.1,5.0,coordination,stimul,31,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Петя нарисуют подробную схему.",2.7,3.0,coordination,stimul,1,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Вадим соберут нужный материал.,2.7,3.0,coordination,stimul,23,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Влад покажем короткую дорогу.,5.1,5.0,coordination,stimul,13,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Олег уточнят необходимую информацию.,3.333333333333333,3.0,coordination,stimul,14,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Данила найдём верный ответ.,4.8,5.0,coordination,stimul,20,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Костя расскажем интересную историю.,4.2,4.0,coordination,stimul,22,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Кирилл прополет капустную грядку.",2.4,2.0,coordination,stimul,24,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Дима послушаю праздничный концерт.,3.2222222222222223,3.0,coordination,stimul,17,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Миша сдадут вступительный экзамен.",3.6,4.0,coordination,stimul,8,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Кирилл прополет капустную грядку.,3.2,3.0,coordination,stimul,24,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Ваня возьму краткосрочный отпуск.",2.1,2.0,coordination,stimul,6,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Гена продолжу заочное обучение.",2.5,2.0,coordination,stimul,15,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Володя приобрету ценный опыт.",2.2,2.0,coordination,stimul,16,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Ваня возьмём краткосрочный отпуск.,6.0,6.0,coordination,stimul,6,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Паша посетит исторический музей.,2.111111111111111,2.0,coordination,stimul,11,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Вова спою весёлую песню.,2.2,2.0,coordination,stimul,7,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Дима послушают праздничный концерт.",2.4,2.0,coordination,stimul,17,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Никита попрошу дополнительный отгул.",2.888888888888889,3.0,coordination,stimul,10,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Никита улучшит основные показатель.,2.8860759493670884,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,Я и Лёва решат сложную задачу.,2.888888888888889,3.0,coordination,stimul,25,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Данила найдут верный ответ.",2.6666666666666665,3.0,coordination,stimul,20,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Федя разработаю детальный план.,1.8,2.0,coordination,stimul,27,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Костя расскажет интересную историю.,2.9,3.0,coordination,stimul,22,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Вадим соберу нужный материал.,2.1,2.0,coordination,stimul,23,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Вова споём весёлую песню.",4.5,4.0,coordination,stimul,7,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Миша заплатит крупный штраф.,6.506329113924051,7.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Ваня возьмут краткосрочный отпуск.,2.2222222222222223,2.0,coordination,stimul,6,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Егор прочитаем вводную лекцию.,5.5,6.0,coordination,stimul,18,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Андрей увидим кукольный спектакль.",5.666666666666667,6.0,coordination,stimul,4,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Артём и Дима продадим плохую картину.,2.2658227848101267,2.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Паша посетим исторический музей.",4.8,5.0,coordination,stimul,11,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Денис и Илья окажем неоценимую помощь.,2.9240506329113924,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,Я и Паша посетят исторический музей.,2.5,2.0,coordination,stimul,11,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Олег уточню необходимую информацию.",2.1,2.0,coordination,stimul,14,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Гриша сыграем шахматную партию.",4.5,4.0,coordination,stimul,29,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Илья выполнит срочное поручение.",2.2222222222222223,2.0,coordination,stimul,19,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Влад покажу короткую дорогу.,1.9,2.0,coordination,stimul,13,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Миша сдадим вступительный экзамен.,4.777777777777778,5.0,coordination,stimul,8,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Егор прочитаю вводную лекцию.,2.7,3.0,coordination,stimul,18,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Никита внесёт небольшой аванс.,2.888888888888889,3.0,coordination,stimul,31,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Вадим соберёт нужный материал.",2.888888888888889,3.0,coordination,stimul,23,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Петя привлечёт молодые публику.,2.5316455696202533,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И Яша, и Данила нарушим строгий дедлайн.",2.5822784810126582,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Вова споёт весёлую песню.",2.9,3.0,coordination,stimul,7,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Максим сделаю домашнее задание.,2.0,2.0,coordination,stimul,3,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Боря подготовим промежуточный отчёт.",4.0,4.0,coordination,stimul,21,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Юра устрою детский праздник.",2.0,2.0,coordination,stimul,26,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Гена продолжат заочное обучение.",2.9,3.0,coordination,stimul,15,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Игорь совершат далёкое путешествие.,2.9,3.0,coordination,stimul,28,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Гена продолжит заочное обучение.,3.0,3.0,coordination,stimul,15,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Максим сделаем домашнее задание.,4.9,5.0,coordination,stimul,3,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Петя нарисует подробную схему.,1.9,2.0,coordination,stimul,1,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Вадим соберём нужный материал.,5.4,5.0,coordination,stimul,23,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Илья выполню срочное поручение.",2.1,2.0,coordination,stimul,19,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Боря подготовят промежуточный отчёт.,2.8,3.0,coordination,stimul,21,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Андрей увидим кукольный спектакль.,4.8,5.0,coordination,stimul,4,"1pl, and",1pl,and
+Davidjuk_2023_1,Максим испытает сильные удивление.,3.333333333333333,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,Я и Федя разработают детальный план.,2.2,2.0,coordination,stimul,27,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Костя расскажу интересную историю.",1.5,2.0,coordination,stimul,22,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Юра устроят детский праздник.,2.7,3.0,coordination,stimul,26,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Кирилл прополем капустную грядку.",4.5,4.0,coordination,stimul,24,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Денис пропустим финальный матч.",5.222222222222222,5.0,coordination,stimul,12,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Максим сделают домашнее задание.,2.8,3.0,coordination,stimul,3,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Володя приобрету ценный опыт.,2.9,3.0,coordination,stimul,16,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Данила найду верный ответ.",2.8,3.0,coordination,stimul,20,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Юра устроят детский праздник.",2.6666666666666665,3.0,coordination,stimul,26,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Стёпа попробуем яблочный пирог.,6.4,6.0,coordination,stimul,9,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Вова споют весёлую песню.,3.3,3.0,coordination,stimul,7,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Влад покажут короткую дорогу.",2.9,3.0,coordination,stimul,13,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Федя разработает детальный план.,2.4,2.0,coordination,stimul,27,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Юра устроим детский праздник.,6.0,6.0,coordination,stimul,26,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Максим сделает домашнее задание.",2.4444444444444446,2.0,coordination,stimul,3,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Гриша сыграют шахматную партию.",2.6,3.0,coordination,stimul,29,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Миша сдаст вступительный экзамен.,2.8,3.0,coordination,stimul,8,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Петя нарисую подробную схему.,2.888888888888889,3.0,coordination,stimul,1,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Костя расскажут интересную историю.,3.125,3.0,coordination,stimul,22,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Ваня возьмём краткосрочный отпуск.",5.1,5.0,coordination,stimul,6,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Денис пропущу финальный матч.",2.6,3.0,coordination,stimul,12,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Никита попросят дополнительный отгул.",3.25,3.0,coordination,stimul,10,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Юра устроит детский праздник.,1.9,2.0,coordination,stimul,26,"3sg, and",3sg,and
+Davidjuk_2023_1,"Витя почистит и диван, и кресло.",5.576923076923077,6.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Лёва решим сложную задачу.,5.5,6.0,coordination,stimul,25,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Гена продолжим заочное обучение.,5.9,6.0,coordination,stimul,15,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Данила найдёт верный ответ.",2.5,2.0,coordination,stimul,20,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Никита внесут небольшой аванс.,2.9,3.0,coordination,stimul,31,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Вася посмотрит документальный фильм.,2.3,2.0,coordination,stimul,2,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Илья выполню срочное поручение.,2.0,2.0,coordination,stimul,19,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Никита попросим дополнительный отгул.,6.2,6.0,coordination,stimul,10,"1pl, and",1pl,and
+Davidjuk_2023_1,Я и Олег уточню необходимую информацию.,1.8,2.0,coordination,stimul,14,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Андрей увижу кукольный спектакль.",3.3,3.0,coordination,stimul,4,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Петя нарисует подробную схему.",2.5,2.0,coordination,stimul,1,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Егор прочитает вводную лекцию.",2.3,2.0,coordination,stimul,18,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Боря подготовит промежуточный отчёт.,2.0,2.0,coordination,stimul,21,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Андрей увидит кукольный спектакль.",1.9,2.0,coordination,stimul,4,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Дима и Ваня уберём ванную комнату.,2.6455696202531644,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Паша посещу исторический музей.",2.2,2.0,coordination,stimul,11,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Дима послушает праздничный концерт.",2.1,2.0,coordination,stimul,17,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Гена продолжу заочное обучение.,2.5,2.0,coordination,stimul,15,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Максим сделаем домашнее задание.",4.9,5.0,coordination,stimul,3,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Максим прогуляет последний урок.,2.555555555555556,3.0,coordination,stimul,32,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Гена продолжит заочное обучение.",2.6,3.0,coordination,stimul,15,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Вася придумает фантастические повесть.,2.7341772151898733,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Боря подготовят промежуточный отчёт.",3.0,3.0,coordination,stimul,21,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Данила найдёт верный ответ.,2.5,2.0,coordination,stimul,20,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Костя расскажу интересную историю.,2.1,2.0,coordination,stimul,22,"1sg, and",1sg,and
+Davidjuk_2023_1,"Вова вызовет и скорую, и полицию.",5.379746835443038,5.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Слава получит двойную зарплату.",2.7,3.0,coordination,stimul,5,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Никита внесёт небольшой аванс.",2.6,3.0,coordination,stimul,31,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Максим сделают домашнее задание.",2.2,2.0,coordination,stimul,3,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Я и Андрей увидит кукольный спектакль.,1.8,2.0,coordination,stimul,4,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Егор прочитаем вводную лекцию.",4.7,5.0,coordination,stimul,18,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,"И я, и Никита внесут небольшой аванс.",2.9,3.0,coordination,stimul,31,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Вадим соберу нужный материал.",1.8,2.0,coordination,stimul,23,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Стёпа попробует яблочный пирог.,2.3,2.0,coordination,stimul,9,"3sg, and",3sg,and
+Davidjuk_2023_1,"И я, и Ваня возьмут краткосрочный отпуск.",2.8,3.0,coordination,stimul,6,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Игорь совершу далёкое путешествие.",2.6,3.0,coordination,stimul,28,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Никита внесу небольшой аванс.",3.0,3.0,coordination,stimul,31,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Андрей увижу кукольный спектакль.,1.6666666666666667,2.0,coordination,stimul,4,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Вася посмотрит документальный фильм.",2.6,3.0,coordination,stimul,2,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Гриша сыграю шахматную партию.,2.333333333333333,2.0,coordination,stimul,29,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Лёва решат сложную задачу.",2.4,2.0,coordination,stimul,25,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,Никита покрасит входную дверь.,6.075949367088608,6.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Боря подготовлю промежуточный отчёт.,2.2222222222222223,2.0,coordination,stimul,21,"1sg, and",1sg,and
+Davidjuk_2023_1,Кеша заправит грузовые автомобиль.,2.857142857142857,3.0,bad,filler,33,bad,,
+Davidjuk_2023_1,Я и Стёпа попробуют яблочный пирог.,2.1,2.0,coordination,stimul,9,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Егор прочитаю вводную лекцию.",1.8,2.0,coordination,stimul,18,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И я, и Дима послушаю праздничный концерт.",2.1,2.0,coordination,stimul,17,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,Я и Денис пропустят финальный матч.,2.8,3.0,coordination,stimul,12,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Илья выполнит срочное поручение.,2.0,2.0,coordination,stimul,19,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Игорь совершу далёкое путешествие.,1.9,2.0,coordination,stimul,28,"1sg, and",1sg,and
+Davidjuk_2023_1,Я и Данила найдут верный ответ.,3.3,3.0,coordination,stimul,20,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Игорь совершит далёкое путешествие.",1.8,2.0,coordination,stimul,28,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"И я, и Дима послушаем праздничный концерт.",4.0,4.0,coordination,stimul,17,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Петя нарисуют подробную схему.,3.5,4.0,coordination,stimul,1,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Яша приготовим вкусный обед.,5.6,6.0,coordination,stimul,30,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Влад покажет короткую дорогу.",2.2,2.0,coordination,stimul,13,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Гена продолжат заочное обучение.,3.5,4.0,coordination,stimul,15,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Илья выполнят срочное поручение.,2.2,2.0,coordination,stimul,19,"3pl, and",3pl,and
+Davidjuk_2023_1,Андрей наденет тёплую куртку.,6.461538461538462,6.0,good,filler,33,good,,
+Davidjuk_2023_1,Я и Влад покажет короткую дорогу.,3.0,3.0,coordination,stimul,13,"3sg, and",3sg,and
+Davidjuk_2023_1,Я и Андрей увидят кукольный спектакль.,4.0,4.0,coordination,stimul,4,"3pl, and",3pl,and
+Davidjuk_2023_1,Я и Влад покажут короткую дорогу.,2.6,3.0,coordination,stimul,13,"3pl, and",3pl,and
+Davidjuk_2023_1,"И я, и Олег уточнят необходимую информацию.",4.5,4.0,coordination,stimul,14,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Миша сдаст вступительный экзамен.",2.6,3.0,coordination,stimul,8,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,Я и Миша сдам вступительный экзамен.,3.1,3.0,coordination,stimul,8,"1sg, and",1sg,and
+Davidjuk_2023_1,"И я, и Юра устроит детский праздник.",2.4,2.0,coordination,stimul,26,"3sg, and_and",3sg,and_and
+Davidjuk_2023_1,"Яша подготовит и статью, и доклад.",5.769230769230769,6.0,good,filler,33,good,,
+Davidjuk_2023_1,"И я, и Влад покажем короткую дорогу.",3.0,3.0,coordination,stimul,13,"1pl, and_and",1pl,and_and
+Davidjuk_2023_1,Я и Илья выполним срочное поручение.,6.0,6.0,coordination,stimul,19,"1pl, and",1pl,and
+Davidjuk_2023_1,"И я, и Костя расскажут интересную историю.",3.1,3.0,coordination,stimul,22,"3pl, and_and",3pl,and_and
+Davidjuk_2023_1,"И я, и Петя нарисую подробную схему.",2.4,2.0,coordination,stimul,1,"1sg, and_and",1sg,and_and
+Davidjuk_2023_1,"И Гоша, и Боря осуществим давнюю мечту.",2.448717948717949,2.0,bad,filler,33,bad,,
+Davidjuk_2023_1,"И я, и Паша посетят исторический музей.",2.3,2.0,coordination,stimul,11,"3pl, and_and",3pl,and_and

@@ -1,0 +1,285 @@
+author,sentence,response,response_round,subtype,type,lexicalization,condition,conjunction_strategy,pron_person
+Manina_2022_1,Весной они с Таней покупают новую одежду.,6.333333333333333,6.0,coordination,stimul,5,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Зимой Маша и Роберт вешаем яркую мишуру.,1.819277108433735,2.0,bad,filler,28,bad,,
+Manina_2022_1,Сейчас он и Вика готовят маленький сюрприз.,5.2,5.0,coordination,stimul,7,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Утром ты и Саша обсуждаете планы занятий.,4.7,5.0,coordination,stimul,9,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Зимой ты с Сашей пропиваешь курс витаминов.,4.0,4.0,coordination,stimul,4,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Часто ты и Катя танцуете финское танго.,4.545454545454546,5.0,coordination,stimul,2,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Осенью Миша и Коля собирают листья рябины.,6.240963855421687,6.0,good,filler,28,good,,
+Manina_2022_1,Сейчас я с Димой снимаю скромную квартиру.,5.833333333333333,6.0,coordination,stimul,12,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Завтра мы с Никитой заполняем бумаги дедушки.,5.857142857142857,6.0,coordination,stimul,27,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто он с Ваней нарушает приказы начальства.,4.714285714285714,5.0,coordination,stimul,16,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Завтра он с Борей исполняет вариации Баха.,5.0,5.0,coordination,stimul,1,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Сегодня мы с вами тестируем эффективность рекламы.,6.309523809523809,6.0,good,filler,28,good,,
+Manina_2022_1,Сегодня они с Дашей празднуют рождение дочери.,6.0,6.0,coordination,stimul,24,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Сейчас я и Дима снимаем скромную квартиру.,4.714285714285714,5.0,coordination,stimul,12,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Весной он и Таня покупают новую одежду.,6.166666666666667,6.0,coordination,stimul,5,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто вы с Катей танцуете финское танго.,4.0,4.0,coordination,stimul,2,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Часто они с Леной посещают Дворец Творчества.,6.428571428571429,6.0,coordination,stimul,25,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Сегодня он и Максим рисуют эскизы костюмов.,5.375,5.0,coordination,stimul,26,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Сейчас вы с Димой снимаете скромную квартиру.,5.545454545454546,6.0,coordination,stimul,12,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Вечером я и Стёпа слушаем иностранные песни.,5.75,6.0,coordination,stimul,18,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Обычно ты и Люся находите верное решение.,4.125,4.0,coordination,stimul,8,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Завтра я с Борей исполняю вариации Баха.,5.0,5.0,coordination,stimul,1,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Зимой он и Света читают рассказы Брэдбери.,4.0,4.0,coordination,stimul,21,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто вы с Леной посещаете Дворец Творчества.,5.0,5.0,coordination,stimul,25,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Завтра ты с Лизой измеряешь скорость чтения.,4.375,4.0,coordination,stimul,14,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Летом ты с Дианой проверяешь состояние водоёмов.,3.875,4.0,coordination,stimul,13,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Зимой я и Саша пропиваем курс витаминов.,5.428571428571429,5.0,coordination,stimul,4,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Теперь Гера и Даша понимают линейную алгебру.,6.113924050632911,6.0,good,filler,28,good,,
+Manina_2022_1,Скоро Толя и Витя ставим балет Стравинского.,1.7023809523809523,2.0,bad,filler,28,bad,,
+Manina_2022_1,Обычно они с Соней осознают возможные риски.,5.666666666666667,6.0,coordination,stimul,15,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Вечером Алла и Гоша зажигаем ароматические свечи.,1.987951807228916,2.0,bad,filler,28,bad,,
+Manina_2022_1,Сейчас он и Дима снимают скромную квартиру.,5.285714285714286,5.0,coordination,stimul,12,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Сейчас я и Вика готовим маленький сюрприз.,6.666666666666667,7.0,coordination,stimul,7,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Завтра он и Никита заполняют бумаги дедушки.,4.3,4.0,coordination,stimul,27,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Зимой я с Сашей пропиваю курс витаминов.,4.666666666666667,5.0,coordination,stimul,4,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Утром ты и Даня решаете задачи менеджмента.,4.181818181818182,4.0,coordination,stimul,19,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Зимой мы со Светой читаем рассказы Брэдбери.,6.125,6.0,coordination,stimul,21,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Летом вы с Настей делаете холодные коктейли.,5.0,5.0,coordination,stimul,23,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Скоро я с Серёжей получаю первую зарплату.,4.333333333333333,4.0,coordination,stimul,17,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Теперь он с Димой изучает законы Ньютона.,5.454545454545454,5.0,coordination,stimul,6,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Вечером ты с Петей отправляешь очередное письмо.,4.5,4.0,coordination,stimul,3,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Вечером он и Петя отправляют очередное письмо.,4.142857142857143,4.0,coordination,stimul,3,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Вечером он с Петей отправляет очередное письмо.,5.0,5.0,coordination,stimul,3,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Осенью я и Костя засушиваем кленовые листья.,5.7,6.0,coordination,stimul,10,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Зимой ты и Саша пропиваете курс витаминов.,3.615384615384616,4.0,coordination,stimul,4,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Утром он и Даня решают задачи менеджмента.,4.333333333333333,4.0,coordination,stimul,19,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто он и Лена посещают Дворец Творчества.,4.5,4.0,coordination,stimul,25,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Весной мы с Иосифу составляем рацион питания.,1.8072289156626504,2.0,bad,filler,28,bad,,
+Manina_2022_1,Летом они с Настей делают холодные коктейли.,4.733333333333333,5.0,coordination,stimul,23,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Утром он и Саша обсуждают планы занятий.,5.0,5.0,coordination,stimul,9,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Обычно мы с ним замечаем ошибки руководства.,5.867469879518072,6.0,good,filler,28,good,,
+Manina_2022_1,Скоро они с Серёжей получают первую зарплату.,4.5,4.0,coordination,stimul,17,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Летом ты и Настя делаете холодные коктейли.,4.333333333333333,4.0,coordination,stimul,23,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Весной он с Ксюшей планирует предстоящий отпуск.,5.125,5.0,coordination,stimul,20,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Осенью они с Костей засушивают кленовые листья.,5.75,6.0,coordination,stimul,10,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Зимой вы с Диане кормите городских птиц.,1.4285714285714286,1.0,bad,filler,28,bad,,
+Manina_2022_1,Часто вы с ним считаете калорийность блюд.,5.0,5.0,good,filler,28,good,,
+Manina_2022_1,Сейчас Кеша и Ксюша сочиняете неплохие стихи.,1.987951807228916,2.0,bad,filler,28,bad,,
+Manina_2022_1,Вечером он со Стёпой слушает иностранные песни.,5.714285714285714,6.0,coordination,stimul,18,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Летом он и Настя делают холодные коктейли.,4.375,4.0,coordination,stimul,23,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Сегодня они с Максимом рисуют эскизы костюмов.,6.666666666666667,7.0,coordination,stimul,26,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Сегодня мы с Дашей празднуем рождение дочери.,6.285714285714286,6.0,coordination,stimul,24,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто я с Леной посещаю Дворец Творчества.,5.125,5.0,coordination,stimul,25,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Вечером вы со Стёпой слушаете иностранные песни.,5.375,5.0,coordination,stimul,18,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Скоро ты с Серёжей получаешь первую зарплату.,3.4285714285714284,3.0,coordination,stimul,17,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Сегодня он и Даша празднуют рождение дочери.,5.4,5.0,coordination,stimul,24,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Весной я и Таня покупаем новую одежду.,5.266666666666667,5.0,coordination,stimul,5,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Весной ты и Ксюша планируете предстоящий отпуск.,3.857142857142857,4.0,coordination,stimul,20,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Обычно мы с Люсей находим верное решение.,6.428571428571429,6.0,coordination,stimul,8,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Завтра вы с Лизой измеряете скорость чтения.,5.857142857142857,6.0,coordination,stimul,14,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Весной я с Ксюшей планирую предстоящий отпуск.,6.571428571428571,7.0,coordination,stimul,20,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Обычно я и Люся находим верное решение.,5.6,6.0,coordination,stimul,8,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Летом вы с Даша посещаете ночные кинопоказы.,1.9397590361445785,2.0,bad,filler,28,bad,,
+Manina_2022_1,Зимой он и Саша пропивают курс витаминов.,4.142857142857143,4.0,coordination,stimul,4,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Обычно я и Соня осознаём возможные риски.,6.5,6.0,coordination,stimul,15,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Утром ты с Сашей обсуждаете планы занятий.,3.333333333333333,3.0,coordination,stimul,9,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Сейчас ты и Дима снимаете скромную квартиру.,4.533333333333333,5.0,coordination,stimul,12,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Обычно ты с Люсей находишь верное решение.,5.142857142857143,5.0,coordination,stimul,8,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Утром мы с Даней решаем задачи менеджмента.,5.125,5.0,coordination,stimul,19,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто я и Ваня нарушаем приказы начальства.,6.142857142857143,6.0,coordination,stimul,16,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Вечером вы с Петей отправляете очередное письмо.,4.125,4.0,coordination,stimul,3,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Осенью он с Костей засушивает кленовые листья.,6.166666666666667,6.0,coordination,stimul,10,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Часто вы с Ваней нарушаете приказы начальства.,5.857142857142857,6.0,coordination,stimul,16,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Летом мы с Настей делаем холодные коктейли.,5.666666666666667,6.0,coordination,stimul,23,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сегодня я с Максимом рисую эскизы костюмов.,5.818181818181818,6.0,coordination,stimul,26,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Скоро мы с Галю подаём патентную заявку.,1.7738095238095235,2.0,bad,filler,28,bad,,
+Manina_2022_1,Теперь мы с Димой изучаем законы Ньютона.,6.416666666666667,6.0,coordination,stimul,6,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Завтра ты с Борей исполняешь вариации Баха.,5.133333333333334,5.0,coordination,stimul,1,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Обычно ты с Соней осознаёшь возможные риски.,5.0,5.0,coordination,stimul,15,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Часто мы с Леной посещаем Дворец Творчества.,5.714285714285714,6.0,coordination,stimul,25,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Завтра вы с Никитой заполняете бумаги дедушки.,5.333333333333333,5.0,coordination,stimul,27,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Часто ты и Ваня нарушаете приказы начальства.,3.6666666666666665,4.0,coordination,stimul,16,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Летом я с Дианой проверяю состояние водоёмов.,5.571428571428571,6.0,coordination,stimul,13,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Завтра ты с Никитой заполняешь бумаги дедушки.,5.142857142857143,5.0,coordination,stimul,27,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Утром Поля и Света репетируют полонез Огинского.,5.975903614457831,6.0,good,filler,28,good,,
+Manina_2022_1,Сегодня ты с Дашей празднуешь рождение дочери.,5.363636363636363,5.0,coordination,stimul,24,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Теперь я с Юлей пишу детскую книжку.,5.714285714285714,6.0,coordination,stimul,11,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Сегодня ты и Максим рисуете эскизы костюмов.,3.9,4.0,coordination,stimul,26,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Вечером ты со Стёпой слушаешь иностранные песни.,5.0,5.0,coordination,stimul,18,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Осенью Лёша и Андрей сушишь целебные травы.,1.6666666666666667,2.0,bad,filler,28,bad,,
+Manina_2022_1,Зимой я и Света читаем рассказы Брэдбери.,5.142857142857143,5.0,coordination,stimul,21,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Часто он с Леной посещает Дворец Творчества.,5.25,5.0,coordination,stimul,25,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Сегодня они с Юля презентуют очередной проект.,2.6904761904761907,3.0,bad,filler,28,bad,,
+Manina_2022_1,Завтра вы с ней снимаете рекламный ролик.,5.158536585365853,5.0,good,filler,28,good,,
+Manina_2022_1,Осенью мы с Женей разбираем пыльные антресоли.,6.0,6.0,coordination,stimul,22,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сейчас ты с Викой готовишь маленький сюрприз.,4.9,5.0,coordination,stimul,7,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Обычно я с Соней осознаю возможные риски.,4.5,4.0,coordination,stimul,15,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Теперь вы с ними пишете сценарий праздника.,5.125,5.0,good,filler,28,good,,
+Manina_2022_1,Осенью вы с Женей разбираете пыльные антресоли.,5.454545454545454,5.0,coordination,stimul,22,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Скоро мы с Серёжей получаем первую зарплату.,5.571428571428571,6.0,coordination,stimul,17,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Зимой он с Сашей пропивает курс витаминов.,4.8,5.0,coordination,stimul,4,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Осенью они с Женей разбирают пыльные антресоли.,5.285714285714286,5.0,coordination,stimul,22,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Весной мы с Ксюшей планируем предстоящий отпуск.,5.2,5.0,coordination,stimul,20,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Обычно он и Соня осознают возможные риски.,5.1,5.0,coordination,stimul,15,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Зимой ты со Светой читаешь рассказы Брэдбери.,4.285714285714286,4.0,coordination,stimul,21,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Обычно я с Люсей нахожу верное решение.,5.25,5.0,coordination,stimul,8,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Осенью мы с Костей засушиваем кленовые листья.,5.625,6.0,coordination,stimul,10,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сейчас мы с Викой готовим маленький сюрприз.,6.142857142857143,6.0,coordination,stimul,7,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сейчас он с Викой готовит маленький сюрприз.,4.636363636363637,5.0,coordination,stimul,7,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Летом я и Настя делаем холодные коктейли.,5.285714285714286,5.0,coordination,stimul,23,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Осенью ты и Женя разбираете пыльные антресоли.,4.0,4.0,coordination,stimul,22,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Теперь я и Дима изучаем законы Ньютона.,5.571428571428571,6.0,coordination,stimul,6,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Утром я с Сашей обсуждаю планы занятий.,5.428571428571429,5.0,coordination,stimul,9,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Осенью они с Жанны начинают сбор макулатуры.,1.6666666666666667,2.0,bad,filler,28,bad,,
+Manina_2022_1,Осенью вы с Костей засушиваете кленовые листья.,5.5,6.0,coordination,stimul,10,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Теперь Даня и Алиса повторяют формулы Виета.,5.964285714285714,6.0,bad,filler,28,bad,,
+Manina_2022_1,Зимой ты и Света читаете рассказы Брэдбери.,4.4,4.0,coordination,stimul,21,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Теперь вы с Юлей пишете детскую книжку.,5.5,6.0,coordination,stimul,11,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Вечером ты и Стёпа слушаете иностранные песни.,4.5,4.0,coordination,stimul,18,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Часто ты с Леной посещаешь Дворец Творчества.,6.0,6.0,coordination,stimul,25,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Утром я и Саша обсуждаем планы занятий.,3.625,4.0,coordination,stimul,9,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Обычно они с Люсей находят верное решение.,6.25,6.0,coordination,stimul,8,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Скоро он и Серёжа получают первую зарплату.,4.454545454545454,4.0,coordination,stimul,17,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Теперь мы с Юлей пишем детскую книжку.,6.1,6.0,coordination,stimul,11,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто мы с Катей танцуем финское танго.,6.0,6.0,coordination,stimul,2,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Весной мы с ним устраиваем большую вечеринку.,5.512195121951219,6.0,good,filler,28,good,,
+Manina_2022_1,Теперь ты с Димой изучаешь законы Ньютона.,4.75,5.0,coordination,stimul,6,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Зимой мы с Сашей пропиваем курс витаминов.,6.125,6.0,coordination,stimul,4,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто они с Катей танцуют финское танго.,6.375,6.0,coordination,stimul,2,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Летом он и Диана проверяют состояние водоёмов.,5.833333333333333,6.0,coordination,stimul,13,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Утром он с Даней решает задачи менеджмента.,6.0,6.0,coordination,stimul,19,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Весной ты с Ксюшей планируешь предстоящий отпуск.,5.166666666666667,5.0,coordination,stimul,20,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Вечером я со Стёпой слушаю иностранные песни.,5.428571428571429,5.0,coordination,stimul,18,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Вечером ты и Петя отправляете очередное письмо.,4.833333333333333,5.0,coordination,stimul,3,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Сегодня он с Максимом рисует эскизы костюмов.,5.428571428571429,5.0,coordination,stimul,26,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Часто он и Ваня нарушают приказы начальства.,5.125,5.0,coordination,stimul,16,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Сегодня ты с Максимом рисует эскизы костюмов.,1.8333333333333333,2.0,coordination,stimul,26,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Завтра они с Никитой заполняют бумаги дедушки.,5.375,5.0,coordination,stimul,27,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Летом я и Диана проверяем состояние водоёмов.,5.666666666666667,6.0,coordination,stimul,13,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Теперь он и Дима изучают законы Ньютона.,5.0,5.0,coordination,stimul,6,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Теперь я с Димой изучаю законы Ньютона.,5.3,5.0,coordination,stimul,6,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Завтра мы с Лизой измеряем скорость чтения.,5.416666666666667,5.0,coordination,stimul,14,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Часто я и Лена посещаем Дворец Творчества.,5.833333333333333,6.0,coordination,stimul,25,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Теперь ты с Юлей пишешь детскую книжку.,5.5,6.0,coordination,stimul,11,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Сегодня вы с Максимом рисуете эскизы костюмов.,5.285714285714286,5.0,coordination,stimul,26,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Вечером они с Петей отправляют очередное письмо.,4.8,5.0,coordination,stimul,3,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Теперь Лера и Ника благодарят родителям.,2.1785714285714284,2.0,bad,filler,28,bad,,
+Manina_2022_1,Сегодня он с Дашей празднуют рождение дочери.,3.6666666666666665,4.0,coordination,stimul,24,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Скоро ты и Серёжа получаете первую зарплату.,3.375,3.0,coordination,stimul,17,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Весной вы с Ксюшей планируете предстоящий отпуск.,3.75,4.0,coordination,stimul,20,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Сегодня Лёня и Марта печатают раздаточный материал.,5.814814814814815,6.0,good,filler,28,good,,
+Manina_2022_1,Обычно вы с Соней осознаёте возможные риски.,5.733333333333333,6.0,coordination,stimul,15,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Завтра они с Карина оценивают доклады участников.,1.6666666666666667,2.0,bad,filler,28,bad,,
+Manina_2022_1,Часто он и Катя танцуют финское танго.,5.142857142857143,5.0,coordination,stimul,2,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Летом я с Настей делаю холодные коктейли.,5.2,5.0,coordination,stimul,23,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Завтра вы с Борей исполняете вариации Баха.,5.125,5.0,coordination,stimul,1,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Завтра я с Лизой измеряю скорость чтения.,5.0,5.0,coordination,stimul,14,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Сегодня я и Максим рисуем эскизы костюмов.,5.142857142857143,5.0,coordination,stimul,26,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Утром они с Сашей обсуждают планы занятий.,6.0,6.0,coordination,stimul,9,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Скоро я и Серёжа получаем первую зарплату.,4.0,4.0,coordination,stimul,17,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Утром я и Даня решаем задачи менеджмента.,5.545454545454546,6.0,coordination,stimul,19,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Весной ты и Таня покупаете новую одежду.,4.428571428571429,4.0,coordination,stimul,5,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Утром Надя и Игорь бегаешь километровый кросс.,1.6746987951807228,2.0,bad,filler,28,bad,,
+Manina_2022_1,Вечером Тася и Кирилл анализируют биржевые котировки.,5.975609756097561,6.0,good,filler,28,good,,
+Manina_2022_1,Вечером они со Стёпой слушают иностранные песни.,6.1,6.0,coordination,stimul,18,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Теперь я и Юля пишем детскую книжку.,5.5,6.0,coordination,stimul,11,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Весной он и Ксюша планируют предстоящий отпуск.,4.846153846153846,5.0,coordination,stimul,20,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Осенью он и Костя засушивают кленовые листья.,5.285714285714286,5.0,coordination,stimul,10,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Вечером я и Петя отправляем очередное письмо.,5.416666666666667,5.0,coordination,stimul,3,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Теперь вы с Димой изучаете законы Ньютона.,5.571428571428571,6.0,coordination,stimul,6,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Сейчас они с Димой снимают скромную квартиру.,5.75,6.0,coordination,stimul,12,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Теперь он и Юля пишут детскую книжку.,4.533333333333333,5.0,coordination,stimul,11,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто он с Катей танцует финское танго.,6.0,6.0,coordination,stimul,2,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Сегодня мы с Максимом рисуем эскизы костюмов.,6.266666666666667,6.0,coordination,stimul,26,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Завтра я с Никитой заполняем бумаги дедушки.,3.8333333333333335,4.0,coordination,stimul,27,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Сегодня вы с Дашей празднуете рождение дочери.,5.2,5.0,coordination,stimul,24,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Осенью ты и Костя засушиваете кленовые листья.,4.416666666666667,4.0,coordination,stimul,10,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Скоро мы с тобой увольняем половину работников.,3.903614457831325,4.0,good,filler,28,good,,
+Manina_2022_1,Часто я с Ваней нарушаю приказы начальства.,5.454545454545454,5.0,coordination,stimul,16,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Зимой он со Светой читает рассказы Брэдбери.,4.777777777777778,5.0,coordination,stimul,21,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Летом Люда и Валя устраивают домашний спа-салон.,5.950617283950617,6.0,good,filler,28,good,,
+Manina_2022_1,Зимой вы со Светой читаете рассказы Брэдбери.,5.0,5.0,coordination,stimul,21,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Завтра он и Лиза измеряют скорость чтения.,4.25,4.0,coordination,stimul,14,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Утром они с Даней решают задачи менеджмента.,6.0,6.0,coordination,stimul,19,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Сейчас мы с Димой снимаем скромную квартиру.,6.75,7.0,coordination,stimul,12,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Завтра мы с Борей исполняем вариации Баха.,6.0,6.0,coordination,stimul,1,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Осенью он с Женей разбирает пыльные антресоли.,4.5,4.0,coordination,stimul,22,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Часто ты и Лена посещаете Дворец Творчества.,3.625,4.0,coordination,stimul,25,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Сейчас вы с Викой готовите маленький сюрприз.,5.133333333333334,5.0,coordination,stimul,7,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Вечером он и Стёпа слушают иностранные песни.,5.416666666666667,5.0,coordination,stimul,18,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто я и Катя танцуем финское танго.,5.181818181818182,5.0,coordination,stimul,2,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Часто ты с Ваней нарушаешь приказы начальства.,4.416666666666667,4.0,coordination,stimul,16,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Летом вы с Дианой проверяете состояние водоёмов.,5.25,5.0,coordination,stimul,13,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Завтра и я Боря исполняем вариации Баха.,3.375,3.0,coordination,stimul,1,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Утром ты с Даней решаешь задачи менеджмента.,4.857142857142857,5.0,coordination,stimul,19,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Утром вы с Сашей обсуждаете планы занятий.,5.428571428571429,5.0,coordination,stimul,9,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Весной я и Ксюша планируем предстоящий отпуск.,5.583333333333333,6.0,coordination,stimul,20,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Завтра он с Лизой измеряет скорость чтения.,3.272727272727273,3.0,coordination,stimul,14,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Летом ты с Настей делаешь холодные коктейли.,3.375,3.0,coordination,stimul,23,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Часто я с Катей танцую финское танго.,5.6,6.0,coordination,stimul,2,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Обычно Таня и Артём проверяют работы школьников.,6.289156626506024,6.0,good,filler,28,good,,
+Manina_2022_1,Утром мы с Сашей обсуждаем планы занятий.,6.666666666666667,7.0,coordination,stimul,9,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сейчас они с Викой готовят маленький сюрприз.,6.428571428571429,6.0,coordination,stimul,7,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Завтра он и Боря исполняют вариации Баха.,4.416666666666667,4.0,coordination,stimul,1,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Сегодня ты и Даша празднуете рождение дочери.,4.142857142857143,4.0,coordination,stimul,24,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Теперь ты и Дима изучаете законы Ньютона.,6.166666666666667,6.0,coordination,stimul,6,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Часто мы с Ваней нарушаем приказы начальства.,5.642857142857143,6.0,coordination,stimul,16,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Весной мы с Таней покупаем новую одежду.,5.727272727272728,6.0,coordination,stimul,5,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Обычно он с Люсей находит верное решение.,4.333333333333333,4.0,coordination,stimul,8,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Завтра ты и Лиза измеряете скорость чтения.,5.5,6.0,coordination,stimul,14,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Осенью я с Женей разбираю пыльные антресоли.,5.25,5.0,coordination,stimul,22,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Весной вы с Таней покупаете новую одежду.,4.666666666666667,5.0,coordination,stimul,5,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Весной вы с ним продаёте акции Сбербанка.,4.481481481481482,4.0,good,filler,28,good,,
+Manina_2022_1,Обычно он и Люся находят верное решение.,5.909090909090909,6.0,coordination,stimul,8,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Завтра они с Борей исполняют вариации Баха.,5.8,6.0,coordination,stimul,1,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Сейчас ты и Вика готовите маленький сюрприз.,4.75,5.0,coordination,stimul,7,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Зимой я со Светой читаю рассказы Брэдбери.,5.333333333333333,5.0,coordination,stimul,21,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Утром он с Сашей обсуждают планы занятий.,4.0,4.0,coordination,stimul,9,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Вечером я с Петей отправляю очередное письмо.,5.714285714285714,6.0,coordination,stimul,3,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Обычно Рома и Матвей чистите снежные завалы.,1.75,2.0,bad,filler,28,bad,,
+Manina_2022_1,Весной он с Таней покупает новую одежду.,4.5,4.0,coordination,stimul,5,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Скоро вы с Серёжей получаете первую зарплату.,4.0,4.0,coordination,stimul,17,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Утром вы с Даней решаете задачи менеджмента.,5.8,6.0,coordination,stimul,19,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Обычно мы с Петю переводим диалоги дипломатов.,1.511904761904762,2.0,bad,filler,28,bad,,
+Manina_2022_1,Обычно ты и Соня осознаёте возможные риски.,4.875,5.0,coordination,stimul,15,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Летом ты и Диана проверяете состояние водоёмов.,3.2857142857142856,3.0,coordination,stimul,13,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Летом мы с Дианой проверяем состояние водоёмов.,6.4,6.0,coordination,stimul,13,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Осенью ты с Женей разбираешь пыльные антресоли.,5.0,5.0,coordination,stimul,22,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Завтра ты и Боря исполняете вариации Баха.,4.636363636363637,5.0,coordination,stimul,1,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Летом они с Дианой проверяют состояние водоёмов.,6.285714285714286,6.0,coordination,stimul,13,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Весной они с Ксюшей планируют предстоящий отпуск.,5.8,6.0,coordination,stimul,20,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Весной ты с Таней покупаешь новую одежду.,4.0,4.0,coordination,stimul,5,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Завтра я и Никита заполняем бумаги дедушки.,4.555555555555555,5.0,coordination,stimul,27,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Летом он с Настей делает холодные коктейли.,5.090909090909091,5.0,coordination,stimul,23,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Осенью я и Женя разбираем пыльные антресоли.,5.461538461538462,5.0,coordination,stimul,22,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Весной я с Таней покупаю новую одежду.,5.25,5.0,coordination,stimul,5,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Сейчас ты с Димой снимаешь скромную квартиру.,5.75,6.0,coordination,stimul,12,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Зимой они со Светой читают рассказы Брэдбери.,6.333333333333333,6.0,coordination,stimul,21,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Теперь вы с Полине доказываете теорему Гёделя.,1.5833333333333333,2.0,bad,filler,28,bad,,
+Manina_2022_1,Осенью я с Костей засушиваю кленовые листья.,4.714285714285714,5.0,coordination,stimul,10,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Сейчас Митя и Слава изобретают разные лекарства.,5.72289156626506,6.0,good,filler,28,good,,
+Manina_2022_1,Часто они с Ваней нарушают приказы начальства.,6.333333333333333,6.0,coordination,stimul,16,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Скоро Вася и Алина получают туристическую визу.,4.333333333333333,4.0,good,filler,28,good,,
+Manina_2022_1,Вечером Глеб и Ксюша включает старые пластинки.,2.8313253012048194,3.0,bad,filler,28,bad,,
+Manina_2022_1,Зимой вы с Сашей пропиваете курс витаминов.,4.909090909090909,5.0,coordination,stimul,4,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Весной Лада и Олег убирает кабинет отца.,2.463414634146341,2.0,bad,filler,28,bad,,
+Manina_2022_1,Завтра ты и Никита заполняешь бумаги дедушки.,2.75,3.0,coordination,stimul,27,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Завтра они с Лизой измеряют скорость чтения.,4.933333333333334,5.0,coordination,stimul,14,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Скоро он с Серёжей получает первую зарплату.,2.333333333333333,2.0,coordination,stimul,17,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Теперь они с Юлей пишут детскую книжку.,6.181818181818182,6.0,coordination,stimul,11,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Теперь он с Юлей пишет детскую книжку.,5.125,5.0,coordination,stimul,11,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Сейчас я с Викой готовлю маленький сюрприз.,4.0,4.0,coordination,stimul,7,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Завтра я и Лиза измеряем скорость чтения.,4.857142857142857,5.0,coordination,stimul,14,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Завтра он с Никитой заполняет бумаги дедушки.,4.066666666666666,4.0,coordination,stimul,27,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Часто ты с Катей танцуешь финское танго.,4.714285714285714,5.0,coordination,stimul,2,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Зимой Лёва и Арина вырезают бумажные снежинки.,6.308641975308642,6.0,good,filler,28,good,,
+Manina_2022_1,Вечером мы со Стёпой слушаем иностранные песни.,5.833333333333333,6.0,coordination,stimul,18,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Сейчас он с Димой снимает скромную квартиру.,5.3,5.0,coordination,stimul,12,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Теперь ты и Юля пишете детскую книжку.,3.7142857142857135,4.0,coordination,stimul,11,"conjunction, 2nd person pronoun",conjunction,2nd person pronoun
+Manina_2022_1,Летом вы с ним чините автомобиль папы.,4.857142857142857,5.0,good,filler,28,good,,
+Manina_2022_1,Сегодня я и Даша празднуем рождение дочери.,5.666666666666667,6.0,coordination,stimul,24,"conjunction, 1st person pronoun",conjunction,1st person pronoun
+Manina_2022_1,Осенью ты с Костей засушиваешь кленовые листья.,4.857142857142857,5.0,coordination,stimul,10,"comitative, 2nd person pronoun",comitative,2nd person pronoun
+Manina_2022_1,Сегодня я с Дашей праздную рождение дочери.,3.7142857142857135,4.0,coordination,stimul,24,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Обычно вы с Люсей находите верное решение.,6.166666666666667,6.0,coordination,stimul,8,"inclusory comitative, 2nd person pronoun",inclusory comitative,2nd person pronoun
+Manina_2022_1,Летом он с Дианой проверяет состояние водоёмов.,4.0,4.0,coordination,stimul,13,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Утром я с Даней решаю задачи менеджмента.,5.333333333333333,5.0,coordination,stimul,19,"comitative, 1st person pronoun",comitative,1st person pronoun
+Manina_2022_1,Осенью он и Женя разбирают пыльные антресоли.,6.333333333333333,6.0,coordination,stimul,22,"conjunction, 3rd person pronoun",conjunction,3rd person pronoun
+Manina_2022_1,Часто мы с ней смотрим семейные фотографии.,5.892857142857143,6.0,good,filler,28,good,,
+Manina_2022_1,Вечером мы с Петей отправляем очередное письмо.,5.9,6.0,coordination,stimul,3,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun
+Manina_2022_1,Теперь они с Димой изучают законы Ньютона.,5.666666666666667,6.0,coordination,stimul,6,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Зимой они с Сашей пропивают курс витаминов.,5.666666666666667,6.0,coordination,stimul,4,"inclusory comitative, 3rd person pronoun",inclusory comitative,3rd person pronoun
+Manina_2022_1,Обычно он с Соней осознаёт возможные риски.,4.583333333333333,5.0,coordination,stimul,15,"comitative, 3rd person pronoun",comitative,3rd person pronoun
+Manina_2022_1,Сейчас они с Оксана исследуют проблемы экономики.,1.5595238095238095,2.0,bad,filler,28,bad,,
+Manina_2022_1,Обычно мы с Соней осознаём возможные риски.,6.166666666666667,6.0,coordination,stimul,15,"inclusory comitative, 1st person pronoun",inclusory comitative,1st person pronoun

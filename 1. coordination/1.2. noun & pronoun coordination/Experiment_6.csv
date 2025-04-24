@@ -1,0 +1,289 @@
+author,sentence,response,response_round,subtype,type,lexicalization,condition,agreement,conjunction
+Davidjuk_2023_3,"Или я, или Егор прочитает эту вводную лекцию.",5.0,5.0,coordination,stimul,6,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Гена раскроет это подлое преступление.,4.2,4.0,coordination,stimul,23,"3sg, or",3sg,or
+Davidjuk_2023_3,Андрей наденет эту тёплую куртку.,6.2625,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Дима послушаю это голосовое сообщение.",3.5,4.0,coordination,stimul,5,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Илья выполнит это срочное задание.,4.3,4.0,coordination,stimul,7,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Вадим соберут этот нужный материал.",3.3,3.0,coordination,stimul,9,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Егор прочитаю эту вводную лекцию.",2.1,2.0,coordination,stimul,6,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Егор прочитаем эту вводную лекцию.,5.2,5.0,coordination,stimul,6,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Митя составит этот длинный список.",3.3,3.0,coordination,stimul,29,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Лёва произнесёт эту торжественную речь.,3.6,4.0,coordination,stimul,30,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Олег подпишу это деловое соглашение.,3.5,4.0,coordination,stimul,17,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Гоша начнут этот непростой разговор.",3.4,3.0,coordination,stimul,28,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Федя выиграем этот теннисный турнир.",4.2,4.0,coordination,stimul,26,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Миша или Федя поймаем эту крупную рыбу.,2.7088607594936707,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Кирилл прополем эту капустную грядку.",4.7,5.0,coordination,stimul,10,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Никита побелим этот высокий потолок.,6.2,6.0,coordination,stimul,20,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Боря закончим эту шахматную партию.",4.3,4.0,coordination,stimul,27,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Паша посетим этот научный семинар.,6.111111111111111,6.0,coordination,stimul,16,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Слава купит эту известную картину.,3.1,3.0,coordination,stimul,19,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Максим приобретёт этот старинный дом.",3.2,3.0,coordination,stimul,22,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Дима или Ваня протрём эту грязную полку.,2.6202531645569622,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Никита внесу этот небольшой аванс.",3.3,3.0,coordination,stimul,14,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Стёпа исполнит эту оперную арию.",2.7,3.0,coordination,stimul,4,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Яша запишет этот почтовую адрес.,2.925,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Максим приобретут этот старинный дом.",3.7,4.0,coordination,stimul,22,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Юра устрою этот детский праздник.,4.2,4.0,coordination,stimul,12,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Ваня отправим это заказное письмо.,4.9,5.0,coordination,stimul,18,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Вася проведёт это экстренное совещание.,3.3,3.0,coordination,stimul,1,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Слава купят эту известную картину.",2.2,2.0,coordination,stimul,19,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Костя расскажем эту интересную историю.",4.666666666666667,5.0,coordination,stimul,8,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Петя поднимет этот важный вопрос.",3.5,4.0,coordination,stimul,15,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Кирилл прополет эту капустную грядку.,4.1,4.0,coordination,stimul,10,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Вова споём эту весёлую песню.,4.7,5.0,coordination,stimul,3,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Слава купим эту известную картину.,5.9,6.0,coordination,stimul,19,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Илья выполнят это срочное задание.,3.25,3.0,coordination,stimul,7,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Дима послушаем это голосовое сообщение.,4.7,5.0,coordination,stimul,5,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Петя поднимут этот важный вопрос.,2.7,3.0,coordination,stimul,15,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Ваня отправят это заказное письмо.,3.3,3.0,coordination,stimul,18,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Максим приобретём этот старинный дом.,4.7,5.0,coordination,stimul,22,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Федя выиграет этот теннисный турнир.",3.6,4.0,coordination,stimul,26,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Гриша переведут эту английскую фразу.,3.7,4.0,coordination,stimul,25,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Яша закажу этот дорогой десерт.,1.8,2.0,coordination,stimul,24,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Вова споёт эту весёлую песню.,3.1,3.0,coordination,stimul,3,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Боря закончат эту шахматную партию.,3.0,3.0,coordination,stimul,27,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Гена раскрою это подлое преступление.",2.5,2.0,coordination,stimul,23,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Влад покрасят этот новый забор.",4.1,4.0,coordination,stimul,21,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Вова спою эту весёлую песню.",2.9,3.0,coordination,stimul,3,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Гена раскрою эту подлое преступление.,2.0,2.0,coordination,stimul,23,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Вася проведу это экстренное совещание.,4.0,4.0,coordination,stimul,1,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Гриша переведёт эту английскую фразу.,4.0,4.0,coordination,stimul,25,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Слава купят эту известную картину.,3.2,3.0,coordination,stimul,19,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Яша закажет этот дорогой десерт.,2.3,2.0,coordination,stimul,24,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Паша посетит этот научный семинар.",3.4,3.0,coordination,stimul,16,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Митя составят этот длинный список.,2.4,2.0,coordination,stimul,29,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Егор прочитает эту вводную лекцию.,3.7777777777777777,4.0,coordination,stimul,6,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Игорь совершу это далёкое путешествие.,2.571428571428572,3.0,coordination,stimul,13,"1sg, or",1sg,or
+Davidjuk_2023_3,Максим продаст шкаф или кровать.,6.2125,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Боря закончит эту шахматную партию.",3.8,4.0,coordination,stimul,27,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Олег подпишет это деловое соглашение.",3.6,4.0,coordination,stimul,17,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Лёва произнесём эту торжественную речь.",4.6,5.0,coordination,stimul,30,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Костя расскажут эту интересную историю.",3.4444444444444446,3.0,coordination,stimul,8,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Митя составят этот длинный список.",3.5,4.0,coordination,stimul,29,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Вова споют эту весёлую песню.",3.2,3.0,coordination,stimul,3,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Лёва произнесём эту торжественную речь.,4.8,5.0,coordination,stimul,30,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Вася проведём это экстренное совещание.,3.125,3.0,coordination,stimul,1,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Яша закажут этот дорогой десерт.,2.9,3.0,coordination,stimul,24,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Вася проведёт это экстренное совещание.",2.7,3.0,coordination,stimul,1,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Миша сдаст этот вступительный экзамен.,6.2405063291139244,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Олег подпишем это деловое соглашение.",4.8,5.0,coordination,stimul,17,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Ваня отправят это заказное письмо.",3.7777777777777777,4.0,coordination,stimul,18,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Вадим соберём этот нужный материал.",4.1,4.0,coordination,stimul,9,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Митя составлю этот длинный список.,3.3,3.0,coordination,stimul,29,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Лёва решат эту сложную задачу.",4.3,4.0,coordination,stimul,11,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Слава купим эту известную картину.",4.5,4.0,coordination,stimul,19,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Гриша переведут эту английскую фразу.",2.3,2.0,coordination,stimul,25,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Вася проведу это экстренное совещание.",3.2,3.0,coordination,stimul,1,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Никита внесут этот небольшой аванс.,3.6666666666666665,4.0,coordination,stimul,14,"3pl, or",3pl,or
+Davidjuk_2023_3,Кирилл взвесит посылку или бандероль.,6.3,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Вася получит медаль или кубок.,6.325,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Лёва произнесёт эту торжественную речь.",3.6,4.0,coordination,stimul,30,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Миша исправлю эту случайную ошибку.",2.6,3.0,coordination,stimul,31,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Федя выиграю этот теннисный турнир.",2.8,3.0,coordination,stimul,26,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Миша исправит эту случайную ошибку.,5.0,5.0,coordination,stimul,31,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Слава купит эту известную картину.",4.6,5.0,coordination,stimul,19,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Митя составим этот длинный список.,5.3,5.0,coordination,stimul,29,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Никита побелю этот высокий потолок.",2.571428571428572,3.0,coordination,stimul,20,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Вася проведём это экстренное совещание.",4.7,5.0,coordination,stimul,1,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Саша отнесу это тяжёлое ведро.,2.1,2.0,coordination,stimul,32,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Никита внесём этот небольшой аванс.",4.5,4.0,coordination,stimul,14,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Олег подпишут это деловое соглашение.,3.6,4.0,coordination,stimul,17,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Федя выиграем этот теннисный турнир.,4.8,5.0,coordination,stimul,26,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Стёпа исполним эту оперную арию.",5.222222222222222,5.0,coordination,stimul,4,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Федя подметёт этот пыльную пол.,2.1,2.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Я или Кирилл прополю эту капустную грядку.,2.333333333333333,2.0,coordination,stimul,10,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Илья выполнят это срочное задание.",2.555555555555556,3.0,coordination,stimul,7,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Яша закажем этот дорогой десерт.",4.666666666666667,5.0,coordination,stimul,24,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Петя поднимем этот важный вопрос.,4.4,4.0,coordination,stimul,15,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Гриша переведём эту английскую фразу.",4.5,4.0,coordination,stimul,25,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Егор прочитают эту вводную лекцию.,3.8,4.0,coordination,stimul,6,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Федя выиграют этот теннисный турнир.",4.0,4.0,coordination,stimul,26,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Кирилл прополет эту капустную грядку.",3.2,3.0,coordination,stimul,10,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Стёпа исполню эту оперную арию.",2.6,3.0,coordination,stimul,4,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Максим окончит этот строительную колледж.,3.1,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Илья поделит этот родительский наследство.,1.675,2.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Я или Слава куплю эту известную картину.,3.2,3.0,coordination,stimul,19,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Гена раскроют это подлое преступление.",3.0,3.0,coordination,stimul,23,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Денис или Илья нарушим эти строгие сроки.,2.7375,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Митя составлю этот длинный список.",3.0,3.0,coordination,stimul,29,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Максим приобретёт этот старинный дом.,3.4,3.0,coordination,stimul,22,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Игорь совершим это далёкое путешествие.,4.7,5.0,coordination,stimul,13,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Паша посетит этот научный семинар.,2.6,3.0,coordination,stimul,16,"3sg, or",3sg,or
+Davidjuk_2023_3,"Витя пропустит или репетицию, или концерт.",5.063291139240507,5.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Паша посетим этот научный семинар.",4.6,5.0,coordination,stimul,16,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Гриша проверит этот математический расчёт.,6.012658227848101,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Яша закажет этот дорогой десерт.",3.7,4.0,coordination,stimul,24,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Лёва произнесу эту торжественную речь.,2.4,2.0,coordination,stimul,30,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Яша закажу этот дорогой десерт.",3.1,3.0,coordination,stimul,24,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Игорь совершат это далёкое путешествие.,2.3,2.0,coordination,stimul,13,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Лёва решим эту сложную задачу.",3.1,3.0,coordination,stimul,11,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или Саша, или Коля прочитаем это длинное письмо.",3.649350649350649,4.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Андрей увидят этот кукольный спектакль.",4.2,4.0,coordination,stimul,2,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Саша отнесу это тяжёлое ведро.",2.6,3.0,coordination,stimul,32,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Митя составим этот длинный список.",4.1,4.0,coordination,stimul,29,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Стёпа исполнят эту оперную арию.",2.888888888888889,3.0,coordination,stimul,4,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Гриша переведу эту английскую фразу.,3.2,3.0,coordination,stimul,25,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Вадим соберёт этот нужный материал.,3.3,3.0,coordination,stimul,9,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Гена раскроют это подлое преступление.,2.9,3.0,coordination,stimul,23,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Юра устроим этот детский праздник.",4.8,5.0,coordination,stimul,12,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Олег подпишет это деловое соглашение.,3.9,4.0,coordination,stimul,17,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Стёпа исполню эту оперную арию.,3.3,3.0,coordination,stimul,4,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Яша закажут этот дорогой десерт.",3.4,3.0,coordination,stimul,24,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Максим приобретём этот старинный дом.",4.6,5.0,coordination,stimul,22,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Гена раскроет это подлое преступление.",3.7,4.0,coordination,stimul,23,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Ваня напишет или реферат, или курсовую.",5.9,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Никита побелю этот высокий потолок.,3.0,3.0,coordination,stimul,20,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Саша отнесёт это тяжёлое ведро.",2.5,2.0,coordination,stimul,32,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Вадим соберут этот нужный материал.,4.2,4.0,coordination,stimul,9,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Влад покрасим этот новый забор.,4.666666666666667,5.0,coordination,stimul,21,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Паша посещу этот научный семинар.,1.9,2.0,coordination,stimul,16,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Дима послушаю это голосовое сообщение.,3.2222222222222223,3.0,coordination,stimul,5,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Лёва решат эту сложную задачу.,2.7,3.0,coordination,stimul,11,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Лёва произнесут эту торжественную речь.",4.666666666666667,5.0,coordination,stimul,30,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Игорь совершит это далёкое путешествие.,3.7777777777777777,4.0,coordination,stimul,13,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Никита внесут этот небольшой аванс.",3.9,4.0,coordination,stimul,14,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Лёва произнесут эту торжественную речь.,3.9,4.0,coordination,stimul,30,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Ваня отправим это заказное письмо.",3.1,3.0,coordination,stimul,18,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Гоша начнёт этот непростой разговор.",2.7,3.0,coordination,stimul,28,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Гена раскроем это подлое преступление.",5.7,6.0,coordination,stimul,23,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Ваня отправлю это заказное письмо.,2.1,2.0,coordination,stimul,18,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Петя поднимет этот важный вопрос.,4.4,4.0,coordination,stimul,15,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Вова спою эту весёлую песню.,3.7,4.0,coordination,stimul,3,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Игорь совершу это далёкое путешествие.",3.3,3.0,coordination,stimul,13,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Олег подпишут это деловое соглашение.",2.8,3.0,coordination,stimul,17,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Петя привлечёт эту молодой публику.,2.9743589743589745,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Я или Максим приобрету этот старинный дом.,2.0,2.0,coordination,stimul,22,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Дима послушает это голосовое сообщение.",3.6,4.0,coordination,stimul,5,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Федя выиграю этот теннисный турнир.,2.1,2.0,coordination,stimul,26,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Лёва решим эту сложную задачу.,5.1,5.0,coordination,stimul,11,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Вадим соберу этот нужный материал.,4.0,4.0,coordination,stimul,9,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Вова споём эту весёлую песню.",4.1,4.0,coordination,stimul,3,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Никита покрасит эту дубовую дверь.,6.417721518987341,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Ваня отправит это заказное письмо.,3.5,4.0,coordination,stimul,18,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Илья выполним это срочное задание.,4.9,5.0,coordination,stimul,7,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Андрей увидим этот кукольный спектакль.",3.8,4.0,coordination,stimul,2,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Артём раскритикует эту плохой картину.,3.1298701298701297,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Петя поднимем этот важный вопрос.",5.3,5.0,coordination,stimul,15,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или Вова, или Серёжа примем это непростое решение.",2.925,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Я или Петя подниму этот важный вопрос.,3.5,4.0,coordination,stimul,15,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Паша посетят этот научный семинар.",3.5,4.0,coordination,stimul,16,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Гриша переведу эту английскую фразу.",2.6,3.0,coordination,stimul,25,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Костя расскажет эту интересную историю.",3.5,4.0,coordination,stimul,8,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Влад покрасят этот новый забор.,2.8,3.0,coordination,stimul,21,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Никита внесу этот небольшой аванс.,2.333333333333333,2.0,coordination,stimul,14,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Илья выполню это срочное задание.,4.0,4.0,coordination,stimul,7,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Никита побелят этот высокий потолок.,3.5,4.0,coordination,stimul,20,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Вадим соберёт этот нужный материал.",3.5,4.0,coordination,stimul,9,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Рома скачает этот детективный сериал.,6.354430379746836,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Кеша заправит этот грузовую автомобиль.,2.85,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Вова споёт эту весёлую песню.",4.3,4.0,coordination,stimul,3,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Миша исправлю эту случайную ошибку.,2.6666666666666665,3.0,coordination,stimul,31,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Боря закончат эту шахматную партию.",2.5,2.0,coordination,stimul,27,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Юра устрою этот детский праздник.",2.2,2.0,coordination,stimul,12,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Гоша начну этот непростой разговор.",1.6,2.0,coordination,stimul,28,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Кирилл прополем эту капустную грядку.,4.8,5.0,coordination,stimul,10,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Гоша начнём этот непростой разговор.,5.6,6.0,coordination,stimul,28,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Миша исправим эту случайную ошибку.,4.888888888888889,5.0,coordination,stimul,31,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Саша отнесут это тяжёлое ведро.,3.1,3.0,coordination,stimul,32,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Вадим соберём этот нужный материал.,4.666666666666667,5.0,coordination,stimul,9,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Костя расскажу эту интересную историю.",3.1,3.0,coordination,stimul,8,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Боря закончу эту шахматную партию.,3.3,3.0,coordination,stimul,27,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Андрей увидим этот кукольный спектакль.,4.7,5.0,coordination,stimul,2,"1pl, or",1pl,or
+Davidjuk_2023_3,Митя приготовит этот сытный суп.,6.3375,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Федя выиграют этот теннисный турнир.,5.1,5.0,coordination,stimul,26,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Лёва решит эту сложную задачу.",4.7,5.0,coordination,stimul,11,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Юра устроят этот детский праздник.,4.1,4.0,coordination,stimul,12,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Лёва произнесу эту торжественную речь.",1.8,2.0,coordination,stimul,30,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Егор прочитаем эту вводную лекцию.",4.1,4.0,coordination,stimul,6,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Миша исправят эту случайную ошибку.,2.7,3.0,coordination,stimul,31,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Гена раскроем это подлое преступление.,5.1,5.0,coordination,stimul,23,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Дима послушаем это голосовое сообщение.",4.5,4.0,coordination,stimul,5,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Юра устроят этот детский праздник.",3.5,4.0,coordination,stimul,12,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Стёпа исполним эту оперную арию.,4.7,5.0,coordination,stimul,4,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Вова споют эту весёлую песню.,2.4,2.0,coordination,stimul,3,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Влад покрашу этот новый забор.",2.4,2.0,coordination,stimul,21,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Федя выиграет этот теннисный турнир.,3.6,4.0,coordination,stimul,26,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Юра устроим этот детский праздник.,5.8,6.0,coordination,stimul,12,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Миша исправит эту случайную ошибку.",3.3,3.0,coordination,stimul,31,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Гриша переведёт эту английскую фразу.",3.4,3.0,coordination,stimul,25,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Никита внесёт этот небольшой аванс.,3.555555555555556,4.0,coordination,stimul,14,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Саша отнесём это тяжёлое ведро.,4.7,5.0,coordination,stimul,32,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Лёва решу эту сложную задачу.,2.4444444444444446,2.0,coordination,stimul,11,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Ваня отправлю это заказное письмо.",2.3,2.0,coordination,stimul,18,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Егор прочитают эту вводную лекцию.",3.5,4.0,coordination,stimul,6,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Олег подпишу это деловое соглашение.",2.5,2.0,coordination,stimul,17,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Юра устроит этот детский праздник.,2.3,2.0,coordination,stimul,12,"3sg, or",3sg,or
+Davidjuk_2023_3,Володя посадит берёзу или тополь.,6.175,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Максим приобретут этот старинный дом.,4.5,4.0,coordination,stimul,22,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Гоша начнут этот непростой разговор.,3.6,4.0,coordination,stimul,28,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Дима послушают это голосовое сообщение.",3.3,3.0,coordination,stimul,5,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Никита побелит этот высокий потолок.,2.8,3.0,coordination,stimul,20,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Вася проведут это экстренное совещание.,3.9,4.0,coordination,stimul,1,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Костя расскажу эту интересную историю.,2.555555555555556,3.0,coordination,stimul,8,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Олег подпишем это деловое соглашение.,4.5,4.0,coordination,stimul,17,"1pl, or",1pl,or
+Davidjuk_2023_3,Я или Паша посетят этот научный семинар.,3.3,3.0,coordination,stimul,16,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Андрей увижу этот кукольный спектакль.",1.9,2.0,coordination,stimul,2,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Саша отнесут это тяжёлое ведро.",3.111111111111111,3.0,coordination,stimul,32,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Илья выполнит это срочное задание.",4.6,5.0,coordination,stimul,7,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Боря закончим эту шахматную партию.,5.8,6.0,coordination,stimul,27,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Андрей увидит этот кукольный спектакль.",3.5,4.0,coordination,stimul,2,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или Коля, или Гена испробуем этот новый метод.",3.0126582278481013,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Петя поднимут этот важный вопрос.",3.3,3.0,coordination,stimul,15,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Игорь совершим это далёкое путешествие.",3.8,4.0,coordination,stimul,13,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Гоша начнёт этот непростой разговор.,2.6666666666666665,3.0,coordination,stimul,28,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Миша исправим эту случайную ошибку.",5.666666666666667,6.0,coordination,stimul,31,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Митя составит этот длинный список.,3.6,4.0,coordination,stimul,29,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Гоша начнём этот непростой разговор.",4.3,4.0,coordination,stimul,28,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Вова подготовит или статью, или доклад.",5.725,6.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Боря закончу эту шахматную партию.",2.7,3.0,coordination,stimul,27,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Дима послушают это голосовое сообщение.,3.1,3.0,coordination,stimul,5,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Лёва решит эту сложную задачу.,3.2,3.0,coordination,stimul,11,"3sg, or",3sg,or
+Davidjuk_2023_3,Гоша или Боря осуществим эту давнюю мечту.,2.5375,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Слава куплю эту известную картину.",2.6,3.0,coordination,stimul,19,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Никита побелят этот высокий потолок.",2.888888888888889,3.0,coordination,stimul,20,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Миша исправят эту случайную ошибку.",2.7,3.0,coordination,stimul,31,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Андрей увидит этот кукольный спектакль.,3.6,4.0,coordination,stimul,2,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Илья выполним это срочное задание.",5.6,6.0,coordination,stimul,7,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или я, или Никита побелит этот высокий потолок.",2.6,3.0,coordination,stimul,20,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Вадим соберу этот нужный материал.",2.9,3.0,coordination,stimul,9,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Я или Стёпа исполнит эту оперную арию.,2.8,3.0,coordination,stimul,4,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Ваня отправит это заказное письмо.",4.1,4.0,coordination,stimul,18,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Или я, или Кирилл прополют эту капустную грядку.",4.1,4.0,coordination,stimul,10,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,"Или я, или Никита побелим этот высокий потолок.",4.8,5.0,coordination,stimul,20,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Андрей увижу этот кукольный спектакль.,2.3,2.0,coordination,stimul,2,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Вася проведут это экстренное совещание.",2.6,3.0,coordination,stimul,1,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Гриша переведём эту английскую фразу.,3.2,3.0,coordination,stimul,25,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Максим приобрету этот старинный дом.",1.7,2.0,coordination,stimul,22,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,Никита улучшит этот основную показатель.,2.2125,2.0,bad,filler,33,bad,,
+Davidjuk_2023_3,Я или Боря закончит эту шахматную партию.,3.2,3.0,coordination,stimul,27,"3sg, or",3sg,or
+Davidjuk_2023_3,Лёва оформит этот деловой договор.,6.468354430379747,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Стёпа исполнят эту оперную арию.,3.8,4.0,coordination,stimul,4,"3pl, or",3pl,or
+Davidjuk_2023_3,"Или я, или Илья выполню это срочное задание.",3.3,3.0,coordination,stimul,7,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Игорь совершит это далёкое путешествие.",3.0,3.0,coordination,stimul,13,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Егор прочитаю эту вводную лекцию.,2.6,3.0,coordination,stimul,6,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Костя расскажет эту интересную историю.,1.9,2.0,coordination,stimul,8,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Кирилл прополют эту капустную грядку.,4.0,4.0,coordination,stimul,10,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Дима послушает это голосовое сообщение.,4.1,4.0,coordination,stimul,5,"3sg, or",3sg,or
+Davidjuk_2023_3,"Или я, или Кирилл прополю эту капустную грядку.",2.5,2.0,coordination,stimul,10,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Игорь совершат это далёкое путешествие.",4.5,4.0,coordination,stimul,13,"3pl, or_or",3pl,or_or
+Davidjuk_2023_3,Я или Саша отнесёт это тяжёлое ведро.,2.1,2.0,coordination,stimul,32,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Яша закажем этот дорогой десерт.,4.9,5.0,coordination,stimul,24,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Влад покрасит этот новый забор.",3.2,3.0,coordination,stimul,21,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Гоша начну этот непростой разговор.,3.5,4.0,coordination,stimul,28,"1sg, or",1sg,or
+Davidjuk_2023_3,Я или Костя расскажут эту интересную историю.,3.9,4.0,coordination,stimul,8,"3pl, or",3pl,or
+Davidjuk_2023_3,Артём почистит этот резиновый сапог.,6.1125,6.0,good,filler,33,good,,
+Davidjuk_2023_3,Я или Влад покрасит этот новый забор.,3.3,3.0,coordination,stimul,21,"3sg, or",3sg,or
+Davidjuk_2023_3,Я или Андрей увидят этот кукольный спектакль.,3.0,3.0,coordination,stimul,2,"3pl, or",3pl,or
+Davidjuk_2023_3,Я или Влад покрашу этот новый забор.,2.1,2.0,coordination,stimul,21,"1sg, or",1sg,or
+Davidjuk_2023_3,"Или я, или Паша посещу этот научный семинар.",2.8,3.0,coordination,stimul,16,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Никита внесёт этот небольшой аванс.",3.8,4.0,coordination,stimul,14,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,Я или Никита внесём этот небольшой аванс.,4.9,5.0,coordination,stimul,14,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Юра устроит этот детский праздник.",2.8,3.0,coordination,stimul,12,"3sg, or_or",3sg,or_or
+Davidjuk_2023_3,"Яша составит или письмо, или телеграмму.",5.1625,5.0,good,filler,33,good,,
+Davidjuk_2023_3,"Или я, или Влад покрасим этот новый забор.",4.8,5.0,coordination,stimul,21,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,Я или Костя расскажем эту интересную историю.,4.6,5.0,coordination,stimul,8,"1pl, or",1pl,or
+Davidjuk_2023_3,"Или я, или Лёва решу эту сложную задачу.",2.8,3.0,coordination,stimul,11,"1sg, or_or",1sg,or_or
+Davidjuk_2023_3,"Или я, или Саша отнесём это тяжёлое ведро.",4.8,5.0,coordination,stimul,32,"1pl, or_or",1pl,or_or
+Davidjuk_2023_3,"Или Лёва, или Кирилл изучим эту научную статью.",3.207792207792208,3.0,bad,filler,33,bad,,
+Davidjuk_2023_3,"Или я, или Петя подниму этот важный вопрос.",2.5,2.0,coordination,stimul,15,"1sg, or_or",1sg,or_or
