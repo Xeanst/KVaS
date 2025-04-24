@@ -30,7 +30,7 @@
 - тип экспериментального условия в поле *condition*
 
 Файлы с грамматической разметкой доступны в папках соответствующих конструкций:
-- <a href="https://github.com/Xeanst/KVaS/tree/main/coordination">сочинительные конструкции</a>
+- <a href="https://github.com/Xeanst/KVaS/tree/main/1.%20coordination">сочинительные конструкции</a>
 - <a href="https://github.com/Xeanst/KVaS/tree/main/relative_clauses">конструкции с постпозитивным определительным предложением</a>
 - <a href="https://github.com/Xeanst/KVaS/tree/main/quantifier">конструкции с управляющими квантификаторами</a>
 - <a href="https://github.com/Xeanst/KVaS/tree/main/quantitative_nouns">конструкции с количественными существительными</a>
