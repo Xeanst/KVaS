@@ -1,0 +1,290 @@
+author,sentence,response,response_round,subtype,type,lexicalization,condition,premodifier_number,agreement
+Krainova_2023,Эта дюжина репортажей попала в газеты.,4.785714285714286,5.0,quantitative_nouns,stimul,31.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти дюжина коллег уходила в отпуск.,2.888888888888889,3.0,quantitative_nouns,stimul,15.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Оля обняла массу знакомых на мероприятием.,1.617283950617284,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Эти тысяча учеников отправилась на экзамен.,2.625,3.0,quantitative_nouns,stimul,2.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мой ряд клиентов торговали на бирже.,1.4285714285714286,1.0,quantitative_nouns,stimul,20.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои масса марок хранились в альбомах.,2.6666666666666665,3.0,quantitative_nouns,stimul,28.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча писем пришла в редакцию.,4.5,4.0,quantitative_nouns,stimul,30.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд клиентов торговал на бирже.,1.7,2.0,quantitative_nouns,stimul,20.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти тысяча писем пришли в редакцию.,3.333333333333333,3.0,quantitative_nouns,stimul,30.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина приятелей поднялась на Эверест.,3.2857142857142856,3.0,quantitative_nouns,stimul,27.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои куча выпускников поступали в университет.,1.8571428571428568,2.0,quantitative_nouns,stimul,32.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя масса репортажей попала в газеты.,2.888888888888889,3.0,quantitative_nouns,stimul,31.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд тем снялись с обсуждения.,3.375,3.0,quantitative_nouns,stimul,7.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мой ряд объявлений висели на сайте.,1.6428571428571428,2.0,quantitative_nouns,stimul,4.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот миллион пациентов выздоровел от инфекции.,3.1818181818181817,3.0,quantitative_nouns,stimul,12.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мой ряд преподавателей выступал за реформу.,2.4545454545454546,2.0,quantitative_nouns,stimul,10.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта дюжина просьб привели к отказу.,1.2727272727272727,1.0,quantitative_nouns,stimul,11.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои куча книг лежали на полу.,2.3,2.0,quantitative_nouns,stimul,19.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои множество поклонников приехали на встречу.,3.0,3.0,quantitative_nouns,stimul,14.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мой ряд правок остались без внимания.,1.7,2.0,quantitative_nouns,stimul,26.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Люди разделяют ряд мифов про магию.,4.853658536585366,5.0,good,filler,501.0,good,,
+Krainova_2023,Мои масса статей находилась на рецензировании.,1.7,2.0,quantitative_nouns,stimul,18.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти дюжина репортажей попала в газеты.,3.333333333333333,3.0,quantitative_nouns,stimul,31.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Поэт исписал тысячу листов в черновиках.,6.2,6.0,good,filler,501.0,good,,
+Krainova_2023,Мои куча однокурсников пошла в кино.,1.6666666666666667,2.0,quantitative_nouns,stimul,3.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Продавец обслужил множество покупателей в полдень.,6.764705882352941,7.0,good,filler,501.0,good,,
+Krainova_2023,Моё множество просьб привело к отказу.,3.8181818181818175,4.0,quantitative_nouns,stimul,11.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти миллион марок хранился в альбомах.,1.8,2.0,quantitative_nouns,stimul,28.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моё множество экземпляров продавались в магазинах.,2.4444444444444446,2.0,quantitative_nouns,stimul,8.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя куча трав хранились в гербарии.,2.5,2.0,quantitative_nouns,stimul,22.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество односельчан вступили в кооператив.,1.7,2.0,quantitative_nouns,stimul,17.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот десяток товарищей играл в баскетбол.,4.666666666666667,5.0,quantitative_nouns,stimul,25.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Этот миллион студентов выпустились из университета.,3.125,3.0,quantitative_nouns,stimul,24.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои множество экземпляров продавались в магазинах.,2.642857142857143,3.0,quantitative_nouns,stimul,8.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои масса статей находились на рецензировании.,2.555555555555556,3.0,quantitative_nouns,stimul,18.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот миллион объявлений висел на сайте.,4.454545454545454,4.0,quantitative_nouns,stimul,4.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество препаратов продавались по рецепту.,2.1,2.0,quantitative_nouns,stimul,1.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча писем пришли в редакцию.,1.7142857142857142,2.0,quantitative_nouns,stimul,30.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча трав хранилась в гербарии.,2.055555555555556,2.0,quantitative_nouns,stimul,22.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса друзей поехали за город.,1.5454545454545454,2.0,quantitative_nouns,stimul,5.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои ряд издателей экономил на бумаге.,1.0,1.0,quantitative_nouns,stimul,29.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Учитель заметил массу ошибок в эссе.,6.4125,6.0,good,filler,501.0,good,,
+Krainova_2023,Этот десяток вопросов поступили в разработку.,2.857142857142857,3.0,quantitative_nouns,stimul,13.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти миллион марок хранились в альбомах.,3.875,4.0,quantitative_nouns,stimul,28.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта дюжина последователей ошиблись в выводах.,1.5555555555555556,2.0,quantitative_nouns,stimul,23.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот миллион экземпляров продавались в магазинах.,2.555555555555556,3.0,quantitative_nouns,stimul,8.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя масса коллег уходила в отпуск.,2.375,2.0,quantitative_nouns,stimul,15.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса учеников отправились на экзамен.,1.7272727272727273,2.0,quantitative_nouns,stimul,2.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот десяток друзей поехал за город.,3.0,3.0,quantitative_nouns,stimul,5.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество писем пришли в редакцию.,3.625,4.0,quantitative_nouns,stimul,30.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча статей находилась на рецензировании.,2.0,2.0,quantitative_nouns,stimul,18.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моя куча песен играли на вечеринке.,1.5454545454545454,2.0,quantitative_nouns,stimul,9.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти миллион выпускников поступал в университет.,1.0909090909090908,1.0,quantitative_nouns,stimul,32.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса пациентов выздоровела от инфекции.,1.6666666666666667,2.0,quantitative_nouns,stimul,12.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои множество односельчан вступили в кооператив.,1.4,1.0,quantitative_nouns,stimul,17.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти тысяча поклонников приехали на встречу.,2.888888888888889,3.0,quantitative_nouns,stimul,14.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Ведущий познакомил большинство участниках с правилами.,1.475609756097561,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Мой ряд вопросов поступили в разработку.,1.6,2.0,quantitative_nouns,stimul,13.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот десяток препаратов продавались по рецепту.,3.8,4.0,quantitative_nouns,stimul,1.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои ряд объявлений висели на сайте.,1.75,2.0,quantitative_nouns,stimul,4.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот миллион объявлений висели на сайте.,2.090909090909091,2.0,quantitative_nouns,stimul,4.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот миллион студентов выпустился из университета.,4.8,5.0,quantitative_nouns,stimul,24.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд вопросов поступил в разработку.,1.5555555555555556,2.0,quantitative_nouns,stimul,13.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса цветов росли на даче.,1.5454545454545454,2.0,quantitative_nouns,stimul,21.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион рукописей хранились в библиотеке.,3.363636363636364,3.0,quantitative_nouns,stimul,16.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мой ряд тем снялись с обсуждения.,2.2,2.0,quantitative_nouns,stimul,7.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя масса марок хранилась в альбомах.,3.5,4.0,quantitative_nouns,stimul,28.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Парламент издал десяток поправок к законам.,5.8125,6.0,good,filler,501.0,good,,
+Krainova_2023,Мои масса коллег уходили в отпуск.,2.25,2.0,quantitative_nouns,stimul,15.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион студентов выпустились из университета.,3.363636363636364,3.0,quantitative_nouns,stimul,24.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя масса пациентов выздоровели от инфекции.,2.142857142857143,2.0,quantitative_nouns,stimul,12.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мой ряд клиентов торговал на бирже.,3.25,3.0,quantitative_nouns,stimul,20.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса репортажей попали в газеты.,1.6,2.0,quantitative_nouns,stimul,31.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мой ряд вопросов поступил в разработку.,3.7857142857142856,4.0,quantitative_nouns,stimul,13.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои масса коллег уходила в отпуск.,1.5454545454545454,2.0,quantitative_nouns,stimul,15.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои ряд тем снялся с обсуждения.,1.5454545454545454,2.0,quantitative_nouns,stimul,7.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Синоптики дали ряд прогнозов про шторме.,1.5802469135802468,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Активисты посадили миллион деревьев в лесах.,6.395061728395062,6.0,good,filler,501.0,good,,
+Krainova_2023,Официанты обслужили тысячу гостей на юбилеем.,1.475609756097561,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Мой ряд объявлений висел на сайте.,2.875,3.0,quantitative_nouns,stimul,4.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса цветов росли на даче.,1.3333333333333333,1.0,quantitative_nouns,stimul,21.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча писем пришла в редакцию.,1.9,2.0,quantitative_nouns,stimul,30.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта дюжина просьб привела к отказу.,5.222222222222222,5.0,quantitative_nouns,stimul,11.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса пациентов выздоровела от инфекции.,2.5,2.0,quantitative_nouns,stimul,12.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество поклонников приехало на встречу.,1.3636363636363635,1.0,quantitative_nouns,stimul,14.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион выпускников поступал в университет.,3.7777777777777777,4.0,quantitative_nouns,stimul,32.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мой ряд последователей ошиблись в выводах.,3.111111111111111,3.0,quantitative_nouns,stimul,23.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эта дюжина репортажей попали в газеты.,2.3,2.0,quantitative_nouns,stimul,31.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя масса статей находилась на рецензировании.,3.5454545454545454,4.0,quantitative_nouns,stimul,18.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество препаратов продавались по рецепту.,2.090909090909091,2.0,quantitative_nouns,stimul,1.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя куча однокурсников пошла в кино.,3.090909090909091,3.0,quantitative_nouns,stimul,3.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса статей находились на рецензировании.,2.5454545454545454,3.0,quantitative_nouns,stimul,18.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Шалфей лечит десяток болезней при заваривания.,1.5875,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Эти десяток односельчан вступил в кооператив.,1.2727272727272727,1.0,quantitative_nouns,stimul,17.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои куча однокурсников пошли в кино.,2.5,2.0,quantitative_nouns,stimul,3.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти десяток друзей поехали за город.,2.0,2.0,quantitative_nouns,stimul,5.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот миллион клиентов торговали на бирже.,1.9090909090909087,2.0,quantitative_nouns,stimul,20.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои куча рукописей хранилась в библиотеке.,3.125,3.0,quantitative_nouns,stimul,16.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса учеников отправилась на экзамен.,1.8888888888888888,2.0,quantitative_nouns,stimul,2.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти дюжина просьб привели к отказу.,1.8888888888888888,2.0,quantitative_nouns,stimul,11.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои куча заказчиков настаивали на рассрочке.,2.1818181818181817,2.0,quantitative_nouns,stimul,6.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот десяток друзей поехали за город.,2.0,2.0,quantitative_nouns,stimul,5.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Маша увидела массу детей на площадке.,5.65,6.0,good,filler,501.0,good,,
+Krainova_2023,Ректорат ввел ряд изменениях в студсовет.,1.5432098765432098,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Эти миллион пациентов выздоровели от инфекции.,3.6666666666666665,4.0,quantitative_nouns,stimul,12.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион объявлений висел на сайте.,1.9,2.0,quantitative_nouns,stimul,4.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моряки увидели миллион звезд на небе.,6.695121951219512,7.0,good,filler,501.0,good,,
+Krainova_2023,Моя масса коллег уходили в отпуск.,2.1,2.0,quantitative_nouns,stimul,15.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя куча рукописей хранилась в библиотеке.,5.888888888888889,6.0,quantitative_nouns,stimul,16.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти тысяча преподавателей выступала за реформу.,1.625,2.0,quantitative_nouns,stimul,10.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта дюжина однокурсников пошли в кино.,2.0,2.0,quantitative_nouns,stimul,3.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Стажер выполнил большинство задач по проекта.,1.654320987654321,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Эта тысяча заказчиков настаивала на рассрочке.,5.0,5.0,quantitative_nouns,stimul,6.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Петя прошёл кучу этапах в конкурсе.,1.271604938271605,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Мои ряд клиентов торговали на бирже.,2.0,2.0,quantitative_nouns,stimul,20.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти десяток песен играл на вечеринке.,1.818181818181818,2.0,quantitative_nouns,stimul,9.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта тысяча заказчиков настаивали на рассрочке.,2.571428571428572,3.0,quantitative_nouns,stimul,6.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя масса цветов росла на даче.,2.0,2.0,quantitative_nouns,stimul,21.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти дюжина книг лежали на полу.,1.8,2.0,quantitative_nouns,stimul,19.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Оркестр сыграл множество вальсов на концерте.,6.050632911392405,6.0,good,filler,501.0,good,,
+Krainova_2023,Мои масса цветов росла на даче.,1.4444444444444444,1.0,quantitative_nouns,stimul,21.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта дюжина тем снялись с обсуждения.,1.5,2.0,quantitative_nouns,stimul,7.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти дюжина тем снялась с обсуждения.,2.2222222222222223,2.0,quantitative_nouns,stimul,7.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моё множество писем пришла в редакцию.,1.2222222222222223,1.0,quantitative_nouns,stimul,30.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество студентов выпустилось из университета.,3.2,3.0,quantitative_nouns,stimul,24.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти десяток издателей экономил на бумаге.,2.2222222222222223,2.0,quantitative_nouns,stimul,29.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса марок хранилась в альбомах.,1.4,1.0,quantitative_nouns,stimul,28.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моя куча товарищей играли в баскетбол.,1.7272727272727273,2.0,quantitative_nouns,stimul,25.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои множество экземпляров продавался в магазинах.,1.5,2.0,quantitative_nouns,stimul,8.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Спутник сделал миллион кругах вокруг Земли.,1.1219512195121952,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Мой ряд последователей ошибся в выводах.,3.555555555555556,4.0,quantitative_nouns,stimul,23.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти миллион объявлений висели на сайте.,3.6666666666666665,4.0,quantitative_nouns,stimul,4.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча правок осталась без внимания.,6.7,7.0,quantitative_nouns,stimul,26.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество поклонников приехало на встречу.,3.3,3.0,quantitative_nouns,stimul,14.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти тысяча правок остались без внимания.,3.4615384615384617,3.0,quantitative_nouns,stimul,26.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча рукописей хранились в библиотеке.,2.4444444444444446,2.0,quantitative_nouns,stimul,16.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои масса учеников отправились на экзамен.,2.111111111111111,2.0,quantitative_nouns,stimul,2.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча книг лежали на полу.,1.75,2.0,quantitative_nouns,stimul,19.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моё множество приятелей поднялось на Эверест.,2.727272727272727,3.0,quantitative_nouns,stimul,27.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд правок остались без внимания.,2.888888888888889,3.0,quantitative_nouns,stimul,26.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча трав хранилась в гербарии.,3.523809523809524,4.0,quantitative_nouns,stimul,22.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Этот десяток издателей экономил на бумаге.,3.5454545454545454,4.0,quantitative_nouns,stimul,29.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои куча рукописей хранились в библиотеке.,2.142857142857143,2.0,quantitative_nouns,stimul,16.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта дюжина тем снялась с обсуждения.,3.071428571428572,3.0,quantitative_nouns,stimul,7.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта дюжина книг лежала на полу.,6.125,6.0,quantitative_nouns,stimul,19.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество студентов выпустились из университета.,2.7857142857142856,3.0,quantitative_nouns,stimul,24.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти тысяча учеников отправились на экзамен.,3.071428571428572,3.0,quantitative_nouns,stimul,2.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион рукописей хранился в библиотеке.,2.0,2.0,quantitative_nouns,stimul,16.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион пациентов выздоровели от инфекции.,2.2,2.0,quantitative_nouns,stimul,12.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча заказчиков настаивали на рассрочке.,3.333333333333333,3.0,quantitative_nouns,stimul,6.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча поклонников приехали на встречу.,2.2142857142857144,2.0,quantitative_nouns,stimul,14.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мой ряд издателей экономили на бумаге.,1.2,1.0,quantitative_nouns,stimul,29.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти десяток препаратов продавались по рецепту.,3.142857142857143,3.0,quantitative_nouns,stimul,1.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Дети съели кучу конфет на празднике.,6.5,6.0,good,filler,501.0,good,,
+Krainova_2023,Мои множество приятелей поднялось на Эверест.,2.0,2.0,quantitative_nouns,stimul,27.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти миллион экземпляров продавались в магазинах.,3.090909090909091,3.0,quantitative_nouns,stimul,8.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина однокурсников пошли в кино.,2.0,2.0,quantitative_nouns,stimul,3.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина просьб%09 привела к отказу.,2.636363636363636,3.0,quantitative_nouns,stimul,11.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти десяток односельчан вступили в кооператив.,2.7142857142857144,3.0,quantitative_nouns,stimul,17.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча песен играла на вечеринке.,2.6666666666666665,3.0,quantitative_nouns,stimul,9.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Вася покормил десяток птиц в парке.,5.962962962962963,6.0,good,filler,501.0,good,,
+Krainova_2023,Мои куча товарищей играли в баскетбол.,1.6,2.0,quantitative_nouns,stimul,25.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти тысяча заказчиков настаивала на рассрочке.,2.6,3.0,quantitative_nouns,stimul,6.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои множество односельчан вступило в кооператив.,2.071428571428572,2.0,quantitative_nouns,stimul,17.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Повар сварил дюжину яиц на завтрака.,1.5731707317073171,2.0,bad,filler,501.0,bad,,
+Krainova_2023,Этот десяток песен играли на вечеринке.,3.6666666666666665,4.0,quantitative_nouns,stimul,9.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эта дюжина приятелей поднялась на Эверест.,5.222222222222222,5.0,quantitative_nouns,stimul,27.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество просьб привели к отказу.,3.5,4.0,quantitative_nouns,stimul,11.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот десяток издателей экономили на бумаге.,2.0,2.0,quantitative_nouns,stimul,29.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моё множество препаратов продавалось по рецепту.,2.0,2.0,quantitative_nouns,stimul,1.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои масса репортажей попали в газеты.,2.625,3.0,quantitative_nouns,stimul,31.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои ряд вопросов поступили в разработку.,1.6363636363636365,2.0,quantitative_nouns,stimul,13.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя масса друзей поехали за город.,1.5,2.0,quantitative_nouns,stimul,5.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти десяток цветов рос на даче.,1.7777777777777777,2.0,quantitative_nouns,stimul,21.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мой ряд преподавателей выступали за реформу.,1.0909090909090908,1.0,quantitative_nouns,stimul,10.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти дюжина последователей ошиблась в выводах.,3.2222222222222223,3.0,quantitative_nouns,stimul,23.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Катя нашла массу недостатках в учебе.,1.4197530864197532,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Врач осмотрел кучу больных на приёма.,1.4146341463414631,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Эта тысяча преподавателей выступала за реформу.,6.111111111111111,6.0,quantitative_nouns,stimul,10.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти десяток издателей экономили на бумаге.,2.5,2.0,quantitative_nouns,stimul,29.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои множество писем пришла в редакцию.,1.0909090909090908,1.0,quantitative_nouns,stimul,30.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти миллион клиентов торговал на бирже.,1.1111111111111112,1.0,quantitative_nouns,stimul,20.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти десяток песен играли на вечеринке.,3.125,3.0,quantitative_nouns,stimul,9.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина последователей ошиблись в выводах.,1.818181818181818,2.0,quantitative_nouns,stimul,23.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина книг лежала на полу.,2.071428571428572,2.0,quantitative_nouns,stimul,19.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот десяток односельчан вступил в кооператив.,5.125,5.0,quantitative_nouns,stimul,17.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта тысяча статей находились на рецензировании.,2.555555555555556,3.0,quantitative_nouns,stimul,18.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча поклонников приехало на встречу.,2.0,2.0,quantitative_nouns,stimul,14.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои куча книг лежала на полу.,2.111111111111111,2.0,quantitative_nouns,stimul,19.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион рукописей хранился в библиотеке.,5.2,5.0,quantitative_nouns,stimul,16.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти десяток вопросов поступил в разработку.,2.2222222222222223,2.0,quantitative_nouns,stimul,13.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Ученые представили ряд феноменов для исследования.,6.271604938271605,6.0,good,filler,501.0,good,,
+Krainova_2023,Моя масса учеников отправилась на экзамен.,3.090909090909091,3.0,quantitative_nouns,stimul,2.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя масса друзей поехала за город.,2.0,2.0,quantitative_nouns,stimul,5.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моя куча товарищей играла в баскетбол.,4.5,4.0,quantitative_nouns,stimul,25.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Этот миллион клиентов торговал на бирже.,3.1818181818181817,3.0,quantitative_nouns,stimul,20.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти десяток цветов росли на даче.,1.7,2.0,quantitative_nouns,stimul,21.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот десяток песен играл на вечеринке.,4.222222222222222,4.0,quantitative_nouns,stimul,9.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои куча трав хранилась в гербарии.,1.5454545454545454,2.0,quantitative_nouns,stimul,22.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта дюжина последователей ошиблась в выводах.,4.5,4.0,quantitative_nouns,stimul,23.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта дюжина приятелей поднялись на Эверест.,2.0,2.0,quantitative_nouns,stimul,27.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои куча песен играла на вечеринке.,1.6428571428571428,2.0,quantitative_nouns,stimul,9.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти дюжина приятелей поднялись на Эверест.,1.8,2.0,quantitative_nouns,stimul,27.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моё множество экземпляров продавалось в магазинах.,3.8,4.0,quantitative_nouns,stimul,8.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мой ряд правок остался без внимания.,4.0,4.0,quantitative_nouns,stimul,26.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта тысяча учеников отправилась на экзамен.,5.2,5.0,quantitative_nouns,stimul,2.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество просьб привело к отказу.,2.0,2.0,quantitative_nouns,stimul,11.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти десяток товарищей играл в баскетбол.,1.181818181818182,1.0,quantitative_nouns,stimul,25.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои куча товарищей играл в баскетбол.,1.25,1.0,quantitative_nouns,stimul,25.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моё множество поклонников приехали на встречу.,3.333333333333333,3.0,quantitative_nouns,stimul,14.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Ваня купил дюжину крысах для опытов.,1.1829268292682926,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Моя куча товарищей играл в баскетбол.,1.0,1.0,quantitative_nouns,stimul,25.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эти дюжина тем снялись с обсуждения.,1.818181818181818,2.0,quantitative_nouns,stimul,7.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Этот миллион марок хранился в альбомах.,4.545454545454546,5.0,quantitative_nouns,stimul,28.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мой ряд издателей экономил на бумаге.,2.5384615384615383,3.0,quantitative_nouns,stimul,29.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта тысяча статей находилась на рецензировании.,6.4,6.0,quantitative_nouns,stimul,18.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Пара позвала тысячу человек на свадьбу.,6.271604938271605,6.0,good,filler,501.0,good,,
+Krainova_2023,Моё множество приятелей поднялись на Эверест.,2.125,2.0,quantitative_nouns,stimul,27.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эта дюжина книг лежали на полу.,1.4545454545454546,1.0,quantitative_nouns,stimul,19.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моя куча книг лежала на полу.,4.727272727272728,5.0,quantitative_nouns,stimul,19.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество приятелей поднялись на Эверест.,3.2,3.0,quantitative_nouns,stimul,27.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча однокурсников пошли в кино.,1.7142857142857142,2.0,quantitative_nouns,stimul,3.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти тысяча преподавателей выступали за реформу.,3.071428571428572,3.0,quantitative_nouns,stimul,10.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион экземпляров продавалось в магазинах.,1.9090909090909087,2.0,quantitative_nouns,stimul,8.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион рукописей хранились в библиотеке.,3.0,3.0,quantitative_nouns,stimul,16.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эта тысяча поклонников приехала на встречу.,4.5,4.0,quantitative_nouns,stimul,14.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд последователей ошибся в выводах.,1.0909090909090908,1.0,quantitative_nouns,stimul,23.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти десяток вопросов поступили в разработку.,2.3,2.0,quantitative_nouns,stimul,13.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои множество препаратов продавалось по рецепту.,1.9285714285714288,2.0,quantitative_nouns,stimul,1.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион выпускников поступали в университет.,2.25,2.0,quantitative_nouns,stimul,32.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот десяток товарищей играли в баскетбол.,2.7,3.0,quantitative_nouns,stimul,25.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Моё множество односельчан вступило в кооператив.,3.2222222222222223,3.0,quantitative_nouns,stimul,17.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд объявлений висел на сайте.,1.8,2.0,quantitative_nouns,stimul,4.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти миллион пациентов выздоровел от инфекции.,2.7777777777777777,3.0,quantitative_nouns,stimul,12.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эта тысяча преподавателей выступали за реформу.,4.428571428571429,4.0,quantitative_nouns,stimul,10.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эта дюжина коллег уходила в отпуск.,3.142857142857143,3.0,quantitative_nouns,stimul,15.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта дюжина однокурсников пошла в кино.,4.444444444444445,4.0,quantitative_nouns,stimul,3.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Фермер убил дюжину коз для продажи.,6.296296296296297,6.0,good,filler,501.0,good,,
+Krainova_2023,Эти десяток друзей поехал за город.,1.875,2.0,quantitative_nouns,stimul,5.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти тысяча статей находились на рецензировании.,2.5,2.0,quantitative_nouns,stimul,18.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти миллион выпускников поступали в университет.,3.636363636363636,4.0,quantitative_nouns,stimul,32.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Грибы имеют тысячу корнях под землёй.,1.2592592592592593,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Эта дюжина коллег уходили в отпуск.,1.6,2.0,quantitative_nouns,stimul,15.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти миллион студентов выпустился из университета.,1.7272727272727273,2.0,quantitative_nouns,stimul,24.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти миллион клиентов торговали на бирже.,4.0,4.0,quantitative_nouns,stimul,20.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои куча выпускников поступала в университет.,1.375,1.0,quantitative_nouns,stimul,32.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои куча товарищей играла в баскетбол.,1.8,2.0,quantitative_nouns,stimul,25.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион марок хранились в альбомах.,1.6363636363636365,2.0,quantitative_nouns,stimul,28.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Эти дюжина просьб%09привела к отказу.,2.6666666666666665,3.0,quantitative_nouns,stimul,11.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот миллион экземпляров продавался в магазинах.,4.5,4.0,quantitative_nouns,stimul,8.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои куча песен играли на вечеринке.,2.4,2.0,quantitative_nouns,stimul,9.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина репортажей попали в газеты.,2.090909090909091,2.0,quantitative_nouns,stimul,31.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Мои ряд последователей ошиблись в выводах.,3.0,3.0,quantitative_nouns,stimul,23.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя масса марок хранились в альбомах.,2.142857142857143,2.0,quantitative_nouns,stimul,28.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои масса друзей поехала за город.,1.4444444444444444,1.0,quantitative_nouns,stimul,5.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот десяток препаратов продавался по рецепту.,5.0,5.0,quantitative_nouns,stimul,1.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество просьб привели к отказу.,2.75,3.0,quantitative_nouns,stimul,11.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Биолог поймал кучу бабочек в поле.,6.243902439024391,6.0,good,filler,501.0,good,,
+Krainova_2023,Моя куча заказчиков настаивала на рассрочке.,3.7,4.0,quantitative_nouns,stimul,6.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Продавец обслужил множество покупателей в субботу.,6.476923076923077,6.0,good,filler,501.0,good,,
+Krainova_2023,Этот десяток вопросов поступил в разработку.,5.363636363636363,5.0,quantitative_nouns,stimul,13.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои ряд преподавателей выступал за реформу.,1.8,2.0,quantitative_nouns,stimul,10.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои ряд издателей экономили на бумаге.,1.3636363636363635,1.0,quantitative_nouns,stimul,29.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина коллег уходили в отпуск.,1.9090909090909087,2.0,quantitative_nouns,stimul,15.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча выпускников поступали в университет.,2.555555555555556,3.0,quantitative_nouns,stimul,32.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои куча заказчиков настаивала на рассрочке.,1.2727272727272727,1.0,quantitative_nouns,stimul,6.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти тысяча правок осталась без внимания.,2.0,2.0,quantitative_nouns,stimul,26.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Эти десяток товарищей играли в баскетбол.,2.0,2.0,quantitative_nouns,stimul,25.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Моя куча выпускников поступала в университет.,2.6666666666666665,3.0,quantitative_nouns,stimul,32.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Эта тысяча преподавателей выступалиЭти тысяча заказчиков настаивали на рассрочке за реформу.,1.0,1.0,quantitative_nouns,stimul,10.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои ряд правок остался без внимания.,1.0,1.0,quantitative_nouns,stimul,26.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои ряд преподавателей выступали за реформу.,2.5,2.0,quantitative_nouns,stimul,10.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эта тысяча правок остались без внимания.,2.7777777777777777,3.0,quantitative_nouns,stimul,26.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Этот десяток односельчан вступили в кооператив.,3.2,3.0,quantitative_nouns,stimul,17.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Леня увидел десяток актрисах в Голливуде.,1.170731707317073,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Мои масса репортажей попала в газеты.,1.6363636363636365,2.0,quantitative_nouns,stimul,31.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мои масса пациентов выздоровели от инфекции.,1.2857142857142858,1.0,quantitative_nouns,stimul,12.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти дюжина однокурсников пошла в кино.,2.0,2.0,quantitative_nouns,stimul,3.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Моя куча заказчиков настаивали на рассрочке.,3.0,3.0,quantitative_nouns,stimul,6.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Мои множество студентов выпустилось из университета.,1.5,2.0,quantitative_nouns,stimul,24.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Мой ряд тем снялся с обсуждения.,3.125,3.0,quantitative_nouns,stimul,7.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Моё множество студентов выпустились из университета.,2.555555555555556,3.0,quantitative_nouns,stimul,24.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Профессор похвалил дюжину студентов за старание.,5.829268292682927,6.0,good,filler,501.0,good,,
+Krainova_2023,Этот десяток цветов рос на даче.,4.2727272727272725,4.0,quantitative_nouns,stimul,21.0,"singular premodifier, singular verb",singular premodifier,singular verb
+Krainova_2023,Мои множество писем пришли в редакцию.,2.909090909090909,3.0,quantitative_nouns,stimul,30.0,"plural premodifier, plural verb",plural premodifier,plural verb
+Krainova_2023,Эти десяток препаратов продавался по рецепту.,1.2,1.0,quantitative_nouns,stimul,1.0,"plural premodifier, singular verb",plural premodifier,singular verb
+Krainova_2023,Этот десяток цветов росли на даче.,2.75,3.0,quantitative_nouns,stimul,21.0,"singular premodifier, plural verb",singular premodifier,plural verb
+Krainova_2023,Фильм покорил миллион зрителей после премьере.,1.3902439024390243,1.0,bad,filler,501.0,bad,,
+Krainova_2023,Эта тысяча учеников отправились на экзамен.,2.333333333333333,2.0,quantitative_nouns,stimul,2.0,"singular premodifier, plural verb",singular premodifier,plural verb
