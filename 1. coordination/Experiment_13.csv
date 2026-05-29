@@ -1,0 +1,97 @@
+author,sentence,response,sentence_id,lexicalization,number,morphology,subtype,type,response_round,condition
+Studenikina_2022,Электронные и механические весы различались в показаниях.,5.942857142857143,19,32,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Старший и младший братья родились в сентябре.,5.5,29,41,plural,stem,coordination,stimul,6.0,"plural, stem"
+Studenikina_2022,Морская и сухопутная пехота перешли в наступление.,5.694444444444445,3,16,singular,gap,coordination,stimul,6.0,"singular, gap"
+Studenikina_2022,Близкая и дальняя родня приехали на свадьбу.,5.685714285714286,7,20,singular,gap,coordination,stimul,6.0,"singular, gap"
+Studenikina_2022,Короткий и длинный шланг запутались между собой.,5.457142857142857,32,27,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Грузовой и легковой автомобили остановились на перекрестке.,5.888888888888889,24,19,plural,regular,coordination,stimul,6.0,"plural, regular"
+Studenikina_2022,Короткий и длинный шланги запутались между собой.,4.972222222222222,32,27,plural,regular,coordination,stimul,5.0,"plural, regular"
+Studenikina_2022,Высокий и низкий человек перебежали через дорогу.,5.171428571428572,1,13,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Детские и взрослые очки выпали из рюкзака.,5.857142857142857,7,20,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Тканевый и резиновый шланг лопнули от давления.,5.171428571428572,16,43,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Пьяный и трезвый англичане поспорили на деньги.,5.4,14,42,plural,suffix,coordination,stimul,5.0,"plural, suffix"
+Studenikina_2022,Гоночный и раритетный автомобиль победили на выставке.,4.857142857142857,8,35,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Пьяный и трезвый англичанин поспорили на деньги.,4.833333333333333,14,42,singular,suffix,coordination,stimul,5.0,"singular, suffix"
+Studenikina_2022,Усидчивый и подвижный дети сыграли в шахматы.,2.611111111111111,9,21,plural,stem,coordination,stimul,3.0,"plural, stem"
+Studenikina_2022,Веселый и угрюмый друзья созвонились по телефону.,2.861111111111111,21,33,plural,stem,coordination,stimul,3.0,"plural, stem"
+Studenikina_2022,Высокий и низкий люди перебежали через дорогу.,2.4166666666666665,1,13,plural,stem,coordination,stimul,2.0,"plural, stem"
+Studenikina_2022,Мотострелковая и воздушная пехота двинулись в атаку.,5.416666666666667,19,32,singular,gap,coordination,stimul,5.0,"singular, gap"
+Studenikina_2022,Испанский и немецкий друг прилетели на каникулы.,4.542857142857143,5,17,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Сельская и городская родня собрались на юбилее.,5.888888888888889,23,36,singular,gap,coordination,stimul,6.0,"singular, gap"
+Studenikina_2022,Родной и сводный брат поступили в институт.,4.971428571428572,13,25,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Бурый и белый медвежата адаптировались в зоопарке.,5.764705882352941,26,22,plural,suffix,coordination,stimul,6.0,"plural, suffix"
+Studenikina_2022,Неумелый и опытный люди стушевались перед камерой.,2.4722222222222223,17,29,plural,stem,coordination,stimul,2.0,"plural, stem"
+Studenikina_2022,Ловкий и неуклюжий медвежонок залезли на дерево.,4.085714285714285,10,38,singular,suffix,coordination,stimul,4.0,"singular, suffix"
+Studenikina_2022,Нарядные и повседневные брюки сели по фигуре.,5.181818181818182,11,24,plural,gap,coordination,stimul,5.0,"plural, gap"
+Studenikina_2022,Ловкий и неуклюжий медвежата залезли на дерево.,4.676470588235294,10,38,plural,suffix,coordination,stimul,5.0,"plural, suffix"
+Studenikina_2022,Хлопковые и замшевые брюки протерлись на коленках.,5.6571428571428575,27,40,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Иногородняя и местная интеллигенция побывали на собрании.,4.944444444444445,15,28,singular,gap,coordination,stimul,5.0,"singular, gap"
+Studenikina_2022,Грузовой и легковой автомобиль остановились на перекрестке.,5.342857142857143,24,19,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Старший и младший брат родились в сентябре.,5.542857142857143,29,41,singular,stem,coordination,stimul,6.0,"singular, stem"
+Studenikina_2022,Усидчивый и подвижный ребенок сыграли в шахматы.,5.0,9,21,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Женатый и холостой крестьянин отправились на заработки.,4.628571428571429,22,18,singular,suffix,coordination,stimul,5.0,"singular, suffix"
+Studenikina_2022,Большие и маленькие очки завалились под кровать.,6.057142857142857,23,36,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Медлительный и шустрый студенты подготовились к экзамену.,3.8333333333333335,28,23,plural,regular,coordination,stimul,4.0,"plural, regular"
+Studenikina_2022,Веселый и угрюмый друг созвонились по телефону.,4.771428571428571,21,33,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Собственный и приемный дети отличились на соревнованиях.,3.1666666666666665,25,37,plural,stem,coordination,stimul,3.0,"plural, stem"
+Studenikina_2022,Бурый и белый медвежонок адаптировались в зоопарке.,5.0,26,22,singular,suffix,coordination,stimul,5.0,"singular, suffix"
+Studenikina_2022,Поморский и крымский крестьянин выросли на побережье.,4.083333333333333,6,34,singular,suffix,coordination,stimul,4.0,"singular, suffix"
+Studenikina_2022,Парикмахерские и маникюрные ножницы потерялись в шкафу.,6.057142857142857,31,44,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Неумелый и опытный человек стушевались перед камерой.,4.8,17,29,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Провинциальный и столичный преподаватели устроились в школу.,4.583333333333333,20,15,plural,regular,coordination,stimul,5.0,"plural, regular"
+Studenikina_2022,Напольные и настольные весы вышли из строя.,5.8,3,16,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Провинциальный и столичный преподаватель устроились в школу.,4.542857142857143,20,15,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Поморский и крымский крестьяне выросли на побережье.,4.441176470588236,6,34,plural,suffix,coordination,stimul,4.0,"plural, suffix"
+Studenikina_2022,Собственный и приемный ребенок отличились на соревнованиях.,5.085714285714285,25,37,singular,stem,coordination,stimul,5.0,"singular, stem"
+Studenikina_2022,Пожилой и молодой преподаватель вошли в аудиторию.,5.142857142857143,4,31,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Творческая и научная молодежь спели на празднике.,5.027777777777778,11,24,singular,gap,coordination,stimul,5.0,"singular, gap"
+Studenikina_2022,Пожилой и молодой преподаватели вошли в аудиторию.,5.388888888888889,4,31,plural,regular,coordination,stimul,5.0,"plural, regular"
+Studenikina_2022,Учащаяся и рабочая молодежь соревновались в беге.,5.6,27,40,singular,gap,coordination,stimul,6.0,"singular, gap"
+Studenikina_2022,Полосатый и пятнистый котенок замяукали в корзинке.,4.333333333333333,2,30,singular,suffix,coordination,stimul,4.0,"singular, suffix"
+Studenikina_2022,Талантливый и посредственный студент ответили у доски.,4.514285714285714,12,39,singular,regular,coordination,stimul,5.0,"singular, regular"
+Studenikina_2022,Медлительный и шустрый студент подготовились к экзамену.,4.352941176470588,28,23,singular,regular,coordination,stimul,4.0,"singular, regular"
+Studenikina_2022,Испанский и немецкий друзья прилетели на каникулы.,2.9166666666666665,5,17,plural,stem,coordination,stimul,3.0,"plural, stem"
+Studenikina_2022,Бодрый и усталый англичане встретились на чаепитии.,4.393939393939394,30,26,plural,suffix,coordination,stimul,4.0,"plural, suffix"
+Studenikina_2022,Дворовый и породистый котята погнались за щенком.,3.6666666666666665,18,14,plural,suffix,coordination,stimul,4.0,"plural, suffix"
+Studenikina_2022,Бодрый и усталый англичанин встретились на чаепитии.,4.228571428571429,30,26,singular,suffix,coordination,stimul,4.0,"singular, suffix"
+Studenikina_2022,Женатый и холостой крестьяне отправились на заработки.,4.371428571428571,22,18,plural,suffix,coordination,stimul,4.0,"plural, suffix"
+Studenikina_2022,Слесарные и садовые ножницы подорожали в магазине.,6.371428571428571,15,28,plural,gap,coordination,stimul,6.0,"plural, gap"
+Studenikina_2022,Тканевый и резиновый шланги лопнули от давления.,5.75,16,43,plural,regular,coordination,stimul,6.0,"plural, regular"
+Studenikina_2022,Талантливый и посредственный студенты ответили у доски.,4.0,12,39,plural,regular,coordination,stimul,4.0,"plural, regular"
+Studenikina_2022,Дворовый и породистый котенок погнались за щенком.,3.8,18,14,singular,suffix,coordination,stimul,4.0,"singular, suffix"
+Studenikina_2022,Полосатый и пятнистый котята замяукали в корзинке.,5.571428571428571,2,30,plural,suffix,coordination,stimul,6.0,"plural, suffix"
+Studenikina_2022,Родной и сводный братья поступили в институт.,4.694444444444445,13,25,plural,stem,coordination,stimul,5.0,"plural, stem"
+Studenikina_2022,Гоночный и раритетный автомобили победили на выставке.,4.916666666666667,8,35,plural,regular,coordination,stimul,5.0,"plural, regular"
+Studenikina_2022,Нижегородская и псковская интеллигенция подружились на форуме.,5.694444444444445,31,44,singular,gap,coordination,stimul,6.0,"singular, gap"
+Studenikina_2022,Табачный дым и чад распространились по комнате.,5.871428571428571,4,48,,,good,filler,6.0,good
+Studenikina_2022,Старенькая переносная телевизор показал юмористическую передачу.,2.140845070422535,15,75,,,bad,filler,2.0,bad
+Studenikina_2022,Слабый восточный ветер нагнал густой туман.,6.628571428571429,1,45,,,good,filler,7.0,good
+Studenikina_2022,Литературный институту и библиотеке разместились в музее.,2.267605633802817,10,70,,,bad,filler,2.0,bad
+Studenikina_2022,Разведочное бурению и добыче ведутся в море.,2.242857142857143,6,50,,,bad,filler,2.0,bad
+Studenikina_2022,Внешний вид и самоуверенность подействовали на жюри.,6.214285714285714,4,64,,,good,filler,6.0,good
+Studenikina_2022,Почтовое отделение и радиоузел расположились около вышки.,6.208955223880597,8,52,,,good,filler,6.0,good
+Studenikina_2022,Ботанический саду и парку протянулись по склону.,2.128571428571429,14,74,,,bad,filler,2.0,bad
+Studenikina_2022,Известный общественный деятель получил широкое признание.,6.450704225352113,13,73,,,good,filler,6.0,good
+Studenikina_2022,Новосибирское книжное издательство открыло новый магазин.,6.676056338028169,9,69,,,good,filler,7.0,good
+Studenikina_2022,Молодой возлюбленный пара устроила поспешную свадьбу.,2.0,3,63,,,bad,filler,2.0,bad
+Studenikina_2022,Мировая химическая промышленность пережила бурный рост.,6.408450704225352,1,61,,,good,filler,6.0,good
+Studenikina_2022,Парижский национальный опера открыла новый сезон.,2.7,3,47,,,bad,filler,3.0,bad
+Studenikina_2022,Московская государственная университет организовал летнюю школу.,2.323943661971831,15,59,,,bad,filler,2.0,bad
+Studenikina_2022,Городская вечерняя газета напечатала скандальную статью.,6.408450704225352,9,53,,,good,filler,6.0,good
+Studenikina_2022,Веселое румяное лицо приняло задумчивое выражение.,5.71830985915493,5,49,,,good,filler,6.0,good
+Studenikina_2022,Звонкий девчачий голосок запел протяжную мелодию.,6.028169014084507,13,57,,,good,filler,6.0,good
+Studenikina_2022,Главный редактор и издатель сошлись во мнении.,6.549295774647887,16,76,,,good,filler,7.0,good
+Studenikina_2022,Громкая женская голос прервал общее оживление.,2.0985915492957745,11,71,,,bad,filler,2.0,bad
+Studenikina_2022,Массивная золотая пояс подчеркнул тонкую талию.,1.7887323943661972,7,67,,,bad,filler,2.0,bad
+Studenikina_2022,Тихий свежий погода предвещала хорошее утро.,2.0,11,55,,,bad,filler,2.0,bad
+Studenikina_2022,Эмоциональный подъему и силе прозвучали в музыке.,1.971830985915493,10,54,,,bad,filler,2.0,bad
+Studenikina_2022,Опытный судебный медик опубликовал научную работу.,6.428571428571429,5,65,,,good,filler,6.0,good
+Studenikina_2022,Морской офицеру и инженеру склонились над чертежом.,1.887323943661972,2,46,,,bad,filler,2.0,bad
+Studenikina_2022,Электрический чайник и посудомойка зашумели на кухне.,6.338028169014085,16,60,,,good,filler,6.0,good
+Studenikina_2022,Молодой паренёк и старушка зашли в магазин.,6.492957746478873,12,56,,,good,filler,6.0,good
+Studenikina_2022,Национальный духу и идее отразились в философии.,2.507042253521127,14,58,,,bad,filler,3.0,bad
+Studenikina_2022,Легкий испуг и удивление отобразились на лице.,6.492957746478873,12,72,,,good,filler,6.0,good
+Studenikina_2022,Почетный караулу и оркестру выстроились на причале.,2.197183098591549,6,66,,,bad,filler,2.0,bad
+Studenikina_2022,Новая подвижная состав прошел значительную модернизацию.,2.2285714285714286,7,51,,,bad,filler,2.0,bad
+Studenikina_2022,Уличное собранию и митингу переросли в беспорядки.,2.014084507042253,2,62,,,bad,filler,2.0,bad
+Studenikina_2022,Цементный раствор и щебень пригодились при строительстве.,6.394366197183099,8,68,,,good,filler,6.0,good
